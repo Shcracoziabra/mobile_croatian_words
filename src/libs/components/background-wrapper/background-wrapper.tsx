@@ -2,33 +2,41 @@ import React from 'react';
 
 import {
 	Image,
-	SafeAreaView,
-	ScrollView,
-	StatusBar,
-	Text,
 	View,
 } from '~/libs/components/components';
 
-import { type ImageSourcePropType } from '~/libs/types/types';
+import { type ImageSourcePropType, type ValueOf } from '~/libs/types/types';
 
 import { styles } from './styles';
+import { globalStyles } from '~/libs/styles/styles';
+import { BaseColor } from '~/libs/enums/enums';
 
-const BackgroundWrapper: React.FC = () => {
+type Properties = {
+	children: React.ReactNode,
+	imageSource?: ImageSourcePropType,
+	filterColor?: ValueOf<typeof BaseColor>,
+}
+
+const defaultImageSource = require('~/assets/backgrounds/main-bg.png') as ImageSourcePropType;
+
+const BackgroundWrapper: React.FC<Properties> = ({children, imageSource, filterColor}) => {
+	const backgroundImageSource = imageSource || defaultImageSource;
+
 	return (
-		<View style={styles.wrapper}>
+		<View style={globalStyles.flex1}>
 			<Image
 				resizeMode='cover'
-				source={
-					require('~/assets/backgrounds/main-bg.png') as ImageSourcePropType
-				}
-				style={styles.image}
+				source={backgroundImageSource}
+				style={styles.absoluteCover}
 			/>
-			<SafeAreaView style={styles.container}>
-				<StatusBar barStyle='light-content' />
-				<ScrollView contentInsetAdjustmentBehavior='automatic'>
-					<Text>This is a test text</Text>
-				</ScrollView>
-			</SafeAreaView>
+			{ filterColor && (<View
+						style={[
+							styles.absoluteCover,
+							{ backgroundColor: filterColor },
+						]}
+					/>
+				)}
+				{children}
 		</View>
 	);
 };
