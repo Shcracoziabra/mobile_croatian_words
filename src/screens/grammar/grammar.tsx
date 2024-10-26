@@ -1,20 +1,30 @@
 import React from 'react';
 
-import { BackgroundWrapper, ScreenWrapper, View, Text } from '~/libs/components/components';
+import {
+	BackgroundWrapper,
+	ScreenWrapper,
+	View,
+	Text,
+} from '~/libs/components/components';
 import { BaseColor } from '~/libs/enums/enums';
-
 import { globalStyles } from '~/libs/styles/styles';
-import { type ImageSourcePropType } from '~/libs/types/types';
 
 const Grammar: React.FC = () => {
-	const backgroundImageSource = require('~/assets/backgrounds/story_8.png') as ImageSourcePropType;
-
 	return (
-		<BackgroundWrapper imageSource={backgroundImageSource} filterColor={BaseColor.TRANSPARENT_BROWN}>
+		<BackgroundWrapper filterColor={BaseColor.TRANSPARENT_BROWN}>
 			<ScreenWrapper>
-			<View style={[globalStyles. flex1, globalStyles.gap16, globalStyles.alignItemsCenter, globalStyles.justifyContentCenter, globalStyles.p16]}>
-				<Text>Grammar</Text>
-			</View>
+				<View
+					style={[
+						globalStyles.alignItemsCenter,
+						globalStyles.justifyContentCenter,
+						globalStyles.p16,
+						globalStyles.lightOrange,
+					]}
+				>
+					<Text color={BaseColor.DARK_BROWN}>
+						Розділ граматики в розробці...
+					</Text>
+				</View>
 			</ScreenWrapper>
 		</BackgroundWrapper>
 	);

@@ -1,6 +1,7 @@
 import { Spacing } from './spacing';
 
 const Padding = {
+	p2: { padding: Spacing.xxs },
 	p8: { padding: Spacing.xs },
 	p12: { padding: Spacing.sm },
 	p16: { padding: Spacing.md },

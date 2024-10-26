@@ -1,5 +1,4 @@
 import React from 'react';
-
 import { type Edge, useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { View } from '~/libs/components/components';

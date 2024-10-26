@@ -17,8 +17,14 @@ const BackgroundColor = StyleSheet.create({
 	lightOrange: {
 		backgroundColor: BaseColor.LIGHT_ORANGE,
 	},
+	transparentBrown: {
+		backgroundColor: BaseColor.TRANSPARENT_BROWN,
+	},
 	transparentGray: {
 		backgroundColor: BaseColor.TRANSPARENT_GRAY,
+	},
+	transparentGreen: {
+		backgroundColor: BaseColor.TRANSPARENT_GREEN,
 	},
 	white: {
 		backgroundColor: BaseColor.WHITE,

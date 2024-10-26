@@ -1,1 +1,1 @@
-export { EdgeDirection } from "./edge-direction.enum";
+export { EdgeDirection } from './edge-direction.enum';

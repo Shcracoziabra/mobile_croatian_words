@@ -1,6 +1,5 @@
+import { fontWeightToFamily, sizeToTextStyle } from '~/libs/maps/maps';
 import { type StyleProp, type TextStyle } from '~/libs/types/types';
-
-import { fontWeightToFamily, sizeToTextStyle } from '../maps';
 
 type Preset =
 	| 'default'

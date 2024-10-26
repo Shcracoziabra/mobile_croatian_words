@@ -1,4 +1,4 @@
-type AdjectiveDataItem = 	{
+type AdjectiveDataItem = {
 	exampleSentence: string;
 	feminine: string;
 	maskuline: string;

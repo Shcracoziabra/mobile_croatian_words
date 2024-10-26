@@ -1,11 +1,10 @@
 const RootScreenName = {
-	ADJECTIVE: 'Adjective',
-	GAME: 'Game',
 	GRAMMAR: 'Grammar',
 	HOME: 'Home',
-	NOUN: 'Noun',
+	WORD_NUMBERS_LIST: 'WordNumbersList',
+	TALES_LIST: 'TalesList',
 	TALE: 'Tale',
-	VERB: 'Verb',
+	WORD_CARDS: 'WordCards',
 } as const;
 
 export { RootScreenName };

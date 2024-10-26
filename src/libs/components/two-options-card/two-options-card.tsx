@@ -5,7 +5,7 @@ import { BaseColor } from '~/libs/enums/enums';
 import { globalStyles } from '~/libs/styles/styles';
 import { type StyleProp, type ViewStyle } from '~/libs/types/types';
 
-type Properties =  {
+type Properties = {
 	addedStyles?: StyleProp<ViewStyle>;
 	cardCount: string;
 	children: React.ReactNode;
@@ -13,69 +13,90 @@ type Properties =  {
 	onNoButtonPress: () => void;
 	onYesButtonPress: () => void;
 	yesButtonLabel: string;
-}
+};
 
-
-const TwoOptionsCard: React.FC<Properties> = ({ addedStyles, children, noButtonLabel, onNoButtonPress, onYesButtonPress, yesButtonLabel }) => {
-  return (
-    <View style={[
-			globalStyles.flexGrow1,
-			globalStyles.fullWidth,
-			globalStyles.r16,
-			globalStyles.lightOrange,
-			addedStyles,
-		]}>
-			<View style={[
-			globalStyles.flexGrow1,
-			globalStyles.alignItemsCenter,
-			globalStyles.justifyContentCenter,
-		]}>
-			{children}
+const TwoOptionsCard: React.FC<Properties> = ({
+	addedStyles,
+	children,
+	noButtonLabel,
+	onNoButtonPress,
+	onYesButtonPress,
+	yesButtonLabel,
+}) => {
+	return (
+		<View
+			style={[
+				globalStyles.r16,
+				globalStyles.fullWidth,
+				globalStyles.boxShadow,
+				addedStyles,
+			]}
+		>
+			<View
+				style={[
+					globalStyles.rt16,
+					globalStyles.flexGrow1,
+					globalStyles.alignItemsCenter,
+					globalStyles.justifyContentCenter,
+					globalStyles.lightOrange,
+				]}
+			>
+				{children}
 			</View>
-			<View style={[globalStyles.flex1, globalStyles.flexGrow1, globalStyles.flexDirectionRow]}>
+			<View
+				style={[
+					globalStyles.flex1,
+					globalStyles.flexGrow1,
+					globalStyles.flexDirectionRow,
+				]}
+			>
 				<Pressable onPress={onNoButtonPress} style={globalStyles.flex1}>
-					{
-						({ pressed}) => {
-							const wrongBackgroundColorStyle = pressed ? globalStyles.white : globalStyles.green;
-							const textColor = pressed ? BaseColor.DARK_BROWN : BaseColor.WHITE;
-							return (
-								<View style={[
+					{({ pressed }) => {
+						const wrongBackgroundColorStyle = pressed
+							? globalStyles.white
+							: globalStyles.green;
+						const textColor = pressed ? BaseColor.DARK_BROWN : BaseColor.WHITE;
+						return (
+							<View
+								style={[
 									globalStyles.flexGrow1,
 									globalStyles.p16,
 									globalStyles.rbl16,
 									wrongBackgroundColorStyle,
 									globalStyles.alignItemsCenter,
 									globalStyles.justifyContentCenter,
-								]}>
-									<Text color={textColor}>{noButtonLabel}</Text>
-								</View>
-							);
-						}
-					}
+								]}
+							>
+								<Text color={textColor}>{noButtonLabel}</Text>
+							</View>
+						);
+					}}
 				</Pressable>
 				<Pressable onPress={onYesButtonPress} style={globalStyles.flex1}>
-				{
-						({ pressed}) => {
-							const rightBackgroundColorStyle = pressed ? globalStyles.white : globalStyles.brown;
-							const textColor = pressed ? BaseColor.DARK_BROWN : BaseColor.WHITE;
-							return (
-								<View style={[
+					{({ pressed }) => {
+						const rightBackgroundColorStyle = pressed
+							? globalStyles.white
+							: globalStyles.brown;
+						const textColor = pressed ? BaseColor.DARK_BROWN : BaseColor.WHITE;
+						return (
+							<View
+								style={[
 									globalStyles.flexGrow1,
 									globalStyles.p16,
 									globalStyles.rbr16,
 									rightBackgroundColorStyle,
 									globalStyles.alignItemsCenter,
 									globalStyles.justifyContentCenter,
-								]}>
-									<Text color={textColor}>{yesButtonLabel}</Text>
-								</View>
-							);
-						}
-					}
+								]}
+							>
+								<Text color={textColor}>{yesButtonLabel}</Text>
+							</View>
+						);
+					}}
 				</Pressable>
 			</View>
-    </View>
-  );
+		</View>
+	);
 };
 
 export { TwoOptionsCard };

@@ -4,7 +4,7 @@ import { MaterialIcon } from '~/libs/components/components';
 import { type BaseColor } from '~/libs/enums/enums';
 import { type ValueOf } from '~/libs/types/types';
 
-import { type IconName } from './libs/types/types';
+import { type IconName } from '~/libs/types/types';
 
 type Properties = {
 	color: ValueOf<typeof BaseColor>;

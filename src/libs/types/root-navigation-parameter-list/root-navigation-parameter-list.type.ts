@@ -1,14 +1,21 @@
 import { RootScreenName } from '~/libs/enums/enums';
-import { type GameDataItem } from '~/libs/types/types';
+import { ImageSourcePropType, type PartOfSpeechName } from '~/libs/types/types';
 
 type RootNavigationParameterList = {
-	[RootScreenName.ADJECTIVE]: undefined;
-	[RootScreenName.GAME]: GameDataItem[];
 	[RootScreenName.GRAMMAR]: undefined;
 	[RootScreenName.HOME]: undefined;
-	[RootScreenName.NOUN]: undefined;
-	[RootScreenName.TALE]: undefined;
-	[RootScreenName.VERB]: undefined;
+	[RootScreenName.WORD_NUMBERS_LIST]: { partOfSpeechName: PartOfSpeechName };
+	[RootScreenName.TALES_LIST]: undefined;
+	[RootScreenName.TALE]: {
+		taleIndex: number;
+		title: string;
+		imageSource: ImageSourcePropType;
+	};
+	[RootScreenName.WORD_CARDS]: {
+		partOfSpeechName: PartOfSpeechName;
+		startIndex: number;
+		contentLength: number;
+	};
 };
 
 export { type RootNavigationParameterList };

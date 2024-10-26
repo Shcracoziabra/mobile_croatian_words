@@ -2,7 +2,7 @@ const CategoryEnglish = {
 	ADJECTIVE: 'Adjective',
 	GRAMMAR: 'Grammar',
 	NOUN: 'Noun',
-	TALE: 'Tale',
+	TALES: 'Tale',
 	VERB: 'Verb',
 } as const;
 
