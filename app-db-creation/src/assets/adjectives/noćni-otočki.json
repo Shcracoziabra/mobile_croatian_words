@@ -1,0 +1,402 @@
+[
+  {
+    "maskuline": "noćni",
+    "feminine": "noćna",
+    "neutrum": "noćno",
+    "ukrainian_translation": "нічний",
+    "example_sentence": "Noćna tišina prekinuta je zvukom automobila.",
+    "ukrainian_translation_sentence": "Нічну тишу порушив звук автомобіля."
+  },
+  {
+    "maskuline": "nominalan",
+    "feminine": "nominalna",
+    "neutrum": "nominalno",
+    "ukrainian_translation": "номінальний",
+    "example_sentence": "Njegova funkcija bila je samo nominalna, bez stvarne moći.",
+    "ukrainian_translation_sentence": "Його функція була лише номінальною, без реальної влади."
+  },
+  {
+    "maskuline": "novinarski",
+    "feminine": "novinarska",
+    "neutrum": "novinarsko",
+    "ukrainian_translation": "журналістський",
+    "example_sentence": "Novinarski izvještaj o događaju bio je opširan.",
+    "ukrainian_translation_sentence": "Журналістський звіт про подію був вичерпним."
+  },
+  {
+    "maskuline": "novinski",
+    "feminine": "novinska",
+    "neutrum": "novinsko",
+    "ukrainian_translation": "газетний",
+    "example_sentence": "Novinske naslovnice donijele su vijest o pobjedi.",
+    "ukrainian_translation_sentence": "Газетні заголовки принесли новину про перемогу."
+  },
+  {
+    "maskuline": "novoizabran",
+    "feminine": "novoizabrana",
+    "neutrum": "novoizabrano",
+    "ukrainian_translation": "щойно обраний",
+    "example_sentence": "Novoizabrani predsjednik održao je prvi govor.",
+    "ukrainian_translation_sentence": "Щойно обраний президент виголосив свою першу промову."
+  },
+  {
+    "maskuline": "novouređen",
+    "feminine": "novouređena",
+    "neutrum": "novouređeno",
+    "ukrainian_translation": "щойно відремонтований",
+    "example_sentence": "Stan je novouređen i spreman za useljenje.",
+    "ukrainian_translation_sentence": "Квартира щойно відремонтована і готова до заселення."
+  },
+  {
+    "maskuline": "nuklearan",
+    "feminine": "nuklearna",
+    "neutrum": "nuklearno",
+    "ukrainian_translation": "ядерний",
+    "example_sentence": "Nuklearna energija koristi se u mnogim državama.",
+    "ukrainian_translation_sentence": "Ядерна енергія використовується в багатьох країнах."
+  },
+  {
+    "maskuline": "numerički",
+    "feminine": "numerička",
+    "neutrum": "numeričko",
+    "ukrainian_translation": "числовий",
+    "example_sentence": "Numerički podaci prikazuju rast prodaje.",
+    "ukrainian_translation_sentence": "Числові дані відображають зростання продажів."
+  },
+  {
+    "maskuline": "obalni",
+    "feminine": "obalna",
+    "neutrum": "obalno",
+    "ukrainian_translation": "прибережний",
+    "example_sentence": "Obalni gradovi privlače brojne turiste.",
+    "ukrainian_translation_sentence": "Прибережні міста приваблюють численних туристів."
+  },
+  {
+    "maskuline": "obavještajan",
+    "feminine": "obavještajna",
+    "neutrum": "obavještajno",
+    "ukrainian_translation": "розвідувальний",
+    "example_sentence": "Obavještajne službe analizirale su nove informacije.",
+    "ukrainian_translation_sentence": "Розвідувальні служби аналізували нову інформацію."
+  },
+  {
+    "maskuline": "obećavajući",
+    "feminine": "obećavajuća",
+    "neutrum": "obećavajuće",
+    "ukrainian_translation": "обіцяючий",
+    "example_sentence": "Njegova karijera izgledala je obećavajuće od samog početka.",
+    "ukrainian_translation_sentence": "Його кар'єра з самого початку виглядала обіцяючою."
+  },
+  {
+    "maskuline": "običan",
+    "feminine": "obična",
+    "neutrum": "obično",
+    "ukrainian_translation": "звичайний",
+    "example_sentence": "Običan dan pretvorio se u nezaboravno iskustvo.",
+    "ukrainian_translation_sentence": "Звичайний день перетворився на незабутній досвід."
+  },
+  {
+    "maskuline": "obilan",
+    "feminine": "obilna",
+    "neutrum": "obilno",
+    "ukrainian_translation": "багатий",
+    "example_sentence": "Obilan ručak zadovoljio je sve goste.",
+    "ukrainian_translation_sentence": "Багатий обід задовольнив усіх гостей."
+  },
+  {
+    "maskuline": "obiteljski",
+    "feminine": "obiteljska",
+    "neutrum": "obiteljsko",
+    "ukrainian_translation": "сімейний",
+    "example_sentence": "Obiteljski ručak održan je u nedjelju.",
+    "ukrainian_translation_sentence": "Сімейний обід відбувся у неділю."
+  },
+  {
+    "maskuline": "objavljen",
+    "feminine": "objavljena",
+    "neutrum": "objavljeno",
+    "ukrainian_translation": "опублікований",
+    "example_sentence": "Njegov članak objavljen je u prestižnom časopisu.",
+    "ukrainian_translation_sentence": "Його стаття була опублікована у престижному журналі."
+  },
+  {
+    "maskuline": "oborinski",
+    "feminine": "oborinska",
+    "neutrum": "oborinsko",
+    "ukrainian_translation": "опадовий",
+    "example_sentence": "Oborinske vode uzrokovale su poplave u gradu.",
+    "ukrainian_translation_sentence": "Опадові води спричинили повені в місті."
+  },
+  {
+    "maskuline": "obramben",
+    "feminine": "obrambena",
+    "neutrum": "obrambeno",
+    "ukrainian_translation": "оборонний",
+    "example_sentence": "Obrambeni sustav zemlje stalno se usavršava.",
+    "ukrainian_translation_sentence": "Оборонна система країни постійно вдосконалюється."
+  },
+  {
+    "maskuline": "obrtnički",
+    "feminine": "obrtnička",
+    "neutrum": "obrtničko",
+    "ukrainian_translation": "ремісничий",
+    "example_sentence": "Obrtnički proizvodi prodaju se na sajmu.",
+    "ukrainian_translation_sentence": "Ремісничі вироби продаються на ярмарку."
+  },
+  {
+    "maskuline": "obvezan",
+    "feminine": "obvezna",
+    "neutrum": "obvezno",
+    "ukrainian_translation": "обов'язковий",
+    "example_sentence": "Pohađanje ovog predavanja je obvezno za sve studente.",
+    "ukrainian_translation_sentence": "Відвідування цієї лекції обов'язкове для всіх студентів."
+  },
+  {
+    "maskuline": "očajan",
+    "feminine": "očajna",
+    "neutrum": "očajno",
+    "ukrainian_translation": "відчайдушний",
+    "example_sentence": "Očajan čovjek tražio je pomoć na sve moguće načine.",
+    "ukrainian_translation_sentence": "Відчайдушний чоловік шукав допомоги всіма можливими способами."
+  },
+  {
+    "maskuline": "očev",
+    "feminine": "očeva",
+    "neutrum": "očevo",
+    "ukrainian_translation": "батьківський",
+    "example_sentence": "Očev savjet bio je ključan u teškoj situaciji.",
+    "ukrainian_translation_sentence": "Батьківська порада була ключовою у важкій ситуації."
+  },
+  {
+    "maskuline": "odan",
+    "feminine": "odana",
+    "neutrum": "odano",
+    "ukrainian_translation": "відданий",
+    "example_sentence": "Odan prijatelj uvijek je tu kad ga trebate.",
+    "ukrainian_translation_sentence": "Відданий друг завжди поруч, коли його потребуєш."
+  },
+  {
+    "maskuline": "odbjegao",
+    "feminine": "odbjegla",
+    "neutrum": "odbjeglo",
+    "ukrainian_translation": "утікач",
+    "example_sentence": "Odbjegao zatvorenik je konačno uhvaćen.",
+    "ukrainian_translation_sentence": "Утікач з в'язниці був нарешті спійманий."
+  },
+  {
+    "maskuline": "odbojan",
+    "feminine": "odbojna",
+    "neutrum": "odbojno",
+    "ukrainian_translation": "відштовхуючий",
+    "example_sentence": "Njegovo odbojno ponašanje nije bilo prihvaćeno u društvu.",
+    "ukrainian_translation_sentence": "Його відштовхуюча поведінка не була прийнята в суспільстві."
+  },
+  {
+    "maskuline": "odličan",
+    "feminine": "odlična",
+    "neutrum": "odlično",
+    "ukrainian_translation": "відмінний",
+    "example_sentence": "Odličan uspjeh postigao je u školi.",
+    "ukrainian_translation_sentence": "Він досягнув відмінного успіху в школі."
+  },
+  {
+    "maskuline": "odlučan",
+    "feminine": "odlučna",
+    "neutrum": "odlučno",
+    "ukrainian_translation": "рішучий",
+    "example_sentence": "Bio je odlučan u svojoj namjeri da uspije.",
+    "ukrainian_translation_sentence": "Він був рішучим у своєму намірі досягти успіху."
+  },
+  {
+    "maskuline": "odlučujući",
+    "feminine": "odlučujuća",
+    "neutrum": "odlučujuće",
+    "ukrainian_translation": "вирішальний",
+    "example_sentence": "Odlučujući trenutak u igri donio im je pobjedu.",
+    "ukrainian_translation_sentence": "Вирішальний момент у грі приніс їм перемогу."
+  },
+  {
+    "maskuline": "odsutan",
+    "feminine": "odsutna",
+    "neutrum": "odsutno",
+    "ukrainian_translation": "відсутній",
+    "example_sentence": "Njegova odsutna pažnja otežala je raspravu.",
+    "ukrainian_translation_sentence": "Його відсутня увага ускладнила дискусію."
+  },
+  {
+    "maskuline": "odvjetnički",
+    "feminine": "odvjetnička",
+    "neutrum": "odvjetničko",
+    "ukrainian_translation": "адвокатський",
+    "example_sentence": "Odvjetnički ured je otvoren za sve pravne savjete.",
+    "ukrainian_translation_sentence": "Адвокатська контора відкрита для всіх правових консультацій."
+  },
+  {
+    "maskuline": "ofenzivan",
+    "feminine": "ofenzivna",
+    "neutrum": "ofenzivno",
+    "ukrainian_translation": "образливий",
+    "example_sentence": "Njegov ofenzivan komentar izazvao je burne reakcije.",
+    "ukrainian_translation_sentence": "Його образливий коментар викликав бурхливі реакції."
+  },
+  {
+    "maskuline": "oglasni",
+    "feminine": "oglasna",
+    "neutrum": "oglasno",
+    "ukrainian_translation": "рекламний",
+    "example_sentence": "Oglasna ploča bila je puna novih obavijesti.",
+    "ukrainian_translation_sentence": "Рекламний стенд був заповнений новими повідомленнями."
+  },
+  {
+    "maskuline": "ogorčen",
+    "feminine": "ogorčena",
+    "neutrum": "ogorčeno",
+    "ukrainian_translation": "озлоблений",
+    "example_sentence": "Bio je ogorčen zbog nepravde koja mu je nanesena.",
+    "ukrainian_translation_sentence": "Він був озлоблений через несправедливість, яка йому трапилася."
+  },
+  {
+    "maskuline": "ogroman",
+    "feminine": "ogromna",
+    "neutrum": "ogromno",
+    "ukrainian_translation": "величезний",
+    "example_sentence": "Ogroman val uništio je kuće na obali.",
+    "ukrainian_translation_sentence": "Величезна хвиля зруйнувала будинки на березі."
+  },
+  {
+    "maskuline": "okolni",
+    "feminine": "okolna",
+    "neutrum": "okolno",
+    "ukrainian_translation": "навколишній",
+    "example_sentence": "Okolna sela pretrpjela su štetu nakon oluje.",
+    "ukrainian_translation_sentence": "Навколишні села зазнали збитків після бурі."
+  },
+  {
+    "maskuline": "okretan",
+    "feminine": "okretna",
+    "neutrum": "okretno",
+    "ukrainian_translation": "спритний",
+    "example_sentence": "Okretan plesač brzo se kretao po pozornici.",
+    "ukrainian_translation_sentence": "Спритний танцівник швидко рухався по сцені."
+  },
+  {
+    "maskuline": "okrutan",
+    "feminine": "okrutna",
+    "neutrum": "okrutno",
+    "ukrainian_translation": "жорстокий",
+    "example_sentence": "Njegov okrutan postupak šokirao je sve.",
+    "ukrainian_translation_sentence": "Його жорстока дія шокувала всіх."
+  },
+  {
+    "maskuline": "omiljen",
+    "feminine": "omiljena",
+    "neutrum": "omiljeno",
+    "ukrainian_translation": "улюблений",
+    "example_sentence": "Omiljen među kolegama, uvijek je pomagao svima.",
+    "ukrainian_translation_sentence": "Улюблений серед колег, він завжди допомагав усім."
+  },
+  {
+    "maskuline": "operni",
+    "feminine": "operna",
+    "neutrum": "operno",
+    "ukrainian_translation": "оперний",
+    "example_sentence": "Operni pjevači pripremaju se za novu predstavu.",
+    "ukrainian_translation_sentence": "Оперні співаки готуються до нової вистави."
+  },
+  {
+    "maskuline": "oporbeni",
+    "feminine": "oporbena",
+    "neutrum": "oporbeno",
+    "ukrainian_translation": "опозиційний",
+    "example_sentence": "Oporbeni političari su kritizirali prijedloge vlade.",
+    "ukrainian_translation_sentence": "Опозиційні політики критикували пропозиції уряду."
+  },
+  {
+    "maskuline": "opsežan",
+    "feminine": "opsežna",
+    "neutrum": "opsežno",
+    "ukrainian_translation": "обширний",
+    "example_sentence": "Istraživanje je bilo opsežno i trajalo je nekoliko mjeseci.",
+    "ukrainian_translation_sentence": "Дослідження було обширним і тривало кілька місяців."
+  },
+  {
+    "maskuline": "opširan",
+    "feminine": "opširna",
+    "neutrum": "opširno",
+    "ukrainian_translation": "докладний",
+    "example_sentence": "Opširan izvještaj dao je sve potrebne informacije.",
+    "ukrainian_translation_sentence": "Докладний звіт надав всю необхідну інформацію."
+  },
+  {
+    "maskuline": "opskuran",
+    "feminine": "opskurna",
+    "neutrum": "opskurno",
+    "ukrainian_translation": "незрозумілий",
+    "example_sentence": "Njegov opskuran stil pisanja nije svima bio jasan.",
+    "ukrainian_translation_sentence": "Його незрозумілий стиль письма був незрозумілий не всім."
+  },
+  {
+    "maskuline": "optužni",
+    "feminine": "optužna",
+    "neutrum": "optužno",
+    "ukrainian_translation": "звинувачувальний",
+    "example_sentence": "Optužni sudski postupak trajao je više od godinu dana.",
+    "ukrainian_translation_sentence": "Звинувачувальний судовий процес тривав більше року."
+  },
+  {
+    "maskuline": "organizacijski",
+    "feminine": "organizacijska",
+    "neutrum": "organizacijsko",
+    "ukrainian_translation": "організаційний",
+    "example_sentence": "Organizacijski tim bio je odgovoran za uspjeh konferencije.",
+    "ukrainian_translation_sentence": "Організаційна команда відповідала за успіх конференції."
+  },
+  {
+    "maskuline": "originalan",
+    "feminine": "originalna",
+    "neutrum": "originalno",
+    "ukrainian_translation": "оригінальний",
+    "example_sentence": "Njegova ideja bila je potpuno originalna i inovativna.",
+    "ukrainian_translation_sentence": "Його ідея була абсолютно оригінальною та інноваційною."
+  },
+  {
+    "maskuline": "oružan",
+    "feminine": "oružana",
+    "neutrum": "oružano",
+    "ukrainian_translation": "збройний",
+    "example_sentence": "Oružani sukobi trajali su nekoliko dana.",
+    "ukrainian_translation_sentence": "Збройні сутички тривали кілька днів."
+  },
+  {
+    "maskuline": "oslobađajući",
+    "feminine": "oslobađajuća",
+    "neutrum": "oslobađajuće",
+    "ukrainian_translation": "звільняючий",
+    "example_sentence": "Oslobađajuća presuda donijela je olakšanje optuženom.",
+    "ukrainian_translation_sentence": "Звільняючий вирок приніс полегшення підсудному."
+  },
+  {
+    "maskuline": "osoban",
+    "feminine": "osobna",
+    "neutrum": "osobno",
+    "ukrainian_translation": "особистий",
+    "example_sentence": "Njegov osoban pristup radu rezultirao je boljim rezultatima.",
+    "ukrainian_translation_sentence": "Його особистий підхід до роботи призвів до кращих результатів."
+  },
+  {
+    "maskuline": "osvježavajući",
+    "feminine": "osvježavajuća",
+    "neutrum": "osvježavajuće",
+    "ukrainian_translation": "освіжаючий",
+    "example_sentence": "Osvježavajuće piće bilo je idealno za vruć dan.",
+    "ukrainian_translation_sentence": "Освіжаючий напій був ідеальним для спекотного дня."
+  },
+  {
+    "maskuline": "otočki",
+    "feminine": "otočka",
+    "neutrum": "otočko",
+    "ukrainian_translation": "острівний",
+    "example_sentence": "Otočki život je mirniji i sporiji u usporedbi s gradskim.",
+    "ukrainian_translation_sentence": "Острівне життя спокійніше і повільніше в порівнянні з міським."
+  }
+]

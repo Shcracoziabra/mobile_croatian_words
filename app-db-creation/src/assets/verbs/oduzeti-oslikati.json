@@ -1,0 +1,402 @@
+[
+  {
+    "infinitive": "oduzeti",
+    "past_tense": ["oduzeo", "oduzela", "oduzelo"],
+    "present_tense": ["oduzmem", "oduzmeš", "oduzme", "oduzmemo", "oduzmete", "oduzmu"],
+    "ukrainian_translation": "забрати",
+    "example_sentence": "Odlučio je da oduzme knjigu.",
+    "ukrainian_translation_sentence": "Він вирішив забрати книгу."
+  },
+  {
+    "infinitive": "odvlačiti",
+    "past_tense": ["odvlačio", "odvlačila", "odvlačilo"],
+    "present_tense": ["odvlačim", "odvlačiš", "odvlači", "odvlačimo", "odvlačite", "odvlače"],
+    "ukrainian_translation": "відволікати",
+    "example_sentence": "Nekoć je odvlačio pažnju svoje učenike.",
+    "ukrainian_translation_sentence": "Колись він відволікав увагу своїх учнів."
+  },
+  {
+    "infinitive": "odvoditi",
+    "past_tense": ["odvodio", "odvodila", "odvodilo"],
+    "present_tense": ["odvodim", "odvodiš", "odvodi", "odvodimo", "odvodite", "odvode"],
+    "ukrainian_translation": "відводити",
+    "example_sentence": "Policajac je odvodio krivca.",
+    "ukrainian_translation_sentence": "Поліцейський відводив злочинця."
+  },
+  {
+    "infinitive": "odvojiti",
+    "past_tense": ["odvojio", "odvojila", "odvojilo"],
+    "present_tense": ["odvojim", "odvojiš", "odvoji", "odvojimo", "odvojite", "odvoje"],
+    "ukrainian_translation": "відокремити",
+    "example_sentence": "Odvojio je papir od plastike.",
+    "ukrainian_translation_sentence": "Він відокремив папір від пластику."
+  },
+  {
+    "infinitive": "odvoziti",
+    "past_tense": ["odvozio", "odvozila", "odvozilo"],
+    "present_tense": ["odvozim", "odvoziš", "odvozi", "odvozimo", "odvozite", "odvoze"],
+    "ukrainian_translation": "вивозити",
+    "example_sentence": "Odvozi smeće na deponiju.",
+    "ukrainian_translation_sentence": "Вивозить сміття на сміттєзвалище."
+  },
+  {
+    "infinitive": "odzvanjati",
+    "past_tense": ["odzvanjao", "odzvanjala", "odzvanjalo"],
+    "present_tense": ["odzvanjam", "odzvanjaš", "odzvanja", "odzvanjamo", "odzvanjate", "odzvanjaju"],
+    "ukrainian_translation": "звучати",
+    "example_sentence": "Telefon je odzvanjao cijelo jutro.",
+    "ukrainian_translation_sentence": "Телефон дзвонив усе ранок."
+  },
+  {
+    "infinitive": "oformiti",
+    "past_tense": ["oformio", "oformila", "oformilo"],
+    "present_tense": ["oformim", "oformiš", "oformi", "oformimo", "oformite", "oforme"],
+    "ukrainian_translation": "оформити",
+    "example_sentence": "Oformio je sve potrebne dokumente.",
+    "ukrainian_translation_sentence": "Він оформив всі необхідні документи."
+  },
+  {
+    "infinitive": "ogledati",
+    "past_tense": ["ogledao", "ogledala", "ogledalo"],
+    "present_tense": ["ogledam", "ogledaš", "ogleda", "ogledamo", "ogledate", "ogledaju"],
+    "ukrainian_translation": "оглянути",
+    "example_sentence": "Ogledao je sve slike u galeriji.",
+    "ukrainian_translation_sentence": "Він оглянув всі картини в галереї."
+  },
+  {
+    "infinitive": "ograditi",
+    "past_tense": ["ogradio", "ogradila", "ogradilo"],
+    "present_tense": ["ogradim", "ogradiš", "ograditi", "ogradimo", "ogradite", "ogradite"],
+    "ukrainian_translation": "огородити",
+    "example_sentence": "Ogradili su vrt.",
+    "ukrainian_translation_sentence": "Вони огородили сад."
+  },
+  {
+    "infinitive": "ograničavati",
+    "past_tense": ["ograničavao", "ograničavala", "ograničavalo"],
+    "present_tense": ["ograničavam", "ograničavaš", "ograničava", "ograničavamo", "ograničavate", "ograničavaju"],
+    "ukrainian_translation": "обмежувати",
+    "example_sentence": "Ograničavaju količinu goriva.",
+    "ukrainian_translation_sentence": "Обмежують кількість пального."
+  },
+  {
+    "infinitive": "ograničiti",
+    "past_tense": ["ograničio", "ograničila", "ograničilo"],
+    "present_tense": ["ograničim", "ograničiš", "ograniči", "ograničimo", "ograničite", "ograniče"],
+    "ukrainian_translation": "обмежити",
+    "example_sentence": "Ograničio je pristup samo za članove.",
+    "ukrainian_translation_sentence": "Він обмежив доступ тільки для членів."
+  },
+  {
+    "infinitive": "ohrabrivati",
+    "past_tense": ["ohrabrivao", "ohrabrivala", "ohrabrivalo"],
+    "present_tense": ["ohrabrujem", "ohrabruješ", "ohrabruje", "ohrabrujemo", "ohrabrujete", "ohrabruju"],
+    "ukrainian_translation": "підтримувати",
+    "example_sentence": "Ohrabrivao je svoje kolege.",
+    "ukrainian_translation_sentence": "Він підтримував своїх колег."
+  },
+  {
+    "infinitive": "ojačati",
+    "past_tense": ["ojačao", "ojačala", "ojačalo"],
+    "present_tense": ["ojačam", "ojačaš", "ojača", "ojačamo", "ojačate", "ojačaju"],
+    "ukrainian_translation": "укріпити",
+    "example_sentence": "Ojačao je temelje zgrade.",
+    "ukrainian_translation_sentence": "Він укріпив фундаменти будівлі."
+  },
+  {
+    "infinitive": "okaniti",
+    "past_tense": ["okanio", "okanila", "okanilo"],
+    "present_tense": ["okanjujem", "okanjuješ", "okanjuje", "okanjujemo", "okanjujete", "okanjuju"],
+    "ukrainian_translation": "забути",
+    "example_sentence": "Okanio je svoje prošle greške.",
+    "ukrainian_translation_sentence": "Він забув про свої минулі помилки."
+  },
+  {
+    "infinitive": "okititi",
+    "past_tense": ["okitio", "okitila", "okitilo"],
+    "present_tense": ["okitim", "okititiš", "okititi", "okitimo", "okitite", "okititi"],
+    "ukrainian_translation": "прикрашати",
+    "example_sentence": "Okitio je bor za Božić.",
+    "ukrainian_translation_sentence": "Він прикрасив ялинку на Різдво."
+  },
+  {
+    "infinitive": "okoristiti",
+    "past_tense": ["okoristio", "okoristila", "okoristilo"],
+    "present_tense": ["okoristim", "okoristiš", "okoristi", "okoristimo", "okoristite", "okoriste"],
+    "ukrainian_translation": "заподіяти шкоду",
+    "example_sentence": "Okoristio je sve resurse.",
+    "ukrainian_translation_sentence": "Він заподіяв шкоду всім ресурсам."
+  },
+  {
+    "infinitive": "okrenuti",
+    "past_tense": ["okrenuo", "okrenula", "okrenulo"],
+    "present_tense": ["okrenem", "okreneš", "okrene", "okrenemo", "okrenete", "okrenu"],
+    "ukrainian_translation": "повернути",
+    "example_sentence": "Okrenuo je ključ u bravi.",
+    "ukrainian_translation_sentence": "Він повернув ключ у замку."
+  },
+  {
+    "infinitive": "okupljati",
+    "past_tense": ["okupljao", "okupljala", "okupljalo"],
+    "present_tense": ["okupljam", "okupljaš", "okuplja", "okupljamo", "okupljate", "okupljaju"],
+    "ukrainian_translation": "збирати",
+    "example_sentence": "Okupljaju se u parku svaki vikend.",
+    "ukrainian_translation_sentence": "Вони збираються в парку кожен вихідний."
+  },
+  {
+    "infinitive": "okušati",
+    "past_tense": ["okušao", "okušala", "okušalo"],
+    "present_tense": ["okušam", "okušaš", "okuša", "okušamo", "okušate", "okušaju"],
+    "ukrainian_translation": "спробувати",
+    "example_sentence": "Okušao je novi recept.",
+    "ukrainian_translation_sentence": "Він спробував новий рецепт."
+  },
+  {
+    "infinitive": "okusiti",
+    "past_tense": ["okusio", "okusila", "okusilo"],
+    "present_tense": ["okusim", "okusiš", "okus", "okusimo", "okusite", "okuse"],
+    "ukrainian_translation": "смакувати",
+    "example_sentence": "Okusio je sve vrste sira.",
+    "ukrainian_translation_sentence": "Він смакував усі види сиру."
+  },
+  {
+    "infinitive": "olakšati",
+    "past_tense": ["olakšao", "olakšala", "olakšalo"],
+    "present_tense": ["olakšavam", "olakšavaš", "olakšava", "olakšavamo", "olakšavate", "olakšavaju"],
+    "ukrainian_translation": "полегшити",
+    "example_sentence": "Olakšao je posao svojim kolegama.",
+    "ukrainian_translation_sentence": "Він полегшив роботу своїм колегам."
+  },
+  {
+    "infinitive": "omalovažavati",
+    "past_tense": ["omalovažavao", "omalovažavala", "omalovažavalo"],
+    "present_tense": ["omalovažavam", "omalovažavaš", "omalovažava", "omalovažavamo", "omalovažavate", "omalovažavaju"],
+    "ukrainian_translation": "зневажати",
+    "example_sentence": "Omalovažavao je rad svojih kolega.",
+    "ukrainian_translation_sentence": "Він зневажав роботу своїх колег."
+  },
+  {
+    "infinitive": "omogućavati",
+    "past_tense": ["omogućavao", "omogućavala", "omogućavalo"],
+    "present_tense": ["omogućavam", "omogućavaš", "omogućava", "omogućavamo", "omogućavate", "omogućavaju"],
+    "ukrainian_translation": "забезпечувати",
+    "example_sentence": "Omogućava obrazovanje za sve.",
+    "ukrainian_translation_sentence": "Він забезпечує освіту для всіх."
+  },
+  {
+    "infinitive": "opasti",
+    "past_tense": ["opao", "opala", "opalo"],
+    "present_tense": ["opadam", "opadaš", "opada", "opadamo", "opadate", "opadaju"],
+    "ukrainian_translation": "падати",
+    "example_sentence": "Opala je kiša u toku noći.",
+    "ukrainian_translation_sentence": "Дощ впав протягом ночі."
+  },
+  {
+    "infinitive": "opažati",
+    "past_tense": ["opažao", "opažala", "opažalo"],
+    "present_tense": ["opažam", "opažaš", "opaža", "opažamo", "opažate", "opažaju"],
+    "ukrainian_translation": "звертати увагу",
+    "example_sentence": "Opažao je promjene u ponašanju.",
+    "ukrainian_translation_sentence": "Він звернув увагу на зміни в поведінці."
+  },
+  {
+    "infinitive": "opaziti",
+    "past_tense": ["opazio", "opazila", "opazilo"],
+    "present_tense": ["opazim", "opaziš", "opazi", "opazimo", "opazite", "opaze"],
+    "ukrainian_translation": "помітити",
+    "example_sentence": "Opazio je grešku u izvještaju.",
+    "ukrainian_translation_sentence": "Він помітив помилку в звіті."
+  },
+  {
+    "infinitive": "operirati",
+    "past_tense": ["operirao", "operirala", "operiralo"],
+    "present_tense": ["operiram", "operiraš", "operira", "operiramo", "operirate", "operiraju"],
+    "ukrainian_translation": "оперувати",
+    "example_sentence": "Operirao je pacijenta uspješno.",
+    "ukrainian_translation_sentence": "Він успішно прооперував пацієнта."
+  },
+  {
+    "infinitive": "opijati",
+    "past_tense": ["opijao", "opijala", "opijalo"],
+    "present_tense": ["opijam", "opijaš", "opija", "opijamo", "opijate", "opijaju"],
+    "ukrainian_translation": "п'яніти",
+    "example_sentence": "Opijao se cijelu noć.",
+    "ukrainian_translation_sentence": "Він п'янів цілу ніч."
+  },
+  {
+    "infinitive": "opirati",
+    "past_tense": ["opirao", "opirala", "opiralo"],
+    "present_tense": ["opirem", "opireš", "opire", "opiremo", "opirete", "opire"],
+    "ukrainian_translation": "опиратися",
+    "example_sentence": "Opirao se pritiscima.",
+    "ukrainian_translation_sentence": "Він опирався тиску."
+  },
+  {
+    "infinitive": "opisati",
+    "past_tense": ["opisao", "opisala", "opisalo"],
+    "present_tense": ["opisem", "opisuješ", "opisuje", "opisujemo", "opisujete", "opisiju"],
+    "ukrainian_translation": "описати",
+    "example_sentence": "Opisao je događaj detaljno.",
+    "ukrainian_translation_sentence": "Він детально описав подію."
+  },
+  {
+    "infinitive": "opisivati",
+    "past_tense": ["opisivao", "opisivala", "opisivalo"],
+    "present_tense": ["opisujem", "opisuješ", "opisuje", "opisujemo", "opisujete", "opisuje"],
+    "ukrainian_translation": "описувати",
+    "example_sentence": "Opisivao je ljude u knjizi.",
+    "ukrainian_translation_sentence": "Він описував людей у книзі."
+  },
+  {
+    "infinitive": "oplemeniti",
+    "past_tense": ["oplemenio", "oplemenila", "oplemenilo"],
+    "present_tense": ["oplemenim", "oplemeniš", "oplemeni", "oplemenimo", "oplemenite", "oplemene"],
+    "ukrainian_translation": "урізноманітнити",
+    "example_sentence": "Oplemenio je zemljište.",
+    "ukrainian_translation_sentence": "Він урізноманітнив ґрунт."
+  },
+  {
+    "infinitive": "opljačkati",
+    "past_tense": ["opljačkao", "opljačkala", "opljačkalo"],
+    "present_tense": ["opljačkam", "opljačkaš", "opljačka", "opljačkamo", "opljačkate", "opljačkaju"],
+    "ukrainian_translation": "пограбувати",
+    "example_sentence": "Opljačkali su banku.",
+    "ukrainian_translation_sentence": "Вони пограбували банк."
+  },
+  {
+    "infinitive": "opominjati",
+    "past_tense": ["opominjao", "opominjala", "opominjalo"],
+    "present_tense": ["opominjem", "opominješ", "opominje", "opominjemo", "opominjete", "opominju"],
+    "ukrainian_translation": "попереджати",
+    "example_sentence": "Opominjao je djecu na opasnosti.",
+    "ukrainian_translation_sentence": "Він попереджав дітей про небезпеку."
+  },
+  {
+    "infinitive": "oponašati",
+    "past_tense": ["oponašao", "oponašala", "oponašalo"],
+    "present_tense": ["oponašam", "oponašaš", "oponaša", "oponašamo", "oponašate", "oponašaju"],
+    "ukrainian_translation": "імітувати",
+    "example_sentence": "Oponašao je glas poznatog pjevača.",
+    "ukrainian_translation_sentence": "Він імітував голос відомого співака."
+  },
+  {
+    "infinitive": "oporaviti",
+    "past_tense": ["oporavio", "oporavila", "oporavilo"],
+    "present_tense": ["oporavim", "oporaviš", "oporavi", "oporavimo", "oporavite", "oporave"],
+    "ukrainian_translation": "одужати",
+    "example_sentence": "Oporavio se brzo nakon operacije.",
+    "ukrainian_translation_sentence": "Він швидко одужав після операції."
+  },
+  {
+    "infinitive": "opovrgnuti",
+    "past_tense": ["opovrgnuo", "opovrgnula", "opovrgnulo"],
+    "present_tense": ["opovrgnem", "opovrgneš", "opovrgne", "opovrgnemo", "opovrgnite", "opovrgnu"],
+    "ukrainian_translation": "спростувати",
+    "example_sentence": "Opovrgnuo je tvrdnje koje su bile netočne.",
+    "ukrainian_translation_sentence": "Він спростував твердження, які були неправдивими."
+  },
+  {
+    "infinitive": "oprati",
+    "past_tense": ["oprati", "oprala", "opralo"],
+    "present_tense": ["pratim", "pratiš", "prati", "pratimo", "pratite", "prate"],
+    "ukrainian_translation": "вимити",
+    "example_sentence": "Oprali su rublje.",
+    "ukrainian_translation_sentence": "Вони вимили білизну."
+  },
+  {
+    "infinitive": "oprostiti",
+    "past_tense": ["oprosti", "oprostila", "oprostilo"],
+    "present_tense": ["oprostim", "oprostite", "oprostite", "oprostimo", "oprostite", "oprostite"],
+    "ukrainian_translation": "пробачити",
+    "example_sentence": "Opustila sam mu sve greške.",
+    "ukrainian_translation_sentence": "Я пробачила йому всі помилки."
+  },
+  {
+    "infinitive": "opskrbljivati",
+    "past_tense": ["opskrbljivao", "opskrbljivala", "opskrbljivalo"],
+    "present_tense": ["opskrbljujem", "opskrbljuješ", "opskrbljuje", "opskrbljujemo", "opskrbljujete", "opskrbljuju"],
+    "ukrainian_translation": "забезпечувати",
+    "example_sentence": "Opskrbljivao je bolnicu svim potrebnim materijalom.",
+    "ukrainian_translation_sentence": "Він забезпечував лікарню всім необхідним матеріалом."
+  },
+  {
+    "infinitive": "opstajati",
+    "past_tense": ["opstajao", "opstajala", "opstajalo"],
+    "present_tense": ["opstajem", "opstaješ", "opstaje", "opstajemo", "opstajete", "opstaju"],
+    "ukrainian_translation": "пережити",
+    "example_sentence": "Opstajali su u teškim uvjetima.",
+    "ukrainian_translation_sentence": "Вони пережили в складних умовах."
+  },
+  {
+    "infinitive": "opteretiti",
+    "past_tense": ["opteretio", "opteretila", "opteretilo"],
+    "present_tense": ["opteretim", "opteretiš", "optereti", "opteretimo", "opteretite", "opterete"],
+    "ukrainian_translation": "перевантажувати",
+    "example_sentence": "Opteretio je sustav dodatnim zadacima.",
+    "ukrainian_translation_sentence": "Він перевантажив систему додатковими завданнями."
+  },
+  {
+    "infinitive": "optuživati",
+    "past_tense": ["optuživao", "optuživala", "optuživalo"],
+    "present_tense": ["optužujem", "optužuješ", "optužuje", "optužujemo", "optužujete", "optužuju"],
+    "ukrainian_translation": "звинувачувати",
+    "example_sentence": "Optuživali su ga za krađu.",
+    "ukrainian_translation_sentence": "Його звинувачували у крадіжці."
+  },
+  {
+    "infinitive": "opustiti",
+    "past_tense": ["opustio", "opustila", "opustilo"],
+    "present_tense": ["opustim", "opustiš", "opusti", "opustimo", "opustite", "opuste"],
+    "ukrainian_translation": "розслабити",
+    "example_sentence": "Opustio je sve nakon napornog dana.",
+    "ukrainian_translation_sentence": "Він розслабився після напруженого дня."
+  },
+  {
+    "infinitive": "organizirati",
+    "past_tense": ["organizirao", "organizirala", "organiziralo"],
+    "present_tense": ["organiziram", "organiziraš", "organizira", "organiziramo", "organizirate", "organiziraju"],
+    "ukrainian_translation": "організувати",
+    "example_sentence": "Organizirali su veliku konferenciju.",
+    "ukrainian_translation_sentence": "Вони організували велику конференцію."
+  },
+  {
+    "infinitive": "orijentirati",
+    "past_tense": ["orijentirao", "orijentirala", "orijentiralo"],
+    "present_tense": ["orijentiram", "orijentiraš", "orijentira", "orijentiramo", "orijentirate", "orijentiraju"],
+    "ukrainian_translation": "орієнтуватися",
+    "example_sentence": "Orijentirao je novog zaposlenika.",
+    "ukrainian_translation_sentence": "Він орієнтував нового співробітника."
+  },
+  {
+    "infinitive": "ošišati",
+    "past_tense": ["ošišao", "ošišala", "ošišalo"],
+    "present_tense": ["ošišam", "ošišaš", "ošiša", "ošišamo", "ošišate", "ošišaju"],
+    "ukrainian_translation": "постригти",
+    "example_sentence": "Ošišao je svog psa.",
+    "ukrainian_translation_sentence": "Він постриг свого собаку."
+  },
+  {
+    "infinitive": "osjećati",
+    "past_tense": ["osjećao", "osjećala", "osjećalo"],
+    "present_tense": ["osjećam", "osjećaš", "osjeća", "osjećamo", "osjećate", "osjećaju"],
+    "ukrainian_translation": "відчувати",
+    "example_sentence": "Osjećao je tjeskobu prije ispita.",
+    "ukrainian_translation_sentence": "Він відчував тривогу перед іспитом."
+  },
+  {
+    "infinitive": "oslabiti",
+    "past_tense": ["oslabio", "oslabila", "oslabilo"],
+    "present_tense": ["oslabim", "oslabiš", "oslabi", "oslabimo", "oslabite", "oslabe"],
+    "ukrainian_translation": "ослабити",
+    "example_sentence": "Oslabio je zbog bolesti.",
+    "ukrainian_translation_sentence": "Він ослаб від хвороби."
+  },
+  {
+    "infinitive": "oslikati",
+    "past_tense": ["oslikao", "oslikala", "oslikalo"],
+    "present_tense": ["oslikam", "oslikavaš", "oslikava", "oslikavamo", "oslikavate", "oslikavaju"],
+    "ukrainian_translation": "малювати",
+    "example_sentence": "Oslikala je zidove u hodniku.",
+    "ukrainian_translation_sentence": "Вона намалювала стіни в коридорі."
+  }
+]

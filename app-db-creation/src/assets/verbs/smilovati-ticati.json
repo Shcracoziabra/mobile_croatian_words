@@ -1,0 +1,402 @@
+[
+	{
+    "infinitive": "smilovati",
+    "past_tense": ["smilovao", "smilovala", "smilovalo"],
+    "present_tense": ["smilujem", "smiluješ", "smiluje", "smilujemo", "smilujete", "smiluju"],
+    "ukrainian_translation": "помилувати",
+    "example_sentence": "Sudac se smilovao i smanjio kaznu.",
+    "ukrainian_translation_sentence": "Суддя помилував і зменшив покарання."
+  },
+  {
+    "infinitive": "smiriti",
+    "past_tense": ["smirio", "smirila", "smirilo"],
+    "present_tense": ["smirim", "smiriš", "smiri", "smirimo", "smirite", "smire"],
+    "ukrainian_translation": "заспокоїти",
+    "example_sentence": "Uspio je smiriti dijete prije spavanja.",
+    "ukrainian_translation_sentence": "Він вдало заспокоїв дитину перед сном."
+  },
+  {
+    "infinitive": "smisliti",
+    "past_tense": ["smislio", "smislila", "smislilo"],
+    "present_tense": ["smislim", "smisliš", "smisli", "smislimo", "smislite", "smisle"],
+    "ukrainian_translation": "вигадати",
+    "example_sentence": "Smislio je izgovor u posljednji tren.",
+    "ukrainian_translation_sentence": "Він вигадав відмовку в останню хвилину."
+  },
+	{
+    "infinitive": "smjestiti",
+    "past_tense": ["smjestio", "smjestila", "smjestilo"],
+    "present_tense": ["smjestim", "smjestiš", "smjesti", "smjestimo", "smjestite", "smjeste"],
+    "ukrainian_translation": "розмістити",
+    "example_sentence": "Smjestili su goste u najbolje sobe hotela.",
+    "ukrainian_translation_sentence": "Вони розмістили гостей у найкращих кімнатах готелю."
+  },
+  {
+    "infinitive": "smrdjeti",
+    "past_tense": ["smrdio", "smrdjela", "smrdjelo"],
+    "present_tense": ["smrdim", "smrdiš", "smrdi", "smrdimo", "smrdite", "smrde"],
+    "ukrainian_translation": "смердіти",
+    "example_sentence": "Otpad je počeo smrdjeti zbog vrućine.",
+    "ukrainian_translation_sentence": "Відходи почали смердіти через спеку."
+  },
+  {
+    "infinitive": "snaći",
+    "past_tense": ["snašao", "snašla", "snašlo"],
+    "present_tense": ["snađem", "snađeš", "snađe", "snađemo", "snađete", "snađu"],
+    "ukrainian_translation": "впоратися",
+    "example_sentence": "Uvijek se snađe u teškim situacijama.",
+    "ukrainian_translation_sentence": "Він завжди впорається в складних ситуаціях."
+  },
+  {
+    "infinitive": "snižavati",
+    "past_tense": ["snižavao", "snižavala", "snižavalo"],
+    "present_tense": ["snižavam", "snižavaš", "snižava", "snižavamo", "snižavate", "snižavaju"],
+    "ukrainian_translation": "знижувати",
+    "example_sentence": "Trgovina snižava cijene na kraju sezone.",
+    "ukrainian_translation_sentence": "Магазин знижує ціни наприкінці сезону."
+  },
+  {
+    "infinitive": "snositi",
+    "past_tense": ["snosio", "snosila", "snosilo"],
+    "present_tense": ["snosim", "snosiš", "snosi", "snosimo", "snosite", "snose"],
+    "ukrainian_translation": "нести",
+    "example_sentence": "Mora snositi posljedice svojih odluka.",
+    "ukrainian_translation_sentence": "Мусить нести наслідки своїх рішень."
+  },
+  {
+    "infinitive": "šokirati",
+    "past_tense": ["šokirao", "šokirala", "šokiralo"],
+    "present_tense": ["šokiram", "šokiraš", "šokira", "šokiramo", "šokirate", "šokiraju"],
+    "ukrainian_translation": "шокувати",
+    "example_sentence": "Vijest je šokirala cijelu zajednicu.",
+    "ukrainian_translation_sentence": "Новина шокувала всю громаду."
+  },
+  {
+    "infinitive": "soliti",
+    "past_tense": ["solio", "solila", "solilo"],
+    "present_tense": ["solim", "soliš", "soli", "solimo", "solite", "sole"],
+    "ukrainian_translation": "солити",
+    "example_sentence": "Previše soliš hranu.",
+    "ukrainian_translation_sentence": "Ти занадто солиш їжу."
+  },
+  {
+    "infinitive": "spadati",
+    "past_tense": ["spadao", "spadala", "spadalo"],
+    "present_tense": ["spadam", "spadaš", "spada", "spadamo", "spadate", "spadaju"],
+    "ukrainian_translation": "відноситися",
+    "example_sentence": "To spada u njegovu odgovornost.",
+    "ukrainian_translation_sentence": "Це відноситься до його відповідальності."
+  },
+  {
+    "infinitive": "spajati",
+    "past_tense": ["spajao", "spajala", "spajalo"],
+    "present_tense": ["spajam", "spajaš", "spaja", "spajamo", "spajate", "spajaju"],
+    "ukrainian_translation": "з'єднувати",
+    "example_sentence": "Tehnologija spaja ljude iz različitih dijelova svijeta.",
+    "ukrainian_translation_sentence": "Технологія з'єднує людей з різних частин світу."
+  },
+  {
+    "infinitive": "spasiti",
+    "past_tense": ["spasio", "spasila", "spasilo"],
+    "present_tense": ["spasim", "spasiš", "spasi", "spasimo", "spasite", "spase"],
+    "ukrainian_translation": "врятувати",
+    "example_sentence": "Vatrogasci su spasili obitelj iz goruće kuće.",
+    "ukrainian_translation_sentence": "Пожежники врятували сім'ю з горілого будинку."
+  },
+	{
+    "infinitive": "spavati",
+    "past_tense": ["spavao", "spavala", "spavalo"],
+    "present_tense": ["spavam", "spavaš", "spava", "spavamo", "spavate", "spavaju"],
+    "ukrainian_translation": "спати",
+    "example_sentence": "Obično spava osam sati svake noći.",
+    "ukrainian_translation_sentence": "Зазвичай він спить вісім годин кожної ночі."
+  },
+  {
+    "infinitive": "spominjati",
+    "past_tense": ["spominjao", "spominjala", "spominjalo"],
+    "present_tense": ["spominjem", "spominješ", "spominje", "spominjemo", "spominjete", "spominju"],
+    "ukrainian_translation": "згадувати",
+    "example_sentence": "Često spominje svoje putovanje u Italiju.",
+    "ukrainian_translation_sentence": "Він часто згадує свою подорож до Італії."
+  },
+  {
+    "infinitive": "sprovesti",
+    "past_tense": ["sproveo", "sprovela", "sprovelo"],
+    "present_tense": ["sprovodim", "sprovodiš", "sprovodi", "sprovodimo", "sprovodite", "sprovode"],
+    "ukrainian_translation": "здійснити",
+    "example_sentence": "Sproveli su reforme u obrazovnom sistemu.",
+    "ukrainian_translation_sentence": "Вони здійснили реформи в освітній системі."
+  },
+  {
+    "infinitive": "sprovoditi",
+    "past_tense": ["sprovodio", "sprovodila", "sprovodilo"],
+    "present_tense": ["sprovodim", "sprovodiš", "sprovodi", "sprovodimo", "sprovodite", "sprovode"],
+    "ukrainian_translation": "проводити",
+    "example_sentence": "Sprovode istraživanje o novim tehnologijama.",
+    "ukrainian_translation_sentence": "Вони проводять дослідження нових технологій."
+  },
+  {
+    "infinitive": "spržiti",
+    "past_tense": ["spržio", "spržila", "spržilo"],
+    "present_tense": ["spržim", "spržiš", "sprži", "spržimo", "spržite", "sprže"],
+    "ukrainian_translation": "спалити",
+    "example_sentence": "Spržio je ručak zaboravivši ga na vatri.",
+    "ukrainian_translation_sentence": "Він спалив обід, забувши його на вогні."
+  },
+  {
+    "infinitive": "spustiti",
+    "past_tense": ["spustio", "spustila", "spustilo"],
+    "present_tense": ["spustim", "spustiš", "spusti", "spustimo", "spustite", "spuste"],
+    "ukrainian_translation": "опустити",
+    "example_sentence": "Spustili su zastavu u znak žalosti.",
+    "ukrainian_translation_sentence": "Вони опустили прапор на знак жалоби."
+  },
+  {
+    "infinitive": "sramiti",
+    "past_tense": ["sramio", "sramila", "sramilo"],
+    "present_tense": ["sramim", "sramiš", "srami", "sramimo", "sramite", "srame"],
+    "ukrainian_translation": "соромити",
+    "example_sentence": "Nikada se ne srami svojih skromnih početaka.",
+    "ukrainian_translation_sentence": "Він ніколи не соромиться свого скромного початку."
+  },
+  {
+    "infinitive": "sramotiti",
+    "past_tense": ["sramotio", "sramotila", "sramotilo"],
+    "present_tense": ["sramotim", "sramotiš", "sramoti", "sramotimo", "sramotite", "sramote"],
+    "ukrainian_translation": "ганьбити",
+    "example_sentence": "Odbio je sudjelovati u aktivnostima koje sramote njegovu profesiju.",
+    "ukrainian_translation_sentence": "Він відмовився брати участь в діяльності, яка ганьбить його професію."
+  },
+  {
+    "infinitive": "stagnirati",
+    "past_tense": ["stagnirao", "stagnirala", "stagniralo"],
+    "present_tense": ["stagniram", "stagniraš", "stagnira", "stagniramo", "stagnirate", "stagniraju"],
+    "ukrainian_translation": "стагнувати",
+    "example_sentence": "Prodaja je počela stagnirati zbog nedostatka inovacija.",
+    "ukrainian_translation_sentence": "Продажі почали стагнувати через брак інновацій."
+  },
+  {
+    "infinitive": "stavljati",
+    "past_tense": ["stavljao", "stavljala", "stavljalo"],
+    "present_tense": ["stavljam", "stavljaš", "stavlja", "stavljamo", "stavljate", "stavljaju"],
+    "ukrainian_translation": "ставити",
+    "example_sentence": "Stavljao je knjige na police cijelo popodne.",
+    "ukrainian_translation_sentence": "Він ставив книги на полиці весь вечір."
+  },
+	{
+    "infinitive": "steći",
+    "past_tense": ["stečeo", "stečela", "stečelo"],
+    "present_tense": ["stečem", "stečeš", "steče", "stečemo", "stečete", "steču"],
+    "ukrainian_translation": "набути",
+    "example_sentence": "Stečeo je veliko iskustvo radeći u inozemstvu.",
+    "ukrainian_translation_sentence": "Він набув значного досвіду, працюючи за кордоном."
+  },
+  {
+    "infinitive": "šteti",
+    "past_tense": ["štetio", "štetila", "štetilo"],
+    "present_tense": ["štetime", "štetiš", "šteti", "štetimo", "štetite", "štete"],
+    "ukrainian_translation": "шкодити",
+    "example_sentence": "Previše sunca može štetiti koži.",
+    "ukrainian_translation_sentence": "Занадто багато сонця може шкодити шкірі."
+  },
+  {
+    "infinitive": "stezati",
+    "past_tense": ["stezao", "stezala", "stezalo"],
+    "present_tense": ["stežem", "stežeš", "steže", "stežemo", "stežete", "stežu"],
+    "ukrainian_translation": "стискати",
+    "example_sentence": "Stezao je remen kako bi popravio mehanizam.",
+    "ukrainian_translation_sentence": "Він стискав ремінь, щоб полагодити механізм."
+  },
+  {
+    "infinitive": "stići",
+    "past_tense": ["stigao", "stigla", "stiglo"],
+    "present_tense": ["stignem", "stigneš", "stigne", "stignemo", "stignete", "stignu"],
+    "ukrainian_translation": "досягти",
+    "example_sentence": "Stigao je na sastanak upravo na vrijeme.",
+    "ukrainian_translation_sentence": "Він дістався на зустріч саме вчасно."
+  },
+  {
+    "infinitive": "stisnuti",
+    "past_tense": ["stisnuo", "stisnula", "stisnulo"],
+    "present_tense": ["stisnem", "stisneš", "stisne", "stisnemo", "stisnete", "stisnu"],
+    "ukrainian_translation": "стиснути",
+    "example_sentence": "Stisnuo je ruku u znak zahvalnosti.",
+    "ukrainian_translation_sentence": "Він стиснув руку на знак подяки."
+  },
+  {
+    "infinitive": "štititi",
+    "past_tense": ["štitio", "štitila", "štitilo"],
+    "present_tense": ["štitim", "štiš", "štiti", "štitimo", "štitite", "štite"],
+    "ukrainian_translation": "захищати",
+    "example_sentence": "Zakon bi trebao štititi prava potrošača.",
+    "ukrainian_translation_sentence": "Закон має захищати права споживачів."
+  },
+  {
+    "infinitive": "stizati",
+    "past_tense": ["stizao", "stizala", "stizalo"],
+    "present_tense": ["stizem", "stizeš", "stize", "stizemo", "stizete", "stizu"],
+    "ukrainian_translation": "досягати",
+    "example_sentence": "Pisma stižu redovito svakog tjedna.",
+    "ukrainian_translation_sentence": "Листи регулярно доходять кожного тижня."
+  },
+  {
+    "infinitive": "strahovati",
+    "past_tense": ["strahovao", "strahovala", "strahovalo"],
+    "present_tense": ["strahujem", "strahuješ", "strahuje", "strahujemo", "strahujete", "strahuju"],
+    "ukrainian_translation": "боятися",
+    "example_sentence": "Strahovao je od posljedica svojih postupaka.",
+    "ukrainian_translation_sentence": "Він боявся наслідків своїх дій."
+  },
+  {
+    "infinitive": "štrajkati",
+    "past_tense": ["štrajkao", "štrajkala", "štrajkalo"],
+    "present_tense": ["štrajkam", "štrajkaš", "štrajka", "štrajkamo", "štrajkate", "štrajkaju"],
+    "ukrainian_translation": "страйкувати",
+    "example_sentence": "Radnici su štrajkali za bolje uvjete rada.",
+    "ukrainian_translation_sentence": "Робітники страйкували за кращі умови праці."
+  },
+  {
+    "infinitive": "stupiti",
+    "past_tense": ["stupio", "stupila", "stupilo"],
+    "present_tense": ["stupim", "stupiš", "stupi", "stupimo", "stupite", "stupe"],
+    "ukrainian_translation": "вступити",
+    "example_sentence": "Stupio je u novu ulogu s velikim entuzijazmom.",
+    "ukrainian_translation_sentence": "Він вступив на нову посаду з великим ентузіазмом."
+  },
+	{
+    "infinitive": "stvoriti",
+    "past_tense": ["stvorio", "stvorila", "stvorilo"],
+    "present_tense": ["stvaram", "stvaraš", "stvara", "stvaramo", "stvarate", "stvaraju"],
+    "ukrainian_translation": "створити",
+    "example_sentence": "Stvorio je uspješan posao iz ničega.",
+    "ukrainian_translation_sentence": "Він створив успішний бізнес з нічого."
+  },
+  {
+    "infinitive": "sudariti",
+    "past_tense": ["sudario", "sudarila", "sudarilo"],
+    "present_tense": ["sudarim", "sudariš", "sudari", "sudarimo", "sudarite", "sudare"],
+    "ukrainian_translation": "зіткнутися",
+    "example_sentence": "Dva automobila su se sudarila na raskrižju.",
+    "ukrainian_translation_sentence": "Два автомобілі зіткнулися на перехресті."
+  },
+  {
+    "infinitive": "sudjelovati",
+    "past_tense": ["sudjelovao", "sudjelovala", "sudjelovalo"],
+    "present_tense": ["sudjelujem", "sudjeluješ", "sudjeluje", "sudjelujemo", "sudjelujete", "sudjeluju"],
+    "ukrainian_translation": "брати участь",
+    "example_sentence": "Sudjelovali su na međunarodnoj konferenciji.",
+    "ukrainian_translation_sentence": "Вони брали участь у міжнародній конференції."
+  },
+  {
+    "infinitive": "sumnjičiti",
+    "past_tense": ["sumnjičio", "sumnjičila", "sumnjičilo"],
+    "present_tense": ["sumnjičim", "sumnjičiš", "sumnjiči", "sumnjičimo", "sumnjičite", "sumnjiče"],
+    "ukrainian_translation": "підозрювати",
+    "example_sentence": "Sumnjičili su ga za krađu, ali nije bilo dokaza.",
+    "ukrainian_translation_sentence": "Його підозрювали у крадіжці, але доказів не було."
+  },
+  {
+    "infinitive": "sunčati",
+    "past_tense": ["sunčao", "sunčala", "sunčalo"],
+    "present_tense": ["sunčam", "sunčaš", "sunča", "sunčamo", "sunčate", "sunčaju"],
+    "ukrainian_translation": "засмагати",
+    "example_sentence": "Sunčali su se na plaži cijeli dan.",
+    "ukrainian_translation_sentence": "Вони засмагали на пляжі весь день."
+  },
+  {
+    "infinitive": "suosjećati",
+    "past_tense": ["suosjećao", "suosjećala", "suosjećalo"],
+    "present_tense": ["suosjećam", "suosjećaš", "suosjeća", "suosjećamo", "suosjećate", "suosjećaju"],
+    "ukrainian_translation": "співчувати",
+    "example_sentence": "Suosjećali su s obiteljima žrtava.",
+    "ukrainian_translation_sentence": "Вони співчували родинам жертв."
+  },
+  {
+    "infinitive": "suspendirati",
+    "past_tense": ["suspendirao", "suspendirala", "suspendiralo"],
+    "present_tense": ["suspendiram", "suspendiraš", "suspendira", "suspendiramo", "suspendirate", "suspendiraju"],
+    "ukrainian_translation": "призупинити",
+    "example_sentence": "Suspendirali su ga s dužnosti dok traje istraga.",
+    "ukrainian_translation_sentence": "Його призупинили в обов'язках під час розслідування."
+  },
+  {
+    "infinitive": "susresti",
+    "past_tense": ["sreo", "srela", "srelo"],
+    "present_tense": ["sretnem", "sretneš", "sretne", "sretnemo", "sretnete", "sretnu"],
+    "ukrainian_translation": "зустріти",
+    "example_sentence": "Susreo je starog prijatelja na ulici.",
+    "ukrainian_translation_sentence": "Він зустрів старого друга на вулиці."
+  },
+  {
+    "infinitive": "sustići",
+    "past_tense": ["sustigao", "sustigla", "sustiglo"],
+    "present_tense": ["sustižem", "sustižeš", "sustiže", "sustižemo", "sustižete", "sustižu"],
+    "ukrainian_translation": "наздогнати",
+    "example_sentence": "Sustigao je vodećeg trkača neposredno prije cilja.",
+    "ukrainian_translation_sentence": "Він наздогнав лідера перегонів безпосередньо перед фінішем."
+  },
+  {
+    "infinitive": "šutjeti",
+    "past_tense": ["šutio", "šutila", "šutilo"],
+    "present_tense": ["šutim", "šutiš", "šuti", "šutimo", "šutite", "šute"],
+    "ukrainian_translation": "мовчати",
+    "example_sentence": "Cijelo vrijeme je šutio o svojim planovima.",
+    "ukrainian_translation_sentence": "Він увесь час мовчав про свої плани."
+  },
+	{
+    "infinitive": "svađati",
+    "past_tense": ["svađao", "svađala", "svađalo"],
+    "present_tense": ["svađam", "svađaš", "svađa", "svađamo", "svađate", "svađaju"],
+    "ukrainian_translation": "сваритися",
+    "example_sentence": "Često se svađaju zbog sitnica.",
+    "ukrainian_translation_sentence": "Вони часто сваряться через дрібниці."
+  },
+  {
+    "infinitive": "svanuti",
+    "past_tense": ["svanuo", "svanula", "svanulo"],
+    "present_tense": ["svanem", "svaneš", "svane", "svanemo", "svanete", "svanu"],
+    "ukrainian_translation": "світанок",
+    "example_sentence": "Svanulo je ranije nego što su očekivali.",
+    "ukrainian_translation_sentence": "Світанок настав раніше, ніж вони очікували."
+  },
+  {
+    "infinitive": "svetiti",
+    "past_tense": ["svetio", "svetila", "svetilo"],
+    "present_tense": ["svetim", "svetiš", "sveti", "svetimo", "svetite", "svete"],
+    "ukrainian_translation": "мститися",
+    "example_sentence": "Odbio je svetiti se za nanesenu nepravdu.",
+    "ukrainian_translation_sentence": "Він відмовився мститися за завдану кривду."
+  },
+  {
+    "infinitive": "svidjeti",
+    "past_tense": ["svidio", "svidjela", "svidjelo"],
+    "present_tense": ["svidim", "svidiš", "svidi", "svidimo", "svidite", "svidi"],
+    "ukrainian_translation": "подобатися",
+    "example_sentence": "Novi film im se jako svidio.",
+    "ukrainian_translation_sentence": "Новий фільм їм дуже сподобався."
+  },
+  {
+    "infinitive": "svratiti",
+    "past_tense": ["svratio", "svratila", "svratilo"],
+    "present_tense": ["svratim", "svratiš", "svrati", "svratimo", "svratite", "svrate"],
+    "ukrainian_translation": "заглянути",
+    "example_sentence": "Svratio je kod prijatelja na putu kući.",
+    "ukrainian_translation_sentence": "Він заглянув до друга по дорозі додому."
+  },
+  {
+    "infinitive": "terorizirati",
+    "past_tense": ["terorizirao", "terorizirala", "teroriziralo"],
+    "present_tense": ["teroriziram", "teroriziraš", "terorizira", "teroriziramo", "terorizirate", "teroriziraju"],
+    "ukrainian_translation": "тероризувати",
+    "example_sentence": "Skupina je terorizirala lokalno stanovništvo.",
+    "ukrainian_translation_sentence": "Група тероризувала місцеве населення."
+  },
+  {
+    "infinitive": "ticati",
+    "past_tense": ["ticao", "ticala", "ticalo"],
+    "present_tense": ["tičem", "tičeš", "tiče", "tičemo", "tičete", "tiču"],
+    "ukrainian_translation": "стосуватися",
+    "example_sentence": "Odluka se tiče svih zaposlenih.",
+    "ukrainian_translation_sentence": "Рішення стосується всіх працівників."
+  }
+]

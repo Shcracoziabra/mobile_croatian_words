@@ -1,0 +1,352 @@
+[
+	{
+    "singular": "gliser",
+    "plural": "gliseri",
+    "ukrainian_translation": "глісер",
+    "example_sentence": "Brzi gliser prešao je more u kratkom vremenu.",
+    "ukrainian_translation_sentence": "Швидкий глісер перетнув море за короткий час."
+  },
+  {
+    "singular": "gljivica",
+    "plural": "gljivice",
+    "ukrainian_translation": "грибок",
+    "example_sentence": "Gljivice su uzrokovale infekciju na koži.",
+    "ukrainian_translation_sentence": "Грибок спричинив інфекцію на шкірі."
+  },
+  {
+    "singular": "glumište",
+    "plural": "glumišta",
+    "ukrainian_translation": "сцена",
+    "example_sentence": "Glumište je bilo puno gledatelja za večerašnju predstavu.",
+    "ukrainian_translation_sentence": "Сцена була переповнена глядачами на сьогоднішньому виступі."
+  },
+  {
+    "singular": "gnijezdo",
+    "plural": "gnijezda",
+    "ukrainian_translation": "гніздо",
+    "example_sentence": "Ptice su izgradile gnijezdo na drvetu.",
+    "ukrainian_translation_sentence": "Птахи звили гніздо на дереві."
+  },
+  {
+    "singular": "gnojivo",
+    "plural": "gnojiva",
+    "ukrainian_translation": "добриво",
+    "example_sentence": "Poljoprivrednici koriste gnojivo za poboljšanje rasta biljaka.",
+    "ukrainian_translation_sentence": "Фермери використовують добриво для поліпшення росту рослин."
+  },
+  {
+    "singular": "gospa",
+    "plural": "gospe",
+    "ukrainian_translation": "богородиця",
+    "example_sentence": "Molili su se Gospi u crkvi.",
+    "ukrainian_translation_sentence": "Вони молилися до Богородиці в церкві."
+  },
+  {
+    "singular": "gospodin",
+    "plural": "gospoda",
+    "ukrainian_translation": "пан",
+    "example_sentence": "Gospodin je bio vrlo ljubazan prema svima.",
+    "ukrainian_translation_sentence": "Пан був дуже привітним до всіх."
+  },
+  {
+    "singular": "govedina",
+    "plural": "govedine",
+    "ukrainian_translation": "яловичина",
+    "example_sentence": "Za večeru su pripremili pečenu govedinu.",
+    "ukrainian_translation_sentence": "На вечерю вони приготували печену яловичину."
+  },
+  {
+    "singular": "grad",
+    "plural": "gradovi",
+    "ukrainian_translation": "місто",
+    "example_sentence": "Zagreb je glavni grad Hrvatske.",
+    "ukrainian_translation_sentence": "Загреб — столиця Хорватії."
+  },
+  {
+    "singular": "građanka",
+    "plural": "građanke",
+    "ukrainian_translation": "громадянка",
+    "example_sentence": "Građanka je glasala na lokalnim izborima.",
+    "ukrainian_translation_sentence": "Громадянка проголосувала на місцевих виборах."
+  },
+	{
+    "singular": "greška",
+    "plural": "greške",
+    "ukrainian_translation": "помилка",
+    "example_sentence": "Napravio je grešku u izračunu.",
+    "ukrainian_translation_sentence": "Він зробив помилку в розрахунках."
+  },
+  {
+    "singular": "grijač",
+    "plural": "grijači",
+    "ukrainian_translation": "обігрівач",
+    "example_sentence": "Upalio je grijač jer je postalo hladno.",
+    "ukrainian_translation_sentence": "Він увімкнув обігрівач, бо стало холодно."
+  },
+  {
+    "singular": "grozd",
+    "plural": "grozdovi",
+    "ukrainian_translation": "гроно",
+    "example_sentence": "Ubrali su grozd grožđa s vinove loze.",
+    "ukrainian_translation_sentence": "Вони зірвали гроно винограду з лози."
+  },
+  {
+    "singular": "grožđe",
+    "plural": "grožđa",
+    "ukrainian_translation": "виноград",
+    "example_sentence": "Grožđe je bilo slatko i sočno.",
+    "ukrainian_translation_sentence": "Виноград був солодким і соковитим."
+  },
+  {
+    "singular": "grudnjak",
+    "plural": "grudnjaci",
+    "ukrainian_translation": "бюстгальтер",
+    "example_sentence": "Kupila je novi grudnjak u trgovini donjeg rublja.",
+    "ukrainian_translation_sentence": "Вона купила новий бюстгальтер у магазині нижньої білизни."
+  },
+  {
+    "singular": "gulaš",
+    "plural": "gulaši",
+    "ukrainian_translation": "гуляш",
+    "example_sentence": "Pripremili su ukusni gulaš za večeru.",
+    "ukrainian_translation_sentence": "Вони приготували смачний гуляш на вечерю."
+  },
+  {
+    "singular": "gutljaj",
+    "plural": "gutljaji",
+    "ukrainian_translation": "ковток",
+    "example_sentence": "Uzeo je gutljaj hladne vode nakon trčanja.",
+    "ukrainian_translation_sentence": "Він зробив ковток холодної води після бігу."
+  },
+  {
+    "singular": "haljinica",
+    "plural": "haljinice",
+    "ukrainian_translation": "сукня",
+    "example_sentence": "Djevojčica je nosila rozu haljinicu na proslavi.",
+    "ukrainian_translation_sentence": "Дівчинка носила рожеву сукню на святкуванні."
+  },
+  {
+    "singular": "havarija",
+    "plural": "havarije",
+    "ukrainian_translation": "аварія",
+    "example_sentence": "Zbog havarije na brodu, putovanje je prekinuto.",
+    "ukrainian_translation_sentence": "Через аварію на кораблі подорож була перервана."
+  },
+  {
+    "singular": "higijena",
+    "plural": "higijene",
+    "ukrainian_translation": "гігієна",
+    "example_sentence": "Osobna higijena je važna za zdravlje.",
+    "ukrainian_translation_sentence": "Особиста гігієна важлива для здоров'я."
+  },
+	{
+    "singular": "hijerarhija",
+    "plural": "hijerarhije",
+    "ukrainian_translation": "ієрархія",
+    "example_sentence": "Hijerarhija u tvrtki je jasno definirana.",
+    "ukrainian_translation_sentence": "Ієрархія в компанії чітко визначена."
+  },
+  {
+    "singular": "hit",
+    "plural": "hitovi",
+    "ukrainian_translation": "хіт",
+    "example_sentence": "Njegova nova pjesma postala je hit u kratkom vremenu.",
+    "ukrainian_translation_sentence": "Його нова пісня швидко стала хітом."
+  },
+  {
+    "singular": "hlače",
+    "plural": "hlače",
+    "ukrainian_translation": "штани",
+    "example_sentence": "Kupio je nove hlače za posao.",
+    "ukrainian_translation_sentence": "Він купив нові штани для роботи."
+  },
+  {
+    "singular": "hlađenje",
+    "plural": "hlađenja",
+    "ukrainian_translation": "охолодження",
+    "example_sentence": "Uređaj za hlađenje održava sobu ugodno hladnom.",
+    "ukrainian_translation_sentence": "Пристрій для охолодження підтримує приємну прохолоду в кімнаті."
+  },
+  {
+    "singular": "hobi",
+    "plural": "hobiji",
+    "ukrainian_translation": "хобі",
+    "example_sentence": "Njegov hobi je skupljanje starih kovanica.",
+    "ukrainian_translation_sentence": "Його хобі — це збирання старих монет."
+  },
+  {
+    "singular": "hokejaš",
+    "plural": "hokejaši",
+    "ukrainian_translation": "хокеїст",
+    "example_sentence": "Hokejaši su odigrali odličnu utakmicu.",
+    "ukrainian_translation_sentence": "Хокеїсти провели чудовий матч."
+  },
+  {
+    "singular": "homoseksualnost",
+    "plural": "homoseksualnosti",
+    "ukrainian_translation": "гомосексуальність",
+    "example_sentence": "Diskusija o homoseksualnosti postala je tema u medijima.",
+    "ukrainian_translation_sentence": "Дискусія про гомосексуальність стала темою у ЗМІ."
+  },
+  {
+    "singular": "hotelijer",
+    "plural": "hotelijeri",
+    "ukrainian_translation": "готельєр",
+    "example_sentence": "Hotelijeri su zadovoljni ovogodišnjom sezonom.",
+    "ukrainian_translation_sentence": "Готельєри задоволені цьогорічним сезоном."
+  },
+  {
+    "singular": "hrana",
+    "plural": "hrane",
+    "ukrainian_translation": "їжа",
+    "example_sentence": "Hrana je bila ukusna i raznovrsna.",
+    "ukrainian_translation_sentence": "Їжа була смачною та різноманітною."
+  },
+  {
+    "singular": "imanje",
+    "plural": "imanja",
+    "ukrainian_translation": "майно",
+    "example_sentence": "Njegovo imanje obuhvaća veliki vinograd.",
+    "ukrainian_translation_sentence": "Його майно включає великий виноградник."
+  },
+	{
+    "singular": "implantat",
+    "plural": "implantati",
+    "ukrainian_translation": "імплантат",
+    "example_sentence": "Zubni implantati mogu zamijeniti izgubljene zube.",
+    "ukrainian_translation_sentence": "Зубні імплантати можуть замінити втрачені зуби."
+  },
+  {
+    "singular": "inat",
+    "plural": "inati",
+    "ukrainian_translation": "впертість",
+    "example_sentence": "Iz inata je odbio poslušati savjet.",
+    "ukrainian_translation_sentence": "Зі впертості він відмовився слухати пораду."
+  },
+  {
+    "singular": "individualac",
+    "plural": "individualci",
+    "ukrainian_translation": "індивідуаліст",
+    "example_sentence": "On je poznat kao pravi individualac u svom poslu.",
+    "ukrainian_translation_sentence": "Його знають як справжнього індивідуаліста у своїй роботі."
+  },
+  {
+    "singular": "infrastruktura",
+    "plural": "infrastrukture",
+    "ukrainian_translation": "інфраструктура",
+    "example_sentence": "Nova cestovna infrastruktura olakšala je promet u gradu.",
+    "ukrainian_translation_sentence": "Нова дорожня інфраструктура полегшила рух у місті."
+  },
+  {
+    "singular": "infuzija",
+    "plural": "infuzije",
+    "ukrainian_translation": "інфузія",
+    "example_sentence": "Pacijent je primio infuziju nakon operacije.",
+    "ukrainian_translation_sentence": "Пацієнт отримав інфузію після операції."
+  },
+  {
+    "singular": "inicijator",
+    "plural": "inicijatori",
+    "ukrainian_translation": "ініціатор",
+    "example_sentence": "On je bio inicijator ovog velikog projekta.",
+    "ukrainian_translation_sentence": "Він був ініціатором цього великого проєкту."
+  },
+  {
+    "singular": "inozemstvo",
+    "plural": "inozemstva",
+    "ukrainian_translation": "закордон",
+    "example_sentence": "Planira studirati u inozemstvu sljedeće godine.",
+    "ukrainian_translation_sentence": "Він планує навчатися за кордоном наступного року."
+  },
+  {
+    "singular": "insekt",
+    "plural": "insekti",
+    "ukrainian_translation": "комаха",
+    "example_sentence": "Insekti su se pojavili u vrtu nakon kiše.",
+    "ukrainian_translation_sentence": "Комахи з'явилися в саду після дощу."
+  },
+  {
+    "singular": "instaliranje",
+    "plural": "instaliranja",
+    "ukrainian_translation": "встановлення",
+    "example_sentence": "Instaliranje novog softvera trajalo je sat vremena.",
+    "ukrainian_translation_sentence": "Встановлення нового програмного забезпечення зайняло годину."
+  },
+  {
+    "singular": "instinkt",
+    "plural": "instinkti",
+    "ukrainian_translation": "інстинкт",
+    "example_sentence": "Njegov instinkt ga je vodio kroz opasne situacije.",
+    "ukrainian_translation_sentence": "Його інстинкт вів його через небезпечні ситуації."
+  },
+	{
+    "singular": "institucija",
+    "plural": "institucije",
+    "ukrainian_translation": "установа",
+    "example_sentence": "Ta institucija je ključna za obrazovni sustav.",
+    "ukrainian_translation_sentence": "Ця установа є ключовою для освітньої системи."
+  },
+  {
+    "singular": "intencija",
+    "plural": "intencije",
+    "ukrainian_translation": "наміри",
+    "example_sentence": "Njegove intencije su bile jasne od početka.",
+    "ukrainian_translation_sentence": "Його наміри були зрозумілими від самого початку."
+  },
+  {
+    "singular": "intervju",
+    "plural": "intervjui",
+    "ukrainian_translation": "інтерв'ю",
+    "example_sentence": "Danas ima važan intervju za posao.",
+    "ukrainian_translation_sentence": "Сьогодні у нього важливе інтерв'ю на роботу."
+  },
+  {
+    "singular": "intuicija",
+    "plural": "intuicije",
+    "ukrainian_translation": "інтуїція",
+    "example_sentence": "Njegova intuicija mu je rekla da je nešto pogrešno.",
+    "ukrainian_translation_sentence": "Його інтуїція підказала йому, що щось не так."
+  },
+  {
+    "singular": "invalidnost",
+    "plural": "invalidnosti",
+    "ukrainian_translation": "інвалідність",
+    "example_sentence": "Invalidnost ne sprječava ljude da postignu velike stvari.",
+    "ukrainian_translation_sentence": "Інвалідність не заважає людям досягати великих цілей."
+  },
+  {
+    "singular": "inventar",
+    "plural": "inventari",
+    "ukrainian_translation": "інвентар",
+    "example_sentence": "Inventar u skladištu je ažuriran prošlog mjeseca.",
+    "ukrainian_translation_sentence": "Інвентар на складі було оновлено минулого місяця."
+  },
+  {
+    "singular": "iscrpljenost",
+    "plural": "iscrpljenosti",
+    "ukrainian_translation": "виснаження",
+    "example_sentence": "Osjetio je iscrpljenost nakon dugog radnog dana.",
+    "ukrainian_translation_sentence": "Він відчув виснаження після тривалого робочого дня."
+  },
+  {
+    "singular": "iskaznica",
+    "plural": "iskaznice",
+    "ukrainian_translation": "посвідчення",
+    "example_sentence": "Potrebna vam je iskaznica za ulazak u zgradu.",
+    "ukrainian_translation_sentence": "Вам потрібне посвідчення для входу в будівлю."
+  },
+  {
+    "singular": "isključenje",
+    "plural": "isključenja",
+    "ukrainian_translation": "відключення",
+    "example_sentence": "Isključenje struje trajalo je nekoliko sati.",
+    "ukrainian_translation_sentence": "Відключення електрики тривало кілька годин."
+  },
+	{
+    "singular": "isparavanje",
+    "plural": "isparavanja",
+    "ukrainian_translation": "випаровування",
+    "example_sentence": "Isparavanje vode je prirodan proces.",
+    "ukrainian_translation_sentence": "Випаровування води — це природний процес."
+  }
+]

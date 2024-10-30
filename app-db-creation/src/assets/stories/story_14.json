@@ -1,0 +1,138 @@
+{
+  "title_hr": "Posjet liječniku zbog prehlade",
+  "title_uk": "Візит до лікаря через застуду",
+  "illustration": "story_14.png",
+  "text": [
+    {
+      "hr": "Bilo je to kišno jutro kada je Marija odlučila posjetiti liječnika.",
+      "uk": "Був дощовий ранок, коли Марія вирішила відвідати лікаря."
+    },
+    {
+      "hr": "Već nekoliko dana osjećala je bol u grlu, povremeno kašljala i osjećala umor.",
+      "uk": "Вона кілька днів відчувала біль у горлі, періодично кашляла і відчувала втому."
+    },
+    {
+      "hr": "Znala je da bi bilo najbolje otići na pregled kako bi bila sigurna da nije ništa ozbiljno.",
+      "uk": "Вона знала, що краще піти на огляд, щоб бути впевненою, що це нічого серйозного."
+    },
+    {
+      "hr": "Nazvala je ambulantu i dogovorila termin s obiteljskim liječnikom.",
+      "uk": "Вона зателефонувала в амбулаторію і домовилася про прийом у сімейного лікаря."
+    },
+    {
+      "hr": "Kada je stigla u ordinaciju, dočekala ju je medicinska sestra na recepciji.",
+      "uk": "Коли вона прибула в кабінет, її зустріла медсестра на рецепції."
+    },
+    {
+      "hr": "\"Dobar dan, izvolite,\" rekla je sestra s osmijehom.",
+      "uk": "\"Доброго дня, чим можу допомогти?\" – сказала медсестра з усмішкою."
+    },
+    {
+      "hr": "Marija je uzvratila pozdrav i objasnila da ima zakazan pregled kod doktora Petrovića.",
+      "uk": "Марія відповіла на привітання і пояснила, що має призначений прийом у лікаря Петровича."
+    },
+    {
+      "hr": "Sestra je provjerila njezin termin u računalu i rekla: \"Samo trenutak, sjednite i doktor će vas uskoro primiti.\"",
+      "uk": "Медсестра перевірила її запис у комп'ютері і сказала: \"Хвилинку, сідайте, і лікар скоро вас прийме.\""
+    },
+    {
+      "hr": "Nakon nekoliko minuta čekanja, iz ordinacije se začuo glas: \"Marija, izvolite ući!\"",
+      "uk": "Через кілька хвилин з кабінету почувся голос: \"Маріє, заходьте!\""
+    },
+    {
+      "hr": "Liječnik Petrović sjedio je za stolom, s naočalama na nosu, pregledavajući pacijentovu dokumentaciju.",
+      "uk": "Лікар Петрович сидів за столом, у окулярах на носі, переглядаючи документацію пацієнтів."
+    },
+    {
+      "hr": "\"Dobar dan, Marija. Kako se danas osjećate?\" upitao je, podižući pogled s papira.",
+      "uk": "\"Доброго дня, Маріє. Як ви себе сьогодні почуваєте?\" – запитав він, піднімаючи погляд від паперів."
+    },
+    {
+      "hr": "Marija je objasnila da već nekoliko dana ima bolove u grlu, povremeno kašlje i osjeća umor.",
+      "uk": "Марія пояснила, що вже кілька днів відчуває біль у горлі, періодично кашляє і відчуває втому."
+    },
+    {
+      "hr": "Liječnik je odmahnuo glavom i rekao: \"Dobro, prvo ćemo vas pregledati.\"",
+      "uk": "Лікар похитав головою і сказав: \"Добре, спершу ми вас оглянемо.\""
+    },
+    {
+      "hr": "\"Recite mi, jeste li mjerili temperaturu kod kuće?\"",
+      "uk": "\"Скажіть, ви вимірювали температуру вдома?\""
+    },
+    {
+      "hr": "Marija je kimnula glavom. \"Da, jučer sam imala 37.8, što nije previše, ali me zabrinjava jer se osjećam slabije nego inače.\"",
+      "uk": "Марія кивнула головою. \"Так, вчора у мене була 37.8, що не дуже висока, але мене турбує, бо я відчуваю слабкість.\""
+    },
+    {
+      "hr": "Liječnik je uzeo stetoskop i pregledao Marijina pluća.",
+      "uk": "Лікар узяв стетоскоп і оглянув легені Марії."
+    },
+    {
+      "hr": "\"Pluća zvuče čisto, što je dobra vijest,\" rekao je doktor Petrović.",
+      "uk": "\"Легені звучать чисто, що є хорошою новиною,\" сказав лікар Петрович."
+    },
+    {
+      "hr": "Zatim je pregledao njeno grlo i izmjerio temperaturu.",
+      "uk": "Потім він оглянув її горло і виміряв температуру."
+    },
+    {
+      "hr": "\"Temperatura je 37.5, nije alarmantno, ali treba pripaziti,\" rekao je.",
+      "uk": "\"Температура 37.5, це не критично, але варто бути обережною,\" сказав він."
+    },
+    {
+      "hr": "\"Imate li još kakvih simptoma, poput glavobolje ili bolova u mišićima?\"",
+      "uk": "\"Чи є ще якісь симптоми, такі як головний біль або біль у м’язах?\""
+    },
+    {
+      "hr": "Marija je odgovorila da ima blagu glavobolju, ali ništa ozbiljno.",
+      "uk": "Марія відповіла, що має легкий головний біль, але нічого серйозного."
+    },
+    {
+      "hr": "Liječnik je zatim pregledao trbuh i limfne čvorove.",
+      "uk": "Лікар оглянув живіт і лімфатичні вузли."
+    },
+    {
+      "hr": "\"Mislim da se radi o blagoj virusnoj infekciji,\" rekao je doktor.",
+      "uk": "\"Я думаю, що це легка вірусна інфекція,\" сказав лікар."
+    },
+    {
+      "hr": "Marija je uzdahnula s olakšanjem.",
+      "uk": "Марія з полегшенням зітхнула."
+    },
+    {
+      "hr": "\"Preporučujem vam odmor i puno tekućine,\" dodao je doktor.",
+      "uk": "\"Рекомендую вам відпочинок і багато рідини,\" додав лікар."
+    },
+    {
+      "hr": "Marija je zahvalila liječniku i krenula prema izlazu osjećajući se bolje.",
+      "uk": "Марія подякувала лікарю і попрямувала до виходу, відчуваючи себе краще."
+    }
+  ],
+  "vocabulary": [
+    {"hr": "liječnik", "uk": "лікар"},
+    {"hr": "pregled", "uk": "огляд"},
+    {"hr": "bol u grlu", "uk": "біль у горлі"},
+    {"hr": "kašalj", "uk": "кашель"},
+    {"hr": "umor", "uk": "втома"},
+    {"hr": "temperatura", "uk": "температура"},
+    {"hr": "virusna infekcija", "uk": "вірусна інфекція"},
+    {"hr": "grlo", "uk": "горло"},
+    {"hr": "pluća", "uk": "легені"},
+    {"hr": "stetoskop", "uk": "стетоскоп"},
+    {"hr": "limfni čvorovi", "uk": "лімфатичні вузли"},
+    {"hr": "glavobolja", "uk": "головний біль"},
+    {"hr": "mišići", "uk": "м'язи"},
+    {"hr": "trbuh", "uk": "живіт"},
+    {"hr": "pregled", "uk": "огляд"},
+    {"hr": "odmor", "uk": "відпочинок"},
+    {"hr": "tekućina", "uk": "рідина"},
+    {"hr": "ambulanta", "uk": "амбулаторія"},
+    {"hr": "medicinska sestra", "uk": "медсестра"},
+    {"hr": "recept", "uk": "рецепт"},
+    {"hr": "pastile", "uk": "пастилки"},
+    {"hr": "sprej za grlo", "uk": "спрей для горла"},
+    {"hr": "povišena temperatura", "uk": "підвищена температура"},
+    {"hr": "zakazati termin", "uk": "призначити прийом"},
+    {"hr": "simptomi", "uk": "симптоми"}
+  ]
+}

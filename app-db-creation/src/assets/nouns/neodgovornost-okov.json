@@ -1,0 +1,352 @@
+[
+	{
+    "singular": "neodgovornost",
+    "plural": "neodgovornosti",
+    "ukrainian_translation": "безвідповідальність",
+    "example_sentence": "Njegova neodgovornost u poslu dovela je do problema.",
+    "ukrainian_translation_sentence": "Його безвідповідальність на роботі призвела до проблем."
+  },
+  {
+    "singular": "nepogoda",
+    "plural": "nepogode",
+    "ukrainian_translation": "негоди",
+    "example_sentence": "Velika nepogoda pogodila je priobalna područja.",
+    "ukrainian_translation_sentence": "Велика негода обрушилася на прибережні райони."
+  },
+  {
+    "singular": "nepostojanje",
+    "plural": "nepostojanja",
+    "ukrainian_translation": "відсутність",
+    "example_sentence": "Nepostojanje dokaza nije olakšalo istragu.",
+    "ukrainian_translation_sentence": "Відсутність доказів не полегшила розслідування."
+  },
+  {
+    "singular": "neslaganje",
+    "plural": "neslaganja",
+    "ukrainian_translation": "незгода",
+    "example_sentence": "Njihovo neslaganje oko politike dovelo je do svađe.",
+    "ukrainian_translation_sentence": "Їхня незгода щодо політики призвела до сварки."
+  },
+  {
+    "singular": "nestanak",
+    "plural": "nestanci",
+    "ukrainian_translation": "зникнення",
+    "example_sentence": "Policija istražuje nestanak osobe.",
+    "ukrainian_translation_sentence": "Поліція розслідує зникнення людини."
+  },
+  {
+    "singular": "netrpeljivost",
+    "plural": "netrpeljivosti",
+    "ukrainian_translation": "нетерпимість",
+    "example_sentence": "Netrpeljivost prema drugačijima stvara konflikte u društvu.",
+    "ukrainian_translation_sentence": "Нетерпимість до інших створює конфлікти в суспільстві."
+  },
+  {
+    "singular": "neugodnost",
+    "plural": "neugodnosti",
+    "ukrainian_translation": "незручність",
+    "example_sentence": "Osjetila je neugodnost kad je morala govoriti pred publikom.",
+    "ukrainian_translation_sentence": "Вона відчула незручність, коли довелося виступати перед публікою."
+  },
+	{
+    "singular": "neven",
+    "plural": "neveni",
+    "ukrainian_translation": "нагідки",
+    "example_sentence": "Neven je cvijet koji se često koristi u ljekovite svrhe.",
+    "ukrainian_translation_sentence": "Нагідки — це квітка, яку часто використовують у лікувальних цілях."
+  },
+  {
+    "singular": "nevjesta",
+    "plural": "nevjeste",
+    "ukrainian_translation": "наречена",
+    "example_sentence": "Nevjesta je izgledala prelijepo na svom vjenčanju.",
+    "ukrainian_translation_sentence": "Наречена виглядала чудово на своєму весіллі."
+  },
+  {
+    "singular": "neznanje",
+    "plural": "neznanja",
+    "ukrainian_translation": "невігластво",
+    "example_sentence": "Njegovo neznanje o temi bilo je očito.",
+    "ukrainian_translation_sentence": "Його невігластво щодо теми було очевидним."
+  },
+  {
+    "singular": "nikotin",
+    "plural": "nikotini",
+    "ukrainian_translation": "нікотин",
+    "example_sentence": "Nikotin je glavna tvar koja izaziva ovisnost kod pušenja.",
+    "ukrainian_translation_sentence": "Нікотин — це головна речовина, яка викликає залежність від куріння."
+  },
+  {
+    "singular": "njuška",
+    "plural": "njuške",
+    "ukrainian_translation": "морда",
+    "example_sentence": "Pas je pomirisao sve oko sebe svojom njuškom.",
+    "ukrainian_translation_sentence": "Пес обнюхав усе навколо своєю мордою."
+  },
+  {
+    "singular": "normalizacija",
+    "plural": "normalizacije",
+    "ukrainian_translation": "нормалізація",
+    "example_sentence": "Normalizacija odnosa između dviju zemalja donijela je mir.",
+    "ukrainian_translation_sentence": "Нормалізація відносин між двома країнами принесла мир."
+  },
+  {
+    "singular": "nosač",
+    "plural": "nosači",
+    "ukrainian_translation": "носій",
+    "example_sentence": "Nosač je pomogao s prtljagom na aerodromu.",
+    "ukrainian_translation_sentence": "Носій допоміг з багажем в аеропорту."
+  },
+  {
+    "singular": "nosivost",
+    "plural": "nosivosti",
+    "ukrainian_translation": "вантажопідйомність",
+    "example_sentence": "Nosivost mosta je ograničena na 20 tona.",
+    "ukrainian_translation_sentence": "Вантажопідйомність мосту обмежена 20 тоннами."
+  },
+  {
+    "singular": "nošnja",
+    "plural": "nošnje",
+    "ukrainian_translation": "одяг",
+    "example_sentence": "Tradicionalna nošnja ovog kraja je bogato ukrašena.",
+    "ukrainian_translation_sentence": "Традиційний одяг цього краю багатий на прикраси."
+  },
+  {
+    "singular": "novac",
+    "plural": "novci",
+    "ukrainian_translation": "гроші",
+    "example_sentence": "Potrošio je sav novac na putovanje.",
+    "ukrainian_translation_sentence": "Він витратив усі гроші на подорож."
+  },
+  {
+    "singular": "novčić",
+    "plural": "novčići",
+    "ukrainian_translation": "монета",
+    "example_sentence": "Pronašao je staru novčić na dnu ladice.",
+    "ukrainian_translation_sentence": "Він знайшов стару монету на дні шухляди."
+  },
+  {
+    "singular": "novogradnja",
+    "plural": "novogradnje",
+    "ukrainian_translation": "новобудова",
+    "example_sentence": "U tijeku je izgradnja nove novogradnje u centru grada.",
+    "ukrainian_translation_sentence": "Будівництво новобудови в центрі міста триває."
+  },
+  {
+    "singular": "nužda",
+    "plural": "nužde",
+    "ukrainian_translation": "необхідність",
+    "example_sentence": "U slučaju nužde, pozovite hitnu pomoć.",
+    "ukrainian_translation_sentence": "У разі необхідності викличте швидку допомогу."
+  },
+  {
+    "singular": "obala",
+    "plural": "obale",
+    "ukrainian_translation": "узбережжя",
+    "example_sentence": "Šetali su obalom i uživali u pogledu na more.",
+    "ukrainian_translation_sentence": "Вони гуляли узбережжям і насолоджувалися видом на море."
+  },
+  {
+    "singular": "obećanje",
+    "plural": "obećanja",
+    "ukrainian_translation": "обіцянка",
+    "example_sentence": "Dao joj je obećanje da će je posjetiti.",
+    "ukrainian_translation_sentence": "Він пообіцяв їй, що відвідає її."
+  },
+  {
+    "singular": "obitelj",
+    "plural": "obitelji",
+    "ukrainian_translation": "сім'я",
+    "example_sentence": "Obitelj je najvažnija u njegovom životu.",
+    "ukrainian_translation_sentence": "Сім'я — найважливіше у його житті."
+  },
+  {
+    "singular": "objektiv",
+    "plural": "objektivi",
+    "ukrainian_translation": "об'єктив",
+    "example_sentence": "Fotograf je koristio širokokutni objektiv za snimanje pejzaža.",
+    "ukrainian_translation_sentence": "Фотограф використовував ширококутний об'єктив для зйомки пейзажів."
+  },
+  {
+    "singular": "oblikovanje",
+    "plural": "oblikovanja",
+    "ukrainian_translation": "формування",
+    "example_sentence": "Oblikovanje nove strategije zahtijeva puno truda.",
+    "ukrainian_translation_sentence": "Формування нової стратегії потребує багато зусиль."
+  },
+  {
+    "singular": "obmana",
+    "plural": "obmane",
+    "ukrainian_translation": "обман",
+    "example_sentence": "Njegova obmana bila je otkrivena kasnije.",
+    "ukrainian_translation_sentence": "Його обман був розкритий пізніше."
+  },
+  {
+    "singular": "obnavljanje",
+    "plural": "obnavljanja",
+    "ukrainian_translation": "відновлення",
+    "example_sentence": "Obnavljanje stare zgrade trajalo je nekoliko mjeseci.",
+    "ukrainian_translation_sentence": "Відновлення старої будівлі тривало кілька місяців."
+  },
+	{
+    "singular": "obožavatelj",
+    "plural": "obožavatelji",
+    "ukrainian_translation": "шанувальник",
+    "example_sentence": "Obožavatelji su čekali satima kako bi dobili autogram od svog omiljenog pjevača.",
+    "ukrainian_translation_sentence": "Шанувальники чекали годинами, щоб отримати автограф від свого улюбленого співака."
+  },
+  {
+    "singular": "obred",
+    "plural": "obredi",
+    "ukrainian_translation": "обряд",
+    "example_sentence": "Tradicionalni vjerski obred održan je u crkvi.",
+    "ukrainian_translation_sentence": "Традиційний релігійний обряд відбувся в церкві."
+  },
+  {
+    "singular": "očaj",
+    "plural": "očaji",
+    "ukrainian_translation": "відчай",
+    "example_sentence": "Osjetila je dubok očaj nakon što je izgubila posao.",
+    "ukrainian_translation_sentence": "Вона відчула глибокий відчай після втрати роботи."
+  },
+  {
+    "singular": "očitovanje",
+    "plural": "očitovanja",
+    "ukrainian_translation": "прояв",
+    "example_sentence": "Njegovo očitovanje nezadovoljstva bilo je vidljivo u njegovom ponašanju.",
+    "ukrainian_translation_sentence": "Його прояв незадоволення був помітний у його поведінці."
+  },
+  {
+    "singular": "odbacivanje",
+    "plural": "odbacivanja",
+    "ukrainian_translation": "відмова",
+    "example_sentence": "Odbacivanje prijedloga izazvalo je nezadovoljstvo među zaposlenicima.",
+    "ukrainian_translation_sentence": "Відмова від пропозиції викликала незадоволення серед співробітників."
+  },
+  {
+    "singular": "odbitak",
+    "plural": "odbitci",
+    "ukrainian_translation": "вирахування",
+    "example_sentence": "Porezni odbitak omogućuje smanjenje ukupnog iznosa poreza.",
+    "ukrainian_translation_sentence": "Податкове вирахування дозволяє зменшити загальну суму податку."
+  },
+  {
+    "singular": "odgovor",
+    "plural": "odgovori",
+    "ukrainian_translation": "відповідь",
+    "example_sentence": "Njegov odgovor na pitanje bio je vrlo jasan.",
+    "ukrainian_translation_sentence": "Його відповідь на питання була дуже чіткою."
+  },
+  {
+    "singular": "odigravanje",
+    "plural": "odigravanja",
+    "ukrainian_translation": "проведення",
+    "example_sentence": "Odigravanje finalne utakmice očekuje se u nedjelju.",
+    "ukrainian_translation_sentence": "Проведення фінальної гри очікується в неділю."
+  },
+  {
+    "singular": "odijelo",
+    "plural": "odijela",
+    "ukrainian_translation": "костюм",
+    "example_sentence": "Obukao je crno odijelo za važan sastanak.",
+    "ukrainian_translation_sentence": "Він одягнув чорний костюм на важливу зустріч."
+  },
+  {
+    "singular": "odjava",
+    "plural": "odjave",
+    "ukrainian_translation": "виписка",
+    "example_sentence": "Odjava iz hotela treba biti do 12 sati.",
+    "ukrainian_translation_sentence": "Виписка з готелю повинна бути до 12 години."
+  },
+  {
+    "singular": "odmazda",
+    "plural": "odmazde",
+    "ukrainian_translation": "помста",
+    "example_sentence": "Odmazda je bila brz i brutalan odgovor na napad.",
+    "ukrainian_translation_sentence": "Помста була швидкою і жорстокою відповіддю на напад."
+  },
+  {
+    "singular": "odmorište",
+    "plural": "odmorišta",
+    "ukrainian_translation": "місце для відпочинку",
+    "example_sentence": "Zaustavili su se na odmorištu tijekom dugog putovanja.",
+    "ukrainian_translation_sentence": "Вони зупинилися на місці для відпочинку під час довгої подорожі."
+  },
+  {
+    "singular": "odnos",
+    "plural": "odnosi",
+    "ukrainian_translation": "відносини",
+    "example_sentence": "Njihov odnos postajao je sve složeniji s vremenom.",
+    "ukrainian_translation_sentence": "Їхні відносини з часом ставали дедалі складнішими."
+  },
+  {
+    "singular": "odraz",
+    "plural": "odrazi",
+    "ukrainian_translation": "відображення",
+    "example_sentence": "Njegovo ponašanje je odraz njegovih vrijednosti.",
+    "ukrainian_translation_sentence": "Його поведінка — це відображення його цінностей."
+  },
+  {
+    "singular": "odrednica",
+    "plural": "odrednice",
+    "ukrainian_translation": "орієнтир",
+    "example_sentence": "Ova knjiga postala je ključna odrednica za istraživanje.",
+    "ukrainian_translation_sentence": "Ця книга стала ключовим орієнтиром для дослідження."
+  },
+  {
+    "singular": "odvjetnik",
+    "plural": "odvjetnici",
+    "ukrainian_translation": "адвокат",
+    "example_sentence": "Odvjetnik ga je zastupao na sudu.",
+    "ukrainian_translation_sentence": "Адвокат представляв його в суді."
+  },
+  {
+    "singular": "odvjetništvo",
+    "plural": "odvjetništva",
+    "ukrainian_translation": "адвокатура",
+    "example_sentence": "Odvjetništvo je pružalo pravne savjete tijekom procesa.",
+    "ukrainian_translation_sentence": "Адвокатура надавала правові поради під час процесу."
+  },
+  {
+    "singular": "odziv",
+    "plural": "odzivi",
+    "ukrainian_translation": "відгук",
+    "example_sentence": "Odziv publike na predstavu bio je izvanredan.",
+    "ukrainian_translation_sentence": "Відгук публіки на виставу був надзвичайний."
+  },
+  {
+    "singular": "ograničenje",
+    "plural": "ograničenja",
+    "ukrainian_translation": "обмеження",
+    "example_sentence": "Ograničenje brzine na cesti iznosi 50 kilometara na sat.",
+    "ukrainian_translation_sentence": "Обмеження швидкості на дорозі становить 50 кілометрів на годину."
+  },
+  {
+    "singular": "ograničenost",
+    "plural": "ograničenosti",
+    "ukrainian_translation": "обмеженість",
+    "example_sentence": "Ograničenost resursa postavlja izazove za rast tvrtke.",
+    "ukrainian_translation_sentence": "Обмеженість ресурсів створює виклики для зростання компанії."
+  },
+	{
+    "singular": "ohrabrenje",
+    "plural": "ohrabrenja",
+    "ukrainian_translation": "заохочення",
+    "example_sentence": "Dobio je veliko ohrabrenje od prijatelja prije ispita.",
+    "ukrainian_translation_sentence": "Він отримав велике заохочення від друзів перед іспитом."
+  },
+  {
+    "singular": "okolina",
+    "plural": "okoline",
+    "ukrainian_translation": "навколишнє середовище",
+    "example_sentence": "Okolina je igrala važnu ulogu u njegovom odrastanju.",
+    "ukrainian_translation_sentence": "Навколишнє середовище відіграло важливу роль у його дорослішанні."
+  },
+  {
+    "singular": "okov",
+    "plural": "okovi",
+    "ukrainian_translation": "кайдани",
+    "example_sentence": "Slomio je okove i pobjegao iz zatočeništva.",
+    "ukrainian_translation_sentence": "Він зламав кайдани і втік із полону."
+  }
+]

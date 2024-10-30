@@ -1,0 +1,345 @@
+[
+	{
+    "singular": "vlas",
+    "plural": "vlasi",
+    "ukrainian_translation": "волосина",
+    "example_sentence": "Na njegovoj glavi nije ostala nijedna vlas nakon kemoterapije.",
+    "ukrainian_translation_sentence": "Після хіміотерапії на його голові не залишилося жодної волосини."
+  },
+  {
+    "singular": "vodovod",
+    "plural": "vodovodi",
+    "ukrainian_translation": "водопровід",
+    "example_sentence": "Gradski vodovod bio je zatvoren zbog popravka.",
+    "ukrainian_translation_sentence": "Міський водопровід було закрито через ремонт."
+  },
+  {
+    "singular": "vojarna",
+    "plural": "vojarne",
+    "ukrainian_translation": "казарма",
+    "example_sentence": "Vojnici su se vratili u vojarnu nakon dugog marša.",
+    "ukrainian_translation_sentence": "Солдати повернулися в казарму після довгого маршу."
+  },
+  {
+    "singular": "vol",
+    "plural": "volovi",
+    "ukrainian_translation": "віл",
+    "example_sentence": "Volovi su vukli težak teret kroz polje.",
+    "ukrainian_translation_sentence": "Воли тягнули важкий вантаж через поле."
+  },
+  {
+    "singular": "volan",
+    "plural": "volani",
+    "ukrainian_translation": "кермо",
+    "example_sentence": "Držao je volan čvrsto dok je vozio kroz oluju.",
+    "ukrainian_translation_sentence": "Він міцно тримав кермо, коли їхав під час бурі."
+  },
+  {
+    "singular": "vrećica",
+    "plural": "vrećice",
+    "ukrainian_translation": "пакет",
+    "example_sentence": "Stavio je povrće u vrećicu na tržnici.",
+    "ukrainian_translation_sentence": "Він поклав овочі в пакет на ринку."
+  },
+  {
+    "singular": "vrijeme",
+    "plural": "vremena",
+    "ukrainian_translation": "час",
+    "example_sentence": "Vrijeme brzo prolazi kada se zabavljaš.",
+    "ukrainian_translation_sentence": "Час швидко минає, коли весело проводиш час."
+  },
+  {
+    "singular": "vrlina",
+    "plural": "vrline",
+    "ukrainian_translation": "чеснота",
+    "example_sentence": "Njegova najveća vrlina bila je iskrenost.",
+    "ukrainian_translation_sentence": "Його найбільшою чеснотою була щирість."
+  },
+  {
+    "singular": "vrsta",
+    "plural": "vrste",
+    "ukrainian_translation": "вид",
+    "example_sentence": "Ova vrsta ptica živi samo u tropskim krajevima.",
+    "ukrainian_translation_sentence": "Цей вид птахів мешкає тільки в тропічних регіонах."
+  },
+  {
+    "singular": "vuča",
+    "plural": "vuče",
+    "ukrainian_translation": "тяга",
+    "example_sentence": "Auto ima pogon na sve kotače i snažnu vuču.",
+    "ukrainian_translation_sentence": "Автомобіль має повний привід і потужну тягу."
+  },
+  {
+    "singular": "zadovoljština",
+    "plural": "zadovoljštine",
+    "ukrainian_translation": "задоволення",
+    "example_sentence": "Pravna zadovoljština postignuta je nakon dugog sudskog procesa.",
+    "ukrainian_translation_sentence": "Правове задоволення було досягнуто після тривалого судового процесу."
+  },
+	{
+    "singular": "zajednica",
+    "plural": "zajednice",
+    "ukrainian_translation": "спільнота",
+    "example_sentence": "Lokalna zajednica organizirala je humanitarnu akciju.",
+    "ukrainian_translation_sentence": "Місцева спільнота організувала благодійну акцію."
+  },
+  {
+    "singular": "zakon",
+    "plural": "zakoni",
+    "ukrainian_translation": "закон",
+    "example_sentence": "Novi zakon o sigurnosti rada stupio je na snagu.",
+    "ukrainian_translation_sentence": "Новий закон про охорону праці набрав чинності."
+  },
+  {
+    "singular": "zaljubljenik",
+    "plural": "zaljubljenici",
+    "ukrainian_translation": "прихильник",
+    "example_sentence": "Zaljubljenici u prirodu često posjećuju planine.",
+    "ukrainian_translation_sentence": "Прихильники природи часто відвідують гори."
+  },
+  {
+    "singular": "zamisao",
+    "plural": "zamisi",
+    "ukrainian_translation": "ідея",
+    "example_sentence": "Njegova zamisao o projektu bila je vrlo kreativna.",
+    "ukrainian_translation_sentence": "Його ідея про проєкт була дуже креативною."
+  },
+  {
+    "singular": "zamolba",
+    "plural": "zamolbe",
+    "ukrainian_translation": "заява",
+    "example_sentence": "Poslao je zamolbu za posao u novu tvrtku.",
+    "ukrainian_translation_sentence": "Він надіслав заяву на роботу до нової компанії."
+  },
+  {
+    "singular": "zanimacija",
+    "plural": "zanimacije",
+    "ukrainian_translation": "розвага",
+    "example_sentence": "Čitanje knjiga bila je njegova omiljena zanimacija.",
+    "ukrainian_translation_sentence": "Читання книг було його улюбленою розвагою."
+  },
+  {
+    "singular": "zapažanje",
+    "plural": "zapažanja",
+    "ukrainian_translation": "спостереження",
+    "example_sentence": "Njegova zapažanja o ponašanju ptica bila su vrlo precizna.",
+    "ukrainian_translation_sentence": "Його спостереження за поведінкою птахів були дуже точними."
+  },
+  {
+    "singular": "zapis",
+    "plural": "zapisi",
+    "ukrainian_translation": "запис",
+    "example_sentence": "Zapis razgovora bio je važan dokaz na sudu.",
+    "ukrainian_translation_sentence": "Запис розмови був важливим доказом у суді."
+  },
+  {
+    "singular": "zapovjedništvo",
+    "plural": "zapovjedništva",
+    "ukrainian_translation": "командування",
+    "example_sentence": "Zapovjedništvo vojske izdalo je novu naredbu.",
+    "ukrainian_translation_sentence": "Командування армії видало новий наказ."
+  },
+  {
+    "singular": "zapremnina",
+    "plural": "zapremnine",
+    "ukrainian_translation": "ємність",
+    "example_sentence": "Zapremnina spremnika bila je dovoljna za cijeli dan.",
+    "ukrainian_translation_sentence": "Ємність бака була достатньою на цілий день."
+  },
+  {
+    "singular": "žarulja",
+    "plural": "žarulje",
+    "ukrainian_translation": "лампочка",
+    "example_sentence": "Zamijenio je staru žarulju novom kako bi soba bila bolje osvijetljena.",
+    "ukrainian_translation_sentence": "Він замінив стару лампочку на нову, щоб у кімнаті було більше світла."
+  },
+  {
+    "singular": "zasjedanje",
+    "plural": "zasjedanja",
+    "ukrainian_translation": "засідання",
+    "example_sentence": "Zasjedanje parlamenta trajalo je do kasno u noć.",
+    "ukrainian_translation_sentence": "Засідання парламенту тривало до пізньої ночі."
+  },
+  {
+    "singular": "zastara",
+    "plural": "zastare",
+    "ukrainian_translation": "строк давності",
+    "example_sentence": "Zastara za taj slučaj je već istekla.",
+    "ukrainian_translation_sentence": "Строк давності за цією справою вже закінчився."
+  },
+  {
+    "singular": "zastupanje",
+    "plural": "zastupanja",
+    "ukrainian_translation": "представництво",
+    "example_sentence": "Zastupanje klijenata na sudu zahtijeva visoku stručnost.",
+    "ukrainian_translation_sentence": "Представництво клієнтів у суді вимагає високого професіоналізму."
+  },
+  {
+    "singular": "zavist",
+    "plural": "zavisti",
+    "ukrainian_translation": "заздрість",
+    "example_sentence": "Osjetio je zavist prema kolegi koji je dobio promaknuće.",
+    "ukrainian_translation_sentence": "Він відчув заздрість до колеги, який отримав підвищення."
+  },
+  {
+    "singular": "zavođenje",
+    "plural": "zavođenja",
+    "ukrainian_translation": "спокушання",
+    "example_sentence": "Njegovo zavođenje bilo je suptilno i šarmantno.",
+    "ukrainian_translation_sentence": "Його спокушання було витонченим і чарівним."
+  },
+  {
+    "singular": "zbrinjavanje",
+    "plural": "zbrinjavanja",
+    "ukrainian_translation": "догляд",
+    "example_sentence": "Zbrinjavanje starijih osoba zahtijeva posebnu pažnju i brigu.",
+    "ukrainian_translation_sentence": "Догляд за літніми людьми вимагає особливої уваги і турботи."
+  },
+  {
+    "singular": "žbuka",
+    "plural": "žbuke",
+    "ukrainian_translation": "штукатурка",
+    "example_sentence": "Žbuka na staroj zgradi počela je otpasti nakon oluje.",
+    "ukrainian_translation_sentence": "Штукатурка на старій будівлі почала відпадати після бурі."
+  },
+  {
+    "singular": "zdenac",
+    "plural": "zdenci",
+    "ukrainian_translation": "колодязь",
+    "example_sentence": "Zdenac je bio glavni izvor vode za cijelo selo.",
+    "ukrainian_translation_sentence": "Колодязь був основним джерелом води для всього села."
+  },
+  {
+    "singular": "zec",
+    "plural": "zečevi",
+    "ukrainian_translation": "заєць",
+    "example_sentence": "Zec je brzo trčao kroz polje i sakrio se u grmlju.",
+    "ukrainian_translation_sentence": "Заєць швидко біг через поле і сховався в кущах."
+  },
+	{
+    "singular": "zelje",
+    "plural": "zelja",
+    "ukrainian_translation": "капуста",
+    "example_sentence": "Zelje je glavni sastojak za mnoge tradicionalne recepte.",
+    "ukrainian_translation_sentence": "Капуста є головним інгредієнтом для багатьох традиційних рецептів."
+  },
+  {
+    "singular": "željezara",
+    "plural": "željezare",
+    "ukrainian_translation": "металургійний завод",
+    "example_sentence": "Željezara u tom gradu zapošljava stotine radnika.",
+    "ukrainian_translation_sentence": "Металургійний завод у цьому місті забезпечує роботою сотні працівників."
+  },
+  {
+    "singular": "željezničar",
+    "plural": "željezničari",
+    "ukrainian_translation": "залізничник",
+    "example_sentence": "Moj djed je bio željezničar i radio je na vlaku više od trideset godina.",
+    "ukrainian_translation_sentence": "Мій дід був залізничником і працював на поїзді понад тридцять років."
+  },
+  {
+    "singular": "željezo",
+    "plural": "željeza",
+    "ukrainian_translation": "залізо",
+    "example_sentence": "Željezo je važno za izgradnju jakih konstrukcija.",
+    "ukrainian_translation_sentence": "Залізо важливе для будівництва міцних конструкцій."
+  },
+  {
+    "singular": "zemljovid",
+    "plural": "zemljovidi",
+    "ukrainian_translation": "карта",
+    "example_sentence": "Proučavao je zemljovid kako bi pronašao najbolji put do odredišta.",
+    "ukrainian_translation_sentence": "Він вивчав карту, щоб знайти найкращий шлях до пункту призначення."
+  },
+  {
+    "singular": "ženidba",
+    "plural": "ženidbe",
+    "ukrainian_translation": "шлюб",
+    "example_sentence": "Njihova ženidba bila je jednostavna, ali puna ljubavi.",
+    "ukrainian_translation_sentence": "Їхній шлюб був простим, але сповненим любові."
+  },
+  {
+    "singular": "ženstvenost",
+    "plural": "ženstvenosti",
+    "ukrainian_translation": "жіночність",
+    "example_sentence": "Njena ženstvenost bila je očaravajuća.",
+    "ukrainian_translation_sentence": "Її жіночність була чарівною."
+  },
+  {
+    "singular": "zet",
+    "plural": "zetovi",
+    "ukrainian_translation": "зять",
+    "example_sentence": "Moj zet je izvrstan kuhar.",
+    "ukrainian_translation_sentence": "Мій зять — чудовий кухар."
+  },
+  {
+    "singular": "zid",
+    "plural": "zidovi",
+    "ukrainian_translation": "стіна",
+    "example_sentence": "Zidovi stare kuće trebali su renovaciju.",
+    "ukrainian_translation_sentence": "Стіни старого будинку потребували ремонту."
+  },
+  {
+    "singular": "živac",
+    "plural": "živci",
+    "ukrainian_translation": "нерв",
+    "example_sentence": "Oštećenje živca može izazvati ozbiljne zdravstvene probleme.",
+    "ukrainian_translation_sentence": "Пошкодження нерва може викликати серйозні проблеми зі здоров'ям."
+  },
+  {
+    "singular": "zločinac",
+    "plural": "zločinci",
+    "ukrainian_translation": "злочинець",
+    "example_sentence": "Policija je konačno uhvatila zloglasnog zločinca.",
+    "ukrainian_translation_sentence": "Поліція нарешті зловила відомого злочинця."
+  },
+  {
+    "singular": "znamenka",
+    "plural": "znamenke",
+    "ukrainian_translation": "цифра",
+    "example_sentence": "Svaka znamenka u broju igra važnu ulogu u matematici.",
+    "ukrainian_translation_sentence": "Кожна цифра в числі відіграє важливу роль у математиці."
+  },
+  {
+    "singular": "znanje",
+    "plural": "znanja",
+    "ukrainian_translation": "знання",
+    "example_sentence": "Njegovo znanje o povijesti bilo je impresivno.",
+    "ukrainian_translation_sentence": "Його знання з історії були вражаючими."
+  },
+  {
+    "singular": "znanstvenica",
+    "plural": "znanstvenice",
+    "ukrainian_translation": "вчена",
+    "example_sentence": "Znanstvenica je radila na istraživanju novih lijekova.",
+    "ukrainian_translation_sentence": "Вчена працювала над дослідженням нових ліків."
+  },
+  {
+    "singular": "zrak",
+    "plural": "zrakovi",
+    "ukrainian_translation": "повітря",
+    "example_sentence": "Svjež zrak na planini bio je osvježavajući.",
+    "ukrainian_translation_sentence": "Свіже повітря на горі було освіжаючим."
+  },
+  {
+    "singular": "zrcalo",
+    "plural": "zrcala",
+    "ukrainian_translation": "дзеркало",
+    "example_sentence": "Pogledao se u zrcalo prije nego što je izašao iz kuće.",
+    "ukrainian_translation_sentence": "Він подивився в дзеркало перед тим, як вийти з дому."
+  },
+  {
+    "singular": "zub",
+    "plural": "zubi",
+    "ukrainian_translation": "зуб",
+    "example_sentence": "Otišao je zubaru zbog bola u zubu.",
+    "ukrainian_translation_sentence": "Він пішов до стоматолога через біль у зубі."
+  },
+  {
+    "singular": "zvonik",
+    "plural": "zvonici",
+    "ukrainian_translation": "дзвіниця",
+    "example_sentence": "Zvonik crkve dominirao je nad gradom.",
+    "ukrainian_translation_sentence": "Дзвіниця церкви домінувала над містом."
+  }
+]

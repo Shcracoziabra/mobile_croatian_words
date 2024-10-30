@@ -1,0 +1,402 @@
+[
+  {
+    "maskuline": "malobrojan",
+    "feminine": "malobrojna",
+    "neutrum": "malobrojno",
+    "ukrainian_translation": "нечисленний",
+    "example_sentence": "Malobrojna skupina učenika sudjelovala je na natjecanju.",
+    "ukrainian_translation_sentence": "Нечисленна група учнів брала участь у змаганні."
+  },
+  {
+    "maskuline": "maloljetan",
+    "feminine": "maloljetna",
+    "neutrum": "maloljetno",
+    "ukrainian_translation": "неповнолітній",
+    "example_sentence": "Maloljetna osoba treba dozvolu roditelja za putovanje.",
+    "ukrainian_translation_sentence": "Неповнолітня особа потребує дозволу батьків для подорожі."
+  },
+  {
+    "maskuline": "manjinski",
+    "feminine": "manjinska",
+    "neutrum": "manjinsko",
+    "ukrainian_translation": "меншинний",
+    "example_sentence": "Manjinske skupine zatražile su veća prava.",
+    "ukrainian_translation_sentence": "Групи меншин вимагали більше прав."
+  },
+  {
+    "maskuline": "manjkav",
+    "feminine": "manjkava",
+    "neutrum": "manjkavo",
+    "ukrainian_translation": "дефектний",
+    "example_sentence": "Manjkav proizvod mora biti vraćen u tvornicu.",
+    "ukrainian_translation_sentence": "Дефектний товар повинен бути повернутий на завод."
+  },
+  {
+    "maskuline": "marginalan",
+    "feminine": "marginalna",
+    "neutrum": "marginalno",
+    "ukrainian_translation": "маргінальний",
+    "example_sentence": "Marginalne grupe često nemaju pristup resursima.",
+    "ukrainian_translation_sentence": "Маргінальні групи часто не мають доступу до ресурсів."
+  },
+  {
+    "maskuline": "marketinški",
+    "feminine": "marketinška",
+    "neutrum": "marketinško",
+    "ukrainian_translation": "маркетинговий",
+    "example_sentence": "Marketinški tim je osmislio novu kampanju.",
+    "ukrainian_translation_sentence": "Маркетингова команда розробила нову кампанію."
+  },
+  {
+    "maskuline": "marljiv",
+    "feminine": "marljiva",
+    "neutrum": "marljivo",
+    "ukrainian_translation": "працьовитий",
+    "example_sentence": "Marljiv radnik uvijek postiže dobre rezultate.",
+    "ukrainian_translation_sentence": "Працьовитий працівник завжди досягає добрих результатів."
+  },
+  {
+    "maskuline": "masovan",
+    "feminine": "masovna",
+    "neutrum": "masovno",
+    "ukrainian_translation": "масовий",
+    "example_sentence": "Masovni protesti održani su diljem zemlje.",
+    "ukrainian_translation_sentence": "Масові протести відбулися по всій країні."
+  },
+  {
+    "maskuline": "materinji",
+    "feminine": "materinja",
+    "neutrum": "materinje",
+    "ukrainian_translation": "рідний",
+    "example_sentence": "Njegov materinji jezik je hrvatski.",
+    "ukrainian_translation_sentence": "Його рідна мова – хорватська."
+  },
+  {
+    "maskuline": "medicinski",
+    "feminine": "medicinska",
+    "neutrum": "medicinsko",
+    "ukrainian_translation": "медичний",
+    "example_sentence": "Medicinski tim brzo je reagirao na hitni slučaj.",
+    "ukrainian_translation_sentence": "Медична команда швидко відреагувала на екстрений випадок."
+  },
+  {
+    "maskuline": "međuljudski",
+    "feminine": "međuljudska",
+    "neutrum": "međuljudsko",
+    "ukrainian_translation": "міжособистісний",
+    "example_sentence": "Međuljudski odnosi su ključni za uspjeh tima.",
+    "ukrainian_translation_sentence": "Міжособистісні стосунки є ключовими для успіху команди."
+  },
+  {
+    "maskuline": "međunarodni",
+    "feminine": "međunarodna",
+    "neutrum": "međunarodno",
+    "ukrainian_translation": "міжнародний",
+    "example_sentence": "Održan je međunarodni simpozij o znanosti.",
+    "ukrainian_translation_sentence": "Було проведено міжнародний симпозіум з науки."
+  },
+  {
+    "maskuline": "mehanički",
+    "feminine": "mehanička",
+    "neutrum": "mehaničko",
+    "ukrainian_translation": "механічний",
+    "example_sentence": "Mehanički kvar je uzrokovao kašnjenje vlaka.",
+    "ukrainian_translation_sentence": "Механічна несправність спричинила затримку поїзда."
+  },
+  {
+    "maskuline": "mekan",
+    "feminine": "mekana",
+    "neutrum": "mekano",
+    "ukrainian_translation": "м'який",
+    "example_sentence": "Mekan jastuk omogućuje udoban san.",
+    "ukrainian_translation_sentence": "М'яка подушка забезпечує комфортний сон."
+  },
+  {
+    "maskuline": "menstrualni",
+    "feminine": "menstrualna",
+    "neutrum": "menstrualno",
+    "ukrainian_translation": "менструальний",
+    "example_sentence": "Menstrualni ciklus može varirati između žena.",
+    "ukrainian_translation_sentence": "Менструальний цикл може відрізнятися у жінок."
+  },
+  {
+    "maskuline": "mesni",
+    "feminine": "mesna",
+    "neutrum": "mesno",
+    "ukrainian_translation": "м'ясний",
+    "example_sentence": "Kupili smo mesni proizvod u lokalnoj mesnici.",
+    "ukrainian_translation_sentence": "Ми купили м'ясний продукт у місцевій м'ясній лавці."
+  },
+  {
+    "maskuline": "metabolički",
+    "feminine": "metabolička",
+    "neutrum": "metaboličko",
+    "ukrainian_translation": "метаболічний",
+    "example_sentence": "Metabolički poremećaji mogu utjecati na zdravlje.",
+    "ukrainian_translation_sentence": "Метаболічні порушення можуть впливати на здоров'я."
+  },
+  {
+    "maskuline": "metalan",
+    "feminine": "metalna",
+    "neutrum": "metalno",
+    "ukrainian_translation": "металевий",
+    "example_sentence": "Metalna ograda postavljena je oko dvorišta.",
+    "ukrainian_translation_sentence": "Металева огорожа встановлена навколо двору."
+  },
+  {
+    "maskuline": "meteorološki",
+    "feminine": "meteorološka",
+    "neutrum": "meteorološko",
+    "ukrainian_translation": "метеорологічний",
+    "example_sentence": "Meteorološka prognoza najavljuje kišu za vikend.",
+    "ukrainian_translation_sentence": "Метеорологічний прогноз обіцяє дощ на вихідні."
+  },
+  {
+    "maskuline": "militantan",
+    "feminine": "militantna",
+    "neutrum": "militantno",
+    "ukrainian_translation": "мілітарний",
+    "example_sentence": "Militantne skupine često pribjegavaju nasilju.",
+    "ukrainian_translation_sentence": "Мілітарні групи часто вдаються до насильства."
+  },
+  {
+    "maskuline": "milosrdan",
+    "feminine": "milosrdna",
+    "neutrum": "milosrdno",
+    "ukrainian_translation": "милосердний",
+    "example_sentence": "Milosrdan čin spasio je mnoge živote.",
+    "ukrainian_translation_sentence": "Милосердний вчинок врятував багато життів."
+  },
+  {
+    "maskuline": "milostiv",
+    "feminine": "milostiva",
+    "neutrum": "milostivo",
+    "ukrainian_translation": "милостивий",
+    "example_sentence": "Bog je milostiv prema svojim vjernicima.",
+    "ukrainian_translation_sentence": "Бог милостивий до своїх вірян."
+  },
+  {
+    "maskuline": "mineralan",
+    "feminine": "mineralna",
+    "neutrum": "mineralno",
+    "ukrainian_translation": "мінеральний",
+    "example_sentence": "Mineralna voda je popularan napitak.",
+    "ukrainian_translation_sentence": "Мінеральна вода — популярний напій."
+  },
+  {
+    "maskuline": "minijaturan",
+    "feminine": "minijaturna",
+    "neutrum": "minijaturno",
+    "ukrainian_translation": "мініатюрний",
+    "example_sentence": "Minijaturni modeli automobila izloženi su na sajmu.",
+    "ukrainian_translation_sentence": "Мініатюрні моделі автомобілів були виставлені на ярмарку."
+  },
+  {
+    "maskuline": "minimalan",
+    "feminine": "minimalna",
+    "neutrum": "minimalno",
+    "ukrainian_translation": "мінімальний",
+    "example_sentence": "Minimalna plaća u zemlji iznosi 3000 kuna.",
+    "ukrainian_translation_sentence": "Мінімальна зарплата в країні становить 3000 кун."
+  },
+  {
+    "maskuline": "minski",
+    "feminine": "minska",
+    "neutrum": "minsko",
+    "ukrainian_translation": "мінний",
+    "example_sentence": "Minska polja su opasna i trebaju biti očišćena.",
+    "ukrainian_translation_sentence": "Мінні поля є небезпечними і потребують розмінування."
+  },
+  {
+    "maskuline": "mirisan",
+    "feminine": "mirisna",
+    "neutrum": "mirisno",
+    "ukrainian_translation": "ароматний",
+    "example_sentence": "Mirisna svijeća stvara ugodnu atmosferu u sobi.",
+    "ukrainian_translation_sentence": "Ароматна свічка створює приємну атмосферу в кімнаті."
+  },
+  {
+    "maskuline": "mirovni",
+    "feminine": "mirovna",
+    "neutrum": "mirovno",
+    "ukrainian_translation": "миротворчий",
+    "example_sentence": "Mirovni pregovori donijeli su primirje.",
+    "ukrainian_translation_sentence": "Миротворчі переговори принесли перемир'я."
+  },
+  {
+    "maskuline": "misteriozan",
+    "feminine": "misteriozna",
+    "neutrum": "misteriozno",
+    "ukrainian_translation": "загадковий",
+    "example_sentence": "Njegova misteriozna prošlost fascinirala je sve prisutne.",
+    "ukrainian_translation_sentence": "Його загадкове минуле захопило всіх присутніх."
+  },
+  {
+    "maskuline": "mjerljiv",
+    "feminine": "mjerljiva",
+    "neutrum": "mjerljivo",
+    "ukrainian_translation": "вимірюваний",
+    "example_sentence": "Uspjeh projekta je mjerljiv kroz ostvarene ciljeve.",
+    "ukrainian_translation_sentence": "Успіх проєкту вимірюваний через досягнуті цілі."
+  },
+  {
+    "maskuline": "mlađahan",
+    "feminine": "mlađahna",
+    "neutrum": "mlađahno",
+    "ukrainian_translation": "молодий",
+    "example_sentence": "Njegov mlađahan izgled zavarava mnoge ljude.",
+    "ukrainian_translation_sentence": "Його молодий вигляд обманює багатьох людей."
+  },
+  {
+    "maskuline": "mladenački",
+    "feminine": "mladenačka",
+    "neutrum": "mladenačko",
+    "ukrainian_translation": "молодіжний",
+    "example_sentence": "Ima mladenački duh i energiju.",
+    "ukrainian_translation_sentence": "Він має молодіжний дух і енергію."
+  },
+  {
+    "maskuline": "močvaran",
+    "feminine": "močvarna",
+    "neutrum": "močvarno",
+    "ukrainian_translation": "болотяний",
+    "example_sentence": "Močvarni teren je bio težak za prolaz.",
+    "ukrainian_translation_sentence": "Болотяна місцевість була важкою для проходу."
+  },
+  {
+    "maskuline": "moderan",
+    "feminine": "moderna",
+    "neutrum": "moderno",
+    "ukrainian_translation": "сучасний",
+    "example_sentence": "Stan je uređen u modernom stilu.",
+    "ukrainian_translation_sentence": "Квартира оформлена в сучасному стилі."
+  },
+  {
+    "maskuline": "modni",
+    "feminine": "modna",
+    "neutrum": "modno",
+    "ukrainian_translation": "модний",
+    "example_sentence": "Modni časopis objavio je novu kolekciju za proljeće.",
+    "ukrainian_translation_sentence": "Модний журнал опублікував нову весняну колекцію."
+  },
+  {
+    "maskuline": "moguć",
+    "feminine": "moguća",
+    "neutrum": "moguće",
+    "ukrainian_translation": "можливий",
+    "example_sentence": "Moguć dogovor je na vidiku.",
+    "ukrainian_translation_sentence": "Можлива домовленість уже на горизонті."
+  },
+  {
+    "maskuline": "mokar",
+    "feminine": "mokra",
+    "neutrum": "mokro",
+    "ukrainian_translation": "мокрий",
+    "example_sentence": "Nakon kiše, put je bio mokar i klizav.",
+    "ukrainian_translation_sentence": "Після дощу дорога була мокрою і слизькою."
+  },
+  {
+    "maskuline": "momčadski",
+    "feminine": "momčadska",
+    "neutrum": "momčadsko",
+    "ukrainian_translation": "командний",
+    "example_sentence": "Momčadski duh ključan je za pobjedu.",
+    "ukrainian_translation_sentence": "Командний дух є ключовим для перемоги."
+  },
+  {
+    "maskuline": "monetaran",
+    "feminine": "monetarna",
+    "neutrum": "monetarno",
+    "ukrainian_translation": "грошовий",
+    "example_sentence": "Monetarna politika države utječe na tečaj valute.",
+    "ukrainian_translation_sentence": "Грошова політика країни впливає на курс валюти."
+  },
+  {
+    "maskuline": "monoton",
+    "feminine": "monotona",
+    "neutrum": "monotono",
+    "ukrainian_translation": "монотонний",
+    "example_sentence": "Njegov monotoni glas uspavao je publiku.",
+    "ukrainian_translation_sentence": "Його монотонний голос приспав публіку."
+  },
+  {
+    "maskuline": "morbidan",
+    "feminine": "morbidna",
+    "neutrum": "morbidno",
+    "ukrainian_translation": "мобридний",
+    "example_sentence": "Film je imao morbidan zaplet i šokantne scene.",
+    "ukrainian_translation_sentence": "Фільм мав мобридний сюжет і шокуючі сцени."
+  },
+  {
+    "maskuline": "morski",
+    "feminine": "morska",
+    "neutrum": "morsko",
+    "ukrainian_translation": "морський",
+    "example_sentence": "Morska sol se koristi u mnogim jelima.",
+    "ukrainian_translation_sentence": "Морську сіль використовують у багатьох стравах."
+  },
+  {
+    "maskuline": "motorički",
+    "feminine": "motorička",
+    "neutrum": "motoričko",
+    "ukrainian_translation": "моторний",
+    "example_sentence": "Motoričke sposobnosti su ključne u sportu.",
+    "ukrainian_translation_sentence": "Моторні навички є ключовими у спорті."
+  },
+  {
+    "maskuline": "mračan",
+    "feminine": "mračna",
+    "neutrum": "mračno",
+    "ukrainian_translation": "темний",
+    "example_sentence": "Mračna ulica bila je pusta i tiha.",
+    "ukrainian_translation_sentence": "Темна вулиця була порожньою і тихою."
+  },
+  {
+    "maskuline": "mramoran",
+    "feminine": "mramorna",
+    "neutrum": "mramorno",
+    "ukrainian_translation": "мармуровий",
+    "example_sentence": "Kupili su mramorni stol za blagovaonicu.",
+    "ukrainian_translation_sentence": "Вони купили мармуровий стіл для їдальні."
+  },
+  {
+    "maskuline": "mrežni",
+    "feminine": "mrežna",
+    "neutrum": "mrežno",
+    "ukrainian_translation": "мережевий",
+    "example_sentence": "Mrežni problemi uzrokovali su kašnjenje u komunikaciji.",
+    "ukrainian_translation_sentence": "Мережеві проблеми спричинили затримку в комунікації."
+  },
+  {
+    "maskuline": "mrzak",
+    "feminine": "mrazka",
+    "neutrum": "mrazko",
+    "ukrainian_translation": "ненависний",
+    "example_sentence": "Postao joj je mrzak nakon brojnih svađa.",
+    "ukrainian_translation_sentence": "Він став їй ненависним після численних сварок."
+  },
+  {
+    "maskuline": "mučan",
+    "feminine": "mučna",
+    "neutrum": "mučno",
+    "ukrainian_translation": "болісний",
+    "example_sentence": "Mučna scena u filmu mnoge je gledatelje potresla.",
+    "ukrainian_translation_sentence": "Болісна сцена у фільмі вразила багатьох глядачів."
+  },
+  {
+    "maskuline": "multimedijski",
+    "feminine": "multimedijska",
+    "neutrum": "multimedijsko",
+    "ukrainian_translation": "мультимедійний",
+    "example_sentence": "Multimedijski projekt uključuje video, audio i interaktivne elemente.",
+    "ukrainian_translation_sentence": "Мультимедійний проєкт включає відео, аудіо та інтерактивні елементи."
+  },
+  {
+    "maskuline": "mutan",
+    "feminine": "mutna",
+    "neutrum": "mutno",
+    "ukrainian_translation": "мутний",
+    "example_sentence": "Voda u rijeci postala je mutna nakon kiše.",
+    "ukrainian_translation_sentence": "Вода в річці стала мутною після дощу."
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "maskuline": "ukrašen",
+    "feminine": "ukrašena",
+    "neutrum": "ukrašeno",
+    "ukrainian_translation": "прикрашений",
+    "example_sentence": "Ukrašen božićni bor stajao je u sredini sobe.",
+    "ukrainian_translation_sentence": "Прикрашена різдвяна ялинка стояла в центрі кімнати."
+  },
+  {
+    "maskuline": "ukupan",
+    "feminine": "ukupna",
+    "neutrum": "ukupno",
+    "ukrainian_translation": "загальний",
+    "example_sentence": "Ukupan broj učenika u školi je 500.",
+    "ukrainian_translation_sentence": "Загальна кількість учнів у школі — 500."
+  },
+  {
+    "maskuline": "ultimativan",
+    "feminine": "ultimativna",
+    "neutrum": "ultimativno",
+    "ukrainian_translation": "остаточний",
+    "example_sentence": "Njegov ultimativan cilj je postati profesionalni sportaš.",
+    "ukrainian_translation_sentence": "Його остаточна мета — стати професійним спортсменом."
+  },
+  {
+    "maskuline": "umjeren",
+    "feminine": "umjerena",
+    "neutrum": "umjereno",
+    "ukrainian_translation": "помірний",
+    "example_sentence": "Umjerena konzumacija hrane ključna je za zdravlje.",
+    "ukrainian_translation_sentence": "Помірне споживання їжі є ключовим для здоров'я."
+  },
+  {
+    "maskuline": "umjetnički",
+    "feminine": "umjetnička",
+    "neutrum": "umjetničko",
+    "ukrainian_translation": "мистецький",
+    "example_sentence": "Umjetnički talent očitovao se u njegovim slikama.",
+    "ukrainian_translation_sentence": "Мистецький талант проявлявся в його картинах."
+  },
+  {
+    "maskuline": "umoran",
+    "feminine": "umorna",
+    "neutrum": "umorno",
+    "ukrainian_translation": "втомлений",
+    "example_sentence": "Nakon dugog dana na poslu, osjećao se umorno.",
+    "ukrainian_translation_sentence": "Після довгого дня на роботі він відчував втому."
+  },
+  {
+    "maskuline": "unikatan",
+    "feminine": "unikatna",
+    "neutrum": "unikatno",
+    "ukrainian_translation": "унікальний",
+    "example_sentence": "Unikatan dizajn privukao je pažnju svih prisutnih.",
+    "ukrainian_translation_sentence": "Унікальний дизайн привернув увагу всіх присутніх."
+  },
+  {
+    "maskuline": "uobičajen",
+    "feminine": "uobičajena",
+    "neutrum": "uobičajeno",
+    "ukrainian_translation": "звичний",
+    "example_sentence": "Uobičajen doručak uključuje kavu i pecivo.",
+    "ukrainian_translation_sentence": "Звичний сніданок включає каву та булочку."
+  },
+  {
+    "maskuline": "upalni",
+    "feminine": "upalna",
+    "neutrum": "upalno",
+    "ukrainian_translation": "запальний",
+    "example_sentence": "Upalni proces u tijelu zahtijeva liječenje.",
+    "ukrainian_translation_sentence": "Запальний процес у тілі потребує лікування."
+  },
+  {
+    "maskuline": "upečatljiv",
+    "feminine": "upečatljiva",
+    "neutrum": "upečatljivo",
+    "ukrainian_translation": "вражаючий",
+    "example_sentence": "Upečatljiv govor ostavio je dojam na publiku.",
+    "ukrainian_translation_sentence": "Вражаюча промова справила враження на публіку."
+  },
+  {
+    "maskuline": "uravnotežen",
+    "feminine": "uravnotežena",
+    "neutrum": "uravnoteženo",
+    "ukrainian_translation": "збалансований",
+    "example_sentence": "Uravnotežena prehrana ključna je za zdravlje.",
+    "ukrainian_translation_sentence": "Збалансоване харчування є ключовим для здоров'я."
+  },
+  {
+    "maskuline": "urednički",
+    "feminine": "urednička",
+    "neutrum": "uredničko",
+    "ukrainian_translation": "редакційний",
+    "example_sentence": "Urednički tim odgovoran je za konačnu verziju knjige.",
+    "ukrainian_translation_sentence": "Редакційна команда відповідає за фінальну версію книги."
+  },
+  {
+    "maskuline": "uredski",
+    "feminine": "uredska",
+    "neutrum": "uredsko",
+    "ukrainian_translation": "офісний",
+    "example_sentence": "Uredski prostor opremljen je novim namještajem.",
+    "ukrainian_translation_sentence": "Офісний простір обладнаний новими меблями."
+  },
+  {
+    "maskuline": "urnebesan",
+    "feminine": "urnebesna",
+    "neutrum": "urnebesno",
+    "ukrainian_translation": "гумористичний",
+    "example_sentence": "Film je bio urnebesan, publika se smijala cijelo vrijeme.",
+    "ukrainian_translation_sentence": "Фільм був гумористичним, публіка сміялася весь час."
+  },
+  {
+    "maskuline": "usamljen",
+    "feminine": "usamljena",
+    "neutrum": "usamljeno",
+    "ukrainian_translation": "самотній",
+    "example_sentence": "Osjećao se usamljen nakon odlaska prijatelja.",
+    "ukrainian_translation_sentence": "Він відчував себе самотнім після від'їзду друзів."
+  },
+  {
+    "maskuline": "usmen",
+    "feminine": "usmena",
+    "neutrum": "usmeno",
+    "ukrainian_translation": "усний",
+    "example_sentence": "Usmeni ispit održat će se u srijedu.",
+    "ukrainian_translation_sentence": "Усний іспит відбудеться в середу."
+  },
+  {
+    "maskuline": "usporedan",
+    "feminine": "usporedna",
+    "neutrum": "usporedno",
+    "ukrainian_translation": "паралельний",
+    "example_sentence": "Usporedan razvoj tehnologije omogućava brži napredak.",
+    "ukrainian_translation_sentence": "Паралельний розвиток технологій сприяє швидшому прогресу."
+  },
+  {
+    "maskuline": "usporediv",
+    "feminine": "usporediva",
+    "neutrum": "usporedivo",
+    "ukrainian_translation": "порівнянний",
+    "example_sentence": "Njihovi rezultati su usporedivi s prošlogodišnjima.",
+    "ukrainian_translation_sentence": "Їхні результати порівнянні з минулорічними."
+  },
+  {
+    "maskuline": "usputan",
+    "feminine": "usputna",
+    "neutrum": "usputno",
+    "ukrainian_translation": "випадковий",
+    "example_sentence": "Usputan razgovor doveo je do neočekivanih zaključaka.",
+    "ukrainian_translation_sentence": "Випадкова розмова призвела до несподіваних висновків."
+  },
+  {
+    "maskuline": "ustrajan",
+    "feminine": "ustrajna",
+    "neutrum": "ustrajno",
+    "ukrainian_translation": "наполегливий",
+    "example_sentence": "Ustrajan rad na projektu donio je odlične rezultate.",
+    "ukrainian_translation_sentence": "Наполеглива робота над проєктом принесла чудові результати."
+  },
+  {
+    "maskuline": "usvojen",
+    "feminine": "usvojena",
+    "neutrum": "usvojeno",
+    "ukrainian_translation": "усиновлений",
+    "example_sentence": "Usvojen dječak brzo se prilagodio novoj obitelji.",
+    "ukrainian_translation_sentence": "Усиновлений хлопчик швидко пристосувався до нової сім'ї."
+  },
+  {
+    "maskuline": "uvažen",
+    "feminine": "uvažena",
+    "neutrum": "uvaženo",
+    "ukrainian_translation": "поважний",
+    "example_sentence": "On je uvažen član društva zbog svojih postignuća.",
+    "ukrainian_translation_sentence": "Він є поважним членом суспільства завдяки своїм досягненням."
+  },
+  {
+    "maskuline": "uvjetan",
+    "feminine": "uvjetna",
+    "neutrum": "uvjetno",
+    "ukrainian_translation": "умовний",
+    "example_sentence": "Njegovo puštanje na slobodu bilo je uvjetno.",
+    "ukrainian_translation_sentence": "Його звільнення було умовним."
+  },
+  {
+    "maskuline": "uvozan",
+    "feminine": "uvozna",
+    "neutrum": "uvozno",
+    "ukrainian_translation": "імпортний",
+    "example_sentence": "Uvozni proizvodi često su skuplji od domaćih.",
+    "ukrainian_translation_sentence": "Імпортні товари часто дорожчі за вітчизняні."
+  },
+  {
+    "maskuline": "uvredljiv",
+    "feminine": "uvredljiva",
+    "neutrum": "uvredljivo",
+    "ukrainian_translation": "образливий",
+    "example_sentence": "Njegov uvredljiv komentar povrijedio je osjećaje drugih.",
+    "ukrainian_translation_sentence": "Його образливий коментар образив почуття інших."
+  },
+  {
+    "maskuline": "uzajaman",
+    "feminine": "uzajamna",
+    "neutrum": "uzajamno",
+    "ukrainian_translation": "взаємний",
+    "example_sentence": "Između njih je postojalo uzajamno povjerenje.",
+    "ukrainian_translation_sentence": "Між ними існувала взаємна довіра."
+  },
+  {
+    "maskuline": "uzaludan",
+    "feminine": "uzaludna",
+    "neutrum": "uzaludno",
+    "ukrainian_translation": "даремний",
+    "example_sentence": "Njegov trud bio je uzaludan jer nije postigao željeni rezultat.",
+    "ukrainian_translation_sentence": "Його зусилля були даремними, оскільки він не досяг бажаного результату."
+  },
+  {
+    "maskuline": "uzdužan",
+    "feminine": "uzdužna",
+    "neutrum": "uzdužno",
+    "ukrainian_translation": "повздовжній",
+    "example_sentence": "Uzdužna cesta protezala se cijelom dolinom.",
+    "ukrainian_translation_sentence": "Повздовжня дорога простягалася вздовж усієї долини."
+  },
+  {
+    "maskuline": "užurban",
+    "feminine": "užurbana",
+    "neutrum": "užurbano",
+    "ukrainian_translation": "поспішний",
+    "example_sentence": "Užurbani ritam grada zahtijeva brze reakcije.",
+    "ukrainian_translation_sentence": "Поспішний ритм міста вимагає швидких реакцій."
+  },
+  {
+    "maskuline": "vaginalan",
+    "feminine": "vaginalna",
+    "neutrum": "vaginalno",
+    "ukrainian_translation": "вагінальний",
+    "example_sentence": "Vaginalna infekcija zahtijeva odgovarajuće liječenje.",
+    "ukrainian_translation_sentence": "Вагінальна інфекція потребує відповідного лікування."
+  },
+  {
+    "maskuline": "valjan",
+    "feminine": "valjana",
+    "neutrum": "valjano",
+    "ukrainian_translation": "дійсний",
+    "example_sentence": "Tvoj argument je valjan i zaslužuje pažnju.",
+    "ukrainian_translation_sentence": "Твій аргумент є дійсним і заслуговує на увагу."
+  },
+  {
+    "maskuline": "vanjski",
+    "feminine": "vanjska",
+    "neutrum": "vanjsko",
+    "ukrainian_translation": "зовнішній",
+    "example_sentence": "Vanjska fasada kuće bila je svježe obojena.",
+    "ukrainian_translation_sentence": "Зовнішній фасад будинку був щойно пофарбований."
+  },
+  {
+    "maskuline": "večerašnji",
+    "feminine": "večerašnja",
+    "neutrum": "večerašnje",
+    "ukrainian_translation": "вечірній",
+    "example_sentence": "Večerašnji program uključuje glazbene izvedbe.",
+    "ukrainian_translation_sentence": "Вечірня програма включає музичні виступи."
+  },
+  {
+    "maskuline": "večernji",
+    "feminine": "večernja",
+    "neutrum": "večernje",
+    "ukrainian_translation": "вечірній",
+    "example_sentence": "Večernje novosti donose najnovije informacije iz svijeta.",
+    "ukrainian_translation_sentence": "Вечірні новини приносять останню інформацію з усього світу."
+  },
+  {
+    "maskuline": "vegetarijanski",
+    "feminine": "vegetarijanska",
+    "neutrum": "vegetarijansko",
+    "ukrainian_translation": "вегетаріанський",
+    "example_sentence": "Restoran nudi vegetarijanske obroke.",
+    "ukrainian_translation_sentence": "Ресторан пропонує вегетаріанські страви."
+  },
+  {
+    "maskuline": "veličanstven",
+    "feminine": "veličanstvena",
+    "neutrum": "veličanstveno",
+    "ukrainian_translation": "величний",
+    "example_sentence": "Veličanstveni prizor planina oduzima dah.",
+    "ukrainian_translation_sentence": "Величний краєвид гір захоплює дух."
+  },
+  {
+    "maskuline": "velik",
+    "feminine": "velika",
+    "neutrum": "veliko",
+    "ukrainian_translation": "великий",
+    "example_sentence": "Njegovo veliko srce uvijek je spremno pomoći drugima.",
+    "ukrainian_translation_sentence": "Його велике серце завжди готове допомогти іншим."
+  },
+  {
+    "maskuline": "velikodušan",
+    "feminine": "velikodušna",
+    "neutrum": "velikodušno",
+    "ukrainian_translation": "щедрий",
+    "example_sentence": "Velikodušan dar učinio je razliku u životima mnogih.",
+    "ukrainian_translation_sentence": "Щедрий подарунок змінив життя багатьох людей."
+  },
+  {
+    "maskuline": "verbalan",
+    "feminine": "verbalna",
+    "neutrum": "verbalno",
+    "ukrainian_translation": "словесний",
+    "example_sentence": "Verbalni spor brzo je prerastao u ozbiljnu raspravu.",
+    "ukrainian_translation_sentence": "Словесна суперечка швидко переросла у серйозну дискусію."
+  },
+  {
+    "maskuline": "virtualan",
+    "feminine": "virtualna",
+    "neutrum": "virtualno",
+    "ukrainian_translation": "віртуальний",
+    "example_sentence": "Virtualni svijet omogućuje neograničene mogućnosti za istraživanje.",
+    "ukrainian_translation_sentence": "Віртуальний світ відкриває безмежні можливості для дослідження."
+  },
+  {
+    "maskuline": "viseći",
+    "feminine": "viseća",
+    "neutrum": "viseće",
+    "ukrainian_translation": "висячий",
+    "example_sentence": "Viseća lampa osvjetljavala je cijelu sobu.",
+    "ukrainian_translation_sentence": "Висяча лампа освітлювала всю кімнату."
+  },
+  {
+    "maskuline": "višemjesečni",
+    "feminine": "višemjesečna",
+    "neutrum": "višemjesečno",
+    "ukrainian_translation": "багатомісячний",
+    "example_sentence": "Višemjesečni projekt konačno je priveden kraju.",
+    "ukrainian_translation_sentence": "Багатомісячний проєкт нарешті завершився."
+  },
+  {
+    "maskuline": "višenamjenski",
+    "feminine": "višenamjenska",
+    "neutrum": "višenamjensko",
+    "ukrainian_translation": "багатофункціональний",
+    "example_sentence": "Ovaj višenamjenski alat koristan je u svakodnevnom radu.",
+    "ukrainian_translation_sentence": "Цей багатофункціональний інструмент корисний у щоденній роботі."
+  },
+  {
+    "maskuline": "višestruk",
+    "feminine": "višestruka",
+    "neutrum": "višestruko",
+    "ukrainian_translation": "багаторазовий",
+    "example_sentence": "Višestruka pobjeda donijela mu titulu šampiona.",
+    "ukrainian_translation_sentence": "Багаторазова перемога принесла йому титул чемпіона."
+  },
+  {
+    "maskuline": "visinski",
+    "feminine": "visinska",
+    "neutrum": "visinsko",
+    "ukrainian_translation": "висотний",
+    "example_sentence": "Visinski radovi zahtijevaju posebnu opremu i sigurnosne mjere.",
+    "ukrainian_translation_sentence": "Висотні роботи потребують спеціального обладнання та заходів безпеки."
+  },
+  {
+    "maskuline": "visok",
+    "feminine": "visoka",
+    "neutrum": "visoko",
+    "ukrainian_translation": "високий",
+    "example_sentence": "Visok čovjek stajao je ispred zgrade.",
+    "ukrainian_translation_sentence": "Високий чоловік стояв перед будівлею."
+  },
+  {
+    "maskuline": "visokoobrazovan",
+    "feminine": "visokoobrazovana",
+    "neutrum": "visokoobrazovano",
+    "ukrainian_translation": "високоосвічений",
+    "example_sentence": "Visokoobrazovani stručnjaci traženi su u industriji.",
+    "ukrainian_translation_sentence": "Високоосвічені фахівці затребувані в індустрії."
+  },
+  {
+    "maskuline": "visokoškolski",
+    "feminine": "visokoškolska",
+    "neutrum": "visokoškolsko",
+    "ukrainian_translation": "вищий навчальний",
+    "example_sentence": "Visokoškolski sustav omogućava studentima stjecanje novih znanja.",
+    "ukrainian_translation_sentence": "Система вищих навчальних закладів надає студентам можливість здобувати нові знання."
+  },
+  {
+    "maskuline": "vizualan",
+    "feminine": "vizualna",
+    "neutrum": "vizualno",
+    "ukrainian_translation": "візуальний",
+    "example_sentence": "Vizualna prezentacija pomogla je boljem razumijevanju teme.",
+    "ukrainian_translation_sentence": "Візуальна презентація допомогла краще зрозуміти тему."
+  },
+  {
+    "maskuline": "vlastit",
+    "feminine": "vlastita",
+    "neutrum": "vlastito",
+    "ukrainian_translation": "власний",
+    "example_sentence": "Ima vlastiti automobil koji koristi svaki dan.",
+    "ukrainian_translation_sentence": "Він має власний автомобіль, яким користується щодня."
+  }
+]

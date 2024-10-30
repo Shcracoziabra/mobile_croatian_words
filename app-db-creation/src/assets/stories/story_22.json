@@ -1,0 +1,205 @@
+{
+  "title_hr": "Odnosi u ljudskom životu",
+  "title_uk": "Відносини у житті людини",
+  "illustration": "story_22.png",
+  "text": [
+    {
+      "hr": "U ljudskom životu, odnosi igraju ključnu ulogu.",
+      "uk": "У житті людини відносини відіграють ключову роль."
+    },
+    {
+      "hr": "Oni oblikuju naše svakodnevne aktivnosti, osjećaje i način na koji se povezujemo s drugima.",
+      "uk": "Вони формують наші повсякденні дії, почуття і спосіб взаємодії з іншими."
+    },
+    {
+      "hr": "Od prijateljstva i ljubavi do obiteljskih veza i profesionalnih odnosa, svaki odnos nosi svoju jedinstvenu dinamiku.",
+      "uk": "Від дружби і кохання до сімейних зв'язків та професійних відносин — кожні відносини мають свою унікальну динаміку."
+    },
+    {
+      "hr": "Prijateljstvo je jedan od najvažnijih odnosa u ljudskom životu.",
+      "uk": "Дружба є одним із найважливіших відносин у житті людини."
+    },
+    {
+      "hr": "Prijatelji su ljudi s kojima dijelimo sretne trenutke, ali i one teške.",
+      "uk": "Друзі — це люди, з якими ми ділимо щасливі, але й важкі моменти."
+    },
+    {
+      "hr": "Dobar prijatelj je osoba kojoj možemo vjerovati i koja će nam biti podrška kada je to potrebno.",
+      "uk": "Хороший друг — це людина, якій можна довіряти і яка підтримає у важкий момент."
+    },
+    {
+      "hr": "Na primjer, Ivan i Marko su prijatelji već više od deset godina.",
+      "uk": "Наприклад, Іван і Марко — друзі вже понад десять років."
+    },
+    {
+      "hr": "Njihov odnos temelji se na povjerenju i međusobnom razumijevanju.",
+      "uk": "Їхні стосунки базуються на довірі та взаєморозумінні."
+    },
+    {
+      "hr": "Kada Ivan ima problema na poslu, Marko je uvijek tu da ga sasluša i pruži savjet.",
+      "uk": "Коли в Івана проблеми на роботі, Марко завжди поруч, щоб вислухати і дати пораду."
+    },
+    {
+      "hr": "\"Prijateljstvo je poput biljke,\" rekao bi Ivan, \"potrebno je vrijeme i briga da bi naraslo i postalo snažno.\"",
+      "uk": "\"Дружба як рослина,\" казав би Іван, \"потрібен час і догляд, щоб вона зросла і стала міцною.\""
+    },
+    {
+      "hr": "Osim prijateljskih veza, ljubavni odnosi također su važan aspekt života.",
+      "uk": "Крім дружніх стосунків, любовні відносини також є важливим аспектом життя."
+    },
+    {
+      "hr": "Ljubav između dvoje ljudi može biti snažna i ispunjavajuća, ali istovremeno zahtijeva trud, razumijevanje i kompromis.",
+      "uk": "Любов між двома людьми може бути сильною і наповненою, але водночас вимагає зусиль, розуміння та компромісу."
+    },
+    {
+      "hr": "Ana i Luka su u vezi već pet godina.",
+      "uk": "Ана та Лука вже п'ять років у стосунках."
+    },
+    {
+      "hr": "Njihova ljubav prošla je kroz mnoge uspone i padove, ali su uvijek znali kako razgovarati i riješiti nesporazume.",
+      "uk": "Їхнє кохання пережило багато злетів і падінь, але вони завжди знали, як поговорити і вирішити непорозуміння."
+    },
+    {
+      "hr": "\"Ključ uspješne veze je komunikacija,\" rekla je Ana.",
+      "uk": "\"Ключ до успішних відносин — це спілкування,\" сказала Ана."
+    },
+    {
+      "hr": "\"Ako ne razgovaramo o onome što nas muči, problemi će samo rasti.\"",
+      "uk": "\"Якщо не обговорювати те, що нас турбує, проблеми лише зростатимуть.\""
+    },
+    {
+      "hr": "Obiteljski odnosi mogu biti komplicirani, ali su često temeljni za naš osobni razvoj.",
+      "uk": "Сімейні стосунки можуть бути складними, але вони часто є основою нашого особистого розвитку."
+    },
+    {
+      "hr": "Odnosi s roditeljima, braćom, sestrama i rodbinom oblikuju našu osobnost i način na koji vidimo svijet.",
+      "uk": "Відносини з батьками, братами, сестрами та рідними формують нашу особистість і наш погляд на світ."
+    },
+    {
+      "hr": "Ivana ima vrlo blizak odnos sa svojom sestrom Marinom.",
+      "uk": "Івана має дуже близькі стосунки зі своєю сестрою Мариною."
+    },
+    {
+      "hr": "Iako su različite po karakteru, uvijek se podržavaju.",
+      "uk": "Хоча за характером вони різні, вони завжди підтримують одна одну."
+    },
+    {
+      "hr": "\"Obitelj te poznaje bolje od bilo koga,\" rekla je Ivana, \"i uvijek će biti tu, bez obzira na sve.\"",
+      "uk": "\"Сім'я знає тебе краще, ніж будь-хто,\" сказала Івана, \"і завжди буде поруч, що б не сталося.\""
+    },
+    {
+      "hr": "Međutim, nisu svi odnosi uvijek jednostavni.",
+      "uk": "Однак не всі відносини завжди прості."
+    },
+    {
+      "hr": "Konflikti mogu nastati i u najbližim odnosima.",
+      "uk": "Конфлікти можуть виникати навіть у найближчих стосунках."
+    },
+    {
+      "hr": "Važno je znati kako upravljati sukobima i pronaći rješenja koja su prihvatljiva za obje strane.",
+      "uk": "Важливо знати, як керувати конфліктами і знаходити рішення, прийнятні для обох сторін."
+    },
+    {
+      "hr": "Na primjer, Petar i njegova supruga Marija često su se svađali zbog sitnica.",
+      "uk": "Наприклад, Петро і його дружина Марія часто сварилися через дрібниці."
+    },
+    {
+      "hr": "No, s vremenom su naučili kako bolje razumjeti jedno drugo i kompromitirati.",
+      "uk": "Однак з часом вони навчилися краще розуміти один одного і йти на компроміс."
+    },
+    {
+      "hr": "\"Ne možemo uvijek biti u pravu,\" rekao je Petar, \"ali možemo naći sredinu koja će zadovoljiti oboje.\"",
+      "uk": "\"Ми не завжди можемо бути праві,\" сказав Петро, \"але ми можемо знайти середину, яка влаштує нас обох.\""
+    },
+    {
+      "hr": "Osim osobnih odnosa, važni su i profesionalni odnosi.",
+      "uk": "Окрім особистих стосунків, важливими є й професійні."
+    },
+    {
+      "hr": "Na poslu je važno održavati dobre odnose s kolegama i nadređenima kako bi radno okruženje bilo ugodno i produktivno.",
+      "uk": "На роботі важливо підтримувати добрі відносини з колегами і начальством, щоб робоче середовище було приємним і продуктивним."
+    },
+    {
+      "hr": "Katarina radi kao menadžerica u velikoj tvrtki i često mora surađivati s raznim timovima.",
+      "uk": "Катерина працює менеджером у великій компанії і часто співпрацює з різними командами."
+    },
+    {
+      "hr": "Naučila je da su poštovanje i timski rad ključni za uspješan radni odnos.",
+      "uk": "Вона навчилася, що повага і командна робота є ключовими для успішних робочих відносин."
+    },
+    {
+      "hr": "\"Ako se svi u timu osjećaju cijenjeno, rezultati su uvijek bolji,\" rekla je Katarina.",
+      "uk": "\"Якщо всі в команді відчувають себе цінованими, результати завжди кращі,\" сказала Катерина."
+    },
+    {
+      "hr": "Nadalje, postoje i susjedski odnosi koji mogu značajno utjecati na kvalitetu života.",
+      "uk": "Крім того, існують і сусідські відносини, які можуть значно впливати на якість життя."
+    },
+    {
+      "hr": "Dobri odnosi sa susjedima stvaraju osjećaj zajedništva i sigurnosti.",
+      "uk": "Хороші відносини з сусідами створюють відчуття спільноти і безпеки."
+    },
+    {
+      "hr": "Mirna živi u maloj zgradi u kojoj svi susjedi međusobno pomažu.",
+      "uk": "Мірна живе в невеликому будинку, де всі сусіди допомагають один одному."
+    },
+    {
+      "hr": "\"Kad nas nema, susjedi nam paze na stan, a mi im uzvratimo uslugu,\" rekla je.",
+      "uk": "\"Коли нас немає вдома, сусіди наглядають за нашим житлом, а ми робимо для них те саме,\" сказала вона."
+    },
+    {
+      "hr": "\"Takva povezanost čini život lakšim.\"",
+      "uk": "\"Такий зв'язок робить життя легшим.\""
+    },
+    {
+      "hr": "Ipak, postoje i površni odnosi, koje nazivamo poznanstvima.",
+      "uk": "Однак існують і поверхневі відносини, які ми називаємо знайомствами."
+    },
+    {
+      "hr": "To su ljudi s kojima se viđamo povremeno, poput kolega iz škole ili ljudi koje srećemo na događanjima.",
+      "uk": "Це люди, яких ми бачимо час від часу, як колег з навчання чи тих, кого зустрічаємо на заходах."
+    },
+    {
+      "hr": "Ti odnosi nisu toliko duboki, ali mogu biti ugodni i korisni.",
+      "uk": "Ці стосунки не настільки глибокі, але можуть бути приємними і корисними."
+    },
+    {
+      "hr": "Na primjer, kroz poznanstva možemo doći do novih prilika, ideja ili jednostavno uživati u kratkim razgovorima.",
+      "uk": "Наприклад, через знайомства ми можемо знайти нові можливості, ідеї або просто насолоджуватися короткими розмовами."
+    },
+    {
+      "hr": "U konačnici, svi odnosi, bez obzira na njihovu prirodu, zahtijevaju trud, poštovanje i razumijevanje.",
+      "uk": "Зрештою, всі відносини, незалежно від їхньої природи, вимагають зусиль, поваги і розуміння."
+    },
+    {
+      "hr": "Bez obzira radi li se o prijateljstvu, ljubavi, obiteljskim ili poslovnim odnosima, ključ za uspjeh je u međusobnoj podršci i komunikaciji.",
+      "uk": "Незалежно від того, чи це дружба, любов, сімейні або ділові стосунки, ключ до успіху — це взаємна підтримка і спілкування."
+    },
+    {
+      "hr": "Ljudi su društvena bića i kroz odnose nalazimo svrhu, radost i izazove koji nas oblikuju kroz život.",
+      "uk": "Люди є соціальними істотами, і через відносини ми знаходимо мету, радість і виклики, які формують нас у житті."
+    }
+  ],
+  "vocabulary": [
+    { "hr": "odnosi", "uk": "відносини" },
+    { "hr": "svakodnevne aktivnosti", "uk": "повсякденні дії" },
+    { "hr": "prijateljstvo", "uk": "дружба" },
+    { "hr": "ljubav", "uk": "кохання" },
+    { "hr": "obitelj", "uk": "сім'я" },
+    { "hr": "profesionalni odnosi", "uk": "професійні відносини" },
+    { "hr": "povjerenje", "uk": "довіра" },
+    { "hr": "razumijevanje", "uk": "розуміння" },
+    { "hr": "problemi", "uk": "проблеми" },
+    { "hr": "komunikacija", "uk": "спілкування" },
+    { "hr": "strpljenje", "uk": "терпіння" },
+    { "hr": "odgovornost", "uk": "відповідальність" },
+    { "hr": "poštovanje", "uk": "повага" },
+    { "hr": "podrška", "uk": "підтримка" },
+    { "hr": "prijatelji", "uk": "друзі" },
+    { "hr": "sposobnosti", "uk": "здатності" },
+    { "hr": "važan", "uk": "важливий" },
+    { "hr": "kompromis", "uk": "компроміс" },
+    { "hr": "karakter", "uk": "характер" },
+    { "hr": "rodbina", "uk": "родина" }
+  ]
+}

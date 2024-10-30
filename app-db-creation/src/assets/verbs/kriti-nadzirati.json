@@ -1,0 +1,402 @@
+[
+  {
+    "infinitive": "kriti",
+    "past_tense": ["krio", "krila", "krilo"],
+    "present_tense": ["krijem", "kriješ", "krije", "krijemo", "krijete", "kriju"],
+    "ukrainian_translation": "ховати",
+    "example_sentence": "Ona krije svoje osjećaje.",
+    "ukrainian_translation_sentence": "Вона ховає свої почуття."
+  },
+  {
+      "infinitive": "krpati",
+      "past_tense": ["krpao", "krpala", "krpalo"],
+      "present_tense": ["krpam", "krpaš", "krpa", "krpamo", "krpate", "krpaju"],
+      "ukrainian_translation": "латати",
+      "example_sentence": "Ona krpa stare čarape.",
+      "ukrainian_translation_sentence": "Вона латає старі шкарпетки."
+  },
+  {
+      "infinitive": "krstiti",
+      "past_tense": ["krstio", "krstila", "krstilo"],
+      "present_tense": ["krstim", "krstiš", "krsti", "krstimo", "krstite", "krste"],
+      "ukrainian_translation": "хрестити",
+      "example_sentence": "Krstili su dijete prošlog vikenda.",
+      "ukrainian_translation_sentence": "Вони охрестили дитину минулого тижня."
+  },
+  {
+      "infinitive": "krvariti",
+      "past_tense": ["krvario", "krvarila", "krvarilo"],
+      "present_tense": ["krvarim", "krvariš", "krvari", "krvarimo", "krvarite", "krvare"],
+      "ukrainian_translation": "кровоточити",
+      "example_sentence": "Rana mu je krvarila cijelu noć.",
+      "ukrainian_translation_sentence": "Його рана кровоточила всю ніч."
+  },
+  {
+      "infinitive": "kukati",
+      "past_tense": ["kukao", "kukala", "kukalo"],
+      "present_tense": ["kukam", "kukaš", "kuka", "kukamo", "kukate", "kukaju"],
+      "ukrainian_translation": "скаржитися",
+      "example_sentence": "Stalno kuka zbog posla.",
+      "ukrainian_translation_sentence": "Він постійно скаржиться на роботу."
+  },
+  {
+      "infinitive": "kupati",
+      "past_tense": ["kupao", "kupala", "kupalo"],
+      "present_tense": ["kupam", "kupaš", "kupa", "kupamo", "kupate", "kupaju"],
+      "ukrainian_translation": "купати",
+      "example_sentence": "Ona kupa dijete svake večeri.",
+      "ukrainian_translation_sentence": "Вона купає дитину щовечора."
+  },
+  {
+      "infinitive": "kupiti",
+      "past_tense": ["kupio", "kupila", "kupilo"],
+      "present_tense": ["kupim", "kupiš", "kupi", "kupimo", "kupite", "kupe"],
+      "ukrainian_translation": "купити",
+      "example_sentence": "Kupio je novi automobil.",
+      "ukrainian_translation_sentence": "Він купив новий автомобіль."
+  },
+  {
+      "infinitive": "lansirati",
+      "past_tense": ["lansirao", "lansirala", "lansiralo"],
+      "present_tense": ["lansiram", "lansiraš", "lansira", "lansiramo", "lansirate", "lansiraju"],
+      "ukrainian_translation": "запускати",
+      "example_sentence": "Lansirali su novu raketu.",
+      "ukrainian_translation_sentence": "Вони запустили нову ракету."
+  },
+  {
+      "infinitive": "laprdati",
+      "past_tense": ["laprdao", "laprdala", "laprdalo"],
+      "present_tense": ["laprdam", "laprdaš", "laprda", "laprdamo", "laprdate", "laprdaju"],
+      "ukrainian_translation": "базікати",
+      "example_sentence": "On stalno laprda gluposti.",
+      "ukrainian_translation_sentence": "Він постійно базікає дурниці."
+  },
+  {
+      "infinitive": "leći",
+      "past_tense": ["legao", "legla", "leglo"],
+      "present_tense": ["ležem", "ležeš", "leže", "ležemo", "ležete", "ležu"],
+      "ukrainian_translation": "лягти",
+      "example_sentence": "Ležao je na kauču cijeli dan.",
+      "ukrainian_translation_sentence": "Він лежав на дивані весь день."
+  },
+  {
+      "infinitive": "legalizirati",
+      "past_tense": ["legalizirao", "legalizirala", "legaliziralo"],
+      "present_tense": ["legaliziram", "legaliziraš", "legalizira", "legaliziramo", "legalizirate", "legaliziraju"],
+      "ukrainian_translation": "легалізувати",
+      "example_sentence": "Oni su legalizirali nove zakone.",
+      "ukrainian_translation_sentence": "Вони легалізували нові закони."
+  },
+  {
+      "infinitive": "letjeti",
+      "past_tense": ["letio", "letjela", "letjelo"],
+      "present_tense": ["letim", "letiš", "leti", "letimo", "letite", "lete"],
+      "ukrainian_translation": "літати",
+      "example_sentence": "Ptica leti visoko na nebu.",
+      "ukrainian_translation_sentence": "Птах літає високо в небі."
+  },
+  {
+      "infinitive": "libiti",
+      "past_tense": ["libio", "libila", "libilo"],
+      "present_tense": ["libim", "libiš", "libi", "libimo", "libite", "libe"],
+      "ukrainian_translation": "соромитися",
+      "example_sentence": "Ne libi se izreći svoje mišljenje.",
+      "ukrainian_translation_sentence": "Він не соромиться висловити свою думку."
+  },
+  {
+      "infinitive": "ličiti",
+      "past_tense": ["ličio", "ličila", "ličilo"],
+      "present_tense": ["ličim", "ličiš", "liči", "ličimo", "ličite", "liče"],
+      "ukrainian_translation": "бути схожим",
+      "example_sentence": "On liči na svog oca.",
+      "ukrainian_translation_sentence": "Він схожий на свого батька."
+  },
+  {
+      "infinitive": "liječiti",
+      "past_tense": ["liječio", "liječila", "liječilo"],
+      "present_tense": ["liječim", "liječiš", "liječi", "liječimo", "liječite", "liječe"],
+      "ukrainian_translation": "лікувати",
+      "example_sentence": "Liječnik liječi pacijente.",
+      "ukrainian_translation_sentence": "Лікар лікує пацієнтів."
+  },
+  {
+      "infinitive": "lišiti",
+      "past_tense": ["lišio", "lišila", "lišilo"],
+      "present_tense": ["lišim", "lišiš", "liši", "lišimo", "lišite", "liše"],
+      "ukrainian_translation": "позбавити",
+      "example_sentence": "Lišio ga je slobode.",
+      "ukrainian_translation_sentence": "Він позбавив його свободи."
+  },
+  {
+      "infinitive": "loptati",
+      "past_tense": ["loptao", "loptala", "loptalo"],
+      "present_tense": ["loptam", "loptaš", "lopta", "loptamo", "loptate", "loptaju"],
+      "ukrainian_translation": "грати м'ячем",
+      "example_sentence": "Djeca se loptaju u parku.",
+      "ukrainian_translation_sentence": "Діти грають м'ячем у парку."
+  },
+  {
+      "infinitive": "lupetati",
+      "past_tense": ["lupetao", "lupetala", "lupetalo"],
+      "present_tense": ["lupetam", "lupetaš", "lupeta", "lupetamo", "lupetate", "lupetaju"],
+      "ukrainian_translation": "молоти дурниці",
+      "example_sentence": "On stalno lupeta gluposti.",
+      "ukrainian_translation_sentence": "Він постійно молотить дурниці."
+  },
+  {
+      "infinitive": "magistrirati",
+      "past_tense": ["magistrirao", "magistrirala", "magistriralo"],
+      "present_tense": ["magistriram", "magistriraš", "magistrira", "magistriramo", "magistrirate", "magistriraju"],
+      "ukrainian_translation": "отримати ступінь магістра",
+      "example_sentence": "Magistrirao je ekonomiju prošle godine.",
+      "ukrainian_translation_sentence": "Він отримав ступінь магістра з економіки минулого року."
+  },
+  {
+      "infinitive": "mahati",
+      "past_tense": ["mahao", "mahala", "mahalo"],
+      "present_tense": ["mašem", "mašeš", "maše", "mašemo", "mašete", "mašu"],
+      "ukrainian_translation": "махати",
+      "example_sentence": "Djeca mašu rukama prolaznicima.",
+      "ukrainian_translation_sentence": "Діти махають руками перехожим."
+  },
+  {
+      "infinitive": "maknuti",
+      "past_tense": ["maknuo", "maknula", "maknulo"],
+      "present_tense": ["maknem", "makneš", "makne", "maknemo", "maknete", "maknu"],
+      "ukrainian_translation": "прибрати",
+      "example_sentence": "Maknuo je stolicu s puta.",
+      "ukrainian_translation_sentence": "Він прибрав стілець з дороги."
+  },
+  {
+      "infinitive": "manuti",
+      "past_tense": ["manuo", "manula", "manulo"],
+      "present_tense": ["manem", "maneš", "mane", "manemo", "manete", "manu"],
+      "ukrainian_translation": "махнути",
+      "example_sentence": "Manuo je rukom i otišao.",
+      "ukrainian_translation_sentence": "Він махнув рукою і пішов."
+  },
+  {
+      "infinitive": "mariti",
+      "past_tense": ["mario", "marila", "marilo"],
+      "present_tense": ["marim", "mariš", "mari", "marimo", "marite", "mare"],
+      "ukrainian_translation": "турбуватися",
+      "example_sentence": "Ne mari za tuđe mišljenje.",
+      "ukrainian_translation_sentence": "Він не турбується про чужу думку."
+  },
+  {
+      "infinitive": "maštati",
+      "past_tense": ["maštao", "maštala", "maštalo"],
+      "present_tense": ["maštam", "maštaš", "mašta", "maštamo", "maštate", "maštaju"],
+      "ukrainian_translation": "мріяти",
+      "example_sentence": "Maštao je o putovanju oko svijeta.",
+      "ukrainian_translation_sentence": "Він мріяв про подорож навколо світу."
+  },
+  {
+      "infinitive": "mesti",
+      "past_tense": ["metao", "metala", "metalo"],
+      "present_tense": ["metem", "meteš", "mete", "metemo", "metete", "metu"],
+      "ukrainian_translation": "замітати",
+      "example_sentence": "On mete lišće u dvorištu.",
+      "ukrainian_translation_sentence": "Він змітає листя у дворі."
+  },
+  {
+      "infinitive": "minuti",
+      "past_tense": ["minuo", "minula", "minulo"],
+      "present_tense": ["minem", "mineš", "mine", "minemo", "minete", "minu"],
+      "ukrainian_translation": "минути",
+      "example_sentence": "Vrijeme je minulo brzo.",
+      "ukrainian_translation_sentence": "Час минув швидко."
+  },
+  {
+      "infinitive": "miriti",
+      "past_tense": ["mirio", "mirila", "mirilo"],
+      "present_tense": ["mirim", "miriš", "miri", "mirimo", "mirite", "mire"],
+      "ukrainian_translation": "мирити",
+      "example_sentence": "On je mirio prijatelje nakon svađe.",
+      "ukrainian_translation_sentence": "Він мирив друзів після сварки."
+  },
+  {
+      "infinitive": "misliti",
+      "past_tense": ["mislio", "mislila", "mislilo"],
+      "present_tense": ["mislim", "misliš", "misli", "mislimo", "mislite", "misle"],
+      "ukrainian_translation": "думати",
+      "example_sentence": "Mislim da je to dobra ideja.",
+      "ukrainian_translation_sentence": "Я думаю, що це гарна ідея."
+  },
+  {
+      "infinitive": "mjeriti",
+      "past_tense": ["mjerio", "mjerila", "mjerilo"],
+      "present_tense": ["mjerim", "mjeriš", "mjeri", "mjerimo", "mjerite", "mjere"],
+      "ukrainian_translation": "міряти",
+      "example_sentence": "On mjeri duljinu stola.",
+      "ukrainian_translation_sentence": "Він міряє довжину столу."
+  },
+  {
+      "infinitive": "moći",
+      "past_tense": ["mogao", "mogla", "moglo"],
+      "present_tense": ["mogu", "možeš", "može", "možemo", "možete", "mogu"],
+      "ukrainian_translation": "могти",
+      "example_sentence": "On može podići teški teret.",
+      "ukrainian_translation_sentence": "Він може підняти важкий вантаж."
+  },
+  {
+      "infinitive": "modernizirati",
+      "past_tense": ["modernizirao", "modernizirala", "moderniziralo"],
+      "present_tense": ["moderniziram", "moderniziraš", "modernizira", "moderniziramo", "modernizirate", "moderniziraju"],
+      "ukrainian_translation": "модернізувати",
+      "example_sentence": "Modernizirali su staru zgradu.",
+      "ukrainian_translation_sentence": "Вони модернізували стару будівлю."
+  },
+  {
+      "infinitive": "modificirati",
+      "past_tense": ["modificirao", "modificirala", "modificiralo"],
+      "present_tense": ["modificiram", "modificiraš", "modificira", "modificiramo", "modificirate", "modificiraju"],
+      "ukrainian_translation": "модифікувати",
+      "example_sentence": "Modificirali su stari automobil.",
+      "ukrainian_translation_sentence": "Вони модифікували старий автомобіль."
+  },
+  {
+      "infinitive": "moliti",
+      "past_tense": ["molio", "molila", "molilo"],
+      "present_tense": ["molim", "moliš", "moli", "molimo", "molite", "mole"],
+      "ukrainian_translation": "молитися",
+      "example_sentence": "Ona moli svake večeri.",
+      "ukrainian_translation_sentence": "Вона молиться щовечора."
+  },
+  {
+      "infinitive": "morati",
+      "past_tense": ["morao", "morala", "moralo"],
+      "present_tense": ["moram", "moraš", "mora", "moramo", "morate", "moraju"],
+      "ukrainian_translation": "повинен",
+      "example_sentence": "Moraš završiti posao do sutra.",
+      "ukrainian_translation_sentence": "Ти повинен закінчити роботу до завтра."
+  },
+  {
+      "infinitive": "motati",
+      "past_tense": ["motao", "motala", "motalo"],
+      "present_tense": ["motam", "motaš", "mota", "motamo", "motate", "motaju"],
+      "ukrainian_translation": "мотати",
+      "example_sentence": "Ona mota vunu.",
+      "ukrainian_translation_sentence": "Вона мотала пряжу."
+  },
+  {
+      "infinitive": "mozgati",
+      "past_tense": ["mozgao", "mozgala", "mozgalo"],
+      "present_tense": ["mozgaju", "mozgaš", "mozga", "mozgamo", "mozgate", "mozgaju"],
+      "ukrainian_translation": "міркувати",
+      "example_sentence": "On stalno mozga o nečemu.",
+      "ukrainian_translation_sentence": "Він постійно міркує про щось."
+  },
+  {
+      "infinitive": "nabaciti",
+      "past_tense": ["nabacio", "nabacila", "nabacilo"],
+      "present_tense": ["nabacim", "nabaciš", "nabaci", "nabacimo", "nabacite", "nabace"],
+      "ukrainian_translation": "накинути",
+      "example_sentence": "Nabacio je kaput i izašao.",
+      "ukrainian_translation_sentence": "Він накинув пальто і вийшов."
+  },
+  {
+      "infinitive": "nabaviti",
+      "past_tense": ["nabavio", "nabavila", "nabavilo"],
+      "present_tense": ["nabavim", "nabaviš", "nabavi", "nabavimo", "nabavite", "nabave"],
+      "ukrainian_translation": "придбати",
+      "example_sentence": "Nabavio je novi laptop.",
+      "ukrainian_translation_sentence": "Він придбав новий ноутбук."
+  },
+  {
+      "infinitive": "nabrojati",
+      "past_tense": ["nabrojao", "nabrojala", "nabrojalo"],
+      "present_tense": ["nabrojim", "nabrojiš", "nabroji", "nabrojimo", "nabrojite", "nabroje"],
+      "ukrainian_translation": "перелічити",
+      "example_sentence": "Nabrojao je sve zadatke.",
+      "ukrainian_translation_sentence": "Він перелічив усі завдання."
+  },
+  {
+      "infinitive": "nacrtati",
+      "past_tense": ["nacrtao", "nacrtala", "nacrtalo"],
+      "present_tense": ["nacrtam", "nacrtaš", "nacrta", "nacrtamo", "nacrtate", "nacrtaju"],
+      "ukrainian_translation": "намалювати",
+      "example_sentence": "Nacrtao je lijepu sliku.",
+      "ukrainian_translation_sentence": "Він намалював гарну картину."
+  },
+  {
+      "infinitive": "nadgledati",
+      "past_tense": ["nadgledao", "nadgledala", "nadgledalo"],
+      "present_tense": ["nadgledam", "nadgledaš", "nadgleda", "nadgledamo", "nadgledate", "nadgledaju"],
+      "ukrainian_translation": "наглядати",
+      "example_sentence": "On nadgleda radnike na gradilištu.",
+      "ukrainian_translation_sentence": "Він наглядає за робітниками на будівництві."
+  },
+  {
+      "infinitive": "nadmetati",
+      "past_tense": ["nadmetao", "nadmetala", "nadmetalo"],
+      "present_tense": ["nadmećem", "nadmećeš", "nadmeće", "nadmećemo", "nadmećete", "nadmeću"],
+      "ukrainian_translation": "змагатися",
+      "example_sentence": "Oni se nadmeću za nagradu.",
+      "ukrainian_translation_sentence": "Вони змагаються за приз."
+  },
+  {
+      "infinitive": "nadograditi",
+      "past_tense": ["nadogradio", "nadogradila", "nadogradilo"],
+      "present_tense": ["nadogradim", "nadogradiš", "nadogradi", "nadogradimo", "nadogradite", "nadograde"],
+      "ukrainian_translation": "оновити",
+      "example_sentence": "Nadogradili su softver na računalu.",
+      "ukrainian_translation_sentence": "Вони оновили програмне забезпечення на комп'ютері."
+  },
+  {
+      "infinitive": "nadoknaditi",
+      "past_tense": ["nadoknadio", "nadoknadila", "nadoknadilo"],
+      "present_tense": ["nadoknadim", "nadoknadiš", "nadoknadi", "nadoknadimo", "nadoknadite", "nadoknade"],
+      "ukrainian_translation": "надолужити",
+      "example_sentence": "Nadoknadio je propuštene lekcije.",
+      "ukrainian_translation_sentence": "Він надолужив пропущені уроки."
+  },
+  {
+      "infinitive": "nadomjestiti",
+      "past_tense": ["nadomjestio", "nadomjestila", "nadomjestilo"],
+      "present_tense": ["nadomjestim", "nadomjestiš", "nadomjesti", "nadomjestimo", "nadomjestite", "nadomjeste"],
+      "ukrainian_translation": "замінити",
+      "example_sentence": "Nadomjestio je izgubljeni dokument.",
+      "ukrainian_translation_sentence": "Він замінив загублений документ."
+  },
+  {
+      "infinitive": "nadopuniti",
+      "past_tense": ["nadopunio", "nadopunila", "nadopunilo"],
+      "present_tense": ["nadopunim", "nadopuniš", "nadopuni", "nadopunimo", "nadopunite", "nadopune"],
+      "ukrainian_translation": "доповнити",
+      "example_sentence": "Nadopunio je svoj rad dodatnim informacijama.",
+      "ukrainian_translation_sentence": "Він доповнив свою роботу додатковою інформацією."
+  },
+  {
+      "infinitive": "nadopunjavati",
+      "past_tense": ["nadopunjavao", "nadopunjavala", "nadopunjavalo"],
+      "present_tense": ["nadopunjavam", "nadopunjavaš", "nadopunjava", "nadopunjavamo", "nadopunjavate", "nadopunjavaju"],
+      "ukrainian_translation": "доповнювати",
+      "example_sentence": "Stalno nadopunjava svoje znanje.",
+      "ukrainian_translation_sentence": "Він постійно доповнює свої знання."
+  },
+  {
+      "infinitive": "nadovezati",
+      "past_tense": ["nadovezao", "nadovezala", "nadovezalo"],
+      "present_tense": ["nadovežem", "nadovežeš", "nadoveže", "nadovežemo", "nadovežete", "nadovežu"],
+      "ukrainian_translation": "підключити",
+      "example_sentence": "Nadovezao je novu cijev na staru.",
+      "ukrainian_translation_sentence": "Він підключив нову трубу до старої."
+  },
+  {
+      "infinitive": "nadvladati",
+      "past_tense": ["nadvladao", "nadvladala", "nadvladalo"],
+      "present_tense": ["nadvladam", "nadvladaš", "nadvlada", "nadvladamo", "nadvladate", "nadvladaju"],
+      "ukrainian_translation": "подолати",
+      "example_sentence": "Nadvladala je svoje strahove.",
+      "ukrainian_translation_sentence": "Вона подолала свої страхи."
+  },
+  {
+      "infinitive": "nadzirati",
+      "past_tense": ["nadzirao", "nadzirala", "nadziralo"],
+      "present_tense": ["nadziram", "nadziraš", "nadzira", "nadziramo", "nadirate", "nadziraju"],
+      "ukrainian_translation": "контролювати",
+      "example_sentence": "Nadzire rad zaposlenika.",
+      "ukrainian_translation_sentence": "Він контролює роботу працівників."
+  }
+]

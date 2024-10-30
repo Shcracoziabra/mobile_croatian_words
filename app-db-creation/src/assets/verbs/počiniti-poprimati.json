@@ -1,0 +1,402 @@
+[
+  {
+    "infinitive": "počiniti",
+    "past_tense": ["počinio", "počinila", "počinjelo"],
+    "present_tense": ["počinjim", "počiniš", "počini", "počinjemo", "počinite", "počine"],
+    "ukrainian_translation": "вчинити",
+    "example_sentence": "Počinio je značajan doprinos projektu.",
+    "ukrainian_translation_sentence": "Він зробив значний внесок у проект."
+  },
+  {
+    "infinitive": "počinjati",
+    "past_tense": ["počinjao", "počinjala", "počinjalo"],
+    "present_tense": ["počinjem", "počinješ", "počinje", "počinjemo", "počinjete", "počinjaju"],
+    "ukrainian_translation": "починати",
+    "example_sentence": "Počinjali smo raditi na novom zadatku.",
+    "ukrainian_translation_sentence": "Ми почали працювати над новим завданням."
+  },
+  {
+    "infinitive": "počistiti",
+    "past_tense": ["počistio", "počistila", "počistilo"],
+    "present_tense": ["počistim", "počistiš", "počisti", "počistimo", "počistite", "počiste"],
+    "ukrainian_translation": "прибрати",
+    "example_sentence": "Počistio je cijelu kuću.",
+    "ukrainian_translation_sentence": "Він прибрав увесь дім."
+  },
+  {
+    "infinitive": "počivati",
+    "past_tense": ["počivao", "počivala", "počivalo"],
+    "present_tense": ["počivam", "počivaš", "počiva", "počivamo", "počivate", "počivaju"],
+    "ukrainian_translation": "відпочивати",
+    "example_sentence": "Počivao je nakon napornog dana.",
+    "ukrainian_translation_sentence": "Він відпочивав після важкого дня."
+  },
+  {
+    "infinitive": "podbaciti",
+    "past_tense": ["podbacio", "podbacila", "podbacilo"],
+    "present_tense": ["podbacim", "podbaciš", "podbaci", "podbacimo", "podbacite", "podbace"],
+    "ukrainian_translation": "завалити",
+    "example_sentence": "Podbacio je na ispitu.",
+    "ukrainian_translation_sentence": "Він завалив іспит."
+  },
+  {
+    "infinitive": "podcjenjivati",
+    "past_tense": ["podcjenjivao", "podcjenjivala", "podcjenjivalo"],
+    "present_tense": ["podcjenjujem", "podcjenjuješ", "podcjenjuje", "podcjenjujemo", "podcjenjujete", "podcjenjuju"],
+    "ukrainian_translation": "недооцінювати",
+    "example_sentence": "Podcjenjivao je svoje protivnike.",
+    "ukrainian_translation_sentence": "Він недооцінював своїх суперників."
+  },
+  {
+    "infinitive": "podešavati",
+    "past_tense": ["podešavao", "podešavala", "podešavalo"],
+    "present_tense": ["podešavam", "podešavaš", "podešava", "podešavamo", "podešavate", "podešavaju"],
+    "ukrainian_translation": "регулювати",
+    "example_sentence": "Podešavao je postavke na računalu.",
+    "ukrainian_translation_sentence": "Він налаштовував параметри на комп'ютері."
+  },
+  {
+    "infinitive": "podesiti",
+    "past_tense": ["podesio", "podesila", "podesilo"],
+    "present_tense": ["podesim", "podesiš", "podesi", "podesimo", "podesite", "podesi"],
+    "ukrainian_translation": "налаштувати",
+    "example_sentence": "Podesio je novi telefon.",
+    "ukrainian_translation_sentence": "Він налаштував новий телефон."
+  },
+  {
+    "infinitive": "podići",
+    "past_tense": ["podići", "podići", "podići"],
+    "present_tense": ["podižem", "podižeš", "podiže", "podižemo", "podižete", "podižu"],
+    "ukrainian_translation": "підняти",
+    "example_sentence": "Podići ćemo teret iznad glave.",
+    "ukrainian_translation_sentence": "Ми піднімемо вантаж над головою."
+  },
+  {
+    "infinitive": "podijeliti",
+    "past_tense": ["podijelio", "podijelila", "podijelilo"],
+    "present_tense": ["podijelim", "podijeliš", "podijeli", "podijelimo", "podijelite", "podijele"],
+    "ukrainian_translation": "поділити",
+    "example_sentence": "Podijelila je tortu među prijateljima.",
+    "ukrainian_translation_sentence": "Вона поділила торт між друзями."
+  },
+  {
+    "infinitive": "podleći",
+    "past_tense": ["podlije", "podlije", "podlije"],
+    "present_tense": ["podlijevam", "podlijevaš", "podlijeva", "podlijevamo", "podlijevate", "podlijevaju"],
+    "ukrainian_translation": "підлягати",
+    "example_sentence": "Podleći će ispitivanju.",
+    "ukrainian_translation_sentence": "Він підлягатиме випробуванню."
+  },
+  {
+    "infinitive": "podmiriti",
+    "past_tense": ["podmirio", "podmirila", "podmirilo"],
+    "present_tense": ["podmirujem", "podmiruješ", "podmiruje", "podmirujemo", "podmirujete", "podmiruju"],
+    "ukrainian_translation": "погасити",
+    "example_sentence": "Podmirio je sve dugove.",
+    "ukrainian_translation_sentence": "Він погасив усі борги."
+  },
+  {
+    "infinitive": "podnositi",
+    "past_tense": ["podnosio", "podnosila", "podnosilo"],
+    "present_tense": ["podnosim", "podnosiš", "podnosi", "podnosimo", "podnosite", "podnose"],
+    "ukrainian_translation": "терпіти",
+    "example_sentence": "Podnosio je bol bez prigovora.",
+    "ukrainian_translation_sentence": "Він терпів біль без скарг."
+  },
+  {
+    "infinitive": "podrediti",
+    "past_tense": ["podredio", "podredila", "podredilo"],
+    "present_tense": ["podređujem", "podređuješ", "podređuje", "podređujemo", "podređujete", "podređuju"],
+    "ukrainian_translation": "підпорядкувати",
+    "example_sentence": "Podredio je svoje planove poslovnim obavezama.",
+    "ukrainian_translation_sentence": "Він підпорядкував свої плани діловим обов'язкам."
+  },
+  {
+    "infinitive": "podržavati",
+    "past_tense": ["podržavao", "podržavala", "podržavalo"],
+    "present_tense": ["podržavam", "podržavaš", "podržava", "podržavamo", "podržavate", "podržavaju"],
+    "ukrainian_translation": "підтримувати",
+    "example_sentence": "Podržavao je svoju obitelj u svim situacijama.",
+    "ukrainian_translation_sentence": "Він підтримував свою сім'ю в усіх ситуаціях."
+  },
+  {
+    "infinitive": "podučavati",
+    "past_tense": ["podučavao", "podučavala", "podučavalo"],
+    "present_tense": ["podučavam", "podučavaš", "podučava", "podučavamo", "podučavate", "podučavaju"],
+    "ukrainian_translation": "навчати",
+    "example_sentence": "Podučavao je djecu osnovama matematike.",
+    "ukrainian_translation_sentence": "Він навчав дітей основам математики."
+  },
+  {
+    "infinitive": "poduprijeti",
+    "past_tense": ["poduprijeto", "poduprijela", "poduprijelo"],
+    "present_tense": ["podupirem", "podupireš", "podupire", "podupiremo", "podupirete", "podupiru"],
+    "ukrainian_translation": "підтримувати",
+    "example_sentence": "Poduprijela je inicijativu mladih.",
+    "ukrainian_translation_sentence": "Вона підтримала ініціативу молоді."
+  },
+  {
+    "infinitive": "podvrgnuti",
+    "past_tense": ["podvrgnuo", "podvrgnula", "podvrgnulo"],
+    "present_tense": ["podvrgavam", "podvrgavaš", "podvrgava", "podvrgavamo", "podvrgavate", "podvrgavaju"],
+    "ukrainian_translation": "піддати",
+    "example_sentence": "Podvrgnuo je kritici svoje ideje.",
+    "ukrainian_translation_sentence": "Він піддав свої ідеї критиці."
+  },
+  {
+    "infinitive": "pogledati",
+    "past_tense": ["pogledao", "pogledala", "pogledalo"],
+    "present_tense": ["pogledam", "pogledaš", "pogleda", "pogledamo", "pogledate", "pogledaju"],
+    "ukrainian_translation": "поглянути",
+    "example_sentence": "Pogledala je novu knjigu.",
+    "ukrainian_translation_sentence": "Вона поглянула на нову книгу."
+  },
+  {
+    "infinitive": "pogoditi",
+    "past_tense": ["pogodio", "pogodila", "pogodilo"],
+    "present_tense": ["pogodim", "pogodiš", "pogodi", "pogodimo", "pogodite", "pogode"],
+    "ukrainian_translation": "вгадати",
+    "example_sentence": "Pogodio je točan odgovor.",
+    "ukrainian_translation_sentence": "Він вгадав правильну відповідь."
+  },
+  {
+    "infinitive": "pogodovati",
+    "past_tense": ["pogodovao", "pogodovala", "pogodovalo"],
+    "present_tense": ["pogoduju", "pogoduješ", "pogoduje", "pogodujemo", "pogodujete", "pogoduju"],
+    "ukrainian_translation": "допомагати",
+    "example_sentence": "Pogodovao je svojim prijateljima.",
+    "ukrainian_translation_sentence": "Він допомагав своїм друзям."
+  },
+  {
+    "infinitive": "pogoršati",
+    "past_tense": ["pogoršao", "pogoršala", "pogoršalo"],
+    "present_tense": ["pogoršavam", "pogoršavaš", "pogoršava", "pogoršavamo", "pogoršavate", "pogoršavaju"],
+    "ukrainian_translation": "погіршити",
+    "example_sentence": "Pogoršala je situacija u tvornici.",
+    "ukrainian_translation_sentence": "Ситуація на заводі погіршилася."
+  },
+  {
+    "infinitive": "pogubiti",
+    "past_tense": ["pogubio", "pogubila", "pogubilo"],
+    "present_tense": ["pogubim", "pogubiš", "pogubi", "pogubimo", "pogubite", "pogube"],
+    "ukrainian_translation": "знищити",
+    "example_sentence": "Pogubio je sve dokaze.",
+    "ukrainian_translation_sentence": "Він знищив усі докази."
+  },
+  {
+    "infinitive": "pohvaliti",
+    "past_tense": ["pohvalio", "pohvalila", "pohvalilo"],
+    "present_tense": ["pohvalim", "pohvališ", "pohvali", "pohvalimo", "pohvalite", "pohvale"],
+    "ukrainian_translation": "похвалити",
+    "example_sentence": "Pohvalila je njegov trud i rad.",
+    "ukrainian_translation_sentence": "Вона похвалила його старання і працю."
+  },
+  {
+    "infinitive": "pohvatati",
+    "past_tense": ["pohvatio", "pohvatila", "pohvatilo"],
+    "present_tense": ["pohvatam", "pohvataš", "pohvata", "pohvatamo", "pohvatate", "pohvataju"],
+    "ukrainian_translation": "захопити",
+    "example_sentence": "Pohvatao je sve informacije.",
+    "ukrainian_translation_sentence": "Він захопив усю інформацію."
+  },
+  {
+    "infinitive": "poigrati",
+    "past_tense": ["poigrao", "poigrala", "poigralo"],
+    "present_tense": ["poigram", "poigraš", "poigra", "poigramo", "poigrate", "poigraju"],
+    "ukrainian_translation": "погратися",
+    "example_sentence": "Poigrali smo se s djecom.",
+    "ukrainian_translation_sentence": "Ми погралися з дітьми."
+  },
+  {
+    "infinitive": "poistovjetiti",
+    "past_tense": ["poistovjetio", "poistovjetila", "poistovjetilo"],
+    "present_tense": ["poistovjetim", "poistovjetiš", "poistovjeti", "poistovjetimo", "poistovjetite", "poistovjete"],
+    "ukrainian_translation": "ототожнювати",
+    "example_sentence": "Poistovjetio je lik iz filma sa stvarnom osobom.",
+    "ukrainian_translation_sentence": "Він ототожнив персонажа з фільму з реальною особою."
+  },
+  {
+    "infinitive": "pojačavati",
+    "past_tense": ["pojačavao", "pojačavala", "pojačavalo"],
+    "present_tense": ["pojačavam", "pojačavaš", "pojačava", "pojačavamo", "pojačavate", "pojačavaju"],
+    "ukrainian_translation": "посилювати",
+    "example_sentence": "Pojačavao je zvuk na radiju.",
+    "ukrainian_translation_sentence": "Він посилював звук на радіо."
+  },
+  {
+    "infinitive": "pojašnjavati",
+    "past_tense": ["pojašnjivao", "pojašnjavala", "pojašnjavalo"],
+    "present_tense": ["pojašnjavam", "pojašnjavaš", "pojašnjava", "pojašnjavamo", "pojašnjavate", "pojašnjavaju"],
+    "ukrainian_translation": "пояснювати",
+    "example_sentence": "Pojašnjavala je kompleksne pojmove studentima.",
+    "ukrainian_translation_sentence": "Вона пояснювала складні поняття студентам."
+  },
+  {
+    "infinitive": "pojavljivati",
+    "past_tense": ["pojavljivao", "pojavljivala", "pojavljivalo"],
+    "present_tense": ["pojavljivam", "pojavljivaš", "pojavljiva", "pojavljivamo", "pojavljivate", "pojavljivaju"],
+    "ukrainian_translation": "з'являтися",
+    "example_sentence": "Pojavljivala su se nova pitanja.",
+    "ukrainian_translation_sentence": "З'являлися нові питання."
+  },
+  {
+    "infinitive": "pojesti",
+    "past_tense": ["pojeo", "pojela", "pojelo"],
+    "present_tense": ["pojem", "poješ", "poje", "pojedemo", "pojedete", "pojedu"],
+    "ukrainian_translation": "з'їсти",
+    "example_sentence": "Pojela je cijelu porciju.",
+    "ukrainian_translation_sentence": "Вона з'їла цілу порцію."
+  },
+  {
+    "infinitive": "pokazati",
+    "past_tense": ["pokazao", "pokazala", "pokazalo"],
+    "present_tense": ["pokazujem", "pokazuješ", "pokazuje", "pokazujemo", "pokazujete", "pokazuju"],
+    "ukrainian_translation": "показати",
+    "example_sentence": "Pokazao je svoju novu sliku.",
+    "ukrainian_translation_sentence": "Він показав свою нову картину."
+  },
+  {
+    "infinitive": "pokloniti",
+    "past_tense": ["poklonio", "poklonila", "poklonilo"],
+    "present_tense": ["poklonim", "pokloniš", "pokloni", "poklonimo", "poklonite", "poklone"],
+    "ukrainian_translation": "подарувати",
+    "example_sentence": "Poklonila je knjigu svom prijatelju.",
+    "ukrainian_translation_sentence": "Вона подарувала книгу своєму другові."
+  },
+  {
+    "infinitive": "pokupiti",
+    "past_tense": ["pokupio", "pokupila", "pokupilo"],
+    "present_tense": ["pokupim", "pokupiš", "pokupi", "pokupimo", "pokupite", "pokupe"],
+    "ukrainian_translation": "купити",
+    "example_sentence": "Pokupio je sve potrebne namirnice.",
+    "ukrainian_translation_sentence": "Він купив всі необхідні продукти."
+  },
+  {
+    "infinitive": "pokušati",
+    "past_tense": ["pokušao", "pokušala", "pokušalo"],
+    "present_tense": ["pokušavam", "pokušavaš", "pokušava", "pokušavamo", "pokušavate", "pokušavaju"],
+    "ukrainian_translation": "спробувати",
+    "example_sentence": "Pokušao je riješiti problem.",
+    "ukrainian_translation_sentence": "Він спробував вирішити проблему."
+  },
+  {
+    "infinitive": "polaziti",
+    "past_tense": ["polazio", "polazila", "polazilo"],
+    "present_tense": ["polazim", "polaziš", "polazi", "polazimo", "polazite", "polaze"],
+    "ukrainian_translation": "відправлятися",
+    "example_sentence": "Polazio je svaki dan u školu.",
+    "ukrainian_translation_sentence": "Він відправлявся до школи кожного дня."
+  },
+  {
+    "infinitive": "poletjeti",
+    "past_tense": ["poletio", "poletjela", "poletjelo"],
+    "present_tense": ["poletim", "poletiš", "poleti", "poletimo", "poletite", "poletim"],
+    "ukrainian_translation": "злетіти",
+    "example_sentence": "Poletio je iz zračne luke.",
+    "ukrainian_translation_sentence": "Він злетів з аеропорту."
+  },
+  {
+    "infinitive": "poludjeti",
+    "past_tense": ["poludio", "poludjela", "poludjelo"],
+    "present_tense": ["poludim", "poludiš", "poludi", "poludimo", "poludite", "polude"],
+    "ukrainian_translation": "з'їхати з глузду",
+    "example_sentence": "Poludio je zbog stresa na poslu.",
+    "ukrainian_translation_sentence": "Він з'їхав з глузду через стрес на роботі."
+  },
+  {
+    "infinitive": "pomaziti",
+    "past_tense": ["pomazio", "pomazila", "pomazilo"],
+    "present_tense": ["pomazim", "pomaziš", "pomazi", "pomazimo", "pomazite", "pomazaju"],
+    "ukrainian_translation": "погладити",
+    "example_sentence": "Pomazila je psa po glavi.",
+    "ukrainian_translation_sentence": "Вона погладила собаку по голові."
+  },
+  {
+    "infinitive": "pomiješati",
+    "past_tense": ["pomiješao", "pomiješala", "pomiješalo"],
+    "present_tense": ["pomiješam", "pomiješaš", "pomiješa", "pomiješamo", "pomiješate", "pomiješaju"],
+    "ukrainian_translation": "перемішати",
+    "example_sentence": "Pomiješao je sastojke za kolač.",
+    "ukrainian_translation_sentence": "Він перемішав інгредієнти для пирога."
+  },
+  {
+    "infinitive": "pomisliti",
+    "past_tense": ["pomislio", "pomislila", "pomislilo"],
+    "present_tense": ["pomislim", "pomisliš", "pomisli", "pomislimo", "pomislite", "pomisle"],
+    "ukrainian_translation": "подумати",
+    "example_sentence": "Pomislio je na svoje djetinjstvo.",
+    "ukrainian_translation_sentence": "Він подумав про своє дитинство."
+  },
+  {
+    "infinitive": "ponijeti",
+    "past_tense": ["ponio", "ponijela", "ponijelo"],
+    "present_tense": ["ponosim", "poneseš", "ponese", "ponosimo", "ponosite", "ponose"],
+    "ukrainian_translation": "взяти з собою",
+    "example_sentence": "Ponio je knjige na posao.",
+    "ukrainian_translation_sentence": "Він взяв книги з собою на роботу."
+  },
+  {
+    "infinitive": "poništiti",
+    "past_tense": ["poništio", "poništila", "poništilo"],
+    "present_tense": ["poništim", "poništiš", "poništi", "poništimo", "poništite", "ponište"],
+    "ukrainian_translation": "анулювати",
+    "example_sentence": "Poništio je svoju rezervaciju.",
+    "ukrainian_translation_sentence": "Він анулював своє бронювання."
+  },
+  {
+    "infinitive": "ponositi",
+    "past_tense": ["ponosio", "ponosila", "ponosilo"],
+    "present_tense": ["ponosim", "ponosiš", "ponosi", "ponosimo", "ponosite", "ponose"],
+    "ukrainian_translation": "пишатися",
+    "example_sentence": "Ponosio se svojim postignućem.",
+    "ukrainian_translation_sentence": "Він пишався своїм досягненням."
+  },
+  {
+    "infinitive": "ponukati",
+    "past_tense": ["ponukao", "ponukala", "ponukalo"],
+    "present_tense": ["ponukam", "ponukaš", "ponuka", "ponukamo", "ponukate", "ponukaju"],
+    "ukrainian_translation": "спонукати",
+    "example_sentence": "Ponukao je prijatelje da mu pomognu.",
+    "ukrainian_translation_sentence": "Він спонукав друзів допомогти йому."
+  },
+  {
+    "infinitive": "popapriti",
+    "past_tense": ["popaprio", "popaprijela", "popaprijelo"],
+    "present_tense": ["popaprim", "popapriš", "popapri", "popaprijemo", "popaprite", "popapre"],
+    "ukrainian_translation": "виправити",
+    "example_sentence": "Popaprio je greške u izvještaju.",
+    "ukrainian_translation_sentence": "Він виправив помилки в звіті."
+  },
+  {
+    "infinitive": "popeti",
+    "past_tense": ["popetio", "popetila", "popetilo"],
+    "present_tense": ["popnem", "popneš", "popne", "popnemo", "popnete", "popnu"],
+    "ukrainian_translation": "забратися",
+    "example_sentence": "Popela se na planinu.",
+    "ukrainian_translation_sentence": "Вона забралася на гору."
+  },
+  {
+    "infinitive": "poplaviti",
+    "past_tense": ["poplavio", "poplavila", "poplavilo"],
+    "present_tense": ["poplavim", "poplaviš", "poplavi", "poplavimo", "poplavite", "poplave"],
+    "ukrainian_translation": "затопити",
+    "example_sentence": "Poplavio je podrumske prostorije.",
+    "ukrainian_translation_sentence": "Він затопив підвальні приміщення."
+  },
+  {
+    "infinitive": "popričati",
+    "past_tense": ["popričao", "popričala", "popričalo"],
+    "present_tense": ["popričam", "popričaš", "popriča", "popričamo", "popričate", "popričaju"],
+    "ukrainian_translation": "поговорити",
+    "example_sentence": "Popričali smo o planovima za vikend.",
+    "ukrainian_translation_sentence": "Ми поговорили про плани на вихідні."
+  },
+  {
+    "infinitive": "poprimati",
+    "past_tense": ["poprimio", "poprimila", "poprimilo"],
+    "present_tense": ["poprimam", "poprimamo", "poprimaju", "poprimaju", "poprimaju", "poprimaju"],
+    "ukrainian_translation": "приймати (форма)",
+    "example_sentence": "Postepeno je poprimio novi oblik.",
+    "ukrainian_translation_sentence": "Поступово він набув нової форми."
+  }
+]

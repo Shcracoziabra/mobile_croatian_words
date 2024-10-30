@@ -1,0 +1,402 @@
+[
+	{
+    "infinitive": "prosuđivati",
+    "past_tense": ["prosuđivao", "prosuđivala", "prosuđivalo"],
+    "present_tense": ["prosuđujem", "prosuđuješ", "prosuđuje", "prosuđujemo", "prosuđujete", "prosuđuju"],
+    "ukrainian_translation": "осуджувати",
+    "example_sentence": "Sud je prosuđivao slučaj nepristrano.",
+    "ukrainian_translation_sentence": "Суд осуджував справу неупереджено."
+  },
+  {
+    "infinitive": "prosvijetliti",
+    "past_tense": ["prosvijetlio", "prosvijetlila", "prosvijetlilo"],
+    "present_tense": ["prosvijetlim", "prosvijetliš", "prosvijetli", "prosvijetlimo", "prosvijetlite", "prosvijetle"],
+    "ukrainian_translation": "просвітити",
+    "example_sentence": "Učitelj je prosvijetlio učenike o važnosti obrazovanja.",
+    "ukrainian_translation_sentence": "Учитель просвітив учнів про важливість освіти."
+  },
+  {
+    "infinitive": "proteći",
+    "past_tense": ["protekao", "protekla", "proteklo"],
+    "present_tense": ["protečem", "protečeš", "proteče", "protečemo", "protečete", "proteču"],
+    "ukrainian_translation": "протекти",
+    "example_sentence": "Vrijeme je proteklo brzo tijekom koncerta.",
+    "ukrainian_translation_sentence": "Час протік швидко під час концерту."
+  },
+	{
+    "infinitive": "protestirati",
+    "past_tense": ["protestirao", "protestirala", "protestiralo"],
+    "present_tense": ["protestiram", "protestiraš", "protestira", "protestiramo", "protestirate", "protestiraju"],
+    "ukrainian_translation": "протестувати",
+    "example_sentence": "Građani su protestirali zbog novih zakona.",
+    "ukrainian_translation_sentence": "Громадяни протестували проти нових законів."
+  },
+  {
+    "infinitive": "protiviti",
+    "past_tense": ["protivio", "protivila", "protivilo"],
+    "present_tense": ["protivim", "protiviš", "protivi", "protivimo", "protivite", "protive"],
+    "ukrainian_translation": "противитися",
+    "example_sentence": "Protivili su se promjenama u tvrtki.",
+    "ukrainian_translation_sentence": "Вони противились змінам у компанії."
+  },
+  {
+    "infinitive": "proučavati",
+    "past_tense": ["proučavao", "proučavala", "proučavalo"],
+    "present_tense": ["proučavam", "proučavaš", "proučava", "proučavamo", "proučavate", "proučavaju"],
+    "ukrainian_translation": "вивчати",
+    "example_sentence": "Studenti su proučavali povijest umjetnosti.",
+    "ukrainian_translation_sentence": "Студенти вивчали історію мистецтва."
+  },
+  {
+    "infinitive": "prouzročiti",
+    "past_tense": ["prouzročio", "prouzročila", "prouzročilo"],
+    "present_tense": ["prouzročim", "prouzročiš", "prouzroči", "prouzročimo", "prouzročite", "prouzroče"],
+    "ukrainian_translation": "спричинити",
+    "example_sentence": "Nesreća je prouzročila velike gužve u prometu.",
+    "ukrainian_translation_sentence": "Аварія спричинила великі затори в русі."
+  },
+  {
+    "infinitive": "provlačiti",
+    "past_tense": ["provlačio", "provlačila", "provlačilo"],
+    "present_tense": ["provlačim", "provlačiš", "provlači", "provlačimo", "provlačite", "provlače"],
+    "ukrainian_translation": "протягувати",
+    "example_sentence": "Provlačio je kabel kroz uski otvor.",
+    "ukrainian_translation_sentence": "Він протягав кабель через вузький отвір."
+  },
+  {
+    "infinitive": "provoditi",
+    "past_tense": ["provodio", "provodila", "provodilo"],
+    "present_tense": ["provodim", "provodiš", "provodi", "provodimo", "provodite", "provode"],
+    "ukrainian_translation": "проводити",
+    "example_sentence": "Provodio je puno vremena istražujući.",
+    "ukrainian_translation_sentence": "Він провів багато часу, проводячи дослідження."
+  },
+  {
+    "infinitive": "provozati",
+    "past_tense": ["provozao", "provozala", "provozalo"],
+    "present_tense": ["provozam", "provozaš", "provoza", "provozamo", "provozate", "provozaju"],
+    "ukrainian_translation": "покатати",
+    "example_sentence": "Provozao je goste po gradu.",
+    "ukrainian_translation_sentence": "Він покатав гостей містом."
+  },
+  {
+    "infinitive": "proživjeti",
+    "past_tense": ["proživio", "proživjela", "proživjelo"],
+    "present_tense": ["proživim", "proživiš", "proživi", "proživimo", "proživite", "prožive"],
+    "ukrainian_translation": "прожити",
+    "example_sentence": "Proživjeli su mnoge avanture zajedno.",
+    "ukrainian_translation_sentence": "Вони прожили багато пригод разом."
+  },
+  {
+    "infinitive": "prozvati",
+    "past_tense": ["prozvao", "prozvala", "prozvalo"],
+    "present_tense": ["prozovem", "prozoveš", "prozove", "prozovemo", "prozovete", "prozovu"],
+    "ukrainian_translation": "викликати",
+    "example_sentence": "Prozvao je političare da preuzmu odgovornost.",
+    "ukrainian_translation_sentence": "Він викликав політиків взяти на себе відповідальність."
+  },
+  {
+    "infinitive": "prskati",
+    "past_tense": ["prskao", "prskala", "prskalo"],
+    "present_tense": ["prskam", "prskaš", "prska", "prskamo", "prskate", "prska"],
+    "ukrainian_translation": "бризкати",
+    "example_sentence": "Fontana je prskala vodu visoko u zrak.",
+    "ukrainian_translation_sentence": "Фонтан бризкав воду високо в повітря."
+  },
+	{
+    "infinitive": "prštati",
+    "past_tense": ["prštao", "prštala", "prštalo"],
+    "present_tense": ["prštam", "prštaš", "pršta", "prštamo", "prštate", "prštaju"],
+    "ukrainian_translation": "іскрити",
+    "example_sentence": "Vatra je prštala u kaminu.",
+    "ukrainian_translation_sentence": "Вогонь іскрив у каміні."
+  },
+  {
+    "infinitive": "pružiti",
+    "past_tense": ["pružio", "pružila", "pružilo"],
+    "present_tense": ["pružim", "pružiš", "pruži", "pružimo", "pružite", "pruže"],
+    "ukrainian_translation": "надати",
+    "example_sentence": "Pružili su veliku podršku tokom projekta.",
+    "ukrainian_translation_sentence": "Вони надали велику підтримку під час проекту."
+  },
+  {
+    "infinitive": "psovati",
+    "past_tense": ["psovao", "psovala", "psovalo"],
+    "present_tense": ["psovim", "psoviš", "psovi", "psovimo", "psovite", "psove"],
+    "ukrainian_translation": "лаятися",
+    "example_sentence": "Psovao je nakon što je izgubio ključeve.",
+    "ukrainian_translation_sentence": "Він лаявся після того, як втратив ключі."
+  },
+  {
+    "infinitive": "pumpati",
+    "past_tense": ["pumpao", "pumpala", "pumpalo"],
+    "present_tense": ["pumpam", "pumpaš", "pumpa", "pumpamo", "pumpate", "pumpaju"],
+    "ukrainian_translation": "качати",
+    "example_sentence": "Pumpao je vodu iz podruma cijelu noć.",
+    "ukrainian_translation_sentence": "Він качав воду з підвалу всю ніч."
+  },
+  {
+    "infinitive": "puniti",
+    "past_tense": ["punio", "punila", "punilo"],
+    "present_tense": ["punim", "puniš", "puni", "punimo", "punite", "pune"],
+    "ukrainian_translation": "заповнювати",
+    "example_sentence": "Punio je šalice toplim čajem.",
+    "ukrainian_translation_sentence": "Він наповнював чашки гарячим чаєм."
+  },
+  {
+    "infinitive": "pušiti",
+    "past_tense": ["pušio", "pušila", "pušilo"],
+    "present_tense": ["pušim", "pušiš", "puši", "pušimo", "pušite", "puše"],
+    "ukrainian_translation": "курити",
+    "example_sentence": "Prestao je pušiti prošle godine.",
+    "ukrainian_translation_sentence": "Він перестав курити минулого року."
+  },
+  {
+    "infinitive": "puštati",
+    "past_tense": ["puštao", "puštala", "puštalo"],
+    "present_tense": ["puštam", "puštaš", "pušta", "puštamo", "puštate", "puštaju"],
+    "ukrainian_translation": "випускати",
+    "example_sentence": "Puštao je stare pjesme cijelu noć.",
+    "ukrainian_translation_sentence": "Він випускав старі пісні всю ніч."
+  },
+  {
+    "infinitive": "računati",
+    "past_tense": ["računao", "računala", "računalo"],
+    "present_tense": ["računam", "računaš", "računa", "računamo", "računate", "računaju"],
+    "ukrainian_translation": "рахувати",
+    "example_sentence": "Računali su na brzi povratak investicije.",
+    "ukrainian_translation_sentence": "Вони розраховували на швидке повернення інвестицій."
+  },
+  {
+    "infinitive": "rađati",
+    "past_tense": ["rađao", "rađala", "rađalo"],
+    "present_tense": ["rađam", "rađaš", "rađa", "rađamo", "rađate", "rađaju"],
+    "ukrainian_translation": "народжувати",
+    "example_sentence": "Rađala je trojke u lokalnoj bolnici.",
+    "ukrainian_translation_sentence": "Вона народжувала трійнят у місцевій лікарні."
+  },
+  {
+    "infinitive": "raditi",
+    "past_tense": ["radio", "radila", "radilo"],
+    "present_tense": ["radim", "radiš", "radi", "radimo", "radite", "rade"],
+    "ukrainian_translation": "працювати",
+    "example_sentence": "Radio je kao inženjer deset godina.",
+    "ukrainian_translation_sentence": "Він працював інженером десять років."
+  },
+	{
+    "infinitive": "radovati",
+    "past_tense": ["radovalo", "radovala", "radovalo"],
+    "present_tense": ["radujem", "raduješ", "raduje", "radujemo", "radujete", "raduju"],
+    "ukrainian_translation": "радіти",
+    "example_sentence": "Radovao se svakom njihovom uspjehu.",
+    "ukrainian_translation_sentence": "Він радів кожному їхньому успіху."
+  },
+  {
+    "infinitive": "raniti",
+    "past_tense": ["ranio", "ranila", "ranilo"],
+    "present_tense": ["ranim", "raniš", "rani", "ranimo", "ranite", "rane"],
+    "ukrainian_translation": "задавати рани",
+    "example_sentence": "Ranio je nogu tijekom planinarenja.",
+    "ukrainian_translation_sentence": "Він поранив ногу під час походу в гори."
+  },
+  {
+    "infinitive": "raščistiti",
+    "past_tense": ["raščistio", "raščistila", "raščistilo"],
+    "present_tense": ["raščistim", "raščistiš", "raščisti", "raščistimo", "raščistite", "raščiste"],
+    "ukrainian_translation": "розчистити",
+    "example_sentence": "Raščistili su put nakon oluje.",
+    "ukrainian_translation_sentence": "Вони розчистили шлях після бурі."
+  },
+  {
+    "infinitive": "rasipati",
+    "past_tense": ["rasipao", "rasipala", "rasipalo"],
+    "present_tense": ["rasipam", "rasipaš", "rasipa", "rasipamo", "rasipate", "rasipaju"],
+    "ukrainian_translation": "розсіювати",
+    "example_sentence": "Rasipao je sjeme po vrtu.",
+    "ukrainian_translation_sentence": "Він розсіяв насіння по саду."
+  },
+  {
+    "infinitive": "raspisati",
+    "past_tense": ["raspisao", "raspisala", "raspisalo"],
+    "present_tense": ["raspišem", "raspišeš", "raspiše", "raspišemo", "raspišete", "raspišu"],
+    "ukrainian_translation": "оголосити",
+    "example_sentence": "Raspisali su natječaj za novi projekt.",
+    "ukrainian_translation_sentence": "Вони оголосили конкурс на новий проект."
+  },
+  {
+    "infinitive": "raspisivati",
+    "past_tense": ["raspisivao", "raspisivala", "raspisivalo"],
+    "present_tense": ["raspisujem", "raspisuješ", "raspisuje", "raspisujemo", "raspisujete", "raspisuju"],
+    "ukrainian_translation": "розписувати",
+    "example_sentence": "Raspisivao je detalje ugovora za suradnike.",
+    "ukrainian_translation_sentence": "Він детально розписував деталі контракту для співробітників."
+  },
+  {
+    "infinitive": "rasprodati",
+    "past_tense": ["rasprodao", "rasprodala", "rasprodalo"],
+    "present_tense": ["rasprodajem", "rasprodaješ", "rasprodaje", "rasprodajemo", "rasprodajete", "rasprodaju"],
+    "ukrainian_translation": "розпродати",
+    "example_sentence": "Rasprodali su sve ulaznice za koncert.",
+    "ukrainian_translation_sentence": "Вони розпродали всі квитки на концерт."
+  },
+  {
+    "infinitive": "rastati",
+    "past_tense": ["rastao", "rastala", "rastalo"],
+    "present_tense": ["rastam", "rastaš", "rasta", "rastamo", "rastate", "rastaju"],
+    "ukrainian_translation": "розлучатися",
+    "example_sentence": "Rastali su se nakon deset godina braka.",
+    "ukrainian_translation_sentence": "Вони розлучилися після десяти років шлюбу."
+  },
+  {
+    "infinitive": "rastaviti",
+    "past_tense": ["rastavio", "rastavila", "rastavilo"],
+    "present_tense": ["rastavim", "rastaviš", "rastavi", "rastavimo", "rastavite", "rastave"],
+    "ukrainian_translation": "розібрати",
+    "example_sentence": "Rastavio je uređaj da bi pronašao kvar.",
+    "ukrainian_translation_sentence": "Він розібрав пристрій, щоб знайти несправність."
+  },
+  {
+    "infinitive": "rasteretiti",
+    "past_tense": ["rasteretio", "rasteretila", "rasteretilo"],
+    "present_tense": ["rasteretim", "rasteretiš", "rastereti", "rasteretimo", "rasteretite", "rasterete"],
+    "ukrainian_translation": "розвантажити",
+    "example_sentence": "Rasteretili su ga od nekih odgovornosti na poslu.",
+    "ukrainian_translation_sentence": "Вони розвантажили його від деяких обов'язків на роботі."
+  },
+	{
+    "infinitive": "razapeti",
+    "past_tense": ["razapeo", "razapela", "razapelo"],
+    "present_tense": ["razapnem", "razapneš", "razapne", "razapnemo", "razapnete", "razapnu"],
+    "ukrainian_translation": "розіп'яти",
+    "example_sentence": "Razapeli su šator na livadi.",
+    "ukrainian_translation_sentence": "Вони розіп'яли намет на лузі."
+  },
+  {
+    "infinitive": "razarati",
+    "past_tense": ["razarao", "razarala", "razaralo"],
+    "present_tense": ["razaram", "razaraš", "razara", "razaramo", "razarate", "razaraju"],
+    "ukrainian_translation": "знищувати",
+    "example_sentence": "Rat je razarao gradove.",
+    "ukrainian_translation_sentence": "Війна знищувала міста."
+  },
+  {
+    "infinitive": "razbijati",
+    "past_tense": ["razbijao", "razbijala", "razbijalo"],
+    "present_tense": ["razbijam", "razbijaš", "razbija", "razbijamo", "razbijate", "razbijaju"],
+    "ukrainian_translation": "розбивати",
+    "example_sentence": "Razbijali su stare porculanske figure.",
+    "ukrainian_translation_sentence": "Вони розбивали старі порцелянові фігурки."
+  },
+  {
+    "infinitive": "razbiti",
+    "past_tense": ["razbio", "razbila", "razbilo"],
+    "present_tense": ["razbijem", "razbiješ", "razbije", "razbijemo", "razbijete", "razbiju"],
+    "ukrainian_translation": "розбити",
+    "example_sentence": "Razbio je prozor loptom.",
+    "ukrainian_translation_sentence": "Він розбив вікно м'ячем."
+  },
+  {
+    "infinitive": "razdvojiti",
+    "past_tense": ["razdvojio", "razdvojila", "razdvojilo"],
+    "present_tense": ["razdvojim", "razdvojiš", "razdvoji", "razdvojimo", "razdvojite", "razdvoje"],
+    "ukrainian_translation": "розділити",
+    "example_sentence": "Razdvojili su blizance u školi.",
+    "ukrainian_translation_sentence": "Вони розділили близнюків у школі."
+  },
+  {
+    "infinitive": "razglabati",
+    "past_tense": ["razglabao", "razglabala", "razglabalo"],
+    "present_tense": ["razglabam", "razglabaš", "razglaba", "razglabamo", "razglabate", "razglabaju"],
+    "ukrainian_translation": "розмірковувати",
+    "example_sentence": "Razglabali su o političkim temama satima.",
+    "ukrainian_translation_sentence": "Вони годинами розмірковували про політичні теми."
+  },
+  {
+    "infinitive": "razgledati",
+    "past_tense": ["razgledao", "razgledala", "razgledalo"],
+    "present_tense": ["razgledam", "razgledaš", "razgleda", "razgledamo", "razgledate", "razgledaju"],
+    "ukrainian_translation": "оглядати",
+    "example_sentence": "Razgledali su muzejske eksponate.",
+    "ukrainian_translation_sentence": "Вони оглядали експонати музею."
+  },
+  {
+    "infinitive": "razjasniti",
+    "past_tense": ["razjasnio", "razjasnila", "razjasnilo"],
+    "present_tense": ["razjasnim", "razjasniš", "razjasni", "razjasnimo", "razjasnite", "razjasne"],
+    "ukrainian_translation": "прояснити",
+    "example_sentence": "Profesor je razjasnio složeni matematički problem.",
+    "ukrainian_translation_sentence": "Професор прояснив складну математичну задачу."
+  },
+  {
+    "infinitive": "razmisliti",
+    "past_tense": ["razmislio", "razmislila", "razmislilo"],
+    "present_tense": ["razmislim", "razmisliš", "razmisli", "razmišljamo", "razmišljate", "razmišljaju"],
+    "ukrainian_translation": "роздумати",
+    "example_sentence": "Razmislili su prije nego što su donijeli odluku.",
+    "ukrainian_translation_sentence": "Вони роздумали, перш ніж прийняти рішення."
+  },
+  {
+    "infinitive": "razočarati",
+    "past_tense": ["razočarao", "razočarala", "razočaralo"],
+    "present_tense": ["razočaram", "razočaraš", "razočara", "razočaramo", "razočarate", "razočaraju"],
+    "ukrainian_translation": "розчарувати",
+    "example_sentence": "Razočarao ju je svojim postupcima.",
+    "ukrainian_translation_sentence": "Він розчарував її своїми вчинками."
+  },
+	{
+    "infinitive": "razotkriti",
+    "past_tense": ["razotkrio", "razotkrila", "razotkrilo"],
+    "present_tense": ["razotkrivam", "razotkrivaš", "razotkriva", "razotkrivamo", "razotkrivate", "razotkrivaju"],
+    "ukrainian_translation": "розкрити",
+    "example_sentence": "Novinar je razotkrio korupciju u vladi.",
+    "ukrainian_translation_sentence": "Журналіст розкрив корупцію у владі."
+  },
+  {
+    "infinitive": "razraditi",
+    "past_tense": ["razradio", "razradila", "razradilo"],
+    "present_tense": ["razrađujem", "razrađuješ", "razrađuje", "razrađujemo", "razrađujete", "razrađuju"],
+    "ukrainian_translation": "розробити",
+    "example_sentence": "Razradili su detaljan plan za projekat.",
+    "ukrainian_translation_sentence": "Вони розробили детальний план для проєкту."
+  },
+  {
+    "infinitive": "razrađivati",
+    "past_tense": ["razrađivao", "razrađivala", "razrađivalo"],
+    "present_tense": ["razrađujem", "razrađuješ", "razrađuje", "razrađujemo", "razrađujete", "razrađuju"],
+    "ukrainian_translation": "розробляти",
+    "example_sentence": "Inženjeri razrađuju novi model automobila.",
+    "ukrainian_translation_sentence": "Інженери розробляють нову модель автомобіля."
+  },
+  {
+    "infinitive": "razuvjeriti",
+    "past_tense": ["razuvjerio", "razuvjerila", "razuvjerilo"],
+    "present_tense": ["razuvjerim", "razuvjeriš", "razuvjeri", "razuvjerimo", "razuvjerite", "razuvjere"],
+    "ukrainian_translation": "відмовити",
+    "example_sentence": "Pokušao je razuvjeriti prijatelja od loše odluke.",
+    "ukrainian_translation_sentence": "Він намагався відмовити друга від поганого рішення."
+  },
+  {
+    "infinitive": "razvlačiti",
+    "past_tense": ["razvlačio", "razvlačila", "razvlačilo"],
+    "present_tense": ["razvlačim", "razvlačiš", "razvlači", "razvlačimo", "razvlačite", "razvlaču"],
+    "ukrainian_translation": "тягнути",
+    "example_sentence": "Razvlačili su vrijeme sastanka do beskonačnosti.",
+    "ukrainian_translation_sentence": "Вони тягнули час засідання до нескінченності."
+  },
+  {
+    "infinitive": "reći",
+    "past_tense": ["rekao", "rekla", "reklo"],
+    "present_tense": ["kažem", "kažeš", "kaže", "kažemo", "kažete", "kažu"],
+    "ukrainian_translation": "сказати",
+    "example_sentence": "Rekao je istinu uprkos posljedicama.",
+    "ukrainian_translation_sentence": "Він сказав правду, незважаючи на наслідки."
+  },
+  {
+    "infinitive": "recitirati",
+    "past_tense": ["recitirao", "recitirala", "recitiralo"],
+    "present_tense": ["recitiram", "recitiraš", "recitira", "recitiramo", "recitirate", "recitiraju"],
+    "ukrainian_translation": "рецитувати",
+    "example_sentence": "Učenici su recitirali pjesme na školskoj priredbi.",
+    "ukrainian_translation_sentence": "Учні рецитували вірші на шкільному святі."
+  }
+]

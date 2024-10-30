@@ -1,0 +1,402 @@
+[
+  {
+    "maskuline": "muzički",
+    "feminine": "muzička",
+    "neutrum": "muzičko",
+    "ukrainian_translation": "музичний",
+    "example_sentence": "Muzička škola nudi tečajeve za sve uzraste.",
+    "ukrainian_translation_sentence": "Музична школа пропонує курси для всіх вікових груп."
+  },
+  {
+    "maskuline": "nacionalan",
+    "feminine": "nacionalna",
+    "neutrum": "nacionalno",
+    "ukrainian_translation": "національний",
+    "example_sentence": "Nacionalna zastava ponosno se vijorila na vjetru.",
+    "ukrainian_translation_sentence": "Національний прапор гордо майорів на вітрі."
+  },
+  {
+    "maskuline": "nadgrobni",
+    "feminine": "nadgrobna",
+    "neutrum": "nadgrobno",
+    "ukrainian_translation": "надгробний",
+    "example_sentence": "Nadgrobni spomenik je postavljen u čast preminulih.",
+    "ukrainian_translation_sentence": "Надгробний пам'ятник було встановлено на честь померлих."
+  },
+  {
+    "maskuline": "nadmoćan",
+    "feminine": "nadmoćna",
+    "neutrum": "nadmoćno",
+    "ukrainian_translation": "переважаючий",
+    "example_sentence": "Njegov nadmoćan stav je izazvao reakcije kolega.",
+    "ukrainian_translation_sentence": "Його переважаюча позиція викликала реакцію колег."
+  },
+  {
+    "maskuline": "nadmorski",
+    "feminine": "nadmorska",
+    "neutrum": "nadmorsko",
+    "ukrainian_translation": "надморський",
+    "example_sentence": "Planina se nalazi na visokoj nadmorskoj visini.",
+    "ukrainian_translation_sentence": "Гора розташована на великій надморській висоті."
+  },
+  {
+    "maskuline": "nagao",
+    "feminine": "naga",
+    "neutrum": "nago",
+    "ukrainian_translation": "різкий",
+    "example_sentence": "Njegov nagao odgovor iznenadio je prisutne.",
+    "ukrainian_translation_sentence": "Його різка відповідь здивувала присутніх."
+  },
+  {
+    "maskuline": "nagradni",
+    "feminine": "nagradna",
+    "neutrum": "nagradno",
+    "ukrainian_translation": "призовий",
+    "example_sentence": "Pobijedio je na nagradnom natjecanju.",
+    "ukrainian_translation_sentence": "Він переміг у призовому змаганні."
+  },
+  {
+    "maskuline": "naivan",
+    "feminine": "naivna",
+    "neutrum": "naivno",
+    "ukrainian_translation": "наївний",
+    "example_sentence": "Naivan mladić vjerovao je svima bez rezerve.",
+    "ukrainian_translation_sentence": "Наївний юнак вірив усім без жодних сумнівів."
+  },
+  {
+    "maskuline": "nakaradan",
+    "feminine": "nakaradna",
+    "neutrum": "nakaradno",
+    "ukrainian_translation": "викривлений",
+    "example_sentence": "Njegovo nakaradno ponašanje izazvalo je podsmijeh.",
+    "ukrainian_translation_sentence": "Його викривлена поведінка викликала насмішку."
+  },
+  {
+    "maskuline": "napet",
+    "feminine": "napeta",
+    "neutrum": "napeto",
+    "ukrainian_translation": "напружений",
+    "example_sentence": "Napet trenutak u filmu držao je publiku u neizvjesnosti.",
+    "ukrainian_translation_sentence": "Напружений момент у фільмі тримав публіку в напрузі."
+  },
+  {
+    "maskuline": "naporan",
+    "feminine": "naporna",
+    "neutrum": "naporno",
+    "ukrainian_translation": "виснажливий",
+    "example_sentence": "Rad na projektu bio je naporan, ali uspješan.",
+    "ukrainian_translation_sentence": "Робота над проєктом була виснажливою, але успішною."
+  },
+  {
+    "maskuline": "napredan",
+    "feminine": "napredna",
+    "neutrum": "napredno",
+    "ukrainian_translation": "прогресивний",
+    "example_sentence": "Napredan pristup obrazovanju donio je pozitivne rezultate.",
+    "ukrainian_translation_sentence": "Прогресивний підхід до освіти приніс позитивні результати."
+  },
+  {
+    "maskuline": "nasilnički",
+    "feminine": "nasilnička",
+    "neutrum": "nasilničko",
+    "ukrainian_translation": "насильницький",
+    "example_sentence": "Nasilničko ponašanje neće biti tolerirano.",
+    "ukrainian_translation_sentence": "Насильницька поведінка не буде толерована."
+  },
+  {
+    "maskuline": "nasljedan",
+    "feminine": "nasljedna",
+    "neutrum": "nasljedno",
+    "ukrainian_translation": "спадковий",
+    "example_sentence": "Nasljedne osobine često se prenose s generacije na generaciju.",
+    "ukrainian_translation_sentence": "Спадкові риси часто передаються з покоління в покоління."
+  },
+  {
+    "maskuline": "natjecateljski",
+    "feminine": "natjecateljska",
+    "neutrum": "natjecateljsko",
+    "ukrainian_translation": "змагальний",
+    "example_sentence": "Natjecateljski duh motivirao je sve sudionike turnira.",
+    "ukrainian_translation_sentence": "Змагальний дух мотивував усіх учасників турніру."
+  },
+  {
+    "maskuline": "neadekvatan",
+    "feminine": "neadekvatna",
+    "neutrum": "neadekvatno",
+    "ukrainian_translation": "неадекватний",
+    "example_sentence": "Neadekvatan odgovor nije zadovoljio komisiju.",
+    "ukrainian_translation_sentence": "Неадекватна відповідь не задовольнила комісію."
+  },
+  {
+    "maskuline": "nebeski",
+    "feminine": "nebeska",
+    "neutrum": "nebesko",
+    "ukrainian_translation": "небесний",
+    "example_sentence": "Nebeski svod bio je prekriven zvijezdama.",
+    "ukrainian_translation_sentence": "Небесний купол був покритий зірками."
+  },
+  {
+    "maskuline": "nebitan",
+    "feminine": "nebitna",
+    "neutrum": "nebitno",
+    "ukrainian_translation": "незначний",
+    "example_sentence": "Taj detalj je bio nebitan za konačni ishod.",
+    "ukrainian_translation_sentence": "Ця деталь була незначною для остаточного результату."
+  },
+  {
+    "maskuline": "nebrojen",
+    "feminine": "nebrojena",
+    "neutrum": "nebrojeno",
+    "ukrainian_translation": "незліченний",
+    "example_sentence": "Nebrojeni pokušaji nisu donijeli uspjeh.",
+    "ukrainian_translation_sentence": "Незліченні спроби не принесли успіху."
+  },
+  {
+    "maskuline": "nedodirljiv",
+    "feminine": "nedodirljiva",
+    "neutrum": "nedodirljivo",
+    "ukrainian_translation": "недоторканий",
+    "example_sentence": "On se smatrao nedodirljivim zbog svog položaja.",
+    "ukrainian_translation_sentence": "Він вважав себе недоторканим через свою посаду."
+  },
+  {
+    "maskuline": "nedopustiv",
+    "feminine": "nedopustiva",
+    "neutrum": "nedopustivo",
+    "ukrainian_translation": "неприпустимий",
+    "example_sentence": "Takvo ponašanje je jednostavno nedopustivo.",
+    "ukrainian_translation_sentence": "Така поведінка просто неприпустима."
+  },
+  {
+    "maskuline": "nedorečen",
+    "feminine": "nedorečena",
+    "neutrum": "nedorečeno",
+    "ukrainian_translation": "недоказаний",
+    "example_sentence": "Nedorečena izjava ostavila je puno prostora za tumačenje.",
+    "ukrainian_translation_sentence": "Недоказана заява залишила багато простору для тлумачень."
+  },
+  {
+    "maskuline": "nedostižan",
+    "feminine": "nedostižna",
+    "neutrum": "nedostižno",
+    "ukrainian_translation": "недосяжний",
+    "example_sentence": "Cilj se činio nedostižnim, ali nisu odustali.",
+    "ukrainian_translation_sentence": "Мета здавалася недосяжною, але вони не відмовилися."
+  },
+  {
+    "maskuline": "nedostupan",
+    "feminine": "nedostupna",
+    "neutrum": "nedostupno",
+    "ukrainian_translation": "недоступний",
+    "example_sentence": "Planina je bila nedostupna zbog lošeg vremena.",
+    "ukrainian_translation_sentence": "Гора була недоступною через погану погоду."
+  },
+  {
+    "maskuline": "nedovršen",
+    "feminine": "nedovršena",
+    "neutrum": "nedovršeno",
+    "ukrainian_translation": "незавершений",
+    "example_sentence": "Nedovršeni projekt čeka na dodatna sredstva.",
+    "ukrainian_translation_sentence": "Незавершений проєкт чекає на додаткові кошти."
+  },
+  {
+    "maskuline": "neimenovani",
+    "feminine": "neimenovana",
+    "neutrum": "neimenovano",
+    "ukrainian_translation": "неназваний",
+    "example_sentence": "Neimenovani svjedok dao je ključne informacije.",
+    "ukrainian_translation_sentence": "Неназваний свідок надав ключову інформацію."
+  },
+  {
+    "maskuline": "neispravan",
+    "feminine": "neispravna",
+    "neutrum": "neispravno",
+    "ukrainian_translation": "несправний",
+    "example_sentence": "Neispravan uređaj mora biti vraćen proizvođaču.",
+    "ukrainian_translation_sentence": "Несправний пристрій потрібно повернути виробнику."
+  },
+  {
+    "maskuline": "neizlječiv",
+    "feminine": "neizlječiva",
+    "neutrum": "neizlječivo",
+    "ukrainian_translation": "невиліковний",
+    "example_sentence": "Liječnici su rekli da je bolest neizlječiva.",
+    "ukrainian_translation_sentence": "Лікарі сказали, що хвороба невиліковна."
+  },
+  {
+    "maskuline": "neizmjeran",
+    "feminine": "neizmjerna",
+    "neutrum": "neizmjerno",
+    "ukrainian_translation": "величезний",
+    "example_sentence": "Neizmjerna tuga ispunila je cijelu obitelj.",
+    "ukrainian_translation_sentence": "Величезний смуток охопив усю родину."
+  },
+  {
+    "maskuline": "nekadašnji",
+    "feminine": "nekadašnja",
+    "neutrum": "nekadašnje",
+    "ukrainian_translation": "колишній",
+    "example_sentence": "Nekadašnji predsjednik zemlje posjetio je grad.",
+    "ukrainian_translation_sentence": "Колишній президент країни відвідав місто."
+  },
+  {
+    "maskuline": "nekorektan",
+    "feminine": "nekorektna",
+    "neutrum": "nekorektno",
+    "ukrainian_translation": "некоректний",
+    "example_sentence": "Njegov nekorektan stav izazvao je proteste.",
+    "ukrainian_translation_sentence": "Його некоректна поведінка викликала протести."
+  },
+  {
+    "maskuline": "nekvalitetan",
+    "feminine": "nekvalitetna",
+    "neutrum": "nekvalitetno",
+    "ukrainian_translation": "неякісний",
+    "example_sentence": "Nekvalitetan materijal nije izdržao vremenske uvjete.",
+    "ukrainian_translation_sentence": "Неякісний матеріал не витримав погодних умов."
+  },
+  {
+    "maskuline": "neljudski",
+    "feminine": "neljudska",
+    "neutrum": "neljudsko",
+    "ukrainian_translation": "нелюдський",
+    "example_sentence": "Neljudski uvjeti rada doveli su do štrajka.",
+    "ukrainian_translation_sentence": "Нелюдські умови праці призвели до страйку."
+  },
+  {
+    "maskuline": "neminovan",
+    "feminine": "neminovna",
+    "neutrum": "neminovno",
+    "ukrainian_translation": "неминучий",
+    "example_sentence": "Neminovan pad popularnosti uslijedio je nakon skandala.",
+    "ukrainian_translation_sentence": "Неминуче падіння популярності настало після скандалу."
+  },
+  {
+    "maskuline": "nemio",
+    "feminine": "nemila",
+    "neutrum": "nemilo",
+    "ukrainian_translation": "неприємний",
+    "example_sentence": "Nemio događaj obilježio je njihov dan.",
+    "ukrainian_translation_sentence": "Неприємна подія позначила їхній день."
+  },
+  {
+    "maskuline": "nemjerljiv",
+    "feminine": "nemjerljiva",
+    "neutrum": "nemjerljivo",
+    "ukrainian_translation": "невимірний",
+    "example_sentence": "Nemjerljiv doprinos znanstvenika zauvijek je promijenio svijet.",
+    "ukrainian_translation_sentence": "Невимірний внесок науковця назавжди змінив світ."
+  },
+  {
+    "maskuline": "nemoralan",
+    "feminine": "nemoralna",
+    "neutrum": "nemoralno",
+    "ukrainian_translation": "аморальний",
+    "example_sentence": "Njegovo nemoralno ponašanje izazvalo je osudu društva.",
+    "ukrainian_translation_sentence": "Його аморальна поведінка викликала осуд суспільства."
+  },
+  {
+    "maskuline": "nenametljiv",
+    "feminine": "nenametljiva",
+    "neutrum": "nenametljivo",
+    "ukrainian_translation": "ненав'язливий",
+    "example_sentence": "Njen nenametljiv pristup olakšao je suradnju.",
+    "ukrainian_translation_sentence": "Її ненав'язливий підхід полегшив співпрацю."
+  },
+  {
+    "maskuline": "neodređen",
+    "feminine": "neodređena",
+    "neutrum": "neodređeno",
+    "ukrainian_translation": "невизначений",
+    "example_sentence": "Sastanak je zakazan za neodređeno vrijeme.",
+    "ukrainian_translation_sentence": "Зустріч призначена на невизначений час."
+  },
+  {
+    "maskuline": "neodrživ",
+    "feminine": "neodrživa",
+    "neutrum": "neodrživo",
+    "ukrainian_translation": "нестійкий",
+    "example_sentence": "Njihov način poslovanja postao je neodrživ.",
+    "ukrainian_translation_sentence": "Їхній спосіб ведення бізнесу став нестійким."
+  },
+  {
+    "maskuline": "neophodan",
+    "feminine": "neophodna",
+    "neutrum": "neophodno",
+    "ukrainian_translation": "необхідний",
+    "example_sentence": "Neophodan je timski rad za postizanje uspjeha.",
+    "ukrainian_translation_sentence": "Для досягнення успіху необхідна командна робота."
+  },
+  {
+    "maskuline": "neopisiv",
+    "feminine": "neopisiva",
+    "neutrum": "neopisivo",
+    "ukrainian_translation": "невимовний",
+    "example_sentence": "Njegova radost bila je neopisiva.",
+    "ukrainian_translation_sentence": "Його радість була невимовною."
+  },
+  {
+    "maskuline": "neopravdan",
+    "feminine": "neopravdana",
+    "neutrum": "neopravdano",
+    "ukrainian_translation": "необґрунтований",
+    "example_sentence": "Neopravdane optužbe izazvale su velike probleme.",
+    "ukrainian_translation_sentence": "Необґрунтовані звинувачення спричинили великі проблеми."
+  },
+  {
+    "maskuline": "neostvaren",
+    "feminine": "neostvarena",
+    "neutrum": "neostvareno",
+    "ukrainian_translation": "нездійснений",
+    "example_sentence": "Njegovi planovi ostali su neostvareni.",
+    "ukrainian_translation_sentence": "Його плани залишилися нездійсненими."
+  },
+  {
+    "maskuline": "nepobitan",
+    "feminine": "nepobitna",
+    "neutrum": "nepobitno",
+    "ukrainian_translation": "незаперечний",
+    "example_sentence": "Dokazi su bili nepobitni i presudni za slučaj.",
+    "ukrainian_translation_sentence": "Докази були незаперечними та вирішальними для справи."
+  },
+  {
+    "maskuline": "nepodnošljiv",
+    "feminine": "nepodnošljiva",
+    "neutrum": "nepodnošljivo",
+    "ukrainian_translation": "нестерпний",
+    "example_sentence": "Vrućina je postala nepodnošljiva za mnoge.",
+    "ukrainian_translation_sentence": "Спека стала нестерпною для багатьох."
+  },
+  {
+    "maskuline": "nepokretan",
+    "feminine": "nepokretna",
+    "neutrum": "nepokretno",
+    "ukrainian_translation": "нерухомий",
+    "example_sentence": "Nakon nesreće ostao je nepokretan nekoliko mjeseci.",
+    "ukrainian_translation_sentence": "Після аварії він залишався нерухомим кілька місяців."
+  },
+  {
+    "maskuline": "nepopularan",
+    "feminine": "nepopularna",
+    "neutrum": "nepopularno",
+    "ukrainian_translation": "непопулярний",
+    "example_sentence": "Nepopularne odluke često izazivaju nezadovoljstvo.",
+    "ukrainian_translation_sentence": "Непопулярні рішення часто викликають незадоволення."
+  },
+  {
+    "maskuline": "neposredan",
+    "feminine": "neposredna",
+    "neutrum": "neposredno",
+    "ukrainian_translation": "безпосередній",
+    "example_sentence": "Neposredan razgovor riješio je sve nesporazume.",
+    "ukrainian_translation_sentence": "Безпосередня розмова вирішила всі непорозуміння."
+  },
+  {
+    "maskuline": "nepostojeći",
+    "feminine": "nepostojeća",
+    "neutrum": "nepostojeće",
+    "ukrainian_translation": "неіснуючий",
+    "example_sentence": "Njihova tvrdnja temeljila se na nepostojećim činjenicama.",
+    "ukrainian_translation_sentence": "Їхнє твердження було засноване на неіснуючих фактах."
+  }
+]

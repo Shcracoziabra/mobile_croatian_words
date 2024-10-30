@@ -1,0 +1,352 @@
+[
+	{
+    "singular": "krvarenje",
+    "plural": "krvarenja",
+    "ukrainian_translation": "кровотеча",
+    "example_sentence": "Krvarenje je bilo zaustavljeno na vrijeme.",
+    "ukrainian_translation_sentence": "Кровотечу зупинили вчасно."
+  },
+  {
+    "singular": "krzno",
+    "plural": "krzna",
+    "ukrainian_translation": "хутро",
+    "example_sentence": "Nosila je kaput od krzna.",
+    "ukrainian_translation_sentence": "Вона носила пальто з хутра."
+  },
+  {
+    "singular": "kuglana",
+    "plural": "kuglane",
+    "ukrainian_translation": "боулинг",
+    "example_sentence": "Prijatelji su otišli u kuglanu na zabavu.",
+    "ukrainian_translation_sentence": "Друзі пішли в боулінг на розвагу."
+  },
+  {
+    "singular": "kuhar",
+    "plural": "kuhari",
+    "ukrainian_translation": "кухар",
+    "example_sentence": "Kuhar je pripremio ukusnu večeru.",
+    "ukrainian_translation_sentence": "Кухар приготував смачну вечерю."
+  },
+  {
+    "singular": "kultura",
+    "plural": "kulture",
+    "ukrainian_translation": "культура",
+    "example_sentence": "Hrvatska ima bogatu kulturnu baštinu.",
+    "ukrainian_translation_sentence": "Хорватія має багату культурну спадщину."
+  },
+  {
+    "singular": "kunić",
+    "plural": "kunići",
+    "ukrainian_translation": "кролик",
+    "example_sentence": "Djeca su mazila malog kunića u zoološkom vrtu.",
+    "ukrainian_translation_sentence": "Діти гладили маленького кролика в зоопарку."
+  },
+  {
+    "singular": "kupač",
+    "plural": "kupači",
+    "ukrainian_translation": "плавець",
+    "example_sentence": "Kupači su uživali na plaži tijekom ljeta.",
+    "ukrainian_translation_sentence": "Плавці насолоджувалися на пляжі влітку."
+  },
+  {
+    "singular": "kupoprodaja",
+    "plural": "kupoprodaje",
+    "ukrainian_translation": "купівля-продаж",
+    "example_sentence": "Kupoprodaja nekretnina je složen proces.",
+    "ukrainian_translation_sentence": "Купівля-продаж нерухомості — складний процес."
+  },
+  {
+    "singular": "kupovanje",
+    "plural": "kupovanja",
+    "ukrainian_translation": "покупка",
+    "example_sentence": "Kupovanje odjeće za zimu može biti skupo.",
+    "ukrainian_translation_sentence": "Купівля зимового одягу може бути дорогою."
+  },
+  {
+    "singular": "kustos",
+    "plural": "kustosi",
+    "ukrainian_translation": "куратор",
+    "example_sentence": "Kustos je vodio posjetitelje kroz izložbu.",
+    "ukrainian_translation_sentence": "Куратор проводив відвідувачів виставкою."
+  },
+  {
+    "singular": "kvadrat",
+    "plural": "kvadrati",
+    "ukrainian_translation": "квадрат",
+    "example_sentence": "Stan ima 60 kvadrata.",
+    "ukrainian_translation_sentence": "Квартира має площу 60 квадратних метрів."
+  },
+  {
+    "singular": "kvantiteta",
+    "plural": "kvantitete",
+    "ukrainian_translation": "кількість",
+    "example_sentence": "Kvaliteta je važnija od kvantitete.",
+    "ukrainian_translation_sentence": "Якість важливіша за кількість."
+  },
+  {
+    "singular": "kvota",
+    "plural": "kvote",
+    "ukrainian_translation": "квота",
+    "example_sentence": "Svaka država ima svoju kvotu u međunarodnim organizacijama.",
+    "ukrainian_translation_sentence": "Кожна країна має свою квоту в міжнародних організаціях."
+  },
+  {
+    "singular": "laik",
+    "plural": "laici",
+    "ukrainian_translation": "нефахівець",
+    "example_sentence": "Laici često ne razumiju složene znanstvene pojmove.",
+    "ukrainian_translation_sentence": "Нефахівці часто не розуміють складних наукових термінів."
+  },
+  {
+    "singular": "latinica",
+    "plural": "latinice",
+    "ukrainian_translation": "латиниця",
+    "example_sentence": "Hrvatski jezik koristi latinicu kao pismo.",
+    "ukrainian_translation_sentence": "Хорватська мова використовує латиницю як абетку."
+  },
+  {
+    "singular": "lavanda",
+    "plural": "lavande",
+    "ukrainian_translation": "лаванда",
+    "example_sentence": "Miris lavande je opuštajući.",
+    "ukrainian_translation_sentence": "Аромат лаванди заспокоює."
+  },
+  {
+    "singular": "letenje",
+    "plural": "letenja",
+    "ukrainian_translation": "політ",
+    "example_sentence": "Letenje iznad planina bilo je nezaboravno iskustvo.",
+    "ukrainian_translation_sentence": "Політ над горами був незабутнім досвідом."
+  },
+  {
+    "singular": "leukemija",
+    "plural": "leukemije",
+    "ukrainian_translation": "лейкемія",
+    "example_sentence": "Leukemija je teška bolest koja pogađa krv.",
+    "ukrainian_translation_sentence": "Лейкемія — це важка хвороба, яка вражає кров."
+  },
+  {
+    "singular": "ležaljka",
+    "plural": "ležaljke",
+    "ukrainian_translation": "шезлонг",
+    "example_sentence": "Postavio je ležaljku na plažu i uživao u suncu.",
+    "ukrainian_translation_sentence": "Він поставив шезлонг на пляжі та насолоджувався сонцем."
+  },
+	{
+    "singular": "libido",
+    "plural": "libida",
+    "ukrainian_translation": "лібідо",
+    "example_sentence": "Nizak libido može biti znak zdravstvenih problema.",
+    "ukrainian_translation_sentence": "Низьке лібідо може бути ознакою проблем зі здоров'ям."
+  },
+  {
+    "singular": "licemjerje",
+    "plural": "licemjerja",
+    "ukrainian_translation": "лицемірство",
+    "example_sentence": "Njegovo licemjerje je razočaralo prijatelje.",
+    "ukrainian_translation_sentence": "Його лицемірство розчарувало друзів."
+  },
+  {
+    "singular": "licencija",
+    "plural": "licencije",
+    "ukrainian_translation": "ліцензія",
+    "example_sentence": "Tvrtka je dobila licenciju za rad u inozemstvu.",
+    "ukrainian_translation_sentence": "Компанія отримала ліцензію на роботу за кордоном."
+  },
+  {
+    "singular": "lijek",
+    "plural": "lijekovi",
+    "ukrainian_translation": "ліки",
+    "example_sentence": "Liječnik mu je prepisao novi lijek za prehladu.",
+    "ukrainian_translation_sentence": "Лікар виписав йому нові ліки від застуди."
+  },
+  {
+    "singular": "ljestvica",
+    "plural": "ljestvice",
+    "ukrainian_translation": "шкала",
+    "example_sentence": "Njegov rezultat bio je na vrhu ljestvice.",
+    "ukrainian_translation_sentence": "Його результат був на вершині шкали."
+  },
+  {
+    "singular": "ljuska",
+    "plural": "ljuske",
+    "ukrainian_translation": "шкаралупа",
+    "example_sentence": "Ogulio je ljusku oraha i pojeo jezgru.",
+    "ukrainian_translation_sentence": "Він зняв шкаралупу з горіха і з'їв ядро."
+  },
+  {
+    "singular": "lončar",
+    "plural": "lončari",
+    "ukrainian_translation": "гончар",
+    "example_sentence": "Lončar je izrađivao posuđe od gline.",
+    "ukrainian_translation_sentence": "Гончар виготовляв посуд із глини."
+  },
+  {
+    "singular": "lopatica",
+    "plural": "lopatice",
+    "ukrainian_translation": "лопатка",
+    "example_sentence": "Koristio je lopaticu za miješanje sastojaka.",
+    "ukrainian_translation_sentence": "Він використовував лопатку для змішування інгредієнтів."
+  },
+  {
+    "singular": "losos",
+    "plural": "lososi",
+    "ukrainian_translation": "лосось",
+    "example_sentence": "Losos je bio glavno jelo na večeri.",
+    "ukrainian_translation_sentence": "Лосось був головною стравою на вечері."
+  },
+  {
+    "singular": "ludost",
+    "plural": "ludosti",
+    "ukrainian_translation": "безумство",
+    "example_sentence": "Njegova odluka je bila prava ludost.",
+    "ukrainian_translation_sentence": "Його рішення було справжнім безумством."
+  },
+  {
+    "singular": "lutrija",
+    "plural": "lutrije",
+    "ukrainian_translation": "лотерея",
+    "example_sentence": "Dobio je veliku nagradu na lutriji.",
+    "ukrainian_translation_sentence": "Він виграв великий приз у лотереї."
+  },
+  {
+    "singular": "madrac",
+    "plural": "madraci",
+    "ukrainian_translation": "матрац",
+    "example_sentence": "Kupili su novi madrac za spavaću sobu.",
+    "ukrainian_translation_sentence": "Вони купили новий матрац для спальні."
+  },
+  {
+    "singular": "maestro",
+    "plural": "maestri",
+    "ukrainian_translation": "маестро",
+    "example_sentence": "Maestro je dirigirao orkestrom s velikim uspjehom.",
+    "ukrainian_translation_sentence": "Маестро диригував оркестром з великим успіхом."
+  },
+  {
+    "singular": "magistar",
+    "plural": "magistri",
+    "ukrainian_translation": "магістр",
+    "example_sentence": "On je magistar znanosti u biologiji.",
+    "ukrainian_translation_sentence": "Він є магістром наук у галузі біології."
+  },
+  {
+    "singular": "majmun",
+    "plural": "majmuni",
+    "ukrainian_translation": "мавпа",
+    "example_sentence": "Majmuni su vrlo inteligentne životinje.",
+    "ukrainian_translation_sentence": "Мавпи — дуже розумні тварини."
+  },
+  {
+    "singular": "malenkost",
+    "plural": "malenkosti",
+    "ukrainian_translation": "дрібниця",
+    "example_sentence": "Njegov poklon bila je samo malenkost, ali ga je obradovao.",
+    "ukrainian_translation_sentence": "Його подарунок був лише дрібницею, але він його порадував."
+  },
+  {
+    "singular": "manevar",
+    "plural": "manevri",
+    "ukrainian_translation": "маневр",
+    "example_sentence": "Vojni manevri se izvode u svrhu obuke.",
+    "ukrainian_translation_sentence": "Військові маневри проводяться з метою навчання."
+  },
+  {
+    "singular": "maraton",
+    "plural": "maratoni",
+    "ukrainian_translation": "марафон",
+    "example_sentence": "Sudjelovao je u maratonu i završio utrku.",
+    "ukrainian_translation_sentence": "Він брав участь у марафоні та завершив забіг."
+  },
+  {
+    "singular": "medicina",
+    "plural": "medicine",
+    "ukrainian_translation": "медицина",
+    "example_sentence": "Moderna medicina omogućuje liječenje mnogih bolesti.",
+    "ukrainian_translation_sentence": "Сучасна медицина дозволяє лікувати багато хвороб."
+  },
+  {
+    "singular": "mehanika",
+    "plural": "mehanike",
+    "ukrainian_translation": "механіка",
+    "example_sentence": "Studira mehaniku na tehničkom fakultetu.",
+    "ukrainian_translation_sentence": "Він вивчає механіку на технічному факультеті."
+  },
+  {
+    "singular": "mehanizam",
+    "plural": "mehanizmi",
+    "ukrainian_translation": "механізм",
+    "example_sentence": "Popravili su mehanizam sata.",
+    "ukrainian_translation_sentence": "Вони відремонтували механізм годинника."
+  },
+  {
+    "singular": "menadžer",
+    "plural": "menadžeri",
+    "ukrainian_translation": "менеджер",
+    "example_sentence": "Menadžer je odgovoran za vođenje tima.",
+    "ukrainian_translation_sentence": "Менеджер відповідає за керівництво командою."
+  },
+  {
+    "singular": "mentor",
+    "plural": "mentori",
+    "ukrainian_translation": "наставник",
+    "example_sentence": "Njegov mentor ga je savjetovao tijekom studija.",
+    "ukrainian_translation_sentence": "Його наставник давав йому поради під час навчання."
+  },
+  {
+    "singular": "metafora",
+    "plural": "metafore",
+    "ukrainian_translation": "метафора",
+    "example_sentence": "Pisac je koristio zanimljive metafore u svom djelu.",
+    "ukrainian_translation_sentence": "Письменник використовував цікаві метафори у своїй роботі."
+  },
+	{
+    "singular": "migracija",
+    "plural": "migracije",
+    "ukrainian_translation": "міграція",
+    "example_sentence": "Migracija ptica počinje u jesen.",
+    "ukrainian_translation_sentence": "Міграція птахів починається восени."
+  },
+  {
+    "singular": "migrena",
+    "plural": "migrene",
+    "ukrainian_translation": "мігрень",
+    "example_sentence": "Migrena ju je mučila cijeli dan.",
+    "ukrainian_translation_sentence": "Мігрень мучила її цілий день."
+  },
+  {
+    "singular": "mikroskop",
+    "plural": "mikroskopi",
+    "ukrainian_translation": "мікроскоп",
+    "example_sentence": "Pod mikroskopom su proučavali uzorke tkiva.",
+    "ukrainian_translation_sentence": "Під мікроскопом вони вивчали зразки тканин."
+  },
+  {
+    "singular": "mikser",
+    "plural": "mikseri",
+    "ukrainian_translation": "блендер",
+    "example_sentence": "Koristila je mikser za pripremu tijesta.",
+    "ukrainian_translation_sentence": "Вона використовувала блендер для приготування тіста."
+  },
+  {
+    "singular": "milja",
+    "plural": "milje",
+    "ukrainian_translation": "миля",
+    "example_sentence": "Automobil je prešao stotinu milja bez zaustavljanja.",
+    "ukrainian_translation_sentence": "Автомобіль подолав сто миль без зупинки."
+  },
+	{
+    "singular": "milosrdnica",
+    "plural": "milosrdnice",
+    "ukrainian_translation": "милосердниця",
+    "example_sentence": "Milosrdnice su pomagale bolesnicima u bolnici.",
+    "ukrainian_translation_sentence": "Милосердниці допомагали хворим у лікарні."
+  },
+  {
+    "singular": "milost",
+    "plural": "milosti",
+    "ukrainian_translation": "милість",
+    "example_sentence": "Tražio je milost za svoje grijehe.",
+    "ukrainian_translation_sentence": "Він просив милості за свої гріхи."
+  }
+]

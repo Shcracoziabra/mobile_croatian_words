@@ -1,0 +1,402 @@
+[
+  {
+    "maskuline": "human",
+    "feminine": "humana",
+    "neutrum": "humano",
+    "ukrainian_translation": "гуманний",
+    "example_sentence": "Human rad volontera pomogao je mnogim ljudima u potrebi.",
+    "ukrainian_translation_sentence": "Гуманна робота волонтерів допомогла багатьом людям у потребі."
+  },
+  {
+    "maskuline": "igrani",
+    "feminine": "igrana",
+    "neutrum": "igrano",
+    "ukrainian_translation": "ігровий",
+    "example_sentence": "Gledali smo novi igrani film u kinu.",
+    "ukrainian_translation_sentence": "Ми подивилися новий ігровий фільм у кінотеатрі."
+  },
+  {
+    "maskuline": "ilegalan",
+    "feminine": "ilegalna",
+    "neutrum": "ilegalno",
+    "ukrainian_translation": "незаконний",
+    "example_sentence": "Ilegalan promet drogom je veliki problem u mnogim zemljama.",
+    "ukrainian_translation_sentence": "Незаконний обіг наркотиків є великою проблемою в багатьох країнах."
+  },
+  {
+    "maskuline": "imun",
+    "feminine": "imuna",
+    "neutrum": "imuno",
+    "ukrainian_translation": "імунний",
+    "example_sentence": "Nakon cijepljenja postao je imun na virus.",
+    "ukrainian_translation_sentence": "Після вакцинації він став імунним до вірусу."
+  },
+  {
+    "maskuline": "indirektan",
+    "feminine": "indirektna",
+    "neutrum": "indirektno",
+    "ukrainian_translation": "непрямий",
+    "example_sentence": "Indirektan utjecaj krize osjetio se u svim sektorima.",
+    "ukrainian_translation_sentence": "Непрямий вплив кризи відчувався у всіх секторах."
+  },
+  {
+    "maskuline": "individualan",
+    "feminine": "individualna",
+    "neutrum": "individualno",
+    "ukrainian_translation": "індивідуальний",
+    "example_sentence": "Svaki učenik je dobio individualan zadatak za projekt.",
+    "ukrainian_translation_sentence": "Кожен учень отримав індивідуальне завдання для проєкту."
+  },
+  {
+    "maskuline": "informativan",
+    "feminine": "informativna",
+    "neutrum": "informativno",
+    "ukrainian_translation": "інформативний",
+    "example_sentence": "Predavanje je bilo vrlo informativno i poučno.",
+    "ukrainian_translation_sentence": "Лекція була дуже інформативною і навчальною."
+  },
+  {
+    "maskuline": "infracrven",
+    "feminine": "infracrvena",
+    "neutrum": "infracrveno",
+    "ukrainian_translation": "інфрачервоний",
+    "example_sentence": "Koristili su infracrvene kamere za noćno promatranje.",
+    "ukrainian_translation_sentence": "Вони використовували інфрачервоні камери для нічного спостереження."
+  },
+  {
+    "maskuline": "inicijalan",
+    "feminine": "inicijalna",
+    "neutrum": "inicijalno",
+    "ukrainian_translation": "початковий",
+    "example_sentence": "Inicijalan sastanak prošao je u prijateljskoj atmosferi.",
+    "ukrainian_translation_sentence": "Початкова зустріч пройшла в дружній атмосфері."
+  },
+  {
+    "maskuline": "instrumentalan",
+    "feminine": "instrumentalna",
+    "neutrum": "instrumentalno",
+    "ukrainian_translation": "інструментальний",
+    "example_sentence": "Instrumentalna glazba je stvorila opuštajuću atmosferu u restoranu.",
+    "ukrainian_translation_sentence": "Інструментальна музика створила розслаблюючу атмосферу в ресторані."
+  },
+	{
+    "maskuline": "inteligentan",
+    "feminine": "inteligentna",
+    "neutrum": "inteligentno",
+    "ukrainian_translation": "інтелігентний",
+    "example_sentence": "Bio je vrlo inteligentan učenik koji je brzo učio.",
+    "ukrainian_translation_sentence": "Він був дуже інтелігентним учнем, який швидко навчався."
+  },
+  {
+    "maskuline": "interesantan",
+    "feminine": "interesantna",
+    "neutrum": "interesantno",
+    "ukrainian_translation": "цікавий",
+    "example_sentence": "Članak je bio vrlo interesantan i potaknuo je raspravu.",
+    "ukrainian_translation_sentence": "Стаття була дуже цікавою і викликала дискусію."
+  },
+  {
+    "maskuline": "internetski",
+    "feminine": "internetska",
+    "neutrum": "internetsko",
+    "ukrainian_translation": "інтернетний",
+    "example_sentence": "Internetski trgovci nude širok izbor proizvoda.",
+    "ukrainian_translation_sentence": "Інтернет-магазини пропонують широкий вибір товарів."
+  },
+  {
+    "maskuline": "intiman",
+    "feminine": "intimna",
+    "neutrum": "intimno",
+    "ukrainian_translation": "інтимний",
+    "example_sentence": "Imali su intimnu večeru u malom restoranu.",
+    "ukrainian_translation_sentence": "Вони мали інтимну вечерю в маленькому ресторані."
+  },
+  {
+    "maskuline": "intuitivan",
+    "feminine": "intuitivna",
+    "neutrum": "intuitivno",
+    "ukrainian_translation": "інтуїтивний",
+    "example_sentence": "Njegovo intuitivno donošenje odluka često je bilo ispravno.",
+    "ukrainian_translation_sentence": "Його інтуїтивні рішення часто були правильними."
+  },
+  {
+    "maskuline": "investicijski",
+    "feminine": "investicijska",
+    "neutrum": "investicijsko",
+    "ukrainian_translation": "інвестиційний",
+    "example_sentence": "Investicijski fondovi nude mogućnosti za dugoročne prinose.",
+    "ukrainian_translation_sentence": "Інвестиційні фонди пропонують можливості для довгострокових доходів."
+  },
+  {
+    "maskuline": "iracionalan",
+    "feminine": "iracionalna",
+    "neutrum": "iracionalno",
+    "ukrainian_translation": "нераціональний",
+    "example_sentence": "Njegov strah od letenja bio je iracionalan, ali jak.",
+    "ukrainian_translation_sentence": "Його страх перед польотами був нераціональним, але сильним."
+  },
+  {
+    "maskuline": "iscrpan",
+    "feminine": "iscrpna",
+    "neutrum": "iscrpno",
+    "ukrainian_translation": "всебічний",
+    "example_sentence": "Iscrpna analiza podataka trajala je nekoliko sati.",
+    "ukrainian_translation_sentence": "Всебічний аналіз даних тривав кілька годин."
+  },
+  {
+    "maskuline": "isključiv",
+    "feminine": "isključiva",
+    "neutrum": "isključivo",
+    "ukrainian_translation": "винятковий",
+    "example_sentence": "Njegov isključiv stav otežavao je suradnju s drugima.",
+    "ukrainian_translation_sentence": "Його винятковий підхід ускладнював співпрацю з іншими."
+  },
+  {
+    "maskuline": "iskompleksiran",
+    "feminine": "iskompleksirana",
+    "neutrum": "iskompleksirano",
+    "ukrainian_translation": "комплексований",
+    "example_sentence": "Njegovo iskompleksirano ponašanje pokazalo je nesigurnost.",
+    "ukrainian_translation_sentence": "Його комплексована поведінка показала невпевненість."
+  },
+	{
+    "maskuline": "iskren",
+    "feminine": "iskrena",
+    "neutrum": "iskreno",
+    "ukrainian_translation": "щирий",
+    "example_sentence": "Iskren razgovor između prijatelja pomogao je riješiti nesporazume.",
+    "ukrainian_translation_sentence": "Щира розмова між друзями допомогла вирішити непорозуміння."
+  },
+  {
+    "maskuline": "ispravan",
+    "feminine": "ispravna",
+    "neutrum": "ispravno",
+    "ukrainian_translation": "правильний",
+    "example_sentence": "Ispravan postupak u ovoj situaciji zahtijeva pažljivo razmatranje.",
+    "ukrainian_translation_sentence": "Правильна дія в цій ситуації вимагає уважного розгляду."
+  },
+  {
+    "maskuline": "istančan",
+    "feminine": "istančana",
+    "neutrum": "istančano",
+    "ukrainian_translation": "вишуканий",
+    "example_sentence": "Ima istančan ukus za umjetnost i modu.",
+    "ukrainian_translation_sentence": "Він має вишуканий смак до мистецтва і моди."
+  },
+  {
+    "maskuline": "isti",
+    "feminine": "ista",
+    "neutrum": "isto",
+    "ukrainian_translation": "той самий",
+    "example_sentence": "Imamo isti cilj, a to je uspješno završiti projekt.",
+    "ukrainian_translation_sentence": "Ми маємо ту саму мету — успішно завершити проєкт."
+  },
+  {
+    "maskuline": "istinit",
+    "feminine": "istinita",
+    "neutrum": "istinito",
+    "ukrainian_translation": "правдивий",
+    "example_sentence": "Priča je bila istinita i temeljena na stvarnim događajima.",
+    "ukrainian_translation_sentence": "Історія була правдивою і базувалася на реальних подіях."
+  },
+  {
+    "maskuline": "istinski",
+    "feminine": "istinska",
+    "neutrum": "istinsko",
+    "ukrainian_translation": "справжній",
+    "example_sentence": "Njegova istinska posvećenost radu bila je očigledna.",
+    "ukrainian_translation_sentence": "Його справжня відданість роботі була очевидною."
+  },
+  {
+    "maskuline": "istospolni",
+    "feminine": "istospolna",
+    "neutrum": "istospolno",
+    "ukrainian_translation": "одностатевий",
+    "example_sentence": "Zakon o pravima istospolnih parova izazvao je mnogo rasprava.",
+    "ukrainian_translation_sentence": "Закон про права одностатевих пар викликав багато обговорень."
+  },
+  {
+    "maskuline": "istovjetan",
+    "feminine": "istovjetna",
+    "neutrum": "istovjetno",
+    "ukrainian_translation": "ідентичний",
+    "example_sentence": "Dva dokumenta su bila istovjetna u svakom pogledu.",
+    "ukrainian_translation_sentence": "Два документи були ідентичними у всіх відношеннях."
+  },
+  {
+    "maskuline": "izabran",
+    "feminine": "izabrana",
+    "neutrum": "izabrano",
+    "ukrainian_translation": "обраний",
+    "example_sentence": "Izabran je za vođu tima zbog svojih sposobnosti.",
+    "ukrainian_translation_sentence": "Його обрали лідером команди через його здібності."
+  },
+  {
+    "maskuline": "izdašan",
+    "feminine": "izdašna",
+    "neutrum": "izdašno",
+    "ukrainian_translation": "щедрий",
+    "example_sentence": "Njegova izdašna donacija pomogla je brojnim organizacijama.",
+    "ukrainian_translation_sentence": "Його щедра пожертва допомогла багатьом організаціям."
+  },
+	{
+    "maskuline": "izgledan",
+    "feminine": "izgledna",
+    "neutrum": "izgledno",
+    "ukrainian_translation": "ймовірний",
+    "example_sentence": "Izgledan ishod izbora bio je u korist trenutnog predsjednika.",
+    "ukrainian_translation_sentence": "Ймовірний результат виборів був на користь чинного президента."
+  },
+  {
+    "maskuline": "izgubljen",
+    "feminine": "izgubljena",
+    "neutrum": "izgubljeno",
+    "ukrainian_translation": "загублений",
+    "example_sentence": "Njegov izgubljen novčanik pronađen je na stanici.",
+    "ukrainian_translation_sentence": "Його загублений гаманець знайшли на станції."
+  },
+  {
+    "maskuline": "izložbeni",
+    "feminine": "izložbena",
+    "neutrum": "izložbeno",
+    "ukrainian_translation": "виставковий",
+    "example_sentence": "Posjetili smo izložbeni prostor muzeja.",
+    "ukrainian_translation_sentence": "Ми відвідали виставковий зал музею."
+  },
+  {
+    "maskuline": "izložen",
+    "feminine": "izložena",
+    "neutrum": "izloženo",
+    "ukrainian_translation": "підданий",
+    "example_sentence": "Bio je izložen opasnim uvjetima rada.",
+    "ukrainian_translation_sentence": "Він був підданий небезпечним умовам праці."
+  },
+  {
+    "maskuline": "iznenadan",
+    "feminine": "iznenadna",
+    "neutrum": "iznenadno",
+    "ukrainian_translation": "раптовий",
+    "example_sentence": "Njegov iznenadan dolazak sve je iznenadio.",
+    "ukrainian_translation_sentence": "Його раптовий приїзд здивував усіх."
+  },
+  {
+    "maskuline": "izravan",
+    "feminine": "izravna",
+    "neutrum": "izravno",
+    "ukrainian_translation": "прямий",
+    "example_sentence": "Dali su izravan odgovor na postavljeno pitanje.",
+    "ukrainian_translation_sentence": "Вони дали прямий відповідь на поставлене питання."
+  },
+  {
+    "maskuline": "izražajan",
+    "feminine": "izražajna",
+    "neutrum": "izražajno",
+    "ukrainian_translation": "виразний",
+    "example_sentence": "Njegov izražajan govor ostavio je snažan dojam na publiku.",
+    "ukrainian_translation_sentence": "Його виразна промова справила сильне враження на публіку."
+  },
+  {
+    "maskuline": "izuzetan",
+    "feminine": "izuzetna",
+    "neutrum": "izuzetno",
+    "ukrainian_translation": "винятковий",
+    "example_sentence": "Pokazao je izuzetan talent za glazbu od ranog djetinjstva.",
+    "ukrainian_translation_sentence": "Він проявив винятковий талант до музики з раннього дитинства."
+  },
+  {
+    "maskuline": "izvanjski",
+    "feminine": "izvanjska",
+    "neutrum": "izvanjsko",
+    "ukrainian_translation": "зовнішній",
+    "example_sentence": "Izvanjski izgled zgrade privlači pažnju prolaznika.",
+    "ukrainian_translation_sentence": "Зовнішній вигляд будівлі привертає увагу перехожих."
+  },
+  {
+    "maskuline": "izvoran",
+    "feminine": "izvorna",
+    "neutrum": "izvorno",
+    "ukrainian_translation": "оригінальний",
+    "example_sentence": "Njegov izvoran pristup problemu doveo je do kreativnih rješenja.",
+    "ukrainian_translation_sentence": "Його оригінальний підхід до проблеми привів до творчих рішень."
+  },
+	{
+    "maskuline": "izvozan",
+    "feminine": "izvozna",
+    "neutrum": "izvozno",
+    "ukrainian_translation": "експортний",
+    "example_sentence": "Izvozan proizvod je ključan za gospodarstvo zemlje.",
+    "ukrainian_translation_sentence": "Експортний продукт є ключовим для економіки країни."
+  },
+  {
+    "maskuline": "izvršan",
+    "feminine": "izvršna",
+    "neutrum": "izvršno",
+    "ukrainian_translation": "виконавчий",
+    "example_sentence": "Izvršna direktorica tvrtke donijela je važnu odluku.",
+    "ukrainian_translation_sentence": "Виконавча директорка компанії прийняла важливе рішення."
+  },
+  {
+    "maskuline": "jamstveni",
+    "feminine": "jamstvena",
+    "neutrum": "jamstveno",
+    "ukrainian_translation": "гарантійний",
+    "example_sentence": "Kupili smo novi uređaj s dvogodišnjim jamstvenim rokom.",
+    "ukrainian_translation_sentence": "Ми купили новий пристрій з дворічною гарантією."
+  },
+  {
+    "maskuline": "javan",
+    "feminine": "javna",
+    "neutrum": "javno",
+    "ukrainian_translation": "публічний",
+    "example_sentence": "Njegov javni govor privukao je mnogo pažnje.",
+    "ukrainian_translation_sentence": "Його публічний виступ привернув багато уваги."
+  },
+  {
+    "maskuline": "jednogodišnji",
+    "feminine": "jednogodišnja",
+    "neutrum": "jednogodišnje",
+    "ukrainian_translation": "однорічний",
+    "example_sentence": "Završio je jednogodišnji tečaj stranih jezika.",
+    "ukrainian_translation_sentence": "Він закінчив однорічний курс іноземних мов."
+  },
+  {
+    "maskuline": "jednoličan",
+    "feminine": "jednolična",
+    "neutrum": "jednolično",
+    "ukrainian_translation": "одноманітний",
+    "example_sentence": "Njegov govor bio je jednoličan i bez entuzijazma.",
+    "ukrainian_translation_sentence": "Його промова була одноманітною і без ентузіазму."
+  },
+  {
+    "maskuline": "jednosmjeran",
+    "feminine": "jednosmjerna",
+    "neutrum": "jednosmjerno",
+    "ukrainian_translation": "односторонній",
+    "example_sentence": "Ova ulica je jednosmjerna, stoga pazite na promet.",
+    "ukrainian_translation_sentence": "Ця вулиця одностороння, тому звертайте увагу на рух."
+  },
+  {
+    "maskuline": "jednostavan",
+    "feminine": "jednostavna",
+    "neutrum": "jednostavno",
+    "ukrainian_translation": "простий",
+    "example_sentence": "Njegov način života je vrlo jednostavan i bez komplikacija.",
+    "ukrainian_translation_sentence": "Його спосіб життя дуже простий і без ускладнень."
+  },
+  {
+    "maskuline": "jednostran",
+    "feminine": "jednostrana",
+    "neutrum": "jednostrano",
+    "ukrainian_translation": "односторонній",
+    "example_sentence": "Donijeli su jednostranu odluku bez konsultacija s drugima.",
+    "ukrainian_translation_sentence": "Вони прийняли одностороннє рішення без консультацій з іншими."
+  },
+  {
+    "maskuline": "jestiv",
+    "feminine": "jestiva",
+    "neutrum": "jestivo",
+    "ukrainian_translation": "їстівний",
+    "example_sentence": "Ovo voće je jestivo i vrlo ukusno.",
+    "ukrainian_translation_sentence": "Цей фрукт їстівний і дуже смачний."
+  }
+]

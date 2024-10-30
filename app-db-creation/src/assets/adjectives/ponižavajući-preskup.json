@@ -1,0 +1,402 @@
+[
+  {
+    "maskuline": "ponižavajući",
+    "feminine": "ponižavajuća",
+    "neutrum": "ponižavajuće",
+    "ukrainian_translation": "принизливий",
+    "example_sentence": "Doživio je ponižavajući poraz na sudu.",
+    "ukrainian_translation_sentence": "Він зазнав принизливої поразки у суді."
+  },
+  {
+    "maskuline": "ponosan",
+    "feminine": "ponosna",
+    "neutrum": "ponosno",
+    "ukrainian_translation": "гордий",
+    "example_sentence": "Bio je ponosan na postignuća svog sina.",
+    "ukrainian_translation_sentence": "Він був гордий за досягнення свого сина."
+  },
+  {
+    "maskuline": "popravni",
+    "feminine": "popravna",
+    "neutrum": "popravno",
+    "ukrainian_translation": "виправний",
+    "example_sentence": "Polagao je popravni ispit iz matematike.",
+    "ukrainian_translation_sentence": "Він складав виправний іспит з математики."
+  },
+  {
+    "maskuline": "popriličan",
+    "feminine": "poprilična",
+    "neutrum": "poprilično",
+    "ukrainian_translation": "доволі великий",
+    "example_sentence": "Projekt je zahtijevao popriličan broj radnih sati.",
+    "ukrainian_translation_sentence": "Проєкт вимагав доволі великої кількості робочих годин."
+  },
+  {
+    "maskuline": "poratni",
+    "feminine": "poratna",
+    "neutrum": "poratno",
+    "ukrainian_translation": "післявоєнний",
+    "example_sentence": "Poratni period donio je mnoge promjene u društvu.",
+    "ukrainian_translation_sentence": "Післявоєнний період приніс багато змін у суспільстві."
+  },
+  {
+    "maskuline": "poražavajući",
+    "feminine": "poražavajuća",
+    "neutrum": "poražavajuće",
+    "ukrainian_translation": "вражаючий",
+    "example_sentence": "Rezultati su bili poražavajući za cijeli tim.",
+    "ukrainian_translation_sentence": "Результати були вражаючими для всієї команди."
+  },
+  {
+    "maskuline": "porezni",
+    "feminine": "porezna",
+    "neutrum": "porezno",
+    "ukrainian_translation": "податковий",
+    "example_sentence": "Porezni zakoni mijenjaju se svake godine.",
+    "ukrainian_translation_sentence": "Податкові закони змінюються щороку."
+  },
+  {
+    "maskuline": "pornografski",
+    "feminine": "pornografska",
+    "neutrum": "pornografsko",
+    "ukrainian_translation": "порнографічний",
+    "example_sentence": "Pornografski sadržaj je zabranjen na javnim mjestima.",
+    "ukrainian_translation_sentence": "Порнографічний контент заборонений у громадських місцях."
+  },
+  {
+    "maskuline": "posljednji",
+    "feminine": "posljednja",
+    "neutrum": "posljednje",
+    "ukrainian_translation": "останній",
+    "example_sentence": "Ovo je bila njegova posljednja prilika za uspjeh.",
+    "ukrainian_translation_sentence": "Це був його останній шанс на успіх."
+  },
+  {
+    "maskuline": "poslušan",
+    "feminine": "poslušna",
+    "neutrum": "poslušno",
+    "ukrainian_translation": "слухняний",
+    "example_sentence": "Dijete je bilo poslušno i slijedilo je upute roditelja.",
+    "ukrainian_translation_sentence": "Дитина була слухняною і слідувала вказівкам батьків."
+  },
+  {
+    "maskuline": "posmrtni",
+    "feminine": "posmrtna",
+    "neutrum": "posmrtno",
+    "ukrainian_translation": "посмертний",
+    "example_sentence": "Posmrtni govor održao je njegov najbolji prijatelj.",
+    "ukrainian_translation_sentence": "Посмертну промову виголосив його найкращий друг."
+  },
+  {
+    "maskuline": "postojan",
+    "feminine": "postojana",
+    "neutrum": "postojano",
+    "ukrainian_translation": "стійкий",
+    "example_sentence": "Njegova postojana odlučnost donijela mu je uspjeh.",
+    "ukrainian_translation_sentence": "Його стійка рішучість принесла йому успіх."
+  },
+  {
+    "maskuline": "postupan",
+    "feminine": "postupna",
+    "neutrum": "postupno",
+    "ukrainian_translation": "поступовий",
+    "example_sentence": "Postupno povećanje plaća očekuje se sljedeće godine.",
+    "ukrainian_translation_sentence": "Поступове збільшення зарплат очікується наступного року."
+  },
+  {
+    "maskuline": "posvećen",
+    "feminine": "posvećena",
+    "neutrum": "posvećeno",
+    "ukrainian_translation": "відданий",
+    "example_sentence": "On je posvećen svom poslu i obitelji.",
+    "ukrainian_translation_sentence": "Він відданий своїй роботі та родині."
+  },
+  {
+    "maskuline": "posvemašnji",
+    "feminine": "posvemašnja",
+    "neutrum": "posvemašnje",
+    "ukrainian_translation": "абсолютний",
+    "example_sentence": "Posvemašnji mir vladao je nakon oluje.",
+    "ukrainian_translation_sentence": "Абсолютний спокій панував після бурі."
+  },
+  {
+    "maskuline": "poticajan",
+    "feminine": "poticajna",
+    "neutrum": "poticajno",
+    "ukrainian_translation": "стимулюючий",
+    "example_sentence": "Poticajan radni okoliš povećava produktivnost.",
+    "ukrainian_translation_sentence": "Стимулююче робоче середовище підвищує продуктивність."
+  },
+  {
+    "maskuline": "potpun",
+    "feminine": "potpuna",
+    "neutrum": "potpuno",
+    "ukrainian_translation": "повний",
+    "example_sentence": "Završili smo projekt u potpunosti.",
+    "ukrainian_translation_sentence": "Ми завершили проєкт повністю."
+  },
+  {
+    "maskuline": "potresan",
+    "feminine": "potresna",
+    "neutrum": "potresno",
+    "ukrainian_translation": "шокуючий",
+    "example_sentence": "Film je bio potresan i mnogi su plakali.",
+    "ukrainian_translation_sentence": "Фільм був шокуючим, і багато хто плакав."
+  },
+  {
+    "maskuline": "potrošački",
+    "feminine": "potrošačka",
+    "neutrum": "potrošačko",
+    "ukrainian_translation": "споживчий",
+    "example_sentence": "Potrošački trendovi se mijenjaju svake godine.",
+    "ukrainian_translation_sentence": "Споживчі тенденції змінюються щороку."
+  },
+  {
+    "maskuline": "poveći",
+    "feminine": "poveća",
+    "neutrum": "poveće",
+    "ukrainian_translation": "великий",
+    "example_sentence": "Poveći broj studenata upisao je ovaj kolegij.",
+    "ukrainian_translation_sentence": "Велика кількість студентів записалася на цей курс."
+  },
+  {
+    "maskuline": "povjerljiv",
+    "feminine": "povjerljiva",
+    "neutrum": "povjerljivo",
+    "ukrainian_translation": "довірливий",
+    "example_sentence": "Povjerljive informacije su zaštićene zakonom.",
+    "ukrainian_translation_sentence": "Конфіденційна інформація захищена законом."
+  },
+  {
+    "maskuline": "povlašten",
+    "feminine": "povlaštena",
+    "neutrum": "povlašteno",
+    "ukrainian_translation": "привілейований",
+    "example_sentence": "On je imao povlašteni položaj u društvu.",
+    "ukrainian_translation_sentence": "Він мав привілейоване становище у суспільстві."
+  },
+  {
+    "maskuline": "povoljan",
+    "feminine": "povoljna",
+    "neutrum": "povoljno",
+    "ukrainian_translation": "сприятливий",
+    "example_sentence": "Vrijeme je bilo povoljno za izlet.",
+    "ukrainian_translation_sentence": "Погода була сприятливою для екскурсії."
+  },
+  {
+    "maskuline": "povremen",
+    "feminine": "povremena",
+    "neutrum": "povremeno",
+    "ukrainian_translation": "періодичний",
+    "example_sentence": "Povremeni prekidi u radu sustava otežavali su posao.",
+    "ukrainian_translation_sentence": "Періодичні збої в роботі системи ускладнювали роботу."
+  },
+  {
+    "maskuline": "pozitivan",
+    "feminine": "pozitivna",
+    "neutrum": "pozitivno",
+    "ukrainian_translation": "позитивний",
+    "example_sentence": "Njegov pozitivan stav pomogao je timu da ostane motiviran.",
+    "ukrainian_translation_sentence": "Його позитивний настрій допоміг команді залишатися мотивованою."
+  },
+  {
+    "maskuline": "pozivni",
+    "feminine": "pozivna",
+    "neutrum": "pozivno",
+    "ukrainian_translation": "викличний",
+    "example_sentence": "Pozivni broj države koristi se za međunarodne pozive.",
+    "ukrainian_translation_sentence": "Код країни використовується для міжнародних дзвінків."
+  },
+  {
+    "maskuline": "pragmatičan",
+    "feminine": "pragmatična",
+    "neutrum": "pragmatično",
+    "ukrainian_translation": "прагматичний",
+    "example_sentence": "Njegov pragmatičan pristup riješio je problem brzo i učinkovito.",
+    "ukrainian_translation_sentence": "Його прагматичний підхід вирішив проблему швидко та ефективно."
+  },
+  {
+    "maskuline": "praktičan",
+    "feminine": "praktična",
+    "neutrum": "praktično",
+    "ukrainian_translation": "практичний",
+    "example_sentence": "Praktičan dizajn kuhinje olakšao je svakodnevne zadatke.",
+    "ukrainian_translation_sentence": "Практичний дизайн кухні полегшив повсякденні завдання."
+  },
+  {
+    "maskuline": "prateći",
+    "feminine": "prateća",
+    "neutrum": "prateće",
+    "ukrainian_translation": "супровідний",
+    "example_sentence": "Prateći dokumenti poslani su zajedno s prijavom.",
+    "ukrainian_translation_sentence": "Супровідні документи були надіслані разом із заявкою."
+  },
+  {
+    "maskuline": "pravedan",
+    "feminine": "pravedna",
+    "neutrum": "pravedno",
+    "ukrainian_translation": "справедливий",
+    "example_sentence": "Njegov pravedan odnos prema svima donio mu je poštovanje.",
+    "ukrainian_translation_sentence": "Його справедливе ставлення до всіх принесло йому повагу."
+  },
+  {
+    "maskuline": "pravni",
+    "feminine": "pravna",
+    "neutrum": "pravno",
+    "ukrainian_translation": "правовий",
+    "example_sentence": "Pravni savjet dobio je od iskusnog odvjetnika.",
+    "ukrainian_translation_sentence": "Правову консультацію він отримав від досвідченого адвоката."
+  },
+  {
+    "maskuline": "pravomoćan",
+    "feminine": "pravomoćna",
+    "neutrum": "pravomoćno",
+    "ukrainian_translation": "остаточний",
+    "example_sentence": "Presuda je postala pravomoćna nakon žalbenog postupka.",
+    "ukrainian_translation_sentence": "Вирок став остаточним після апеляційного процесу."
+  },
+  {
+    "maskuline": "pravovremen",
+    "feminine": "pravovremena",
+    "neutrum": "pravovremeno",
+    "ukrainian_translation": "своєчасний",
+    "example_sentence": "Pravovremena reakcija spasila je situaciju.",
+    "ukrainian_translation_sentence": "Своєчасна реакція врятувала ситуацію."
+  },
+  {
+    "maskuline": "prazan",
+    "feminine": "prazna",
+    "neutrum": "prazno",
+    "ukrainian_translation": "порожній",
+    "example_sentence": "Prazna soba čekala je nove stanare.",
+    "ukrainian_translation_sentence": "Порожня кімната чекала нових мешканців."
+  },
+  {
+    "maskuline": "precizan",
+    "feminine": "precizna",
+    "neutrum": "precizno",
+    "ukrainian_translation": "точний",
+    "example_sentence": "Njegov precizan rad impresionirao je sve kolege.",
+    "ukrainian_translation_sentence": "Його точна робота вразила всіх колег."
+  },
+  {
+    "maskuline": "predan",
+    "feminine": "predana",
+    "neutrum": "predano",
+    "ukrainian_translation": "відданий",
+    "example_sentence": "Bio je predan svojim ciljevima i nije odustajao.",
+    "ukrainian_translation_sentence": "Він був відданий своїм цілям і не здавався."
+  },
+  {
+    "maskuline": "predmetni",
+    "feminine": "predmetna",
+    "neutrum": "predmetno",
+    "ukrainian_translation": "предметний",
+    "example_sentence": "Predmetni profesor pripremao je ispit za studente.",
+    "ukrainian_translation_sentence": "Предметний викладач готував іспит для студентів."
+  },
+  {
+    "maskuline": "prednji",
+    "feminine": "prednja",
+    "neutrum": "prednje",
+    "ukrainian_translation": "передній",
+    "example_sentence": "Prednja vrata kuće bila su otvorena.",
+    "ukrainian_translation_sentence": "Передні двері будинку були відкриті."
+  },
+  {
+    "maskuline": "predobar",
+    "feminine": "predobra",
+    "neutrum": "predobro",
+    "ukrainian_translation": "надто добрий",
+    "example_sentence": "On je bio predobar da bi povjerovao u laži.",
+    "ukrainian_translation_sentence": "Він був надто добрим, щоб повірити в брехню."
+  },
+  {
+    "maskuline": "predsjednički",
+    "feminine": "predsjednička",
+    "neutrum": "predsjedničko",
+    "ukrainian_translation": "президентський",
+    "example_sentence": "Predsjednički izbori održat će se sljedeće godine.",
+    "ukrainian_translation_sentence": "Президентські вибори відбудуться наступного року."
+  },
+  {
+    "maskuline": "predškolski",
+    "feminine": "predškolska",
+    "neutrum": "predškolsko",
+    "ukrainian_translation": "дошкільний",
+    "example_sentence": "Predškolska djeca trebaju puno pažnje i njege.",
+    "ukrainian_translation_sentence": "Дошкільні діти потребують багато уваги та догляду."
+  },
+  {
+    "maskuline": "predvođen",
+    "feminine": "predvođena",
+    "neutrum": "predvođeno",
+    "ukrainian_translation": "очолюваний",
+    "example_sentence": "Tim, predvođen iskusnim vođom, postigao je velik uspjeh.",
+    "ukrainian_translation_sentence": "Команда, очолювана досвідченим лідером, досягла великого успіху."
+  },
+  {
+    "maskuline": "pregledan",
+    "feminine": "pregledna",
+    "neutrum": "pregledno",
+    "ukrainian_translation": "чіткий",
+    "example_sentence": "Njegov pregledan rad bio je lako razumljiv svima.",
+    "ukrainian_translation_sentence": "Його чітка робота була легко зрозуміла всім."
+  },
+  {
+    "maskuline": "pregovarački",
+    "feminine": "pregovaračka",
+    "neutrum": "pregovaračko",
+    "ukrainian_translation": "переговорний",
+    "example_sentence": "Pregovarački tim sastao se s upravom kako bi riješili problem.",
+    "ukrainian_translation_sentence": "Переговорна команда зустрілася з керівництвом, щоб вирішити проблему."
+  },
+  {
+    "maskuline": "prehramben",
+    "feminine": "prehrambena",
+    "neutrum": "prehrambeno",
+    "ukrainian_translation": "харчовий",
+    "example_sentence": "Prehrambena industrija u zemlji je vrlo razvijena.",
+    "ukrainian_translation_sentence": "Харчова промисловість у країні дуже розвинута."
+  },
+  {
+    "maskuline": "prejak",
+    "feminine": "prejaka",
+    "neutrum": "prejako",
+    "ukrainian_translation": "занадто сильний",
+    "example_sentence": "Prejak vjetar uništio je mnoge zgrade.",
+    "ukrainian_translation_sentence": "Занадто сильний вітер зруйнував багато будівель."
+  },
+  {
+    "maskuline": "prelijep",
+    "feminine": "prelijepa",
+    "neutrum": "prelijepo",
+    "ukrainian_translation": "прекрасний",
+    "example_sentence": "Prelijep zalazak sunca oduševio je sve prisutne.",
+    "ukrainian_translation_sentence": "Прекрасний захід сонця вразив усіх присутніх."
+  },
+  {
+    "maskuline": "prenosiv",
+    "feminine": "prenosiva",
+    "neutrum": "prenosivo",
+    "ukrainian_translation": "переносний",
+    "example_sentence": "Prenosiv uređaj omogućuje rad s bilo kojeg mjesta.",
+    "ukrainian_translation_sentence": "Переносний пристрій дозволяє працювати з будь-якого місця."
+  },
+  {
+    "maskuline": "prerađivački",
+    "feminine": "prerađivačka",
+    "neutrum": "prerađivačko",
+    "ukrainian_translation": "переробний",
+    "example_sentence": "Prerađivačka industrija značajno doprinosi gospodarstvu.",
+    "ukrainian_translation_sentence": "Переробна промисловість значно сприяє економіці."
+  },
+  {
+    "maskuline": "preskup",
+    "feminine": "preskupa",
+    "neutrum": "preskupo",
+    "ukrainian_translation": "занадто дорогий",
+    "example_sentence": "Preskup automobil bio je izvan njegovih financijskih mogućnosti.",
+    "ukrainian_translation_sentence": "Занадто дорога машина була поза його фінансовими можливостями."
+  }
+]

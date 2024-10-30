@@ -1,0 +1,402 @@
+[
+  {
+    "infinitive": "prekršiti",
+    "past_tense": ["prekršio", "prekršila", "prekršilo"],
+    "present_tense": ["prekršim", "prekršiš", "prekrši", "prekršimo", "prekršite", "prekrše"],
+    "ukrainian_translation": "порушити",
+    "example_sentence": "Prekršio je zakon.",
+    "ukrainian_translation_sentence": "Він порушив закон."
+  },
+  {
+    "infinitive": "preletjeti",
+    "past_tense": ["preletio", "preletjela", "preletjelo"],
+    "present_tense": ["preletim", "preletiš", "preleti", "preletimo", "preletite", "prelete"],
+    "ukrainian_translation": "перелетіти",
+    "example_sentence": "Avion je preletio ocean.",
+    "ukrainian_translation_sentence": "Літак перелетів через океан."
+  },
+  {
+    "infinitive": "preliti",
+    "past_tense": ["prelio", "prelila", "prelilo"],
+    "present_tense": ["prelijem", "preliješ", "prelije", "prelijemo", "prelijete", "preliju"],
+    "ukrainian_translation": "перелити",
+    "example_sentence": "Prelio je juhu u tanjur.",
+    "ukrainian_translation_sentence": "Він перелив суп у тарілку."
+  },
+  {
+    "infinitive": "prelomiti",
+    "past_tense": ["prelomio", "prelomila", "prelomilo"],
+    "present_tense": ["prelomim", "prelomiš", "prelomi", "prelomimo", "prelomite", "prelome"],
+    "ukrainian_translation": "переламати",
+    "example_sentence": "Prelomio je štap na dva dijela.",
+    "ukrainian_translation_sentence": "Він переламав палицю на дві частини."
+  },
+  {
+    "infinitive": "premašivati",
+    "past_tense": ["premašio", "premašila", "premašilo"],
+    "present_tense": ["premašujem", "premašuješ", "premašuje", "premašujemo", "premašujete", "premašuju"],
+    "ukrainian_translation": "перевищувати",
+    "example_sentence": "Premašio je očekivanja.",
+    "ukrainian_translation_sentence": "Він перевищив очікування."
+  },
+  {
+    "infinitive": "premjestiti",
+    "past_tense": ["premjestio", "premjestila", "premjestilo"],
+    "present_tense": ["premjestim", "premjestiš", "premjesti", "premjestimo", "premjestite", "premjeste"],
+    "ukrainian_translation": "перемістити",
+    "example_sentence": "Premjestio je stol u drugi kut.",
+    "ukrainian_translation_sentence": "Він перемістив стіл у інший кут."
+  },
+  {
+    "infinitive": "prenositi",
+    "past_tense": ["prenio", "prenijela", "prenijelo"],
+    "present_tense": ["prenosim", "prenosiš", "prenosi", "prenosimo", "prenosite", "prenose"],
+    "ukrainian_translation": "переносити",
+    "example_sentence": "Prenosili su namještaj u novu kuću.",
+    "ukrainian_translation_sentence": "Вони переносили меблі у новий будинок."
+  },
+  {
+    "infinitive": "preostajati",
+    "past_tense": ["preostao", "preostala", "preostalo"],
+    "present_tense": ["preostajem", "preostaješ", "preostaje", "preostajemo", "preostajete", "preostaju"],
+    "ukrainian_translation": "залишатися",
+    "example_sentence": "Još malo vremena je preostalo.",
+    "ukrainian_translation_sentence": "Залишилося ще трохи часу."
+  },
+  {
+    "infinitive": "prepisati",
+    "past_tense": ["prepisao", "prepisala", "prepisalo"],
+    "present_tense": ["prepišem", "prepišeš", "prepiše", "prepišemo", "prepišete", "prepišu"],
+    "ukrainian_translation": "переписати",
+    "example_sentence": "Prepisao je cijeli tekst iz knjige.",
+    "ukrainian_translation_sentence": "Він переписав увесь текст із книги."
+  },
+  {
+    "infinitive": "preplaviti",
+    "past_tense": ["preplavio", "preplavila", "preplavilo"],
+    "present_tense": ["preplavim", "preplaviš", "preplavi", "preplavimo", "preplavite", "preplave"],
+    "ukrainian_translation": "затопити",
+    "example_sentence": "Poplava je preplavila cijelo selo.",
+    "ukrainian_translation_sentence": "Повінь затопила ціле село."
+  },
+  {
+    "infinitive": "prepoloviti",
+    "past_tense": ["prepolovio", "prepolovila", "prepolovilo"],
+    "present_tense": ["prepolovim", "prepoloviš", "prepolovi", "prepolovimo", "prepolovite", "prepolove"],
+    "ukrainian_translation": "розділити навпіл",
+    "example_sentence": "Prepolovio je jabuku nožem.",
+    "ukrainian_translation_sentence": "Він розрізав яблуко навпіл ножем."
+  },
+  {
+    "infinitive": "preporučiti",
+    "past_tense": ["preporučio", "preporučila", "preporučilo"],
+    "present_tense": ["preporučim", "preporučiš", "preporuči", "preporučimo", "preporučite", "preporuče"],
+    "ukrainian_translation": "порекомендувати",
+    "example_sentence": "Preporučio je ovaj film.",
+    "ukrainian_translation_sentence": "Він порекомендував цей фільм."
+  },
+  {
+    "infinitive": "prepričati",
+    "past_tense": ["prepričao", "prepričala", "prepričalo"],
+    "present_tense": ["prepričam", "prepričaš", "prepriča", "prepričamo", "prepričate", "prepričaju"],
+    "ukrainian_translation": "переказати",
+    "example_sentence": "Prepričao je cijelu priču prijateljima.",
+    "ukrainian_translation_sentence": "Він переказав усю історію друзям."
+  },
+  {
+    "infinitive": "prepucavati",
+    "past_tense": ["prepucavao", "prepucavala", "prepucavalo"],
+    "present_tense": ["prepucavam", "prepucavaš", "prepucava", "prepucavamo", "prepucavate", "prepucavaju"],
+    "ukrainian_translation": "перепалюватися",
+    "example_sentence": "Stalno se prepucavaju oko sitnica.",
+    "ukrainian_translation_sentence": "Вони постійно перепалюються через дрібниці."
+  },
+  {
+    "infinitive": "preraditi",
+    "past_tense": ["preradio", "preradila", "preradilo"],
+    "present_tense": ["preradim", "preradiš", "preradi", "preradimo", "preradite", "prerade"],
+    "ukrainian_translation": "переробити",
+    "example_sentence": "Preradio je svoj stari automobil.",
+    "ukrainian_translation_sentence": "Він переробив свій старий автомобіль."
+  },
+  {
+    "infinitive": "prerasti",
+    "past_tense": ["prerastao", "prerasla", "preraslo"],
+    "present_tense": ["prerastem", "prerasteš", "preraste", "prerastemo", "prerastete", "prerastu"],
+    "ukrainian_translation": "перерости",
+    "example_sentence": "Prerastao je svoju staru odjeću.",
+    "ukrainian_translation_sentence": "Він переріс свій старий одяг."
+  },
+  {
+    "infinitive": "prerezati",
+    "past_tense": ["prerezao", "prerezala", "prerezalo"],
+    "present_tense": ["prerezam", "prerezaš", "prereza", "prerezamo", "prerezate", "prerezaju"],
+    "ukrainian_translation": "перерізати",
+    "example_sentence": "Prerezala je uže nožem.",
+    "ukrainian_translation_sentence": "Вона перерізала мотузку ножем."
+  },
+  {
+    "infinitive": "preskočiti",
+    "past_tense": ["preskočio", "preskočila", "preskočilo"],
+    "present_tense": ["preskočim", "preskočiš", "preskoči", "preskočimo", "preskočite", "preskoče"],
+    "ukrainian_translation": "перестрибнути",
+    "example_sentence": "Preskočio je ogradu.",
+    "ukrainian_translation_sentence": "Він перестрибнув через паркан."
+  },
+  {
+    "infinitive": "prestajati",
+    "past_tense": ["prestao", "prestala", "prestalo"],
+    "present_tense": ["prestajem", "prestaješ", "prestaje", "prestajemo", "prestajete", "prestaju"],
+    "ukrainian_translation": "припиняти",
+    "example_sentence": "Prestao je pušiti.",
+    "ukrainian_translation_sentence": "Він припинив курити."
+  },
+  {
+    "infinitive": "prestrašiti",
+    "past_tense": ["prestrašio", "prestrašila", "prestrašilo"],
+    "present_tense": ["prestrašim", "prestrašiš", "prestraši", "prestrašimo", "prestrašite", "prestraše"],
+    "ukrainian_translation": "налякати",
+    "example_sentence": "Pas je prestrašio dijete.",
+    "ukrainian_translation_sentence": "Собака налякав дитину."
+  },
+  {
+    "infinitive": "presvući",
+    "past_tense": ["presvukao", "presvukla", "presvuklo"],
+    "present_tense": ["presvučem", "presvučeš", "presvuče", "presvučemo", "presvučete", "presvuku"],
+    "ukrainian_translation": "перевдягнути",
+    "example_sentence": "Presvukla se u čistu odjeću.",
+    "ukrainian_translation_sentence": "Вона перевдягнулася в чистий одяг."
+  },
+  {
+    "infinitive": "pretjerati",
+    "past_tense": ["pretjerao", "pretjerala", "pretjeralo"],
+    "present_tense": ["pretjeram", "pretjeraš", "pretjera", "pretjeramo", "pretjerate", "pretjeraju"],
+    "ukrainian_translation": "перебільшувати",
+    "example_sentence": "Pretjerao je u opisivanju događaja.",
+    "ukrainian_translation_sentence": "Він перебільшив у описі подій."
+  },
+  {
+    "infinitive": "pretočiti",
+    "past_tense": ["pretočio", "pretočila", "pretočilo"],
+    "present_tense": ["pretočim", "pretočiš", "pretoči", "pretočimo", "pretočite", "pretoče"],
+    "ukrainian_translation": "перелити",
+    "example_sentence": "Pretočio je vino iz bačve u bocu.",
+    "ukrainian_translation_sentence": "Він перелив вино з бочки у пляшку."
+  },
+  {
+    "infinitive": "pretražiti",
+    "past_tense": ["pretražio", "pretražila", "pretražilo"],
+    "present_tense": ["pretražim", "pretražiš", "pretraži", "pretražimo", "pretražite", "pretraže"],
+    "ukrainian_translation": "обшукати",
+    "example_sentence": "Policija je pretražila kuću.",
+    "ukrainian_translation_sentence": "Поліція обшукала будинок."
+  },
+  {
+    "infinitive": "pretrčati",
+    "past_tense": ["pretrčao", "pretrčala", "pretrčalo"],
+    "present_tense": ["pretrčim", "pretrčiš", "pretrči", "pretrčimo", "pretrčite", "pretrče"],
+    "ukrainian_translation": "перебігти",
+    "example_sentence": "Pretrčao je cestu.",
+    "ukrainian_translation_sentence": "Він перебіг дорогу."
+  },
+  {
+    "infinitive": "pretrpjeti",
+    "past_tense": ["pretrpio", "pretrpjela", "pretrpjelo"],
+    "present_tense": ["pretrpim", "pretrpiš", "pretrpi", "pretrpimo", "pretrpite", "pretrpe"],
+    "ukrainian_translation": "перетерпіти",
+    "example_sentence": "Pretrpio je mnogo boli.",
+    "ukrainian_translation_sentence": "Він перетерпів багато болю."
+  },
+  {
+    "infinitive": "pretući",
+    "past_tense": ["pretukao", "pretukla", "pretuklo"],
+    "present_tense": ["pretučem", "pretučeš", "pretuče", "pretučemo", "pretučete", "pretuču"],
+    "ukrainian_translation": "побити",
+    "example_sentence": "Pretukli su ga u tučnjavi.",
+    "ukrainian_translation_sentence": "Вони побили його у бійці."
+  },
+  {
+    "infinitive": "pretvoriti",
+    "past_tense": ["pretvorio", "pretvorila", "pretvorilo"],
+    "present_tense": ["pretvorim", "pretvoriš", "pretvori", "pretvorimo", "pretvorite", "pretvore"],
+    "ukrainian_translation": "перетворити",
+    "example_sentence": "Pretvorio je vodu u led.",
+    "ukrainian_translation_sentence": "Він перетворив воду на лід."
+  },
+  {
+    "infinitive": "preusmjeriti",
+    "past_tense": ["preusmjerio", "preusmjerila", "preusmjerilo"],
+    "present_tense": ["preusmjerim", "preusmjeriš", "preusmjeri", "preusmjerimo", "preusmjerite", "preusmjere"],
+    "ukrainian_translation": "перенаправити",
+    "example_sentence": "Preusmjerio je promet na drugu cestu.",
+    "ukrainian_translation_sentence": "Він перенаправив рух на іншу дорогу."
+  },
+  {
+    "infinitive": "preuzeti",
+    "past_tense": ["preuzeo", "preuzela", "preuzelo"],
+    "present_tense": ["preuzmem", "preuzmeš", "preuzme", "preuzmemo", "preuzmete", "preuzmu"],
+    "ukrainian_translation": "перейняти",
+    "example_sentence": "Preuzela je odgovornost za projekt.",
+    "ukrainian_translation_sentence": "Вона перейняла відповідальність за проект."
+  },
+  {
+    "infinitive": "prevariti",
+    "past_tense": ["prevario", "prevarila", "prevarilo"],
+    "present_tense": ["prevarim", "prevariš", "prevari", "prevarimo", "prevarite", "prevare"],
+    "ukrainian_translation": "обдурити",
+    "example_sentence": "Prevario je svoje prijatelje.",
+    "ukrainian_translation_sentence": "Він обдурив своїх друзів."
+  },
+  {
+    "infinitive": "previdjeti",
+    "past_tense": ["previdio", "previdjela", "previdjelo"],
+    "present_tense": ["previdim", "previdiš", "previdi", "previdimo", "previdite", "previde"],
+    "ukrainian_translation": "проігнорувати",
+    "example_sentence": "Previdio je važan detalj.",
+    "ukrainian_translation_sentence": "Він проігнорував важливу деталь."
+  },
+  {
+    "infinitive": "prevoditi",
+    "past_tense": ["preveo", "prevela", "prevelo"],
+    "present_tense": ["prevodim", "prevodiš", "prevodi", "prevodimo", "prevodite", "prevode"],
+    "ukrainian_translation": "перекладати",
+    "example_sentence": "Prevodio je knjigu s engleskog na hrvatski.",
+    "ukrainian_translation_sentence": "Він перекладав книгу з англійської на хорватську."
+  },
+  {
+    "infinitive": "prevrnuti",
+    "past_tense": ["prevrnuo", "prevrnula", "prevrnulo"],
+    "present_tense": ["prevrnem", "prevneš", "prevrne", "prevrnemo", "prevrnete", "prevrnu"],
+    "ukrainian_translation": "перевернути",
+    "example_sentence": "Prevrnuo je stolicu.",
+    "ukrainian_translation_sentence": "Він перевернув стілець."
+  },
+  {
+    "infinitive": "prezentirati",
+    "past_tense": ["prezentirao", "prezentirala", "prezentiralo"],
+    "present_tense": ["prezentiram", "prezentiraš", "prezentira", "prezentiramo", "prezentirate", "prezentiraju"],
+    "ukrainian_translation": "презентувати",
+    "example_sentence": "Prezentirala je novi proizvod klijentima.",
+    "ukrainian_translation_sentence": "Вона презентувала новий продукт клієнтам."
+  },
+  {
+    "infinitive": "preživjeti",
+    "past_tense": ["preživio", "preživjela", "preživjelo"],
+    "present_tense": ["preživim", "preživiš", "preživi", "preživimo", "preživite", "prežive"],
+    "ukrainian_translation": "вижити",
+    "example_sentence": "Preživio je opasnu nesreću.",
+    "ukrainian_translation_sentence": "Він вижив після небезпечної аварії."
+  },
+  {
+    "infinitive": "pribrojiti",
+    "past_tense": ["pribrojio", "pribrojila", "pribrojilo"],
+    "present_tense": ["pribrojim", "pribrojiš", "pribroji", "pribrojimo", "pribrojite", "pribroje"],
+    "ukrainian_translation": "додати до",
+    "example_sentence": "Pribrojio je nove podatke starima.",
+    "ukrainian_translation_sentence": "Він додав нові дані до старих."
+  },
+  {
+    "infinitive": "pričvrstiti",
+    "past_tense": ["pričvrstio", "pričvrstila", "pričvrstilo"],
+    "present_tense": ["pričvrstim", "pričvrstiš", "pričvrsti", "pričvrstimo", "pričvrstite", "pričvrste"],
+    "ukrainian_translation": "прикріпити",
+    "example_sentence": "Pričvrstio je policu za zid.",
+    "ukrainian_translation_sentence": "Він прикріпив полицю до стіни."
+  },
+  {
+    "infinitive": "pridavati",
+    "past_tense": ["pridavao", "pridavala", "pridavalo"],
+    "present_tense": ["pridajem", "pridaješ", "pridaje", "pridajemo", "pridajete", "pridaju"],
+    "ukrainian_translation": "надавати значення",
+    "example_sentence": "Pridaje veliku važnost detaljima.",
+    "ukrainian_translation_sentence": "Він надає велике значення деталям."
+  },
+  {
+    "infinitive": "pridobiti",
+    "past_tense": ["pridobio", "pridobila", "pridobilo"],
+    "present_tense": ["pridobijem", "pridobiješ", "pridobije", "pridobijemo", "pridobijete", "pridobiju"],
+    "ukrainian_translation": "здобути",
+    "example_sentence": "Pridobio je povjerenje klijenata.",
+    "ukrainian_translation_sentence": "Він здобув довіру клієнтів."
+  },
+  {
+    "infinitive": "pridodati",
+    "past_tense": ["pridodao", "pridodala", "pridodalo"],
+    "present_tense": ["pridodam", "pridodaš", "pridoda", "pridodamo", "pridodate", "pridodaju"],
+    "ukrainian_translation": "додати",
+    "example_sentence": "Pridodao je još nekoliko komentara.",
+    "ukrainian_translation_sentence": "Він додав ще кілька коментарів."
+  },
+  {
+    "infinitive": "pridonositi",
+    "past_tense": ["pridonio", "pridonijela", "pridonijelo"],
+    "present_tense": ["pridonosim", "pridonosiš", "pridonosi", "pridonosimo", "pridonosite", "pridonose"],
+    "ukrainian_translation": "сприяти",
+    "example_sentence": "Njegov rad pridonosi uspjehu tvrtke.",
+    "ukrainian_translation_sentence": "Його робота сприяє успіху компанії."
+  },
+  {
+    "infinitive": "pridruživati",
+    "past_tense": ["pridruživao", "pridruživala", "pridruživalo"],
+    "present_tense": ["pridružujem", "pridružuješ", "pridružuje", "pridružujemo", "pridružujete", "pridružuju"],
+    "ukrainian_translation": "приєднуватися",
+    "example_sentence": "Pridružuje se grupi svaki tjedan.",
+    "ukrainian_translation_sentence": "Він приєднується до групи щотижня."
+  },
+  {
+    "infinitive": "pridržavati",
+    "past_tense": ["pridržavao", "pridržavala", "pridržavalo"],
+    "present_tense": ["pridržavam", "pridržavaš", "pridržava", "pridržavamo", "pridržavate", "pridržavaju"],
+    "ukrainian_translation": "дотримуватися",
+    "example_sentence": "Uvijek se pridržava pravila.",
+    "ukrainian_translation_sentence": "Він завжди дотримується правил."
+  },
+  {
+    "infinitive": "prihvatiti",
+    "past_tense": ["prihvatio", "prihvatila", "prihvatilo"],
+    "present_tense": ["prihvatim", "prihvatiš", "prihvati", "prihvatimo", "prihvatite", "prihvate"],
+    "ukrainian_translation": "прийняти",
+    "example_sentence": "Prihvatio je ponudu za posao.",
+    "ukrainian_translation_sentence": "Він прийняв пропозицію про роботу."
+  },
+  {
+    "infinitive": "prijaviti",
+    "past_tense": ["prijavio", "prijavila", "prijavilo"],
+    "present_tense": ["prijavim", "prijaviš", "prijavi", "prijavimo", "prijavite", "prijave"],
+    "ukrainian_translation": "заявити",
+    "example_sentence": "Prijavila je krađu policiji.",
+    "ukrainian_translation_sentence": "Вона заявила про крадіжку в поліцію."
+  },
+  {
+    "infinitive": "prijeći",
+    "past_tense": ["prešao", "prešla", "prešlo"],
+    "present_tense": ["prijeđem", "prijeđeš", "prijeđe", "prijeđemo", "prijeđete", "prijeđu"],
+    "ukrainian_translation": "перейти",
+    "example_sentence": "Priješao je rijeku.",
+    "ukrainian_translation_sentence": "Він перейшов річку."
+  },
+  {
+    "infinitive": "prijetiti",
+    "past_tense": ["prijetio", "prijetila", "prijetilo"],
+    "present_tense": ["prijetim", "prijetiš", "prijeti", "prijetimo", "prijetite", "prijete"],
+    "ukrainian_translation": "загрожувати",
+    "example_sentence": "Prijetio je da će otići.",
+    "ukrainian_translation_sentence": "Він погрожував, що піде."
+  },
+  {
+    "infinitive": "prikazati",
+    "past_tense": ["prikazao", "prikazala", "prikazalo"],
+    "present_tense": ["prikažem", "prikažeš", "prikaže", "prikažemo", "prikažete", "prikažu"],
+    "ukrainian_translation": "показати",
+    "example_sentence": "Film prikazuje život u gradu.",
+    "ukrainian_translation_sentence": "Фільм показує життя у місті."
+  },
+  {
+    "infinitive": "priključiti",
+    "past_tense": ["priključio", "priključila", "priključilo"],
+    "present_tense": ["priključim", "priključiš", "priključi", "priključimo", "priključite", "priključe"],
+    "ukrainian_translation": "приєднати",
+    "example_sentence": "Priključio je uređaj na struju.",
+    "ukrainian_translation_sentence": "Він під'єднав пристрій до електромережі."
+  }
+]

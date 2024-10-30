@@ -1,0 +1,410 @@
+[
+	{
+    "infinitive": "tjerati",
+    "past_tense": ["tjerao", "tjerala", "tjeralo"],
+    "present_tense": ["tjeram", "tjeraš", "tjera", "tjeramo", "tjerate", "tjeraju"],
+    "ukrainian_translation": "гнати",
+    "example_sentence": "Tjerao je ovce na pašu svakog jutra.",
+    "ukrainian_translation_sentence": "Він гнав овець на пасовище щоранку."
+  },
+  {
+    "infinitive": "tješiti",
+    "past_tense": ["tješio", "tješila", "tješilo"],
+    "present_tense": ["tješim", "tješiš", "tješi", "tješimo", "tješite", "tješe"],
+    "ukrainian_translation": "втішати",
+    "example_sentence": "Tješio je prijatelja nakon gubitka voljene osobe.",
+    "ukrainian_translation_sentence": "Він втішав друга після втрати коханої людини."
+  },
+  {
+    "infinitive": "tlačiti",
+    "past_tense": ["tlačio", "tlačila", "tlačilo"],
+    "present_tense": ["tlačim", "tlačiš", "tlači", "tlačimo", "tlačite", "tlače"],
+    "ukrainian_translation": "придушувати",
+    "example_sentence": "Režim je tlačio svoje građane godinama.",
+    "ukrainian_translation_sentence": "Режим придушував своїх громадян роками."
+  },
+	{
+    "infinitive": "tolerirati",
+    "past_tense": ["tolerirao", "tolerirala", "toleriralo"],
+    "present_tense": ["toleriram", "toleriraš", "tolerira", "toleriramo", "tolerirate", "toleriraju"],
+    "ukrainian_translation": "терпіти",
+    "example_sentence": "Tolerirao je ponašanje kolega kako bi izbjegao sukobe.",
+    "ukrainian_translation_sentence": "Він терпів поведінку колег, щоб уникнути конфліктів."
+  },
+  {
+    "infinitive": "tonuti",
+    "past_tense": ["tonuo", "tonula", "tonulo"],
+    "present_tense": ["tonem", "toneš", "tone", "tonemo", "tonete", "tonu"],
+    "ukrainian_translation": "тонути",
+    "example_sentence": "Brod je počeo tonuti nakon sudara.",
+    "ukrainian_translation_sentence": "Корабель почав тонути після зіткнення."
+  },
+  {
+    "infinitive": "topiti",
+    "past_tense": ["topio", "topila", "topilo"],
+    "present_tense": ["topim", "topiš", "topi", "topimo", "topite", "tope"],
+    "ukrainian_translation": "розтоплювати",
+    "example_sentence": "Topili su čokoladu za kolač.",
+    "ukrainian_translation_sentence": "Вони розтоплювали шоколад для торта."
+  },
+  {
+    "infinitive": "tragati",
+    "past_tense": ["tragao", "tragala", "tragalo"],
+    "present_tense": ["tragam", "tragaš", "traga", "tragamo", "tragate", "tragaju"],
+    "ukrainian_translation": "шукати",
+    "example_sentence": "Policija traga za nestalom osobom.",
+    "ukrainian_translation_sentence": "Поліція шукає зниклу людину."
+  },
+  {
+    "infinitive": "trajati",
+    "past_tense": ["trajao", "trajala", "trajalo"],
+    "present_tense": ["trajam", "trajaš", "traja", "trajamo", "trajate", "traju"],
+    "ukrainian_translation": "тривати",
+    "example_sentence": "Sastanak je trajao duže nego što je bilo planirano.",
+    "ukrainian_translation_sentence": "Зустріч тривала довше, ніж було заплановано."
+  },
+  {
+    "infinitive": "tretirati",
+    "past_tense": ["tretirao", "tretirala", "tretiralo"],
+    "present_tense": ["tretiram", "tretiraš", "tretira", "tretiramo", "tretirate", "tretiraju"],
+    "ukrainian_translation": "лікувати",
+    "example_sentence": "Doktor je tretirao pacijenta zbog alergije.",
+    "ukrainian_translation_sentence": "Лікар лікував пацієнта від алергії."
+  },
+  {
+    "infinitive": "trljati",
+    "past_tense": ["trljao", "trljala", "trljalo"],
+    "present_tense": ["trljam", "trljaš", "trlja", "trljamo", "trljate", "trljaju"],
+    "ukrainian_translation": "терти",
+    "example_sentence": "Trljao je ruke da bi ih ugrijao.",
+    "ukrainian_translation_sentence": "Він тер руки, щоб їх зігріти."
+  },
+  {
+    "infinitive": "trpjeti",
+    "past_tense": ["trpio", "trpila", "trpilo"],
+    "present_tense": ["trpim", "trpiš", "trpi", "trpimo", "trpite", "trpe"],
+    "ukrainian_translation": "терпіти",
+    "example_sentence": "Dugo je trpio nepravdu na poslu.",
+    "ukrainian_translation_sentence": "Він довго терпів несправедливість на роботі."
+  },
+  {
+    "infinitive": "truditi",
+    "past_tense": ["trudio", "trudila", "trudilo"],
+    "present_tense": ["trudim", "trudiš", "trudi", "trudimo", "trudite", "trude"],
+    "ukrainian_translation": "прагнути",
+    "example_sentence": "Uvijek se trudio dati najbolje od sebe.",
+    "ukrainian_translation_sentence": "Він завжди прагнув дати найкраще з себе."
+  },
+  {
+    "infinitive": "trzati",
+    "past_tense": ["trzao", "trzala", "trzalo"],
+    "present_tense": ["trzam", "trzaš", "trza", "trzamo", "trzate", "trzaju"],
+    "ukrainian_translation": "сіпатися",
+    "example_sentence": "Zbog stresa mu je ruka počela trzati.",
+    "ukrainian_translation_sentence": "Через стрес у нього почала сіпатися рука."
+  },
+	{
+    "infinitive": "tugovati",
+    "past_tense": ["tugovao", "tugovala", "tugovalo"],
+    "present_tense": ["tugujem", "tuguješ", "tuguje", "tugujemo", "tugujete", "tuguju"],
+    "ukrainian_translation": "сумувати",
+    "example_sentence": "Tugovali su za izgubljenim članom obitelji.",
+    "ukrainian_translation_sentence": "Вони сумували за втраченим членом родини."
+  },
+  {
+    "infinitive": "tužiti",
+    "past_tense": ["tužio", "tužila", "tužilo"],
+    "present_tense": ["tužim", "tužiš", "tuži", "tužimo", "tužite", "tuže"],
+    "ukrainian_translation": "подавати позов",
+    "example_sentence": "Odlučili su tužiti tvrtku zbog nepoštivanja ugovora.",
+    "ukrainian_translation_sentence": "Вони вирішили подати позов на компанію за порушення контракту."
+  },
+  {
+    "infinitive": "tvoriti",
+    "past_tense": ["tvorio", "tvorila", "tvorilo"],
+    "present_tense": ["tvorim", "tvoriš", "tvori", "tvorimo", "tvorite", "tvore"],
+    "ukrainian_translation": "утворювати",
+    "example_sentence": "Svi dijelovi zajedno tvore savršenu cjelinu.",
+    "ukrainian_translation_sentence": "Усі частини разом утворюють ідеальне ціле."
+  },
+  {
+    "infinitive": "ubaciti",
+    "past_tense": ["ubacio", "ubacila", "ubacilo"],
+    "present_tense": ["ubacim", "ubaciš", "ubaci", "ubacimo", "ubacite", "ubace"],
+    "ukrainian_translation": "вкинути",
+    "example_sentence": "Ubacio je loptu u koš s velike udaljenosti.",
+    "ukrainian_translation_sentence": "Він вкинув м'яч у кошик з великої відстані."
+  },
+  {
+    "infinitive": "ubijati",
+    "past_tense": ["ubijao", "ubijala", "ubijalo"],
+    "present_tense": ["ubijam", "ubijaš", "ubija", "ubijamo", "ubijate", "ubijaju"],
+    "ukrainian_translation": "вбивати",
+    "example_sentence": "Ubija vrijeme gledajući televiziju.",
+    "ukrainian_translation_sentence": "Він вбиває час, дивлячись телевізор."
+  },
+  {
+    "infinitive": "ubilježiti",
+    "past_tense": ["ubilježio", "ubilježila", "ubilježilo"],
+    "present_tense": ["ubilježim", "ubilježiš", "ubilježi", "ubilježimo", "ubilježite", "ubilježe"],
+    "ukrainian_translation": "зареєструвати",
+    "example_sentence": "Ubili su svoje uspjehe u knjigu rekorda.",
+    "ukrainian_translation_sentence": "Вони зареєстрували свої досягнення в книгу рекордів."
+  },
+  {
+    "infinitive": "ublažavati",
+    "past_tense": ["ublažavao", "ublažavala", "ublažavalo"],
+    "present_tense": ["ublažavam", "ublažavaš", "ublažava", "ublažavamo", "ublažavate", "ublažavaju"],
+    "ukrainian_translation": "пом'якшувати",
+    "example_sentence": "Ublažavao je napetost tijekom sastanka.",
+    "ukrainian_translation_sentence": "Він пом'якшував напруженість під час зустрічі."
+  },
+  {
+    "infinitive": "ubosti",
+    "past_tense": ["uboo", "ubola", "ubolo"],
+    "present_tense": ["ubodem", "ubodeš", "ubode", "ubodemo", "ubodete", "ubodu"],
+    "ukrainian_translation": "вжалити",
+    "example_sentence": "Pčela ga je ubola dok je brao cvijeće.",
+    "ukrainian_translation_sentence": "Бджола його вжалила, коли він збирав квіти."
+  },
+  {
+    "infinitive": "ubrzati",
+    "past_tense": ["ubrzavao", "ubrzavala", "ubrzavalo"],
+    "present_tense": ["ubrzam", "ubrzaš", "ubrza", "ubrzamo", "ubrzate", "ubrzaju"],
+    "ukrainian_translation": "прискорити",
+    "example_sentence": "Ubrzali su proces kako bi stigli do roka.",
+    "ukrainian_translation_sentence": "Вони прискорили процес, щоб встигнути до кінцевого терміну."
+  },
+  {
+    "infinitive": "učestati",
+    "past_tense": ["učestao", "učestala", "učestalo"],
+    "present_tense": ["učestam", "učestaš", "učesta", "učestamo", "učestate", "učestaju"],
+    "ukrainian_translation": "почастішати",
+    "example_sentence": "Sastanci su počeli učestati zbog novih projekata.",
+    "ukrainian_translation_sentence": "Зустрічі почали почастішати через нові проекти."
+  },
+	{
+    "infinitive": "učiniti",
+    "past_tense": ["učinio", "učinila", "učinilo"],
+    "present_tense": ["učinim", "učiniš", "učini", "učinimo", "učinite", "učine"],
+    "ukrainian_translation": "зробити",
+    "example_sentence": "Učinio je sve što je mogao kako bi pomogao.",
+    "ukrainian_translation_sentence": "Він зробив усе, що міг, щоб допомогти."
+  },
+  {
+    "infinitive": "udaljavati",
+    "past_tense": ["udaljavao", "udaljavala", "udaljavalo"],
+    "present_tense": ["udaljavam", "udaljavaš", "udaljava", "udaljavamo", "udaljavate", "udaljavaju"],
+    "ukrainian_translation": "віддаляти",
+    "example_sentence": "Postupno su se udaljavali jedno od drugog.",
+    "ukrainian_translation_sentence": "Поступово вони віддалялися один від одного."
+  },
+  {
+    "infinitive": "udaljiti",
+    "past_tense": ["udaljio", "udaljila", "udaljilo"],
+    "present_tense": ["udaljim", "udaljiš", "udalji", "udaljimo", "udaljite", "udalje"],
+    "ukrainian_translation": "віддалити",
+    "example_sentence": "Udaljili su se od buke grada.",
+    "ukrainian_translation_sentence": "Вони віддалилися від міського шуму."
+  },
+  {
+    "infinitive": "udebljati",
+    "past_tense": ["udebljao", "udebljala", "udebljalo"],
+    "present_tense": ["udebljam", "udebljaš", "udeblja", "udebljamo", "udebljate", "udebljaju"],
+    "ukrainian_translation": "потовщати",
+    "example_sentence": "Udebljao se tijekom zime.",
+    "ukrainian_translation_sentence": "Він набрав вагу за зиму."
+  },
+  {
+    "infinitive": "udovoljiti",
+    "past_tense": ["udovoljio", "udovoljila", "udovoljilo"],
+    "present_tense": ["udovoljim", "udovoljiš", "udovolji", "udovoljimo", "udovoljite", "udovolje"],
+    "ukrainian_translation": "задовольнити",
+    "example_sentence": "Udovoljili su zahtjevima kupaca.",
+    "ukrainian_translation_sentence": "Вони задовольнили вимоги клієнтів."
+  },
+  {
+    "infinitive": "udružiti",
+    "past_tense": ["udružio", "udružila", "udružilo"],
+    "present_tense": ["udružim", "udružiš", "udruži", "udružimo", "udružite", "udruže"],
+    "ukrainian_translation": "об'єднати",
+    "example_sentence": "Udružili su se kako bi ostvarili zajednički cilj.",
+    "ukrainian_translation_sentence": "Вони об'єдналися, щоб досягти спільної мети."
+  },
+  {
+    "infinitive": "ugoditi",
+    "past_tense": ["ugodio", "ugodila", "ugodilo"],
+    "present_tense": ["ugodim", "ugodiš", "ugodi", "ugodimo", "ugodite", "ugode"],
+    "ukrainian_translation": "потішити",
+    "example_sentence": "Trudio se ugoditi svim gostima na zabavi.",
+    "ukrainian_translation_sentence": "Він намагався потішити всіх гостей на вечірці."
+  },
+  {
+    "infinitive": "ugostiti",
+    "past_tense": ["ugostio", "ugostila", "ugostilo"],
+    "present_tense": ["ugostim", "ugostiš", "ugosti", "ugostimo", "ugostite", "ugoste"],
+    "ukrainian_translation": "приймати гостей",
+    "example_sentence": "Ugodno su ugostili prijatelje iz inozemstva.",
+    "ukrainian_translation_sentence": "Вони гостинно прийняли друзів із-за кордону."
+  },
+  {
+    "infinitive": "ugovoriti",
+    "past_tense": ["ugovorio", "ugovorila", "ugovorilo"],
+    "present_tense": ["ugovorim", "ugovoriš", "ugovori", "ugovorimo", "ugovorite", "ugovore"],
+    "ukrainian_translation": "домовитися",
+    "example_sentence": "Ugovorili su sastanak za idući tjedan.",
+    "ukrainian_translation_sentence": "Вони домовилися про зустріч на наступний тиждень."
+  },
+  {
+    "infinitive": "ugrađivati",
+    "past_tense": ["ugrađivao", "ugrađivala", "ugrađivalo"],
+    "present_tense": ["ugrađujem", "ugrađuješ", "ugrađuje", "ugrađujemo", "ugrađujete", "ugrađuju"],
+    "ukrainian_translation": "вбудовувати",
+    "example_sentence": "Ugrađivali su nove komponente u računalo.",
+    "ukrainian_translation_sentence": "Вони вбудовували нові компоненти в комп'ютер."
+  },
+  {
+    "infinitive": "ugroziti",
+    "past_tense": ["ugrozio", "ugrozila", "ugrozilo"],
+    "present_tense": ["ugrozim", "ugroziš", "ugrozi", "ugrozimo", "ugrozite", "ugroze"],
+    "ukrainian_translation": "загрожувати",
+    "example_sentence": "Njihove akcije su ugrozile sigurnost zajednice.",
+    "ukrainian_translation_sentence": "Їхні дії загрожували безпеці громади."
+  },
+	{
+    "infinitive": "ugurati",
+    "past_tense": ["ugurao", "ugurala", "uguralo"],
+    "present_tense": ["uguram", "uguraš", "ugura", "uguramo", "ugurate", "uguraju"],
+    "ukrainian_translation": "втиснути",
+    "example_sentence": "Ugurali su još nekoliko ljudi u već pun autobus.",
+    "ukrainian_translation_sentence": "Вони втиснули ще кількох людей у вже повний автобус."
+  },
+  {
+    "infinitive": "uhapsiti",
+    "past_tense": ["uhapsio", "uhapsila", "uhapsilo"],
+    "present_tense": ["uhapsim", "uhapsiš", "uhapsi", "uhapsimo", "uhapsite", "uhapse"],
+    "ukrainian_translation": "арештувати",
+    "example_sentence": "Policija je uhapsila osumnjičenog nakon višemjesečne istrage.",
+    "ukrainian_translation_sentence": "Поліція арештувала підозрюваного після кількамісячного розслідування."
+  },
+  {
+    "infinitive": "uhvatiti",
+    "past_tense": ["uhvatio", "uhvatila", "uhvatilo"],
+    "present_tense": ["uhvatim", "uhvatiš", "uhvati", "uhvatimo", "uhvatite", "uhvate"],
+    "ukrainian_translation": "зловити",
+    "example_sentence": "Uhvatili su loptu u zadnjem trenutku.",
+    "ukrainian_translation_sentence": "Вони зловили м'яч в останній момент."
+  },
+  {
+    "infinitive": "uklapati",
+    "past_tense": ["uklapao", "uklapala", "uklapalo"],
+    "present_tense": ["uklapam", "uklapaš", "uklapa", "uklapamo", "uklapate", "uklapaju"],
+    "ukrainian_translation": "вписуватися",
+    "example_sentence": "Novi članovi tima brzo su se uklapali u radnu atmosferu.",
+    "ukrainian_translation_sentence": "Нові члени команди швидко вписалися в робочу атмосферу."
+  },
+  {
+    "infinitive": "uključiti",
+    "past_tense": ["uključio", "uključila", "uključilo"],
+    "present_tense": ["uključim", "uključiš", "uključi", "uključimo", "uključite", "uključe"],
+    "ukrainian_translation": "включити",
+    "example_sentence": "Ukjučili su grijanje čim je postalo hladno.",
+    "ukrainian_translation_sentence": "Вони включили опалення, як тільки стало холодно."
+  },
+  {
+    "infinitive": "ukloniti",
+    "past_tense": ["uklonio", "uklonila", "uklonilo"],
+    "present_tense": ["uklonim", "ukloniš", "ukloni", "uklonimo", "uklonite", "uklone"],
+    "ukrainian_translation": "усунути",
+    "example_sentence": "Uklonili su sve prepreke s puta.",
+    "ukrainian_translation_sentence": "Вони усунули всі перешкоди з дороги."
+  },
+  {
+    "infinitive": "uklopiti",
+    "past_tense": ["uklopio", "uklopila", "uklopilo"],
+    "present_tense": ["uklopim", "uklopiš", "uklopi", "uklopimo", "uklopite", "uklope"],
+    "ukrainian_translation": "вписати",
+    "example_sentence": "Novi sustav savršeno se uklopio u postojeći plan.",
+    "ukrainian_translation_sentence": "Нова система ідеально вписалася в існуючий план."
+  },
+  {
+    "infinitive": "ukrasiti",
+    "past_tense": ["ukrasio", "ukrasila", "ukrasilo"],
+    "present_tense": ["ukrasim", "ukrasiš", "ukrasi", "ukrasimo", "ukrasite", "ukrase"],
+    "ukrainian_translation": "прикрашати",
+    "example_sentence": "Ukrasili su kuću za božićne praznike.",
+    "ukrainian_translation_sentence": "Вони прикрасили будинок до різдвяних свят."
+  },
+  {
+    "infinitive": "ukrasti",
+    "past_tense": ["ukrao", "ukrala", "ukralo"],
+    "present_tense": ["ukradem", "ukradeš", "ukrade", "ukrademo", "ukradete", "ukradu"],
+    "ukrainian_translation": "вкрасти",
+    "example_sentence": "Neko je ukrao bicikl iz dvorišta.",
+    "ukrainian_translation_sentence": "Хтось вкрав велосипед із подвір'я."
+  },
+  {
+    "infinitive": "ulagati",
+    "past_tense": ["ulagao", "ulagala", "ulagalo"],
+    "present_tense": ["ulagam", "ulagaš", "ulaga", "ulago", "ulagate", "ulagaju"],
+    "ukrainian_translation": "вкладати",
+    "example_sentence": "Ulagali su mnogo novca u razvoj novih tehnologija.",
+    "ukrainian_translation_sentence": "Вони вкладали багато грошей у розвиток нових технологій."
+  },
+	{
+    "infinitive": "ulaziti",
+    "past_tense": ["ulazio", "ulazila", "ulazilo"],
+    "present_tense": ["ulazim", "ulaziš", "ulazi", "ulazimo", "ulazite", "ulaze"],
+    "ukrainian_translation": "входити",
+    "example_sentence": "Svako jutro ulazi u ured u isto vrijeme.",
+    "ukrainian_translation_sentence": "Кожного ранку він входить в офіс в один і той самий час."
+  },
+  {
+    "infinitive": "uletjeti",
+    "past_tense": ["uletio", "uletjela", "uletjelo"],
+    "present_tense": ["uletim", "uleteš", "uleteti", "uletimo", "uletite", "ulete"],
+    "ukrainian_translation": "влетіти",
+    "example_sentence": "Ptica je uletjela kroz otvoreni prozor.",
+    "ukrainian_translation_sentence": "Птах влетів через відчинене вікно."
+  },
+  {
+    "infinitive": "uliti",
+    "past_tense": ["ulio", "ulila", "ulilo"],
+    "present_tense": ["ulim", "uliš", "uli", "ulimo", "ulite", "ule"],
+    "ukrainian_translation": "налити",
+    "example_sentence": "Ulila je vodu u čašu.",
+    "ukrainian_translation_sentence": "Вона налила воду у склянку."
+  },
+  {
+    "infinitive": "uloviti",
+    "past_tense": ["ulovio", "ulovila", "ulovilo"],
+    "present_tense": ["ulovim", "uloviš", "ulovi", "ulovimo", "ulovite", "ulove"],
+    "ukrainian_translation": "зловити",
+    "example_sentence": "Ulovio je veliku ribu na jezeru.",
+    "ukrainian_translation_sentence": "Він зловив велику рибу на озері."
+  },
+  {
+    "infinitive": "umiješati",
+    "past_tense": ["umiješao", "umiješala", "umiješalo"],
+    "present_tense": ["umiješam", "umiješaš", "umiješa", "umiješamo", "umiješate", "umiješaju"],
+    "ukrainian_translation": "змішати",
+    "example_sentence": "Umiješao je sve sastojke u zdjeli.",
+    "ukrainian_translation_sentence": "Він змішав усі інгредієнти в мисці."
+  },
+  {
+    "infinitive": "umisliti",
+    "past_tense": ["umislio", "umislila", "umislilo"],
+    "present_tense": ["umislim", "umisliš", "umisli", "umislimo", "umislite", "umisle"],
+    "ukrainian_translation": "вигадати",
+    "example_sentence": "Umislio je da ga svi ignoriraju.",
+    "ukrainian_translation_sentence": "Він вигадав, що всі його ігнорують."
+  },
+  {
+    "infinitive": "uništiti",
+    "past_tense": ["uništio", "uništila", "uništilo"],
+    "present_tense": ["uništim", "uništiš", "uništi", "uništimo", "uništite", "unište"],
+    "ukrainian_translation": "знищити",
+    "example_sentence": "Oluja je uništila mnoge kuće u selu.",
+    "ukrainian_translation_sentence": "Шторм знищив багато будинків у селі."
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "maskuline": "otpadni",
+    "feminine": "otpadna",
+    "neutrum": "otpadno",
+    "ukrainian_translation": "відходовий",
+    "example_sentence": "Otpadne vode moraju biti pravilno zbrinute.",
+    "ukrainian_translation_sentence": "Відходові води мають бути належним чином утилізовані."
+  },
+  {
+    "maskuline": "otporan",
+    "feminine": "otporna",
+    "neutrum": "otporno",
+    "ukrainian_translation": "стійкий",
+    "example_sentence": "Novi materijal je otporan na vatru.",
+    "ukrainian_translation_sentence": "Новий матеріал стійкий до вогню."
+  },
+  {
+    "maskuline": "ovotjedni",
+    "feminine": "ovotjedna",
+    "neutrum": "ovotjedno",
+    "ukrainian_translation": "цього тижня",
+    "example_sentence": "Ovotjedni sastanak donijet će važne odluke.",
+    "ukrainian_translation_sentence": "Цього тижня на зустрічі будуть прийняті важливі рішення."
+  },
+  {
+    "maskuline": "ovozemaljski",
+    "feminine": "ovozemaljska",
+    "neutrum": "ovozemaljsko",
+    "ukrainian_translation": "земний",
+    "example_sentence": "Ovozemaljski problemi često nas odvlače od duhovnih misli.",
+    "ukrainian_translation_sentence": "Земні проблеми часто відволікають нас від духовних думок."
+  },
+  {
+    "maskuline": "ozbiljan",
+    "feminine": "ozbiljna",
+    "neutrum": "ozbiljno",
+    "ukrainian_translation": "серйозний",
+    "example_sentence": "Njegov ozbiljan ton nagovijestio je važnost situacije.",
+    "ukrainian_translation_sentence": "Його серйозний тон вказував на важливість ситуації."
+  },
+  {
+    "maskuline": "paklen",
+    "feminine": "paklena",
+    "neutrum": "pakleno",
+    "ukrainian_translation": "пекельний",
+    "example_sentence": "Pakleno vruće ljeto donijelo je mnoge probleme.",
+    "ukrainian_translation_sentence": "Пекельна спека літа принесла багато проблем."
+  },
+  {
+    "maskuline": "pametan",
+    "feminine": "pametna",
+    "neutrum": "pametno",
+    "ukrainian_translation": "розумний",
+    "example_sentence": "Njegov pametan pristup riješio je složeni problem.",
+    "ukrainian_translation_sentence": "Його розумний підхід вирішив складну проблему."
+  },
+  {
+    "maskuline": "pamučan",
+    "feminine": "pamučna",
+    "neutrum": "pamučno",
+    "ukrainian_translation": "бавовняний",
+    "example_sentence": "Pamučna majica idealna je za ljeto.",
+    "ukrainian_translation_sentence": "Бавовняна футболка ідеальна для літа."
+  },
+  {
+    "maskuline": "parlamentaran",
+    "feminine": "parlamentarna",
+    "neutrum": "parlamentarno",
+    "ukrainian_translation": "парламентський",
+    "example_sentence": "Parlamentarna rasprava trajala je satima.",
+    "ukrainian_translation_sentence": "Парламентська дискусія тривала годинами."
+  },
+  {
+    "maskuline": "partnerski",
+    "feminine": "partnerska",
+    "neutrum": "partnersko",
+    "ukrainian_translation": "партнерський",
+    "example_sentence": "Imali su partnerski odnos temeljen na povjerenju.",
+    "ukrainian_translation_sentence": "Вони мали партнерські відносини, засновані на довірі."
+  },
+  {
+    "maskuline": "patetičan",
+    "feminine": "patetična",
+    "neutrum": "patetično",
+    "ukrainian_translation": "жалісний",
+    "example_sentence": "Njegov govor bio je patetičan i dirljiv.",
+    "ukrainian_translation_sentence": "Його промова була жалісною та зворушливою."
+  },
+  {
+    "maskuline": "patogen",
+    "feminine": "patogena",
+    "neutrum": "patogeno",
+    "ukrainian_translation": "патогенний",
+    "example_sentence": "Patogeni mikroorganizmi uzrokovali su bolest.",
+    "ukrainian_translation_sentence": "Патогенні мікроорганізми спричинили хворобу."
+  },
+  {
+    "maskuline": "pčelarski",
+    "feminine": "pčelarska",
+    "neutrum": "pčelarsko",
+    "ukrainian_translation": "пасічний",
+    "example_sentence": "Pčelarska oprema je neophodna za rad na pčelinjaku.",
+    "ukrainian_translation_sentence": "Пасічне обладнання необхідне для роботи на пасіці."
+  },
+  {
+    "maskuline": "pčelinji",
+    "feminine": "pčelinja",
+    "neutrum": "pčelinje",
+    "ukrainian_translation": "бджолиний",
+    "example_sentence": "Pčelinji med je prirodan i zdrav proizvod.",
+    "ukrainian_translation_sentence": "Бджолиний мед — це природний і корисний продукт."
+  },
+  {
+    "maskuline": "pedagoški",
+    "feminine": "pedagoška",
+    "neutrum": "pedagoško",
+    "ukrainian_translation": "педагогічний",
+    "example_sentence": "Pedagoški pristup bio je prilagođen svakom učeniku.",
+    "ukrainian_translation_sentence": "Педагогічний підхід був адаптований до кожного учня."
+  },
+  {
+    "maskuline": "pismen",
+    "feminine": "pismena",
+    "neutrum": "pismeno",
+    "ukrainian_translation": "грамотний",
+    "example_sentence": "Pismen narod čini temelj napredne države.",
+    "ukrainian_translation_sentence": "Грамотний народ є основою прогресивної держави."
+  },
+  {
+    "maskuline": "pitom",
+    "feminine": "pitoma",
+    "neutrum": "pitomo",
+    "ukrainian_translation": "лагідний",
+    "example_sentence": "Pitom krajolik pružao je osjećaj mira.",
+    "ukrainian_translation_sentence": "Лагідний пейзаж створював відчуття спокою."
+  },
+  {
+    "maskuline": "pješački",
+    "feminine": "pješačka",
+    "neutrum": "pješačko",
+    "ukrainian_translation": "пішохідний",
+    "example_sentence": "Pješački prijelaz bio je jasno označen.",
+    "ukrainian_translation_sentence": "Пішохідний перехід був чітко позначений."
+  },
+  {
+    "maskuline": "pjesnički",
+    "feminine": "pjesnička",
+    "neutrum": "pjesničko",
+    "ukrainian_translation": "поетичний",
+    "example_sentence": "Pjesnički izrazi obogatili su njegovu prozu.",
+    "ukrainian_translation_sentence": "Поетичні вирази збагатили його прозу."
+  },
+  {
+    "maskuline": "pjevački",
+    "feminine": "pjevačka",
+    "neutrum": "pjevačko",
+    "ukrainian_translation": "співочий",
+    "example_sentence": "Pjevački zbor pripremao se za nastup.",
+    "ukrainian_translation_sentence": "Співочий хор готувався до виступу."
+  },
+  {
+    "maskuline": "planetaran",
+    "feminine": "planetarna",
+    "neutrum": "planetarno",
+    "ukrainian_translation": "планетарний",
+    "example_sentence": "Planetaran utjecaj klimatskih promjena osjećao se svugdje.",
+    "ukrainian_translation_sentence": "Планетарний вплив кліматичних змін відчувався всюди."
+  },
+  {
+    "maskuline": "planinarski",
+    "feminine": "planinarska",
+    "neutrum": "planinarsko",
+    "ukrainian_translation": "альпіністський",
+    "example_sentence": "Planinarski klub organizirao je izlet u planine.",
+    "ukrainian_translation_sentence": "Альпіністський клуб організував поїздку в гори."
+  },
+  {
+    "maskuline": "planski",
+    "feminine": "planska",
+    "neutrum": "plansko",
+    "ukrainian_translation": "плановий",
+    "example_sentence": "Planski razvoj grada bio je temelj za buduće projekte.",
+    "ukrainian_translation_sentence": "Плановий розвиток міста був основою для майбутніх проєктів."
+  },
+  {
+    "maskuline": "plastičan",
+    "feminine": "plastična",
+    "neutrum": "plastično",
+    "ukrainian_translation": "пластиковий",
+    "example_sentence": "Plastične boce moraju se pravilno reciklirati.",
+    "ukrainian_translation_sentence": "Пластикові пляшки необхідно належним чином утилізувати."
+  },
+  {
+    "maskuline": "plav",
+    "feminine": "plava",
+    "neutrum": "plavo",
+    "ukrainian_translation": "синій",
+    "example_sentence": "Plavo more protezalo se koliko je oko moglo vidjeti.",
+    "ukrainian_translation_sentence": "Синє море простягалося, скільки око могло бачити."
+  },
+  {
+    "maskuline": "plemenit",
+    "feminine": "plemenita",
+    "neutrum": "plemenito",
+    "ukrainian_translation": "благородний",
+    "example_sentence": "Njegov plemenit čin spasio je mnoge živote.",
+    "ukrainian_translation_sentence": "Його благородний вчинок врятував багато життів."
+  },
+  {
+    "maskuline": "plitak",
+    "feminine": "plitka",
+    "neutrum": "plitko",
+    "ukrainian_translation": "мілкий",
+    "example_sentence": "Rijeka je bila plitka nakon dugotrajne suše.",
+    "ukrainian_translation_sentence": "Річка була мілкою після тривалої посухи."
+  },
+  {
+    "maskuline": "plivački",
+    "feminine": "plivačka",
+    "neutrum": "plivačko",
+    "ukrainian_translation": "плавальний",
+    "example_sentence": "Plivački natjecanja održavaju se svake godine.",
+    "ukrainian_translation_sentence": "Плавальні змагання проводяться щороку."
+  },
+  {
+    "maskuline": "plućni",
+    "feminine": "plućna",
+    "neutrum": "plućno",
+    "ukrainian_translation": "легеневий",
+    "example_sentence": "Plućna funkcija pacijenta bila je ozbiljno narušena.",
+    "ukrainian_translation_sentence": "Легенева функція пацієнта була серйозно порушена."
+  },
+  {
+    "maskuline": "pobjednički",
+    "feminine": "pobjednička",
+    "neutrum": "pobjedničko",
+    "ukrainian_translation": "переможний",
+    "example_sentence": "Njegov pobjednički osmijeh govorio je sve o njegovom uspjehu.",
+    "ukrainian_translation_sentence": "Його переможна усмішка говорила про його успіх."
+  },
+  {
+    "maskuline": "pobožan",
+    "feminine": "pobožna",
+    "neutrum": "pobožno",
+    "ukrainian_translation": "побожний",
+    "example_sentence": "Pobožan čovjek svakodnevno je molio.",
+    "ukrainian_translation_sentence": "Побожна людина щодня молилася."
+  },
+  {
+    "maskuline": "početan",
+    "feminine": "početna",
+    "neutrum": "početno",
+    "ukrainian_translation": "початковий",
+    "example_sentence": "Početna faza projekta uključivala je planiranje.",
+    "ukrainian_translation_sentence": "Початкова фаза проєкту включала планування."
+  },
+  {
+    "maskuline": "podesiv",
+    "feminine": "podesiva",
+    "neutrum": "podesivo",
+    "ukrainian_translation": "регульований",
+    "example_sentence": "Podesiva stolica omogućuje udobno sjedenje.",
+    "ukrainian_translation_sentence": "Регульоване крісло забезпечує комфортне сидіння."
+  },
+  {
+    "maskuline": "podijeljen",
+    "feminine": "podijeljena",
+    "neutrum": "podijeljeno",
+    "ukrainian_translation": "розділений",
+    "example_sentence": "Društvo je bilo podijeljeno oko političkih pitanja.",
+    "ukrainian_translation_sentence": "Суспільство було розділене щодо політичних питань."
+  },
+  {
+    "maskuline": "podmukao",
+    "feminine": "podmukla",
+    "neutrum": "podmuklo",
+    "ukrainian_translation": "підступний",
+    "example_sentence": "Podmukao plan bio je otkriven u zadnji čas.",
+    "ukrainian_translation_sentence": "Підступний план був виявлений в останній момент."
+  },
+  {
+    "maskuline": "podni",
+    "feminine": "podna",
+    "neutrum": "podno",
+    "ukrainian_translation": "підлоговий",
+    "example_sentence": "Podni grijanje osigurava toplinu cijelog doma.",
+    "ukrainian_translation_sentence": "Підлогове опалення забезпечує тепло в усьому домі."
+  },
+  {
+    "maskuline": "podoban",
+    "feminine": "podobna",
+    "neutrum": "podobno",
+    "ukrainian_translation": "відповідний",
+    "example_sentence": "On je bio podoban kandidat za tu poziciju.",
+    "ukrainian_translation_sentence": "Він був відповідним кандидатом на цю посаду."
+  },
+  {
+    "maskuline": "podrumski",
+    "feminine": "podrumska",
+    "neutrum": "podrumsko",
+    "ukrainian_translation": "підвальний",
+    "example_sentence": "Podrumska soba je preuređena u vinski podrum.",
+    "ukrainian_translation_sentence": "Підвальну кімнату переобладнали у винний льох."
+  },
+  {
+    "maskuline": "poduzetnički",
+    "feminine": "poduzetnička",
+    "neutrum": "poduzetničko",
+    "ukrainian_translation": "підприємницький",
+    "example_sentence": "Poduzetnički duh doveo ga je do osnivanja vlastite tvrtke.",
+    "ukrainian_translation_sentence": "Підприємницький дух привів його до заснування власної компанії."
+  },
+  {
+    "maskuline": "podzeman",
+    "feminine": "podzemna",
+    "neutrum": "podzemno",
+    "ukrainian_translation": "підземний",
+    "example_sentence": "Podzemna željeznica povezuje dijelove grada.",
+    "ukrainian_translation_sentence": "Підземне метро з'єднує різні частини міста."
+  },
+  {
+    "maskuline": "poetski",
+    "feminine": "poetska",
+    "neutrum": "poetsko",
+    "ukrainian_translation": "поетичний",
+    "example_sentence": "Poetski izrazi obogatili su njegovu prozu.",
+    "ukrainian_translation_sentence": "Поетичні вирази збагатили його прозу."
+  },
+  {
+    "maskuline": "poganski",
+    "feminine": "poganska",
+    "neutrum": "pogansko",
+    "ukrainian_translation": "язичницький",
+    "example_sentence": "Poganski običaji i dalje se njeguju u nekim krajevima.",
+    "ukrainian_translation_sentence": "Язичницькі звичаї досі підтримуються в деяких регіонах."
+  },
+  {
+    "maskuline": "poguban",
+    "feminine": "pogubna",
+    "neutrum": "pogubno",
+    "ukrainian_translation": "згубний",
+    "example_sentence": "Poguban utjecaj zagađenja osjeća se na cijelom planetu.",
+    "ukrainian_translation_sentence": "Згубний вплив забруднення відчувається на всій планеті."
+  },
+  {
+    "maskuline": "pohlepan",
+    "feminine": "pohlepna",
+    "neutrum": "pohlepno",
+    "ukrainian_translation": "жадібний",
+    "example_sentence": "Pohlepan čovjek želio je zadržati sve za sebe.",
+    "ukrainian_translation_sentence": "Жадібна людина хотіла залишити все собі."
+  },
+  {
+    "maskuline": "pokusni",
+    "feminine": "pokusna",
+    "neutrum": "pokusno",
+    "ukrainian_translation": "експериментальний",
+    "example_sentence": "Pokusni laboratorij provodi nova istraživanja.",
+    "ukrainian_translation_sentence": "Експериментальна лабораторія проводить нові дослідження."
+  },
+  {
+    "maskuline": "policijski",
+    "feminine": "policijska",
+    "neutrum": "policijsko",
+    "ukrainian_translation": "поліцейський",
+    "example_sentence": "Policijska postaja bila je blizu središta grada.",
+    "ukrainian_translation_sentence": "Поліцейський відділок знаходився біля центру міста."
+  },
+  {
+    "maskuline": "poljoprivredni",
+    "feminine": "poljoprivredna",
+    "neutrum": "poljoprivredno",
+    "ukrainian_translation": "сільськогосподарський",
+    "example_sentence": "Poljoprivredna proizvodnja glavni je izvor prihoda u tom kraju.",
+    "ukrainian_translation_sentence": "Сільськогосподарське виробництво є основним джерелом доходу в цьому регіоні."
+  },
+  {
+    "maskuline": "polugodišnji",
+    "feminine": "polugodišnja",
+    "neutrum": "polugodišnje",
+    "ukrainian_translation": "піврічний",
+    "example_sentence": "Polugodišnji izvještaj pokazao je rast prihoda.",
+    "ukrainian_translation_sentence": "Піврічний звіт показав зростання доходів."
+  },
+  {
+    "maskuline": "poluprazan",
+    "feminine": "poluprazna",
+    "neutrum": "poluprazno",
+    "ukrainian_translation": "напівпорожній",
+    "example_sentence": "Restoran je bio poluprazan u popodnevnim satima.",
+    "ukrainian_translation_sentence": "Ресторан був напівпорожній у післяобідні години."
+  },
+  {
+    "maskuline": "poman",
+    "feminine": "pomna",
+    "neutrum": "pomno",
+    "ukrainian_translation": "уважний",
+    "example_sentence": "Njegova poman analiza bila je ključna za uspjeh projekta.",
+    "ukrainian_translation_sentence": "Його уважний аналіз був ключовим для успіху проєкту."
+  }
+]

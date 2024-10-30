@@ -1,0 +1,401 @@
+[{
+	"maskuline": "sramežljiv",
+	"feminine": "sramežljiva",
+	"neutrum": "sramežljivo",
+	"ukrainian_translation": "сором'язливий",
+	"example_sentence": "Sramežljiv dječak nije se usudio govoriti pred razredom.",
+	"ukrainian_translation_sentence": "Сором'язливий хлопчик не наважився говорити перед класом."
+},
+{
+	"maskuline": "sramotan",
+	"feminine": "sramotna",
+	"neutrum": "sramotno",
+	"ukrainian_translation": "ганебний",
+	"example_sentence": "Njegov sramotan postupak razočarao je obitelj.",
+	"ukrainian_translation_sentence": "Його ганебний вчинок розчарував родину."
+},
+{
+	"maskuline": "srdačan",
+	"feminine": "srdačna",
+	"neutrum": "srdačno",
+	"ukrainian_translation": "сердечний",
+	"example_sentence": "Srdačan doček iznenadio je goste.",
+	"ukrainian_translation_sentence": "Сердечний прийом здивував гостей."
+},
+{
+	"maskuline": "srednji",
+	"feminine": "srednja",
+	"neutrum": "srednje",
+	"ukrainian_translation": "середній",
+	"example_sentence": "On pohađa srednju školu.",
+	"ukrainian_translation_sentence": "Він відвідує середню школу."
+},
+{
+	"maskuline": "sretan",
+	"feminine": "sretna",
+	"neutrum": "sretno",
+	"ukrainian_translation": "щасливий",
+	"example_sentence": "Bio je sretan zbog uspjeha na ispitu.",
+	"ukrainian_translation_sentence": "Він був щасливий через успіх на екзамені."
+},
+{
+	"maskuline": "srodan",
+	"feminine": "srodna",
+	"neutrum": "srodno",
+	"ukrainian_translation": "споріднений",
+	"example_sentence": "Osjećao je srodan duh u razgovoru s prijateljem.",
+	"ukrainian_translation_sentence": "Він відчував споріднену душу під час розмови з другом."
+},
+{
+	"maskuline": "stabilan",
+	"feminine": "stabilna",
+	"neutrum": "stabilno",
+	"ukrainian_translation": "стабільний",
+	"example_sentence": "Financijska situacija tvrtke je stabilna.",
+	"ukrainian_translation_sentence": "Фінансова ситуація компанії стабільна."
+},
+{
+	"maskuline": "stalan",
+	"feminine": "stalna",
+	"neutrum": "stalno",
+	"ukrainian_translation": "постійний",
+	"example_sentence": "Ima stalan posao već nekoliko godina.",
+	"ukrainian_translation_sentence": "Він має постійну роботу вже кілька років."
+},
+{
+	"maskuline": "stambeni",
+	"feminine": "stambena",
+	"neutrum": "stambeno",
+	"ukrainian_translation": "житловий",
+	"example_sentence": "Stambeni kompleks nalazi se u mirnom dijelu grada.",
+	"ukrainian_translation_sentence": "Житловий комплекс знаходиться в тихій частині міста."
+},
+{
+	"maskuline": "stanarski",
+	"feminine": "stanarska",
+	"neutrum": "stanarsko",
+	"ukrainian_translation": "орендний",
+	"example_sentence": "Stanarski ugovor ističe za mjesec dana.",
+	"ukrainian_translation_sentence": "Орендний договір закінчується через місяць."
+},
+{
+	"maskuline": "stanovit",
+	"feminine": "stanovita",
+	"neutrum": "stanovito",
+	"ukrainian_translation": "певний",
+	"example_sentence": "Postoji stanovita razlika između dva prijedloga.",
+	"ukrainian_translation_sentence": "Є певна різниця між двома пропозиціями."
+},
+{
+	"maskuline": "star",
+	"feminine": "stara",
+	"neutrum": "staro",
+	"ukrainian_translation": "старий",
+	"example_sentence": "Njegov star auto još uvijek dobro radi.",
+	"ukrainian_translation_sentence": "Його старий автомобіль все ще добре працює."
+},
+{
+	"maskuline": "starački",
+	"feminine": "staračka",
+	"neutrum": "staračko",
+	"ukrainian_translation": "літній",
+	"example_sentence": "Starački dom pruža skrb starijim osobama.",
+	"ukrainian_translation_sentence": "Будинок для літніх людей надає догляд за старшими."
+},
+{
+	"maskuline": "startni",
+	"feminine": "startna",
+	"neutrum": "startno",
+	"ukrainian_translation": "стартовий",
+	"example_sentence": "Startni blokovi postavljeni su za natjecatelje.",
+	"ukrainian_translation_sentence": "Стартові блоки встановлені для учасників."
+},
+{
+	"maskuline": "statičan",
+	"feminine": "statična",
+	"neutrum": "statično",
+	"ukrainian_translation": "статичний",
+	"example_sentence": "Slika na ekranu ostala je statična zbog tehničke pogreške.",
+	"ukrainian_translation_sentence": "Зображення на екрані залишилося статичним через технічну помилку."
+},
+{
+	"maskuline": "stečajni",
+	"feminine": "stečajna",
+	"neutrum": "stečajno",
+	"ukrainian_translation": "банкрутський",
+	"example_sentence": "Stečajni postupak pokrenut je zbog dugova.",
+	"ukrainian_translation_sentence": "Банкрутський процес розпочато через борги."
+},
+{
+	"maskuline": "stegovni",
+	"feminine": "stegovna",
+	"neutrum": "stegovno",
+	"ukrainian_translation": "дисциплінарний",
+	"example_sentence": "Zbog lošeg ponašanja, pokrenut je stegovni postupak.",
+	"ukrainian_translation_sentence": "Через погану поведінку розпочато дисциплінарне провадження."
+},
+{
+	"maskuline": "sterilan",
+	"feminine": "sterilna",
+	"neutrum": "sterilno",
+	"ukrainian_translation": "стерильний",
+	"example_sentence": "Sterilna oprema koristi se u bolnicama.",
+	"ukrainian_translation_sentence": "Стерильне обладнання використовується в лікарнях."
+},
+{
+	"maskuline": "stiliziran",
+	"feminine": "stilizirana",
+	"neutrum": "stilizirano",
+	"ukrainian_translation": "стилізований",
+	"example_sentence": "Stiliziran dizajn odražava moderni pristup umjetnosti.",
+	"ukrainian_translation_sentence": "Стилізований дизайн відображає сучасний підхід до мистецтва."
+},
+{
+	"maskuline": "stojeći",
+	"feminine": "stojeća",
+	"neutrum": "stojeće",
+	"ukrainian_translation": "стоячий",
+	"example_sentence": "Stojeći stolovi postali su popularni u uredima.",
+	"ukrainian_translation_sentence": "Стоячі столи стали популярними в офісах."
+},
+{
+	"maskuline": "stolni",
+	"feminine": "stolna",
+	"neutrum": "stolno",
+	"ukrainian_translation": "настільний",
+	"example_sentence": "Stolni nogomet omiljena je aktivnost zaposlenika u pauzi.",
+	"ukrainian_translation_sentence": "Настільний футбол — улюблена діяльність працівників під час перерви."
+},
+{
+	"maskuline": "stožerni",
+	"feminine": "stožerna",
+	"neutrum": "stožerno",
+	"ukrainian_translation": "штабний",
+	"example_sentence": "Stožerni časnik odgovoran je za organizaciju operacija.",
+	"ukrainian_translation_sentence": "Штабний офіцер відповідає за організацію операцій."
+},
+{
+	"maskuline": "strašan",
+	"feminine": "strašna",
+	"neutrum": "strašno",
+	"ukrainian_translation": "страшний",
+	"example_sentence": "Strašan uragan pogodio je obalu.",
+	"ukrainian_translation_sentence": "Страшний ураган вдарив по узбережжю."
+},
+{
+	"maskuline": "strateški",
+	"feminine": "strateška",
+	"neutrum": "strateško",
+	"ukrainian_translation": "стратегічний",
+	"example_sentence": "Strateški plan razvoja bit će ključan za budućnost kompanije.",
+	"ukrainian_translation_sentence": "Стратегічний план розвитку буде ключовим для майбутнього компанії."
+},
+{
+	"maskuline": "stražnji",
+	"feminine": "stražnja",
+	"neutrum": "stražnje",
+	"ukrainian_translation": "задній",
+	"example_sentence": "Stražnja vrata su zaključana.",
+	"ukrainian_translation_sentence": "Задні двері зачинені."
+},
+{
+	"maskuline": "strog",
+	"feminine": "stroga",
+	"neutrum": "strogo",
+	"ukrainian_translation": "суворий",
+	"example_sentence": "Strog učitelj traži disciplinu u učionici.",
+	"ukrainian_translation_sentence": "Суворий вчитель вимагає дисципліни в класі."
+},
+{
+	"maskuline": "strojni",
+	"feminine": "strojna",
+	"neutrum": "strojno",
+	"ukrainian_translation": "машинний",
+	"example_sentence": "Strojni dijelovi moraju biti redovito održavani.",
+	"ukrainian_translation_sentence": "Машинні деталі повинні регулярно обслуговуватися."
+},
+{
+	"maskuline": "strpljiv",
+	"feminine": "strpljiva",
+	"neutrum": "strpljivo",
+	"ukrainian_translation": "терплячий",
+	"example_sentence": "Strpljiv roditelj pomaže djetetu da nauči nove vještine.",
+	"ukrainian_translation_sentence": "Терплячий батько допомагає дитині вчитися новим навичкам."
+},
+{
+	"maskuline": "stručan",
+	"feminine": "stručna",
+	"neutrum": "stručno",
+	"ukrainian_translation": "експертний",
+	"example_sentence": "Stručan tim savjetovao je klijenta o poslovnim potezima.",
+	"ukrainian_translation_sentence": "Експертна команда консультувала клієнта щодо бізнесових кроків."
+},
+{
+	"maskuline": "strukturni",
+	"feminine": "strukturna",
+	"neutrum": "strukturno",
+	"ukrainian_translation": "структурний",
+	"example_sentence": "Strukturna stabilnost zgrade je presudna za sigurnost.",
+	"ukrainian_translation_sentence": "Структурна стабільність будівлі є вирішальною для безпеки."
+},
+{
+	"maskuline": "studentski",
+	"feminine": "studentska",
+	"neutrum": "studentsko",
+	"ukrainian_translation": "студентський",
+	"example_sentence": "Studentski dom smješten je u blizini fakulteta.",
+	"ukrainian_translation_sentence": "Студентський гуртожиток розташований поруч з університетом."
+},
+{
+	"maskuline": "štur",
+	"feminine": "štura",
+	"neutrum": "šturo",
+	"ukrainian_translation": "лаконічний",
+	"example_sentence": "Njegov odgovor bio je štur i nije otkrio mnogo informacija.",
+	"ukrainian_translation_sentence": "Його відповідь була лаконічною і не розкрила багато інформації."
+},
+{
+	"maskuline": "sukladan",
+	"feminine": "sukladna",
+	"neutrum": "sukladno",
+	"ukrainian_translation": "відповідний",
+	"example_sentence": "Projekt je sukladan važećim zakonima i propisima.",
+	"ukrainian_translation_sentence": "Проєкт відповідає чинним законам та нормам."
+},
+{
+	"maskuline": "šumarski",
+	"feminine": "šumarska",
+	"neutrum": "šumarsko",
+	"ukrainian_translation": "лісовий",
+	"example_sentence": "Šumarska struka uključuje očuvanje prirodnih resursa.",
+	"ukrainian_translation_sentence": "Лісова галузь включає збереження природних ресурсів."
+},
+{
+	"maskuline": "šumski",
+	"feminine": "šumska",
+	"neutrum": "šumsko",
+	"ukrainian_translation": "лісовий",
+	"example_sentence": "Šumski plodovi obiluju vitaminima.",
+	"ukrainian_translation_sentence": "Лісові ягоди багаті вітамінами."
+},
+{
+	"maskuline": "sunčan",
+	"feminine": "sunčana",
+	"neutrum": "sunčano",
+	"ukrainian_translation": "сонячний",
+	"example_sentence": "Sunčan dan savršen je za šetnju prirodom.",
+	"ukrainian_translation_sentence": "Сонячний день ідеальний для прогулянки на природі."
+},
+{
+	"maskuline": "super",
+	"feminine": "super",
+	"neutrum": "super",
+	"ukrainian_translation": "супер",
+	"example_sentence": "Film je bio super, svi su ga preporučili.",
+	"ukrainian_translation_sentence": "Фільм був супер, його порекомендували всі."
+},
+{
+	"maskuline": "surov",
+	"feminine": "surova",
+	"neutrum": "surovo",
+	"ukrainian_translation": "жорстокий",
+	"example_sentence": "Njegov surov pristup izazvao je nelagodu kod prisutnih.",
+	"ukrainian_translation_sentence": "Його жорстокий підхід викликав занепокоєння у присутніх."
+},
+{
+	"maskuline": "šutljiv",
+	"feminine": "šutljiva",
+	"neutrum": "šutljivo",
+	"ukrainian_translation": "мовчазний",
+	"example_sentence": "Bio je šutljiv tijekom cijelog sastanka.",
+	"ukrainian_translation_sentence": "Він був мовчазним протягом усього засідання."
+},
+{
+	"maskuline": "suvisao",
+	"feminine": "suvisla",
+	"neutrum": "suvislo",
+	"ukrainian_translation": "логічний",
+	"example_sentence": "Njegov govor bio je suvisao i dobro strukturiran.",
+	"ukrainian_translation_sentence": "Його промова була логічною та добре структурованою."
+},
+{
+	"maskuline": "svakodnevan",
+	"feminine": "svakodnevna",
+	"neutrum": "svakodnevno",
+	"ukrainian_translation": "щоденний",
+	"example_sentence": "Svakodnevna šetnja pomaže održavanju zdravlja.",
+	"ukrainian_translation_sentence": "Щоденна прогулянка допомагає підтримувати здоров'я."
+},
+{
+	"maskuline": "svakojak",
+	"feminine": "svakojaka",
+	"neutrum": "svakojako",
+	"ukrainian_translation": "різноманітний",
+	"example_sentence": "U muzeju su izloženi svakojaki predmeti iz različitih epoha.",
+	"ukrainian_translation_sentence": "У музеї представлені різноманітні предмети з різних епох."
+},
+{
+	"maskuline": "svemirski",
+	"feminine": "svemirska",
+	"neutrum": "svemirsko",
+	"ukrainian_translation": "космічний",
+	"example_sentence": "Svemirski program bio je ključan za istraživanje svemira.",
+	"ukrainian_translation_sentence": "Космічна програма була ключовою для дослідження всесвіту."
+},
+{
+	"maskuline": "sveobuhvatan",
+	"feminine": "sveobuhvatna",
+	"neutrum": "sveobuhvatno",
+	"ukrainian_translation": "всеосяжний",
+	"example_sentence": "Sveobuhvatan izvještaj obuhvatio je sve aspekte problema.",
+	"ukrainian_translation_sentence": "Всеосяжний звіт охопив усі аспекти проблеми."
+},
+{
+	"maskuline": "sveprisutan",
+	"feminine": "sveprisutna",
+	"neutrum": "sveprisutno",
+	"ukrainian_translation": "повсюдний",
+	"example_sentence": "Tehnologija je sveprisutna u modernom društvu.",
+	"ukrainian_translation_sentence": "Технології повсюдні в сучасному суспільстві."
+},
+{
+	"maskuline": "svestran",
+	"feminine": "svestrana",
+	"neutrum": "svestrano",
+	"ukrainian_translation": "універсальний",
+	"example_sentence": "On je svestran umjetnik koji se bavi slikanjem, pisanjem i glumom.",
+	"ukrainian_translation_sentence": "Він — універсальний митець, який займається живописом, письменством і акторством."
+},
+{
+	"maskuline": "sveučilišni",
+	"feminine": "sveučilišna",
+	"neutrum": "sveučilišno",
+	"ukrainian_translation": "університетський",
+	"example_sentence": "Sveučilišni profesor predaje filozofiju.",
+	"ukrainian_translation_sentence": "Університетський професор викладає філософію."
+},
+{
+	"maskuline": "svibanjski",
+	"feminine": "svibanjska",
+	"neutrum": "svibanjsko",
+	"ukrainian_translation": "травневий",
+	"example_sentence": "Svibanjski dani donose toplo vrijeme i sunce.",
+	"ukrainian_translation_sentence": "Травневі дні приносять теплу погоду і сонце."
+},
+{
+	"maskuline": "svjež",
+	"feminine": "svježa",
+	"neutrum": "svježe",
+	"ukrainian_translation": "свіжий",
+	"example_sentence": "Svježe voće dostupno je na tržnici svakog jutra.",
+	"ukrainian_translation_sentence": "Свіжі фрукти доступні на ринку щоранку."
+},
+{
+	"maskuline": "svojevrstan",
+	"feminine": "svojevrstna",
+	"neutrum": "svojevrstno",
+	"ukrainian_translation": "своєрідний",
+	"example_sentence": "Njegov način rada bio je svojevrstan, ali učinkovit.",
+	"ukrainian_translation_sentence": "Його спосіб роботи був своєрідним, але ефективним."
+}
+]

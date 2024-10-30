@@ -1,0 +1,352 @@
+[
+	{
+    "singular": "ministarstvo",
+    "plural": "ministarstva",
+    "ukrainian_translation": "міністерство",
+    "example_sentence": "Ministarstvo financija objavilo je novi zakon.",
+    "ukrainian_translation_sentence": "Міністерство фінансів оприлюднило новий закон."
+  },
+  {
+    "singular": "mir",
+    "plural": "miri",
+    "ukrainian_translation": "мир",
+    "example_sentence": "Nakon godina sukoba, konačno je postignut mir.",
+    "ukrainian_translation_sentence": "Після років конфліктів нарешті був досягнутий мир."
+  },
+  {
+    "singular": "mirenje",
+    "plural": "mirenja",
+    "ukrainian_translation": "примирення",
+    "example_sentence": "Nakon svađe, došlo je do mirenja među prijateljima.",
+    "ukrainian_translation_sentence": "Після сварки між друзями відбулося примирення."
+  },
+  {
+    "singular": "mirovanje",
+    "plural": "mirovanja",
+    "ukrainian_translation": "спокій",
+    "example_sentence": "Tijekom bolesti propisano mu je mirovanje.",
+    "ukrainian_translation_sentence": "Під час хвороби йому прописали спокій."
+  },
+  {
+    "singular": "mišljenje",
+    "plural": "mišljenja",
+    "ukrainian_translation": "думка",
+    "example_sentence": "Njegovo mišljenje o temi bilo je vrlo jasno.",
+    "ukrainian_translation_sentence": "Його думка щодо теми була дуже чіткою."
+  },
+  {
+    "singular": "mito",
+    "plural": "mita",
+    "ukrainian_translation": "хабар",
+    "example_sentence": "Policija istražuje slučaj primanja mita.",
+    "ukrainian_translation_sentence": "Поліція розслідує справу щодо отримання хабара."
+  },
+  {
+    "singular": "mješanac",
+    "plural": "mješanci",
+    "ukrainian_translation": "помісь",
+    "example_sentence": "Njihov pas je mješanac dviju rasa.",
+    "ukrainian_translation_sentence": "Їхній пес — це помісь двох порід."
+  },
+  {
+    "singular": "mješavina",
+    "plural": "mješavine",
+    "ukrainian_translation": "суміш",
+    "example_sentence": "Ova mješavina začina daje posebnu aromu jelima.",
+    "ukrainian_translation_sentence": "Ця суміш спецій надає стравам особливого аромату."
+  },
+  {
+    "singular": "mjesec",
+    "plural": "mjeseci",
+    "ukrainian_translation": "місяць",
+    "example_sentence": "Puni mjesec osvijetlio je noćno nebo.",
+    "ukrainian_translation_sentence": "Повний місяць освітлював нічне небо."
+  },
+  {
+    "singular": "množina",
+    "plural": "množine",
+    "ukrainian_translation": "множина",
+    "example_sentence": "Riječ 'mačke' je u množini.",
+    "ukrainian_translation_sentence": "Слово 'кішки' — це множина."
+  },
+  {
+    "singular": "mobitel",
+    "plural": "mobiteli",
+    "ukrainian_translation": "мобільний телефон",
+    "example_sentence": "Zaboravio je mobitel kod kuće.",
+    "ukrainian_translation_sentence": "Він забув мобільний телефон удома."
+  },
+  {
+    "singular": "moćnik",
+    "plural": "moćnici",
+    "ukrainian_translation": "владика",
+    "example_sentence": "Moćnici su donijeli odluku o budućnosti zemlje.",
+    "ukrainian_translation_sentence": "Владики ухвалили рішення щодо майбутнього країни."
+  },
+  {
+    "singular": "monopol",
+    "plural": "monopoli",
+    "ukrainian_translation": "монополія",
+    "example_sentence": "Vlada je uvela zakon protiv monopola.",
+    "ukrainian_translation_sentence": "Уряд запровадив закон проти монополії."
+  },
+  {
+    "singular": "mozaik",
+    "plural": "mozaici",
+    "ukrainian_translation": "мозаїка",
+    "example_sentence": "Mozaik u crkvi bio je nevjerojatno lijep.",
+    "ukrainian_translation_sentence": "Мозаїка в церкві була неймовірно красивою."
+  },
+  {
+    "singular": "mrlja",
+    "plural": "mrlje",
+    "ukrainian_translation": "пляма",
+    "example_sentence": "Na košulji se pojavila mala mrlja od kave.",
+    "ukrainian_translation_sentence": "На сорочці з'явилася маленька пляма від кави."
+  },
+  {
+    "singular": "mrva",
+    "plural": "mrve",
+    "ukrainian_translation": "крихта",
+    "example_sentence": "Na stolu je ostala samo jedna mrva kruha.",
+    "ukrainian_translation_sentence": "На столі залишилася тільки одна крихта хліба."
+  },
+  {
+    "singular": "mrvica",
+    "plural": "mrvica",
+    "ukrainian_translation": "крихітка",
+    "example_sentence": "Mrvica kolača ostala je na tanjuru.",
+    "ukrainian_translation_sentence": "На тарілці залишилася крихітка торта."
+  },
+	{
+    "singular": "mržnja",
+    "plural": "mržnje",
+    "ukrainian_translation": "ненависть",
+    "example_sentence": "Njegova mržnja prema neistomišljenicima bila je očita.",
+    "ukrainian_translation_sentence": "Його ненависть до інакомислячих була очевидною."
+  },
+  {
+    "singular": "mučenje",
+    "plural": "mučenja",
+    "ukrainian_translation": "катування",
+    "example_sentence": "Mučenje je zabranjeno međunarodnim zakonima.",
+    "ukrainian_translation_sentence": "Катування заборонене міжнародним правом."
+  },
+  {
+    "singular": "mudo",
+    "plural": "muda",
+    "ukrainian_translation": "яйце (анатомія)",
+    "example_sentence": "Bolan udarac u mudo ga je oborio na pod.",
+    "ukrainian_translation_sentence": "Болючий удар у яйце повалив його на землю."
+  },
+  {
+    "singular": "mulj",
+    "plural": "muljevi",
+    "ukrainian_translation": "мул",
+    "example_sentence": "Na dnu jezera nakupio se debeli sloj mulja.",
+    "ukrainian_translation_sentence": "На дні озера накопичився товстий шар мулу."
+  },
+  {
+    "singular": "muslimanka",
+    "plural": "muslimanke",
+    "ukrainian_translation": "мусульманка",
+    "example_sentence": "Muslimanke u mnogim zemljama nose tradicionalnu odjeću.",
+    "ukrainian_translation_sentence": "Мусульманки в багатьох країнах носять традиційний одяг."
+  },
+  {
+    "singular": "muž",
+    "plural": "muževi",
+    "ukrainian_translation": "чоловік",
+    "example_sentence": "Njezin muž je uvijek bio uz nju u teškim trenucima.",
+    "ukrainian_translation_sentence": "Її чоловік завжди був поруч із нею у важкі моменти."
+  },
+  {
+    "singular": "načelo",
+    "plural": "načela",
+    "ukrainian_translation": "принцип",
+    "example_sentence": "Njegovo glavno načelo je bilo poštenje u poslu.",
+    "ukrainian_translation_sentence": "Його головним принципом було чесність у бізнесі."
+  },
+  {
+    "singular": "nacionalnost",
+    "plural": "nacionalnosti",
+    "ukrainian_translation": "національність",
+    "example_sentence": "Ljudi različitih nacionalnosti žive zajedno u ovom gradu.",
+    "ukrainian_translation_sentence": "Люди різних національностей живуть разом у цьому місті."
+  },
+  {
+    "singular": "nacrt",
+    "plural": "nacrti",
+    "ukrainian_translation": "проєкт",
+    "example_sentence": "Nacrt novog zakona bit će objavljen sljedeći tjedan.",
+    "ukrainian_translation_sentence": "Проєкт нового закону буде опублікований наступного тижня."
+  },
+  {
+    "singular": "nadimak",
+    "plural": "nadimci",
+    "ukrainian_translation": "прізвисько",
+    "example_sentence": "Njegov nadimak među prijateljima bio je 'Vuk'.",
+    "ukrainian_translation_sentence": "Його прізвисько серед друзів було 'Вовк'."
+  },
+  {
+    "singular": "nadzornik",
+    "plural": "nadzornici",
+    "ukrainian_translation": "наглядач",
+    "example_sentence": "Nadzornik tvornice kontrolirao je rad radnika.",
+    "ukrainian_translation_sentence": "Наглядач заводу контролював роботу працівників."
+  },
+  {
+    "singular": "nagađanje",
+    "plural": "nagađanja",
+    "ukrainian_translation": "здогадка",
+    "example_sentence": "Njegovo nagađanje o rezultatima ispita bilo je točno.",
+    "ukrainian_translation_sentence": "Його здогадка щодо результатів іспиту виявилася точною."
+  },
+  {
+    "singular": "nagrada",
+    "plural": "nagrade",
+    "ukrainian_translation": "нагорода",
+    "example_sentence": "Dobila je nagradu za najbolji film na festivalu.",
+    "ukrainian_translation_sentence": "Вона отримала нагороду за найкращий фільм на фестивалі."
+  },
+  {
+    "singular": "naivnost",
+    "plural": "naivnosti",
+    "ukrainian_translation": "наївність",
+    "example_sentence": "Njegova naivnost često ga je dovodila u nevolje.",
+    "ukrainian_translation_sentence": "Його наївність часто призводила до проблем."
+  },
+  {
+    "singular": "nakana",
+    "plural": "nakane",
+    "ukrainian_translation": "намір",
+    "example_sentence": "Njegova nakana je bila pomoći, ali se situacija pogoršala.",
+    "ukrainian_translation_sentence": "Його намір був допомогти, але ситуація погіршилася."
+  },
+  {
+    "singular": "nalaženje",
+    "plural": "nalaženja",
+    "ukrainian_translation": "знаходження",
+    "example_sentence": "Nalaženje rješenja za ovaj problem je ključno.",
+    "ukrainian_translation_sentence": "Знаходження рішення для цієї проблеми є ключовим."
+  },
+  {
+    "singular": "namjera",
+    "plural": "namjere",
+    "ukrainian_translation": "намір",
+    "example_sentence": "Njegova namjera bila je pomoći susjedima.",
+    "ukrainian_translation_sentence": "Його намір полягав у тому, щоб допомогти сусідам."
+  },
+  {
+    "singular": "namještanje",
+    "plural": "namještanja",
+    "ukrainian_translation": "встановлення",
+    "example_sentence": "Namještanje nove opreme traje nekoliko sati.",
+    "ukrainian_translation_sentence": "Встановлення нового обладнання займає кілька годин."
+  },
+  {
+    "singular": "napajanje",
+    "plural": "napajanja",
+    "ukrainian_translation": "живлення",
+    "example_sentence": "Napajanje uređaja je bilo prekinuto zbog kvara.",
+    "ukrainian_translation_sentence": "Живлення пристрою було перервано через несправність."
+  },
+  {
+    "singular": "napon",
+    "plural": "naponi",
+    "ukrainian_translation": "напруга",
+    "example_sentence": "Napon u mreži bio je previsok i prouzročio je kvar.",
+    "ukrainian_translation_sentence": "Напруга в мережі була занадто високою і спричинила поломку."
+  },
+	{
+    "singular": "naprezanje",
+    "plural": "naprezanja",
+    "ukrainian_translation": "напруження",
+    "example_sentence": "Naprezanje mišića tijekom vježbanja može dovesti do ozljede.",
+    "ukrainian_translation_sentence": "Напруження м'язів під час вправ може призвести до травми."
+  },
+  {
+    "singular": "napuštanje",
+    "plural": "napuštanja",
+    "ukrainian_translation": "покидання",
+    "example_sentence": "Napuštanje projekta usred posla nije bila dobra odluka.",
+    "ukrainian_translation_sentence": "Покидання проєкту в середині роботи не було хорошим рішенням."
+  },
+  {
+    "singular": "naručivanje",
+    "plural": "naručivanja",
+    "ukrainian_translation": "замовлення",
+    "example_sentence": "Naručivanje hrane putem interneta postalo je vrlo popularno.",
+    "ukrainian_translation_sentence": "Замовлення їжі через інтернет стало дуже популярним."
+  },
+  {
+    "singular": "narušavanje",
+    "plural": "narušavanja",
+    "ukrainian_translation": "порушення",
+    "example_sentence": "Narušavanje privatnosti korisnika je ozbiljan prekršaj.",
+    "ukrainian_translation_sentence": "Порушення конфіденційності користувачів є серйозним порушенням."
+  },
+  {
+    "singular": "nasljeđivanje",
+    "plural": "nasljeđivanja",
+    "ukrainian_translation": "успадкування",
+    "example_sentence": "Nasljeđivanje imovine može uključivati pravne komplikacije.",
+    "ukrainian_translation_sentence": "Успадкування майна може містити правові ускладнення."
+  },
+  {
+    "singular": "nastavnik",
+    "plural": "nastavnici",
+    "ukrainian_translation": "вчитель",
+    "example_sentence": "Nastavnik matematike održao je predavanje o novim temama.",
+    "ukrainian_translation_sentence": "Учитель математики провів лекцію на нові теми."
+  },
+  {
+    "singular": "nastojanje",
+    "plural": "nastojanja",
+    "ukrainian_translation": "зусилля",
+    "example_sentence": "Njegovo nastojanje da uspije bilo je očigledno.",
+    "ukrainian_translation_sentence": "Його зусилля для досягнення успіху були очевидними."
+  },
+  {
+    "singular": "natječaj",
+    "plural": "natječaji",
+    "ukrainian_translation": "конкурс",
+    "example_sentence": "Sudjelovao je na natječaju za najbolju fotografiju.",
+    "ukrainian_translation_sentence": "Він брав участь у конкурсі на найкращу фотографію."
+  },
+  {
+    "singular": "nebo",
+    "plural": "nebesa",
+    "ukrainian_translation": "небо",
+    "example_sentence": "Noću je nebo bilo prekriveno zvijezdama.",
+    "ukrainian_translation_sentence": "Вночі небо було вкрите зірками."
+  },
+  {
+    "singular": "nedoumica",
+    "plural": "nedoumice",
+    "ukrainian_translation": "сумнів",
+    "example_sentence": "Njegova nedoumica oko odluke bila je razumljiva.",
+    "ukrainian_translation_sentence": "Його сумніви щодо рішення були зрозумілими."
+  },
+  {
+    "singular": "negativac",
+    "plural": "negativci",
+    "ukrainian_translation": "негативний герой",
+    "example_sentence": "Negativac u filmu bio je izuzetno inteligentan.",
+    "ukrainian_translation_sentence": "Негативний герой у фільмі був надзвичайно розумним."
+  },
+  {
+    "singular": "negiranje",
+    "plural": "negiranja",
+    "ukrainian_translation": "заперечення",
+    "example_sentence": "Njegovo negiranje činjenica izazvalo je ljutnju kod mnogih ljudi.",
+    "ukrainian_translation_sentence": "Його заперечення фактів викликало гнів у багатьох людей."
+  },
+  {
+    "singular": "neistomišljenik",
+    "plural": "neistomišljenici",
+    "ukrainian_translation": "інакомислячий",
+    "example_sentence": "Neistomišljenici su često imali konstruktivne rasprave.",
+    "ukrainian_translation_sentence": "Інакомислячі часто вели конструктивні дискусії."
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "maskuline": "rukometni",
+    "feminine": "rukometna",
+    "neutrum": "rukometno",
+    "ukrainian_translation": "гандбольний",
+    "example_sentence": "Rukometni tim osvojio je prvenstvo.",
+    "ukrainian_translation_sentence": "Гандбольна команда виграла чемпіонат."
+  },
+  {
+    "maskuline": "ruralan",
+    "feminine": "ruralna",
+    "neutrum": "ruralno",
+    "ukrainian_translation": "сільський",
+    "example_sentence": "Ruralna zajednica ovisi o poljoprivredi.",
+    "ukrainian_translation_sentence": "Сільська громада залежить від сільського господарства."
+  },
+  {
+    "maskuline": "rutinski",
+    "feminine": "rutinska",
+    "neutrum": "rutinsko",
+    "ukrainian_translation": "рутинний",
+    "example_sentence": "Rutinski pregled otkrio je manji problem.",
+    "ukrainian_translation_sentence": "Рутинний огляд виявив незначну проблему."
+  },
+  {
+    "maskuline": "samostojeći",
+    "feminine": "samostojeća",
+    "neutrum": "samostojeće",
+    "ukrainian_translation": "окремостоячий",
+    "example_sentence": "Samostojeća kuća nudi privatnost i mir.",
+    "ukrainian_translation_sentence": "Окремостоячий будинок забезпечує приватність і спокій."
+  },
+  {
+    "maskuline": "samouvjeren",
+    "feminine": "samouvjerena",
+    "neutrum": "samouvjereno",
+    "ukrainian_translation": "впевнений у собі",
+    "example_sentence": "Samouvjeren govor osigurao mu je podršku publike.",
+    "ukrainian_translation_sentence": "Його впевнений у собі виступ забезпечив підтримку глядачів."
+  },
+  {
+    "maskuline": "samozatajan",
+    "feminine": "samozatajna",
+    "neutrum": "samozatajno",
+    "ukrainian_translation": "скромний",
+    "example_sentence": "Samozatajan glumac rijetko se pojavljuje u medijima.",
+    "ukrainian_translation_sentence": "Скромний актор рідко з'являється в медіа."
+  },
+  {
+    "maskuline": "šarmantan",
+    "feminine": "šarmantna",
+    "neutrum": "šarmantno",
+    "ukrainian_translation": "чарівний",
+    "example_sentence": "Šarmantan osmijeh osvojio je publiku.",
+    "ukrainian_translation_sentence": "Чарівна усмішка підкорила публіку."
+  },
+  {
+    "maskuline": "šarolik",
+    "feminine": "šarolika",
+    "neutrum": "šaroliko",
+    "ukrainian_translation": "різнокольоровий",
+    "example_sentence": "Šarolika odjeća privukla je pažnju na modnoj reviji.",
+    "ukrainian_translation_sentence": "Різнокольоровий одяг привернув увагу на модному показі."
+  },
+  {
+    "maskuline": "savjestan",
+    "feminine": "savjesna",
+    "neutrum": "savjesno",
+    "ukrainian_translation": "сумлінний",
+    "example_sentence": "Savjestan radnik uvijek završava svoje zadatke na vrijeme.",
+    "ukrainian_translation_sentence": "Сумлінний працівник завжди завершує свої завдання вчасно."
+  },
+  {
+    "maskuline": "savjetodavan",
+    "feminine": "savjetodavna",
+    "neutrum": "savjetodavno",
+    "ukrainian_translation": "консультативний",
+    "example_sentence": "Savjetodavni odbor preporučio je promjene u politici.",
+    "ukrainian_translation_sentence": "Консультативна рада рекомендувала зміни в політиці."
+  },
+  {
+    "maskuline": "sažet",
+    "feminine": "sažeta",
+    "neutrum": "sažeto",
+    "ukrainian_translation": "стислий",
+    "example_sentence": "Njegov sažet izvještaj bio je jasan i precizan.",
+    "ukrainian_translation_sentence": "Його стислий звіт був чітким і точним."
+  },
+  {
+    "maskuline": "sebičan",
+    "feminine": "sebična",
+    "neutrum": "sebično",
+    "ukrainian_translation": "егоїстичний",
+    "example_sentence": "Njegovo sebično ponašanje razočaralo je prijatelje.",
+    "ukrainian_translation_sentence": "Його егоїстична поведінка розчарувала друзів."
+  },
+  {
+    "maskuline": "seljački",
+    "feminine": "seljačka",
+    "neutrum": "seljačko",
+    "ukrainian_translation": "сільський",
+    "example_sentence": "Seljački običaji i tradicije prenose se s generacije na generaciju.",
+    "ukrainian_translation_sentence": "Сільські звичаї та традиції передаються з покоління в покоління."
+  },
+  {
+    "maskuline": "senzacionalan",
+    "feminine": "senzacionalna",
+    "neutrum": "senzacionalno",
+    "ukrainian_translation": "сенсаційний",
+    "example_sentence": "Senzacionalna vijest šokirala je cijelu naciju.",
+    "ukrainian_translation_sentence": "Сенсаційна новина шокувала всю націю."
+  },
+  {
+    "maskuline": "sićušan",
+    "feminine": "sićušna",
+    "neutrum": "sićušno",
+    "ukrainian_translation": "крихітний",
+    "example_sentence": "Sićušan detalj na slici privukao je pažnju stručnjaka.",
+    "ukrainian_translation_sentence": "Крихітна деталь на картині привернула увагу експертів."
+  },
+  {
+    "maskuline": "simboličan",
+    "feminine": "simbolična",
+    "neutrum": "simbolično",
+    "ukrainian_translation": "символічний",
+    "example_sentence": "Simboličan poklon izrazio je zahvalnost za njegov trud.",
+    "ukrainian_translation_sentence": "Символічний подарунок виразив вдячність за його працю."
+  },
+  {
+    "maskuline": "simbolički",
+    "feminine": "simbolička",
+    "neutrum": "simboličko",
+    "ukrainian_translation": "символічний",
+    "example_sentence": "Njegovo djelo imalo je dubok simbolički značaj.",
+    "ukrainian_translation_sentence": "Його робота мала глибокий символічний зміст."
+  },
+  {
+    "maskuline": "sinji",
+    "feminine": "sinja",
+    "neutrum": "sinje",
+    "ukrainian_translation": "синюватий",
+    "example_sentence": "Sinje more prostiralo se koliko oko može vidjeti.",
+    "ukrainian_translation_sentence": "Синювате море простягалося скільки сягало око."
+  },
+  {
+    "maskuline": "širok",
+    "feminine": "široka",
+    "neutrum": "široko",
+    "ukrainian_translation": "широкий",
+    "example_sentence": "Široka cesta vodila je prema planinskom selu.",
+    "ukrainian_translation_sentence": "Широка дорога вела до гірського села."
+  },
+  {
+    "maskuline": "sirot",
+    "feminine": "sirota",
+    "neutrum": "siroto",
+    "ukrainian_translation": "бідний",
+    "example_sentence": "Sirot dječak živio je u vrlo skromnim uvjetima.",
+    "ukrainian_translation_sentence": "Бідний хлопчик жив у дуже скромних умовах."
+  },
+  {
+    "maskuline": "sitan",
+    "feminine": "sitna",
+    "neutrum": "sitno",
+    "ukrainian_translation": "дрібний",
+    "example_sentence": "Sitne kapljice kiše padale su po prozoru.",
+    "ukrainian_translation_sentence": "Дрібні краплі дощу падали на вікно."
+  },
+  {
+    "maskuline": "siv",
+    "feminine": "siva",
+    "neutrum": "sivo",
+    "ukrainian_translation": "сірий",
+    "example_sentence": "Sivo nebo najavljivalo je dolazak oluje.",
+    "ukrainian_translation_sentence": "Сіре небо віщувало наближення бурі."
+  },
+  {
+    "maskuline": "sjajan",
+    "feminine": "sjajna",
+    "neutrum": "sjajno",
+    "ukrainian_translation": "яскравий",
+    "example_sentence": "Njegov sjajan uspjeh proslavljen je diljem zemlje.",
+    "ukrainian_translation_sentence": "Його яскравий успіх був відзначений по всій країні."
+  },
+  {
+    "maskuline": "skijaški",
+    "feminine": "skijaška",
+    "neutrum": "skijaško",
+    "ukrainian_translation": "лижний",
+    "example_sentence": "Skijaška sezona počinje u prosincu.",
+    "ukrainian_translation_sentence": "Лижний сезон починається в грудні."
+  },
+  {
+    "maskuline": "skladišni",
+    "feminine": "skladišna",
+    "neutrum": "skladišno",
+    "ukrainian_translation": "складський",
+    "example_sentence": "Skladišni prostor bio je pun robe.",
+    "ukrainian_translation_sentence": "Складське приміщення було заповнене товарами."
+  },
+  {
+    "maskuline": "sklizak",
+    "feminine": "sklizka",
+    "neutrum": "sklisko",
+    "ukrainian_translation": "слизький",
+    "example_sentence": "Skliska cesta uzrokovala je nekoliko nesreća.",
+    "ukrainian_translation_sentence": "Слизька дорога спричинила кілька аварій."
+  },
+  {
+    "maskuline": "skupni",
+    "feminine": "skupna",
+    "neutrum": "skupno",
+    "ukrainian_translation": "груповий",
+    "example_sentence": "Skupni rad potaknuo je timski duh među zaposlenicima.",
+    "ukrainian_translation_sentence": "Групова робота підвищила командний дух серед працівників."
+  },
+  {
+    "maskuline": "slab",
+    "feminine": "slaba",
+    "neutrum": "slabo",
+    "ukrainian_translation": "слабкий",
+    "example_sentence": "Njegov slab imunitet uzrokovao je česte prehlade.",
+    "ukrainian_translation_sentence": "Його слабкий імунітет спричиняв часті застуди."
+  },
+  {
+    "maskuline": "slabašan",
+    "feminine": "slabašna",
+    "neutrum": "slabašno",
+    "ukrainian_translation": "кволий",
+    "example_sentence": "Slabašan starac trebao je pomoć pri hodanju.",
+    "ukrainian_translation_sentence": "Кволий старий потребував допомоги при ходьбі."
+  },
+  {
+    "maskuline": "slabovidan",
+    "feminine": "slabovidna",
+    "neutrum": "slabovidno",
+    "ukrainian_translation": "слабозорий",
+    "example_sentence": "Slabovidna osoba koristila je povećalo za čitanje.",
+    "ukrainian_translation_sentence": "Слабозора людина користувалася лупою для читання."
+  },
+  {
+    "maskuline": "sladak",
+    "feminine": "slatka",
+    "neutrum": "slatko",
+    "ukrainian_translation": "солодкий",
+    "example_sentence": "Slatka torta bila je najomiljeniji dio deserta.",
+    "ukrainian_translation_sentence": "Солодкий торт був найулюбленішою частиною десерту."
+  },
+  {
+    "maskuline": "slan",
+    "feminine": "slana",
+    "neutrum": "slano",
+    "ukrainian_translation": "солоний",
+    "example_sentence": "Slano more i plaža oduvijek su privlačili turiste.",
+    "ukrainian_translation_sentence": "Солоне море та пляж завжди приваблювали туристів."
+  },
+  {
+    "maskuline": "slavljenički",
+    "feminine": "slavljenička",
+    "neutrum": "slavljeničko",
+    "ukrainian_translation": "святковий",
+    "example_sentence": "Slavljenička atmosfera ispunila je grad za vrijeme festivala.",
+    "ukrainian_translation_sentence": "Святкова атмосфера охопила місто під час фестивалю."
+  },
+  {
+    "maskuline": "slikovit",
+    "feminine": "slikovita",
+    "neutrum": "slikovito",
+    "ukrainian_translation": "живописний",
+    "example_sentence": "Slikovito selo smješteno je među planinama.",
+    "ukrainian_translation_sentence": "Живописне село розташоване серед гір."
+  },
+  {
+    "maskuline": "slojevit",
+    "feminine": "slojevita",
+    "neutrum": "slojevito",
+    "ukrainian_translation": "шаруватий",
+    "example_sentence": "Slojevita konstrukcija zgrade osigurava dodatnu stabilnost.",
+    "ukrainian_translation_sentence": "Шарувата конструкція будівлі забезпечує додаткову стійкість."
+  },
+  {
+    "maskuline": "slučajan",
+    "feminine": "slučajna",
+    "neutrum": "slučajno",
+    "ukrainian_translation": "випадковий",
+    "example_sentence": "Slučajan susret s prijateljem razveselio ga je.",
+    "ukrainian_translation_sentence": "Випадкова зустріч із другом підняла йому настрій."
+  },
+  {
+    "maskuline": "smješten",
+    "feminine": "smještena",
+    "neutrum": "smješteno",
+    "ukrainian_translation": "розташований",
+    "example_sentence": "Hotel je bio smješten blizu mora.",
+    "ukrainian_translation_sentence": "Готель був розташований поблизу моря."
+  },
+  {
+    "maskuline": "smrtan",
+    "feminine": "smrtna",
+    "neutrum": "smrtno",
+    "ukrainian_translation": "смертний",
+    "example_sentence": "Smrtni strah ga je obuzeo u opasnoj situaciji.",
+    "ukrainian_translation_sentence": "Смертельний страх охопив його в небезпечній ситуації."
+  },
+  {
+    "maskuline": "smrznut",
+    "feminine": "smrznuta",
+    "neutrum": "smrznuto",
+    "ukrainian_translation": "заморожений",
+    "example_sentence": "Smrznuta hrana može trajati duže u zamrzivaču.",
+    "ukrainian_translation_sentence": "Заморожена їжа може зберігатися довше в морозильній камері."
+  },
+  {
+    "maskuline": "snježan",
+    "feminine": "snježna",
+    "neutrum": "snježno",
+    "ukrainian_translation": "сніжний",
+    "example_sentence": "Snježna zima donijela je bijele krajolike.",
+    "ukrainian_translation_sentence": "Сніжна зима принесла білі пейзажі."
+  },
+  {
+    "maskuline": "sobni",
+    "feminine": "sobna",
+    "neutrum": "sobno",
+    "ukrainian_translation": "кімнатний",
+    "example_sentence": "Sobna biljka zahtijeva redovito zalijevanje.",
+    "ukrainian_translation_sentence": "Кімнатна рослина потребує регулярного поливу."
+  },
+  {
+    "maskuline": "šokiran",
+    "feminine": "šokirana",
+    "neutrum": "šokirano",
+    "ukrainian_translation": "шокований",
+    "example_sentence": "Šokiran vijestima, nije znao što reći.",
+    "ukrainian_translation_sentence": "Шокований новинами, він не знав, що сказати."
+  },
+  {
+    "maskuline": "specijalistički",
+    "feminine": "specijalistička",
+    "neutrum": "specijalističko",
+    "ukrainian_translation": "спеціалізований",
+    "example_sentence": "Specijalistički pregled bio je potreban za postavljanje dijagnoze.",
+    "ukrainian_translation_sentence": "Спеціалізоване обстеження було необхідне для встановлення діагнозу."
+  },
+  {
+    "maskuline": "speleološki",
+    "feminine": "speleološka",
+    "neutrum": "speleološko",
+    "ukrainian_translation": "спелеологічний",
+    "example_sentence": "Speleološka istraživanja otkrila su nove pećine.",
+    "ukrainian_translation_sentence": "Спелеологічні дослідження відкрили нові печери."
+  },
+  {
+    "maskuline": "spomenički",
+    "feminine": "spomenička",
+    "neutrum": "spomeničko",
+    "ukrainian_translation": "пам'ятний",
+    "example_sentence": "Spomenički kompleks posvećen je herojima rata.",
+    "ukrainian_translation_sentence": "Пам'ятний комплекс присвячений героям війни."
+  },
+  {
+    "maskuline": "sponzorski",
+    "feminine": "sponzorska",
+    "neutrum": "sponzorsko",
+    "ukrainian_translation": "спонсорський",
+    "example_sentence": "Sponzorski ugovor osigurao je financiranje događaja.",
+    "ukrainian_translation_sentence": "Спонсорська угода забезпечила фінансування заходу."
+  },
+  {
+    "maskuline": "sportski",
+    "feminine": "sportska",
+    "neutrum": "sportsko",
+    "ukrainian_translation": "спортивний",
+    "example_sentence": "Sportski događaj okupio je mnoge natjecatelje.",
+    "ukrainian_translation_sentence": "Спортивний захід зібрав багатьох учасників."
+  },
+  {
+    "maskuline": "športski",
+    "feminine": "športska",
+    "neutrum": "športsko",
+    "ukrainian_translation": "спортивний",
+    "example_sentence": "Športska oprema prodaje se u specijaliziranim trgovinama.",
+    "ukrainian_translation_sentence": "Спортивне спорядження продається у спеціалізованих магазинах."
+  },
+  {
+    "maskuline": "spreman",
+    "feminine": "spremna",
+    "neutrum": "spremno",
+    "ukrainian_translation": "готовий",
+    "example_sentence": "On je spreman za novi izazov.",
+    "ukrainian_translation_sentence": "Він готовий до нового виклику."
+  },
+  {
+    "maskuline": "spretan",
+    "feminine": "spretna",
+    "neutrum": "spretno",
+    "ukrainian_translation": "спритний",
+    "example_sentence": "Spretan majstor brzo je popravio kvar.",
+    "ukrainian_translation_sentence": "Спритний майстер швидко виправив поломку."
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "maskuline": "bolan",
+    "feminine": "bolna",
+    "neutrum": "bolno",
+    "ukrainian_translation": "болючий",
+    "example_sentence": "Njegova odluka bila je bolna, ali neophodna.",
+    "ukrainian_translation_sentence": "Його рішення було болючим, але необхідним."
+  },
+  {
+    "maskuline": "botanički",
+    "feminine": "botanička",
+    "neutrum": "botaničko",
+    "ukrainian_translation": "ботанічний",
+    "example_sentence": "Posjetili smo botanički vrt koji je bio prepun rijetkih biljaka.",
+    "ukrainian_translation_sentence": "Ми відвідали ботанічний сад, наповнений рідкісними рослинами."
+  },
+  {
+    "maskuline": "bračni",
+    "feminine": "bračna",
+    "neutrum": "bračno",
+    "ukrainian_translation": "шлюбний",
+    "example_sentence": "Njihov bračni život bio je skladan i ispunjen ljubavlju.",
+    "ukrainian_translation_sentence": "Їхнє шлюбне життя було гармонійним і сповненим любові."
+  },
+  {
+    "maskuline": "braniteljski",
+    "feminine": "braniteljska",
+    "neutrum": "braniteljsko",
+    "ukrainian_translation": "захисний",
+    "example_sentence": "Braniteljska udruga organizirala je memorijal za pale borce.",
+    "ukrainian_translation_sentence": "Захисна організація організувала меморіал на честь загиблих воїнів."
+  },
+  {
+    "maskuline": "brdski",
+    "feminine": "brdska",
+    "neutrum": "brdsko",
+    "ukrainian_translation": "гірський",
+    "example_sentence": "Uživali smo u prekrasnim brdskim pejzažima.",
+    "ukrainian_translation_sentence": "Ми насолоджувалися прекрасними гірськими пейзажами."
+  },
+  {
+    "maskuline": "brižan",
+    "feminine": "brižna",
+    "neutrum": "brižno",
+    "ukrainian_translation": "турботливий",
+    "example_sentence": "Njegova brižna priroda učinila ga je voljenim među prijateljima.",
+    "ukrainian_translation_sentence": "Його турботливий характер зробив його улюбленцем серед друзів."
+  },
+  {
+    "maskuline": "brodski",
+    "feminine": "brodska",
+    "neutrum": "brodsko",
+    "ukrainian_translation": "корабельний",
+    "example_sentence": "Brodski inženjeri su radili na održavanju starog broda.",
+    "ukrainian_translation_sentence": "Корабельні інженери працювали над обслуговуванням старого судна."
+  },
+  {
+    "maskuline": "brončan",
+    "feminine": "brončana",
+    "neutrum": "brončano",
+    "ukrainian_translation": "бронзовий",
+    "example_sentence": "Osvojila je brončanu medalju na natjecanju.",
+    "ukrainian_translation_sentence": "Вона здобула бронзову медаль на змаганнях."
+  },
+  {
+    "maskuline": "brutalan",
+    "feminine": "brutalna",
+    "neutrum": "brutalno",
+    "ukrainian_translation": "жорстокий",
+    "example_sentence": "Napad je bio brutalan i izazvao je šok među građanima.",
+    "ukrainian_translation_sentence": "Напад був жорстоким і викликав шок серед громадян."
+  },
+  {
+    "maskuline": "brzinski",
+    "feminine": "brzinska",
+    "neutrum": "brzinsko",
+    "ukrainian_translation": "швидкий",
+    "example_sentence": "Brzinska trka je izazvala veliko uzbuđenje među navijačima.",
+    "ukrainian_translation_sentence": "Швидкий забіг викликав велике хвилювання серед уболівальників."
+  },
+	{
+    "maskuline": "budan",
+    "feminine": "budna",
+    "neutrum": "budno",
+    "ukrainian_translation": "бадьорий",
+    "example_sentence": "Ostao je budan cijelu noć radeći na projektu.",
+    "ukrainian_translation_sentence": "Він залишався бадьорим цілу ніч, працюючи над проєктом."
+  },
+  {
+    "maskuline": "bujan",
+    "feminine": "bujna",
+    "neutrum": "bujno",
+    "ukrainian_translation": "розкішний",
+    "example_sentence": "Vrt je bio bujan i prepun cvijeća.",
+    "ukrainian_translation_sentence": "Сад був розкішний і повний квітів."
+  },
+  {
+    "maskuline": "čaroban",
+    "feminine": "čarobna",
+    "neutrum": "čarobno",
+    "ukrainian_translation": "чарівний",
+    "example_sentence": "Njezin glas bio je čaroban i osvojio je publiku.",
+    "ukrainian_translation_sentence": "Її голос був чарівним і завоював публіку."
+  },
+  {
+    "maskuline": "častan",
+    "feminine": "častna",
+    "neutrum": "častno",
+    "ukrainian_translation": "чесний",
+    "example_sentence": "Bio je častan čovjek kojeg su svi poštovali.",
+    "ukrainian_translation_sentence": "Він був чесною людиною, яку всі поважали."
+  },
+  {
+    "maskuline": "centralan",
+    "feminine": "centralna",
+    "neutrum": "centralno",
+    "ukrainian_translation": "центральний",
+    "example_sentence": "Centralan sustav grijanja bio je instaliran u cijeloj zgradi.",
+    "ukrainian_translation_sentence": "Центральна система опалення була встановлена у всій будівлі."
+  },
+  {
+    "maskuline": "čest",
+    "feminine": "česta",
+    "neutrum": "često",
+    "ukrainian_translation": "частий",
+    "example_sentence": "Česti kvarovi na autu su ga počeli iritirati.",
+    "ukrainian_translation_sentence": "Часті поломки автомобіля почали його дратувати."
+  },
+  {
+    "maskuline": "cestovan",
+    "feminine": "cestovna",
+    "neutrum": "cestovno",
+    "ukrainian_translation": "дорожній",
+    "example_sentence": "Cestovna infrastruktura u gradu se stalno poboljšava.",
+    "ukrainian_translation_sentence": "Дорожня інфраструктура у місті постійно покращується."
+  },
+  {
+    "maskuline": "cijenjen",
+    "feminine": "cijenjena",
+    "neutrum": "cijenjeno",
+    "ukrainian_translation": "шанований",
+    "example_sentence": "Bio je cijenjen profesor na fakultetu.",
+    "ukrainian_translation_sentence": "Він був шанованим професором на факультеті."
+  },
+  {
+    "maskuline": "ciljan",
+    "feminine": "ciljana",
+    "neutrum": "ciljano",
+    "ukrainian_translation": "цільовий",
+    "example_sentence": "Proveli su ciljanu kampanju za promicanje novog proizvoda.",
+    "ukrainian_translation_sentence": "Вони провели цільову кампанію для просування нового продукту."
+  },
+  {
+    "maskuline": "čitav",
+    "feminine": "čitava",
+    "neutrum": "čitavo",
+    "ukrainian_translation": "цілий",
+    "example_sentence": "Proveli smo čitav vikend na planinarenju.",
+    "ukrainian_translation_sentence": "Ми провели цілий вихідний у походах."
+  },
+	{
+    "maskuline": "čitljiv",
+    "feminine": "čitljiva",
+    "neutrum": "čitljivo",
+    "ukrainian_translation": "читабельний",
+    "example_sentence": "Njezin rukopis bio je uredan i čitljiv.",
+    "ukrainian_translation_sentence": "Її почерк був акуратним і читабельним."
+  },
+  {
+    "maskuline": "civilizacijski",
+    "feminine": "civilizacijska",
+    "neutrum": "civilizacijsko",
+    "ukrainian_translation": "цивілізаційний",
+    "example_sentence": "Civilizacijski napredak društva osjetio se u svakodnevnom životu.",
+    "ukrainian_translation_sentence": "Цивілізаційний прогрес суспільства відчувався в повсякденному житті."
+  },
+  {
+    "maskuline": "cjelodnevan",
+    "feminine": "cjelodnevna",
+    "neutrum": "cjelodnevno",
+    "ukrainian_translation": "цілоденний",
+    "example_sentence": "Imali smo cjelodnevnu ekskurziju po gradu.",
+    "ukrainian_translation_sentence": "Ми провели цілий день на екскурсії по місту."
+  },
+  {
+    "maskuline": "čovječji",
+    "feminine": "čovječja",
+    "neutrum": "čovječje",
+    "ukrainian_translation": "людський",
+    "example_sentence": "Čovječji napori za očuvanje prirode su od ključne važnosti.",
+    "ukrainian_translation_sentence": "Людські зусилля щодо збереження природи мають вирішальне значення."
+  },
+  {
+    "maskuline": "crtani",
+    "feminine": "crtanа",
+    "neutrum": "crtano",
+    "ukrainian_translation": "мультфільм",
+    "example_sentence": "Djeca su uživala gledajući crtani film.",
+    "ukrainian_translation_sentence": "Діти насолоджувалися переглядом мультфільму."
+  },
+  {
+    "maskuline": "crven",
+    "feminine": "crvena",
+    "neutrum": "crveno",
+    "ukrainian_translation": "червоний",
+    "example_sentence": "Njezina haljina bila je u jarkoj crvenoj boji.",
+    "ukrainian_translation_sentence": "Її сукня була яскраво червоного кольору."
+  },
+  {
+    "maskuline": "čudan",
+    "feminine": "čudna",
+    "neutrum": "čudno",
+    "ukrainian_translation": "дивний",
+    "example_sentence": "Njegovo ponašanje postalo je vrlo čudno posljednjih dana.",
+    "ukrainian_translation_sentence": "Його поведінка останнім часом стала дуже дивною."
+  },
+  {
+    "maskuline": "daljnji",
+    "feminine": "daljnja",
+    "neutrum": "daljnje",
+    "ukrainian_translation": "подальший",
+    "example_sentence": "Daljnji koraci u projektu bit će odlučeni na sastanku.",
+    "ukrainian_translation_sentence": "Подальші кроки проєкту будуть визначені на нараді."
+  },
+  {
+    "maskuline": "davan",
+    "feminine": "davna",
+    "neutrum": "davano",
+    "ukrainian_translation": "даний",
+    "example_sentence": "Davan savjet mu je pomogao u teškoj situaciji.",
+    "ukrainian_translation_sentence": "Дана порада допомогла йому в складній ситуації."
+  },
+  {
+    "maskuline": "dekorativan",
+    "feminine": "dekorativna",
+    "neutrum": "dekorativno",
+    "ukrainian_translation": "декоративний",
+    "example_sentence": "Kupili su dekorativne biljke za uljepšavanje dvorišta.",
+    "ukrainian_translation_sentence": "Вони купили декоративні рослини для прикрашення подвір’я."
+  },
+	{
+    "maskuline": "demografski",
+    "feminine": "demografska",
+    "neutrum": "demografsko",
+    "ukrainian_translation": "демографічний",
+    "example_sentence": "Demografski podaci pokazuju porast stanovništva u gradu.",
+    "ukrainian_translation_sentence": "Демографічні дані показують зростання населення у місті."
+  },
+  {
+    "maskuline": "depresivan",
+    "feminine": "depresivna",
+    "neutrum": "depresivno",
+    "ukrainian_translation": "депресивний",
+    "example_sentence": "Kišno vrijeme uvijek ga je činilo depresivnim.",
+    "ukrainian_translation_sentence": "Дощова погода завжди робила його депресивним."
+  },
+  {
+    "maskuline": "desni",
+    "feminine": "desna",
+    "neutrum": "desno",
+    "ukrainian_translation": "правий",
+    "example_sentence": "Desna strana automobila bila je oštećena u nesreći.",
+    "ukrainian_translation_sentence": "Права сторона автомобіля була пошкоджена в аварії."
+  },
+  {
+    "maskuline": "destruktivan",
+    "feminine": "destruktivna",
+    "neutrum": "destruktivno",
+    "ukrainian_translation": "руйнівний",
+    "example_sentence": "Destruktivno ponašanje može imati ozbiljne posljedice.",
+    "ukrainian_translation_sentence": "Руйнівна поведінка може мати серйозні наслідки."
+  },
+  {
+    "maskuline": "dežuran",
+    "feminine": "dežurna",
+    "neutrum": "dežurno",
+    "ukrainian_translation": "черговий",
+    "example_sentence": "Dežuran liječnik je ostao cijelu noć u bolnici.",
+    "ukrainian_translation_sentence": "Черговий лікар залишався в лікарні всю ніч."
+  },
+  {
+    "maskuline": "dijamantan",
+    "feminine": "dijamantna",
+    "neutrum": "dijamantno",
+    "ukrainian_translation": "діамантовий",
+    "example_sentence": "Njezina dijamantna ogrlica blistala je na svjetlu.",
+    "ukrainian_translation_sentence": "Її діамантове намисто сяяло на світлі."
+  },
+  {
+    "maskuline": "dinamičan",
+    "feminine": "dinamična",
+    "neutrum": "dinamično",
+    "ukrainian_translation": "динамічний",
+    "example_sentence": "Njegov dinamičan stil rada oduševio je kolege.",
+    "ukrainian_translation_sentence": "Його динамічний стиль роботи захопив колег."
+  },
+  {
+    "maskuline": "dinamički",
+    "feminine": "dinamička",
+    "neutrum": "dinamičko",
+    "ukrainian_translation": "динамічний",
+    "example_sentence": "Dinamički sustavi zahtijevaju stalne prilagodbe.",
+    "ukrainian_translation_sentence": "Динамічні системи потребують постійних налаштувань."
+  },
+  {
+    "maskuline": "diplomatski",
+    "feminine": "diplomatska",
+    "neutrum": "diplomatsko",
+    "ukrainian_translation": "дипломатичний",
+    "example_sentence": "Diplomatski odnosi između zemalja su ključni za mir.",
+    "ukrainian_translation_sentence": "Дипломатичні відносини між країнами є ключовими для миру."
+  },
+  {
+    "maskuline": "dišni",
+    "feminine": "dišna",
+    "neutrum": "dišno",
+    "ukrainian_translation": "дихальний",
+    "example_sentence": "Dišni sustav je osjetljiv na promjene temperature.",
+    "ukrainian_translation_sentence": "Дихальна система чутлива до змін температури."
+  },
+	{
+    "maskuline": "divan",
+    "feminine": "divna",
+    "neutrum": "divno",
+    "ukrainian_translation": "чудовий",
+    "example_sentence": "Bilo je divno vrijeme za šetnju parkom.",
+    "ukrainian_translation_sentence": "Це був чудовий час для прогулянки парком."
+  },
+  {
+    "maskuline": "divlji",
+    "feminine": "divlja",
+    "neutrum": "divlje",
+    "ukrainian_translation": "дикий",
+    "example_sentence": "Divlje životinje su slobodno lutale šumom.",
+    "ukrainian_translation_sentence": "Дикі тварини вільно бродили по лісі."
+  },
+  {
+    "maskuline": "dizajnerski",
+    "feminine": "dizajnerska",
+    "neutrum": "dizajnersko",
+    "ukrainian_translation": "дизайнерський",
+    "example_sentence": "Kupila je dizajnersku torbu koja joj se jako svidjela.",
+    "ukrainian_translation_sentence": "Вона купила дизайнерську сумку, яка їй дуже сподобалася."
+  },
+  {
+    "maskuline": "dječji",
+    "feminine": "dječja",
+    "neutrum": "dječje",
+    "ukrainian_translation": "дитячий",
+    "example_sentence": "Na dječjem igralištu je uvijek bilo puno smijeha.",
+    "ukrainian_translation_sentence": "На дитячому майданчику завжди було багато сміху."
+  },
+  {
+    "maskuline": "djelotvoran",
+    "feminine": "djelotvorna",
+    "neutrum": "djelotvorno",
+    "ukrainian_translation": "ефективний",
+    "example_sentence": "Lijek se pokazao vrlo djelotvornim u liječenju bolesti.",
+    "ukrainian_translation_sentence": "Ліки виявилися дуже ефективними у лікуванні хвороби."
+  },
+  {
+    "maskuline": "djevojački",
+    "feminine": "djevojačka",
+    "neutrum": "djevojačko",
+    "ukrainian_translation": "дівочий",
+    "example_sentence": "Proslavili su djevojačku večer u stilu.",
+    "ukrainian_translation_sentence": "Вони відсвяткували дівочий вечір зі стилем."
+  },
+  {
+    "maskuline": "dlakav",
+    "feminine": "dlakava",
+    "neutrum": "dlakavo",
+    "ukrainian_translation": "волохатий",
+    "example_sentence": "Njihov pas je bio dlakav i tražio je redovito četkanje.",
+    "ukrainian_translation_sentence": "Їхній пес був волохатим і потребував регулярного розчісування."
+  },
+  {
+    "maskuline": "dobar",
+    "feminine": "dobra",
+    "neutrum": "dobro",
+    "ukrainian_translation": "добрий",
+    "example_sentence": "Bio je dobar prijatelj svima u razredu.",
+    "ukrainian_translation_sentence": "Він був добрим другом для всіх у класі."
+  },
+  {
+    "maskuline": "dobni",
+    "feminine": "dobna",
+    "neutrum": "dobno",
+    "ukrainian_translation": "віковий",
+    "example_sentence": "Postoje dobne granice za vozačku dozvolu.",
+    "ukrainian_translation_sentence": "Існують вікові обмеження для отримання водійського посвідчення."
+  },
+  {
+    "maskuline": "dobronamjeran",
+    "feminine": "dobronamjerna",
+    "neutrum": "dobronamjerno",
+    "ukrainian_translation": "доброзичливий",
+    "example_sentence": "Njegov savjet bio je dobronamjeran, iako ga nisu svi shvatili ispravno.",
+    "ukrainian_translation_sentence": "Його порада була доброзичливою, хоча не всі зрозуміли її правильно."
+  }
+]

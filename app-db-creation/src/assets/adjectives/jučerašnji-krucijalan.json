@@ -1,0 +1,402 @@
+[
+  {
+    "maskuline": "jučerašnji",
+    "feminine": "jučerašnja",
+    "neutrum": "jučerašnje",
+    "ukrainian_translation": "вчорашній",
+    "example_sentence": "Sjećamo se jučerašnjeg sastanka kao vrlo produktivnog.",
+    "ukrainian_translation_sentence": "Ми пам'ятаємо вчорашню зустріч як дуже продуктивну."
+  },
+  {
+    "maskuline": "junački",
+    "feminine": "junačka",
+    "neutrum": "junačko",
+    "ukrainian_translation": "героїчний",
+    "example_sentence": "Njegov junački čin spašavanja djeteta je pohvaljen.",
+    "ukrainian_translation_sentence": "Його героїчний вчинок з порятунку дитини був відзначений."
+  },
+  {
+    "maskuline": "kadetski",
+    "feminine": "kadetska",
+    "neutrum": "kadetsko",
+    "ukrainian_translation": "кадетський",
+    "example_sentence": "Kadetski turnir u šahu održan je prošlog vikenda.",
+    "ukrainian_translation_sentence": "Кадетський шаховий турнір відбувся минулого тижня."
+  },
+  {
+    "maskuline": "kalendarski",
+    "feminine": "kalendarska",
+    "neutrum": "kalendarsko",
+    "ukrainian_translation": "календарний",
+    "example_sentence": "Kalendarska godina završava u prosincu.",
+    "ukrainian_translation_sentence": "Календарний рік закінчується у грудні."
+  },
+  {
+    "maskuline": "kanalizacijski",
+    "feminine": "kanalizacijska",
+    "neutrum": "kanalizacijsko",
+    "ukrainian_translation": "каналізаційний",
+    "example_sentence": "Radnici su popravljali kanalizacijski sustav u gradu.",
+    "ukrainian_translation_sentence": "Працівники ремонтували каналізаційну систему в місті."
+  },
+  {
+    "maskuline": "kaotičan",
+    "feminine": "kaotična",
+    "neutrum": "kaotično",
+    "ukrainian_translation": "хаотичний",
+    "example_sentence": "Situacija u prometu bila je kaotična zbog snježne oluje.",
+    "ukrainian_translation_sentence": "Ситуація на дорогах була хаотичною через снігову бурю."
+  },
+  {
+    "maskuline": "kapitalistički",
+    "feminine": "kapitalistička",
+    "neutrum": "kapitalističko",
+    "ukrainian_translation": "капіталістичний",
+    "example_sentence": "Kapitalistički sustav dominira u mnogim razvijenim zemljama.",
+    "ukrainian_translation_sentence": "Капіталістична система домінує в багатьох розвинених країнах."
+  },
+  {
+    "maskuline": "karakteran",
+    "feminine": "karakterna",
+    "neutrum": "karakterno",
+    "ukrainian_translation": "характерний",
+    "example_sentence": "On je karakteran čovjek s jasnim moralnim načelima.",
+    "ukrainian_translation_sentence": "Він характерна людина з чіткими моральними принципами."
+  },
+  {
+    "maskuline": "kartonski",
+    "feminine": "kartonska",
+    "neutrum": "kartonsko",
+    "ukrainian_translation": "картонний",
+    "example_sentence": "Pakiranje je stiglo u kartonskoj kutiji.",
+    "ukrainian_translation_sentence": "Упаковка прибула в картонній коробці."
+  },
+  {
+    "maskuline": "kazneni",
+    "feminine": "kaznena",
+    "neutrum": "kazneno",
+    "ukrainian_translation": "кримінальний",
+    "example_sentence": "Sud je izrekao kaznenu presudu za počinitelja.",
+    "ukrainian_translation_sentence": "Суд виніс кримінальний вирок виконавцю."
+  },
+	{
+    "maskuline": "keramički",
+    "feminine": "keramička",
+    "neutrum": "keramičko",
+    "ukrainian_translation": "керамічний",
+    "example_sentence": "Kupili smo keramičke pločice za novu kuhinju.",
+    "ukrainian_translation_sentence": "Ми купили керамічну плитку для нової кухні."
+  },
+  {
+    "maskuline": "kirurški",
+    "feminine": "kirurška",
+    "neutrum": "kirurško",
+    "ukrainian_translation": "хірургічний",
+    "example_sentence": "Kirurški zahvat bio je uspješan.",
+    "ukrainian_translation_sentence": "Хірургічна операція пройшла успішно."
+  },
+  {
+    "maskuline": "klizni",
+    "feminine": "klizna",
+    "neutrum": "klizno",
+    "ukrainian_translation": "ковзний",
+    "example_sentence": "Vrata su klizna kako bi se uštedio prostor.",
+    "ukrainian_translation_sentence": "Двері ковзні, щоб зекономити місце."
+  },
+  {
+    "maskuline": "ključan",
+    "feminine": "ključna",
+    "neutrum": "ključno",
+    "ukrainian_translation": "ключовий",
+    "example_sentence": "Ključan trenutak utakmice bio je u posljednjoj minuti.",
+    "ukrainian_translation_sentence": "Ключовий момент матчу стався на останній хвилині."
+  },
+  {
+    "maskuline": "klupski",
+    "feminine": "klupska",
+    "neutrum": "klupsko",
+    "ukrainian_translation": "клубний",
+    "example_sentence": "Klupski članovi su organizirali zajednički izlet.",
+    "ukrainian_translation_sentence": "Члени клубу організували спільну подорож."
+  },
+  {
+    "maskuline": "knjižnični",
+    "feminine": "knjižnična",
+    "neutrum": "knjižničko",
+    "ukrainian_translation": "бібліотечний",
+    "example_sentence": "Knjižnični fond je proširen s novim naslovima.",
+    "ukrainian_translation_sentence": "Бібліотечний фонд було розширено новими назвами."
+  },
+  {
+    "maskuline": "koalicijski",
+    "feminine": "koalicijska",
+    "neutrum": "koalicijsko",
+    "ukrainian_translation": "коаліційний",
+    "example_sentence": "Koalicijska vlada uspjela je postići dogovor o reformama.",
+    "ukrainian_translation_sentence": "Коаліційний уряд зміг досягти згоди щодо реформ."
+  },
+  {
+    "maskuline": "kockast",
+    "feminine": "kockasta",
+    "neutrum": "kockasto",
+    "ukrainian_translation": "квадратний",
+    "example_sentence": "Njegova nova košulja imala je kockasti uzorak.",
+    "ukrainian_translation_sentence": "Його нова сорочка мала квадратний візерунок."
+  },
+  {
+    "maskuline": "kolonijalan",
+    "feminine": "kolonijalna",
+    "neutrum": "kolonijalno",
+    "ukrainian_translation": "колоніальний",
+    "example_sentence": "Kolonijalna arhitektura bila je vrlo utjecajna u prošlim stoljećima.",
+    "ukrainian_translation_sentence": "Колоніальна архітектура була дуже впливовою в минулих століттях."
+  },
+  {
+    "maskuline": "kombiniran",
+    "feminine": "kombinirana",
+    "neutrum": "kombinirano",
+    "ukrainian_translation": "комбінований",
+    "example_sentence": "Imali su kombinirani pristup problemu, koristeći više metoda.",
+    "ukrainian_translation_sentence": "Вони використовували комбінований підхід до проблеми, використовуючи кілька методів."
+  },
+	{
+    "maskuline": "komercijalan",
+    "feminine": "komercijalna",
+    "neutrum": "komercijalno",
+    "ukrainian_translation": "комерційний",
+    "example_sentence": "Komercijalni uspjeh filma nadmašio je sva očekivanja.",
+    "ukrainian_translation_sentence": "Комерційний успіх фільму перевершив усі очікування."
+  },
+  {
+    "maskuline": "komorni",
+    "feminine": "komorna",
+    "neutrum": "komorno",
+    "ukrainian_translation": "камерний",
+    "example_sentence": "Komorni koncert održan je u intimnom ambijentu.",
+    "ukrainian_translation_sentence": "Камерний концерт пройшов в затишній атмосфері."
+  },
+  {
+    "maskuline": "kompjuterski",
+    "feminine": "kompjuterska",
+    "neutrum": "kompjutersko",
+    "ukrainian_translation": "комп'ютерний",
+    "example_sentence": "Kompjuterski program omogućuje brzu obradu podataka.",
+    "ukrainian_translation_sentence": "Комп'ютерна програма дозволяє швидко обробляти дані."
+  },
+  {
+    "maskuline": "konačan",
+    "feminine": "konačna",
+    "neutrum": "konačno",
+    "ukrainian_translation": "остаточний",
+    "example_sentence": "Konačna odluka donesena je nakon dugih pregovora.",
+    "ukrainian_translation_sentence": "Остаточне рішення було прийнято після довгих переговорів."
+  },
+  {
+    "maskuline": "konceptualan",
+    "feminine": "konceptualna",
+    "neutrum": "konceptualno",
+    "ukrainian_translation": "концептуальний",
+    "example_sentence": "Njegov konceptualan pristup umjetnosti bio je inovativan.",
+    "ukrainian_translation_sentence": "Його концептуальний підхід до мистецтва був інноваційним."
+  },
+  {
+    "maskuline": "koncertni",
+    "feminine": "koncertna",
+    "neutrum": "koncertno",
+    "ukrainian_translation": "концертний",
+    "example_sentence": "Koncertna dvorana bila je ispunjena do posljednjeg mjesta.",
+    "ukrainian_translation_sentence": "Концертна зала була заповнена до останнього місця."
+  },
+  {
+    "maskuline": "konferencijski",
+    "feminine": "konferencijska",
+    "neutrum": "konferencijsko",
+    "ukrainian_translation": "конференційний",
+    "example_sentence": "Konferencijska sala bila je opremljena najmodernijom tehnologijom.",
+    "ukrainian_translation_sentence": "Конференційний зал був обладнаний найсучаснішою технікою."
+  },
+  {
+    "maskuline": "konkretan",
+    "feminine": "konkretna",
+    "neutrum": "konkretno",
+    "ukrainian_translation": "конкретний",
+    "example_sentence": "Pitanje je zahtijevalo konkretan odgovor bez okolišanja.",
+    "ukrainian_translation_sentence": "Питання вимагало конкретної відповіді без ухилянь."
+  },
+  {
+    "maskuline": "konstantan",
+    "feminine": "konstantna",
+    "neutrum": "konstantno",
+    "ukrainian_translation": "постійний",
+    "example_sentence": "Konstantan rad na projektu donio je uspješne rezultate.",
+    "ukrainian_translation_sentence": "Постійна робота над проєктом принесла успішні результати."
+  },
+  {
+    "maskuline": "konstruktivan",
+    "feminine": "konstruktivna",
+    "neutrum": "konstruktivno",
+    "ukrainian_translation": "конструктивний",
+    "example_sentence": "Imali smo konstruktivan razgovor o budućim planovima.",
+    "ukrainian_translation_sentence": "Ми мали конструктивну розмову про майбутні плани."
+  },
+	{
+    "maskuline": "kontaktan",
+    "feminine": "kontaktna",
+    "neutrum": "kontaktno",
+    "ukrainian_translation": "контактний",
+    "example_sentence": "Kontaktan sport kao što je ragbi zahtijeva puno fizičke snage.",
+    "ukrainian_translation_sentence": "Контактний спорт, як регбі, вимагає багато фізичної сили."
+  },
+  {
+    "maskuline": "kontinentalan",
+    "feminine": "kontinentalna",
+    "neutrum": "kontinentalno",
+    "ukrainian_translation": "континентальний",
+    "example_sentence": "Kontinentalna klima karakteristična je za ovaj dio zemlje.",
+    "ukrainian_translation_sentence": "Континентальний клімат характерний для цієї частини країни."
+  },
+  {
+    "maskuline": "kontracepcijski",
+    "feminine": "kontracepcijska",
+    "neutrum": "kontracepcijsko",
+    "ukrainian_translation": "контрацептивний",
+    "example_sentence": "Kontracepcijska sredstva pomažu u planiranju obitelji.",
+    "ukrainian_translation_sentence": "Контрацептивні засоби допомагають у плануванні сім'ї."
+  },
+  {
+    "maskuline": "kontroverzan",
+    "feminine": "kontroverzna",
+    "neutrum": "kontroverzno",
+    "ukrainian_translation": "суперечливий",
+    "example_sentence": "Njegov govor izazvao je kontroverzne reakcije u javnosti.",
+    "ukrainian_translation_sentence": "Його промова викликала суперечливі реакції в суспільстві."
+  },
+  {
+    "maskuline": "kopnen",
+    "feminine": "kopnena",
+    "neutrum": "kopneno",
+    "ukrainian_translation": "сухопутний",
+    "example_sentence": "Kopnena vojska imala je ključnu ulogu u operaciji.",
+    "ukrainian_translation_sentence": "Сухопутні війська відіграли ключову роль в операції."
+  },
+  {
+    "maskuline": "koristan",
+    "feminine": "korisna",
+    "neutrum": "korisno",
+    "ukrainian_translation": "корисний",
+    "example_sentence": "Ovaj alat je vrlo koristan za svakodnevne zadatke.",
+    "ukrainian_translation_sentence": "Цей інструмент дуже корисний для щоденних завдань."
+  },
+  {
+    "maskuline": "korumpiran",
+    "feminine": "korumpirana",
+    "neutrum": "korumpirano",
+    "ukrainian_translation": "корумпований",
+    "example_sentence": "Korumpirani političari su izgubili podršku naroda.",
+    "ukrainian_translation_sentence": "Корумповані політики втратили підтримку народу."
+  },
+  {
+    "maskuline": "korupcijski",
+    "feminine": "korupcijska",
+    "neutrum": "korupcijsko",
+    "ukrainian_translation": "корупційний",
+    "example_sentence": "Vlada provodi istrage zbog korupcijskih skandala.",
+    "ukrainian_translation_sentence": "Уряд проводить розслідування через корупційні скандали."
+  },
+  {
+    "maskuline": "kozmetički",
+    "feminine": "kozmetička",
+    "neutrum": "kozmetičko",
+    "ukrainian_translation": "косметичний",
+    "example_sentence": "Kozmetički proizvodi moraju proći stroge testove sigurnosti.",
+    "ukrainian_translation_sentence": "Косметичні продукти повинні пройти суворі тести на безпеку."
+  },
+  {
+    "maskuline": "kraljevski",
+    "feminine": "kraljevska",
+    "neutrum": "kraljevsko",
+    "ukrainian_translation": "королівський",
+    "example_sentence": "Kraljevska obitelj prisustvovala je svečanoj ceremoniji.",
+    "ukrainian_translation_sentence": "Королівська родина була присутня на урочистій церемонії."
+  },
+	{
+    "maskuline": "kratak",
+    "feminine": "kratka",
+    "neutrum": "kratko",
+    "ukrainian_translation": "короткий",
+    "example_sentence": "Njegov govor bio je kratak, ali jasan.",
+    "ukrainian_translation_sentence": "Його промова була короткою, але чіткою."
+  },
+  {
+    "maskuline": "kratkoročan",
+    "feminine": "kratkoročna",
+    "neutrum": "kratkoročno",
+    "ukrainian_translation": "короткостроковий",
+    "example_sentence": "Ova investicija donosi kratkoročne rezultate.",
+    "ukrainian_translation_sentence": "Ця інвестиція приносить короткострокові результати."
+  },
+  {
+    "maskuline": "kratkotrajan",
+    "feminine": "kratkotrajna",
+    "neutrum": "kratkotrajno",
+    "ukrainian_translation": "короткочасний",
+    "example_sentence": "Kratkotrajna oluja oštetila je nekoliko kuća.",
+    "ukrainian_translation_sentence": "Короткочасна буря пошкодила кілька будинків."
+  },
+  {
+    "maskuline": "krilni",
+    "feminine": "krilna",
+    "neutrum": "krilno",
+    "ukrainian_translation": "крилатий",
+    "example_sentence": "Krilni napadač je postigao gol u posljednjim minutama utakmice.",
+    "ukrainian_translation_sentence": "Крилатий нападник забив гол у останні хвилини матчу."
+  },
+  {
+    "maskuline": "kriminalan",
+    "feminine": "kriminalna",
+    "neutrum": "kriminalno",
+    "ukrainian_translation": "кримінальний",
+    "example_sentence": "Kriminalna organizacija je raskrinkana nakon dugotrajne istrage.",
+    "ukrainian_translation_sentence": "Кримінальна організація була розкрита після тривалого розслідування."
+  },
+  {
+    "maskuline": "kristalan",
+    "feminine": "kristalna",
+    "neutrum": "kristalno",
+    "ukrainian_translation": "кришталевий",
+    "example_sentence": "Voda u jezeru bila je kristalno čista.",
+    "ukrainian_translation_sentence": "Вода в озері була кришталево чистою."
+  },
+  {
+    "maskuline": "kriv",
+    "feminine": "kriva",
+    "neutrum": "krivo",
+    "ukrainian_translation": "винний",
+    "example_sentence": "Sud je odlučio da je optuženi kriv za počinjeno djelo.",
+    "ukrainian_translation_sentence": "Суд вирішив, що обвинувачений винний у скоєному злочині."
+  },
+  {
+    "maskuline": "križarski",
+    "feminine": "križarska",
+    "neutrum": "križarsko",
+    "ukrainian_translation": "хрестовий",
+    "example_sentence": "Proučavali su križarske ratove tijekom povijesne lekcije.",
+    "ukrainian_translation_sentence": "Вони вивчали хрестові походи під час уроку історії."
+  },
+  {
+    "maskuline": "krovni",
+    "feminine": "krovna",
+    "neutrum": "krovno",
+    "ukrainian_translation": "даховий",
+    "example_sentence": "Krovni prozori omogućuju dodatno osvjetljenje u potkrovlju.",
+    "ukrainian_translation_sentence": "Дахові вікна забезпечують додаткове освітлення в мансарді."
+  },
+  {
+    "maskuline": "krucijalan",
+    "feminine": "krucijalna",
+    "neutrum": "krucijalno",
+    "ukrainian_translation": "вирішальний",
+    "example_sentence": "Krucijalan trenutak u utakmici bio je dosuđeni penal.",
+    "ukrainian_translation_sentence": "Вирішальний момент у матчі був призначений пенальті."
+  }
+]

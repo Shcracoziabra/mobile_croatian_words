@@ -1,0 +1,352 @@
+[
+	{
+    "singular": "položaj",
+    "plural": "položaji",
+    "ukrainian_translation": "положення",
+    "example_sentence": "Položaj stola u sobi nije bio praktičan.",
+    "ukrainian_translation_sentence": "Положення столу в кімнаті було непрактичним."
+  },
+  {
+    "singular": "pomagač",
+    "plural": "pomagači",
+    "ukrainian_translation": "помічник",
+    "example_sentence": "Pomagači su pripremili sve za događaj.",
+    "ukrainian_translation_sentence": "Помічники підготували все до заходу."
+  },
+  {
+    "singular": "pomagalo",
+    "plural": "pomagala",
+    "ukrainian_translation": "допоміжний засіб",
+    "example_sentence": "Koristio je pomagalo za lakše kretanje.",
+    "ukrainian_translation_sentence": "Він використовував допоміжний засіб для полегшення руху."
+  },
+  {
+    "singular": "pomorac",
+    "plural": "pomorci",
+    "ukrainian_translation": "моряк",
+    "example_sentence": "Pomorci su isplovili na dug put prema otvorenom moru.",
+    "ukrainian_translation_sentence": "Моряки вирушили у довгу подорож до відкритого моря."
+  },
+  {
+    "singular": "pomutnja",
+    "plural": "pomutnje",
+    "ukrainian_translation": "замішання",
+    "example_sentence": "Iznenadna vijest izazvala je pomutnju među prisutnima.",
+    "ukrainian_translation_sentence": "Несподівана новина викликала замішання серед присутніх."
+  },
+  {
+    "singular": "ponuditelj",
+    "plural": "ponuditelji",
+    "ukrainian_translation": "постачальник",
+    "example_sentence": "Najbolji ponuditelj dobio je ugovor.",
+    "ukrainian_translation_sentence": "Найкращий постачальник отримав контракт."
+  },
+  {
+    "singular": "popravljanje",
+    "plural": "popravljanja",
+    "ukrainian_translation": "ремонт",
+    "example_sentence": "Popravljanje automobila potrajalo je nekoliko sati.",
+    "ukrainian_translation_sentence": "Ремонт автомобіля зайняв кілька годин."
+  },
+  {
+    "singular": "popunjavanje",
+    "plural": "popunjavanja",
+    "ukrainian_translation": "заповнення",
+    "example_sentence": "Popunjavanje obrasca je bilo brzo i jednostavno.",
+    "ukrainian_translation_sentence": "Заповнення форми було швидким і простим."
+  },
+  {
+    "singular": "popunjenost",
+    "plural": "popunjenosti",
+    "ukrainian_translation": "заповненість",
+    "example_sentence": "Popunjenost hotela bila je na maksimalnoj razini tijekom sezone.",
+    "ukrainian_translation_sentence": "Заповненість готелю була на максимальному рівні під час сезону."
+  },
+  {
+    "singular": "popuštanje",
+    "plural": "popuštanja",
+    "ukrainian_translation": "послаблення",
+    "example_sentence": "Popuštanje mjera donijelo je olakšanje građanima.",
+    "ukrainian_translation_sentence": "Послаблення обмежень принесло полегшення громадянам."
+  },
+  {
+    "singular": "poredak",
+    "plural": "poretci",
+    "ukrainian_translation": "порядок",
+    "example_sentence": "Novi poredak u društvu je donio brojne promjene.",
+    "ukrainian_translation_sentence": "Новий порядок у суспільстві приніс численні зміни."
+  },
+  {
+    "singular": "poremećaj",
+    "plural": "poremećaji",
+    "ukrainian_translation": "розлад",
+    "example_sentence": "Poremećaj spavanja može ozbiljno utjecati na zdravlje.",
+    "ukrainian_translation_sentence": "Розлад сну може серйозно вплинути на здоров'я."
+  },
+  {
+    "singular": "porijeklo",
+    "plural": "porijekla",
+    "ukrainian_translation": "походження",
+    "example_sentence": "Porijeklo ovog običaja seže u daleku prošlost.",
+    "ukrainian_translation_sentence": "Походження цього звичаю сягає далекого минулого."
+  },
+  {
+    "singular": "porta",
+    "plural": "porte",
+    "ukrainian_translation": "ворота",
+    "example_sentence": "Čuvar je otvorio porta za ulazak u dvorac.",
+    "ukrainian_translation_sentence": "Охоронець відчинив ворота для входу в замок."
+  },
+  {
+    "singular": "posebnost",
+    "plural": "posebnosti",
+    "ukrainian_translation": "особливість",
+    "example_sentence": "Posebnost ove kuće je njen jedinstveni dizajn.",
+    "ukrainian_translation_sentence": "Особливістю цього будинку є його унікальний дизайн."
+  },
+	{
+    "singular": "posjetilac",
+    "plural": "posjetioci",
+    "ukrainian_translation": "відвідувач",
+    "example_sentence": "Posjetioci su uživali u izložbi u muzeju.",
+    "ukrainian_translation_sentence": "Відвідувачі насолоджувалися виставкою в музеї."
+  },
+  {
+    "singular": "posjetitelj",
+    "plural": "posjetitelji",
+    "ukrainian_translation": "відвідувач",
+    "example_sentence": "Posjetitelji su stigli rano kako bi izbjegli gužvu.",
+    "ukrainian_translation_sentence": "Відвідувачі приїхали рано, щоб уникнути натовпу."
+  },
+  {
+    "singular": "poslodavac",
+    "plural": "poslodavci",
+    "ukrainian_translation": "роботодавець",
+    "example_sentence": "Poslodavac je ponudio dodatne pogodnosti zaposlenicima.",
+    "ukrainian_translation_sentence": "Роботодавець запропонував додаткові переваги працівникам."
+  },
+  {
+    "singular": "poslovnik",
+    "plural": "poslovnici",
+    "ukrainian_translation": "регламент",
+    "example_sentence": "Poslovnik je odredio pravila ponašanja u uredu.",
+    "ukrainian_translation_sentence": "Регламент визначив правила поведінки в офісі."
+  },
+  {
+    "singular": "posluživanje",
+    "plural": "posluživanja",
+    "ukrainian_translation": "обслуговування",
+    "example_sentence": "Posluživanje gostiju u restoranu bilo je brzo i efikasno.",
+    "ukrainian_translation_sentence": "Обслуговування гостей у ресторані було швидким та ефективним."
+  },
+  {
+    "singular": "posredstvo",
+    "plural": "posredstva",
+    "ukrainian_translation": "посередництво",
+    "example_sentence": "Posredstvo u sporovima često pomaže u rješavanju konflikata.",
+    "ukrainian_translation_sentence": "Посередництво в суперечках часто допомагає вирішити конфлікти."
+  },
+  {
+    "singular": "postavljanje",
+    "plural": "postavljanja",
+    "ukrainian_translation": "встановлення",
+    "example_sentence": "Postavljanje novog sustava trajalo je cijeli dan.",
+    "ukrainian_translation_sentence": "Встановлення нової системи зайняло цілий день."
+  },
+  {
+    "singular": "postojanje",
+    "plural": "postojanja",
+    "ukrainian_translation": "існування",
+    "example_sentence": "Postojanje života na drugim planetima je još uvijek nepoznato.",
+    "ukrainian_translation_sentence": "Існування життя на інших планетах залишається невідомим."
+  },
+  {
+    "singular": "potencijal",
+    "plural": "potencijali",
+    "ukrainian_translation": "потенціал",
+    "example_sentence": "Njegov potencijal u sportu je neosporan.",
+    "ukrainian_translation_sentence": "Його потенціал у спорті незаперечний."
+  },
+  {
+    "singular": "potok",
+    "plural": "potoci",
+    "ukrainian_translation": "струмок",
+    "example_sentence": "Djeca su se igrala uz potok u šumi.",
+    "ukrainian_translation_sentence": "Діти гралися біля струмка в лісі."
+  },
+  {
+    "singular": "potrošnja",
+    "plural": "potrošnje",
+    "ukrainian_translation": "споживання",
+    "example_sentence": "Potrošnja energije se povećala tijekom zime.",
+    "ukrainian_translation_sentence": "Споживання енергії збільшилося взимку."
+  },
+  {
+    "singular": "povezivanje",
+    "plural": "povezivanja",
+    "ukrainian_translation": "з'єднання",
+    "example_sentence": "Povezivanje različitih sustava zahtijevalo je posebnu opremu.",
+    "ukrainian_translation_sentence": "З'єднання різних систем вимагало спеціального обладнання."
+  },
+  {
+    "singular": "povik",
+    "plural": "povici",
+    "ukrainian_translation": "крик",
+    "example_sentence": "Čuo se povik iz susjedne sobe.",
+    "ukrainian_translation_sentence": "З сусідньої кімнати пролунав крик."
+  },
+  {
+    "singular": "povjerenik",
+    "plural": "povjerenici",
+    "ukrainian_translation": "комісар",
+    "example_sentence": "Povjerenik za ljudska prava održao je konferenciju za novinare.",
+    "ukrainian_translation_sentence": "Комісар з прав людини провів пресконференцію."
+  },
+  {
+    "singular": "povlačenje",
+    "plural": "povlačenja",
+    "ukrainian_translation": "відступ",
+    "example_sentence": "Povlačenje vojske bilo je neizbježno nakon poraza.",
+    "ukrainian_translation_sentence": "Відступ армії був неминучим після поразки."
+  },
+  {
+    "singular": "povlastica",
+    "plural": "povlastice",
+    "ukrainian_translation": "привілей",
+    "example_sentence": "Zaposlenici imaju pravo na određene povlastice.",
+    "ukrainian_translation_sentence": "Працівники мають право на певні привілеї."
+  },
+  {
+    "singular": "povraćanje",
+    "plural": "povraćanja",
+    "ukrainian_translation": "блювання",
+    "example_sentence": "Nakon obroka osjetio je mučninu i povraćanje.",
+    "ukrainian_translation_sentence": "Після їжі він відчув нудоту і блювання."
+  },
+  {
+    "singular": "povreda",
+    "plural": "povrede",
+    "ukrainian_translation": "травма",
+    "example_sentence": "Teška povreda ga je spriječila da nastavi karijeru.",
+    "ukrainian_translation_sentence": "Серйозна травма завадила йому продовжити кар'єру."
+  },
+  {
+    "singular": "pozadina",
+    "plural": "pozadine",
+    "ukrainian_translation": "тло",
+    "example_sentence": "Slika je imala prekrasnu plavu pozadinu.",
+    "ukrainian_translation_sentence": "Картина мала чудове синє тло."
+  },
+  {
+    "singular": "pozicioniranje",
+    "plural": "pozicioniranja",
+    "ukrainian_translation": "позиціонування",
+    "example_sentence": "Pozicioniranje proizvoda na tržištu bilo je ključno za uspjeh.",
+    "ukrainian_translation_sentence": "Позиціонування продукту на ринку було ключовим для успіху."
+  },
+	{
+    "singular": "pozitiv",
+    "plural": "pozitivi",
+    "ukrainian_translation": "позитив",
+    "example_sentence": "Uvijek je pokušavao zadržati pozitivan stav, čak i u teškim trenucima.",
+    "ukrainian_translation_sentence": "Він завжди намагався зберігати позитивний настрій, навіть у важкі моменти."
+  },
+  {
+    "singular": "poziv",
+    "plural": "pozivi",
+    "ukrainian_translation": "дзвінок",
+    "example_sentence": "Primio je hitan poziv usred noći.",
+    "ukrainian_translation_sentence": "Він отримав терміновий дзвінок серед ночі."
+  },
+  {
+    "singular": "pozivnica",
+    "plural": "pozivnice",
+    "ukrainian_translation": "запрошення",
+    "example_sentence": "Poslao im je pozivnicu na rođendansku zabavu.",
+    "ukrainian_translation_sentence": "Він надіслав їм запрошення на день народження."
+  },
+  {
+    "singular": "poznavanje",
+    "plural": "poznavanja",
+    "ukrainian_translation": "знання",
+    "example_sentence": "Njegovo poznavanje jezika pomoglo mu je u komunikaciji s lokalnim stanovništvom.",
+    "ukrainian_translation_sentence": "Його знання мови допомогло йому в спілкуванні з місцевими жителями."
+  },
+  {
+    "singular": "praćenje",
+    "plural": "praćenja",
+    "ukrainian_translation": "стеження",
+    "example_sentence": "Praćenje vremenskih uvjeta važno je za poljoprivrednike.",
+    "ukrainian_translation_sentence": "Стеження за погодними умовами важливе для фермерів."
+  },
+  {
+    "singular": "prase",
+    "plural": "prasadi",
+    "ukrainian_translation": "порося",
+    "example_sentence": "Malo prase trčalo je po dvorištu.",
+    "ukrainian_translation_sentence": "Маленьке порося бігало по подвір'ю."
+  },
+  {
+    "singular": "pravljenje",
+    "plural": "pravljenja",
+    "ukrainian_translation": "створення",
+    "example_sentence": "Pravljenje domaćih kolača postalo je njegova strast.",
+    "ukrainian_translation_sentence": "Створення домашніх тістечок стало його пристрастю."
+  },
+  {
+    "singular": "pravo",
+    "plural": "prava",
+    "ukrainian_translation": "право",
+    "example_sentence": "Svi imaju pravo na slobodno izražavanje mišljenja.",
+    "ukrainian_translation_sentence": "Усі мають право на вільне вираження думки."
+  },
+  {
+    "singular": "pravopis",
+    "plural": "pravopisi",
+    "ukrainian_translation": "орфографія",
+    "example_sentence": "Njezin pravopis je bio savršen u svakom eseju.",
+    "ukrainian_translation_sentence": "Її орфографія була бездоганною в кожному есе."
+  },
+  {
+    "singular": "pređa",
+    "plural": "pređe",
+    "ukrainian_translation": "пряжа",
+    "example_sentence": "Koristila je vunenu pređu za pletenje šala.",
+    "ukrainian_translation_sentence": "Вона використовувала вовняну пряжу для в'язання шарфа."
+  },
+  {
+    "singular": "predavač",
+    "plural": "predavači",
+    "ukrainian_translation": "лектор",
+    "example_sentence": "Predavač je održao zanimljivo predavanje o povijesti umjetnosti.",
+    "ukrainian_translation_sentence": "Лектор провів цікаву лекцію з історії мистецтва."
+  },
+  {
+    "singular": "predgrupa",
+    "plural": "predgrupe",
+    "ukrainian_translation": "група, що виступає на розігріві",
+    "example_sentence": "Predgrupa je zagrijala publiku prije glavnog nastupa.",
+    "ukrainian_translation_sentence": "Група, що виступала на розігріві, розігріла публіку перед головним виступом."
+  },
+	{
+    "singular": "predjelo",
+    "plural": "predjela",
+    "ukrainian_translation": "закуска",
+    "example_sentence": "Poslužili su predjelo prije glavnog jela.",
+    "ukrainian_translation_sentence": "Перед основною стравою подали закуску."
+  },
+  {
+    "singular": "predlagatelj",
+    "plural": "predlagatelji",
+    "ukrainian_translation": "пропонувач",
+    "example_sentence": "Predlagatelj zakona je predstavio njegovu važnost za društvo.",
+    "ukrainian_translation_sentence": "Пропонувач закону представив його важливість для суспільства."
+  },
+  {
+    "singular": "predložak",
+    "plural": "predlošci",
+    "ukrainian_translation": "шаблон",
+    "example_sentence": "Koristio je predložak za izradu dokumenta.",
+    "ukrainian_translation_sentence": "Він використовував шаблон для створення документа."
+  }
+]

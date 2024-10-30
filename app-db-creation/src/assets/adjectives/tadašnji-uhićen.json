@@ -1,0 +1,402 @@
+[
+  {
+    "maskuline": "tadašnji",
+    "feminine": "tadašnja",
+    "neutrum": "tadašnje",
+    "ukrainian_translation": "тогочасний",
+    "example_sentence": "Tadašnja politika utjecala je na ekonomski rast zemlje.",
+    "ukrainian_translation_sentence": "Тогочасна політика вплинула на економічне зростання країни."
+  },
+  {
+    "maskuline": "tajanstven",
+    "feminine": "tajanstvena",
+    "neutrum": "tajanstveno",
+    "ukrainian_translation": "таємничий",
+    "example_sentence": "Njegov tajanstven osmijeh ostao je neobjašnjen.",
+    "ukrainian_translation_sentence": "Його таємничу усмішку так і не пояснили."
+  },
+  {
+    "maskuline": "taktički",
+    "feminine": "taktička",
+    "neutrum": "taktičko",
+    "ukrainian_translation": "тактичний",
+    "example_sentence": "Taktički potezi bili su ključni za pobjedu u igri.",
+    "ukrainian_translation_sentence": "Тактичні ходи були ключовими для перемоги у грі."
+  },
+  {
+    "maskuline": "tamnoput",
+    "feminine": "tamnoputa",
+    "neutrum": "tamnoputo",
+    "ukrainian_translation": "темношкірий",
+    "example_sentence": "Tamnoput muškarac stajao je na suncu.",
+    "ukrainian_translation_sentence": "Темношкірий чоловік стояв на сонці."
+  },
+  {
+    "maskuline": "tankerski",
+    "feminine": "tankerska",
+    "neutrum": "tankersko",
+    "ukrainian_translation": "танкерний",
+    "example_sentence": "Tankerski brodovi prevoze naftu preko oceana.",
+    "ukrainian_translation_sentence": "Танкерні кораблі перевозять нафту через океан."
+  },
+  {
+    "maskuline": "tehnički",
+    "feminine": "tehnička",
+    "neutrum": "tehničko",
+    "ukrainian_translation": "технічний",
+    "example_sentence": "Tehnički problemi odgodili su početak projekta.",
+    "ukrainian_translation_sentence": "Технічні проблеми затримали початок проєкту."
+  },
+  {
+    "maskuline": "tekstilan",
+    "feminine": "tekstilna",
+    "neutrum": "tekstilno",
+    "ukrainian_translation": "текстильний",
+    "example_sentence": "Tekstilna industrija razvija se u mnogim zemljama.",
+    "ukrainian_translation_sentence": "Текстильна промисловість розвивається у багатьох країнах."
+  },
+  {
+    "maskuline": "telefonski",
+    "feminine": "telefonska",
+    "neutrum": "telefonsko",
+    "ukrainian_translation": "телефонний",
+    "example_sentence": "Telefonski poziv stigao je u pravo vrijeme.",
+    "ukrainian_translation_sentence": "Телефонний дзвінок надійшов у потрібний час."
+  },
+  {
+    "maskuline": "televizijski",
+    "feminine": "televizijska",
+    "neutrum": "televizijsko",
+    "ukrainian_translation": "телевізійний",
+    "example_sentence": "Televizijska emisija bila je vrlo popularna među gledateljima.",
+    "ukrainian_translation_sentence": "Телевізійне шоу було дуже популярним серед глядачів."
+  },
+  {
+    "maskuline": "tematski",
+    "feminine": "tematska",
+    "neutrum": "tematsko",
+    "ukrainian_translation": "тематичний",
+    "example_sentence": "Tematska izložba bila je posvećena modernoj umjetnosti.",
+    "ukrainian_translation_sentence": "Тематична виставка була присвячена сучасному мистецтву."
+  },
+  {
+    "maskuline": "temperamentan",
+    "feminine": "temperamentna",
+    "neutrum": "temperamentno",
+    "ukrainian_translation": "темпераментний",
+    "example_sentence": "Njegova temperamentna priroda često izaziva sukobe.",
+    "ukrainian_translation_sentence": "Його темпераментна натура часто викликає конфлікти."
+  },
+  {
+    "maskuline": "teniski",
+    "feminine": "teniska",
+    "neutrum": "tenisko",
+    "ukrainian_translation": "тенісний",
+    "example_sentence": "Teniski teren bio je pripremljen za veliki turnir.",
+    "ukrainian_translation_sentence": "Тенісний корт був підготовлений до великого турніру."
+  },
+  {
+    "maskuline": "teoretski",
+    "feminine": "teoretska",
+    "neutrum": "teoretsko",
+    "ukrainian_translation": "теоретичний",
+    "example_sentence": "Teoretski koncepti često se raspravljaju na predavanjima.",
+    "ukrainian_translation_sentence": "Теоретичні концепції часто обговорюються на лекціях."
+  },
+  {
+    "maskuline": "terapeutski",
+    "feminine": "terapeutska",
+    "neutrum": "terapeutsko",
+    "ukrainian_translation": "терапевтичний",
+    "example_sentence": "Terapeutski tretmani pomažu u oporavku pacijenata.",
+    "ukrainian_translation_sentence": "Терапевтичні процедури допомагають пацієнтам у відновленні."
+  },
+  {
+    "maskuline": "terapijski",
+    "feminine": "terapijska",
+    "neutrum": "terapijsko",
+    "ukrainian_translation": "лікувальний",
+    "example_sentence": "Terapijski program uključuje fizičke vježbe i masaže.",
+    "ukrainian_translation_sentence": "Лікувальна програма включає фізичні вправи та масаж."
+  },
+  {
+    "maskuline": "teroristički",
+    "feminine": "teroristička",
+    "neutrum": "terorističko",
+    "ukrainian_translation": "терористичний",
+    "example_sentence": "Teroristički napadi uzdrmali su svijet.",
+    "ukrainian_translation_sentence": "Терористичні атаки потрясли світ."
+  },
+  {
+    "maskuline": "testni",
+    "feminine": "testna",
+    "neutrum": "testno",
+    "ukrainian_translation": "тестовий",
+    "example_sentence": "Testni sustav pokazao je dobre rezultate.",
+    "ukrainian_translation_sentence": "Тестова система показала гарні результати."
+  },
+  {
+    "maskuline": "tih",
+    "feminine": "tiha",
+    "neutrum": "tiho",
+    "ukrainian_translation": "тихий",
+    "example_sentence": "Tihi šapat čuo se u sobi.",
+    "ukrainian_translation_sentence": "Тихий шепіт лунав у кімнаті."
+  },
+  {
+    "maskuline": "tijesan",
+    "feminine": "tijesna",
+    "neutrum": "tijesno",
+    "ukrainian_translation": "тісний",
+    "example_sentence": "Tijesan prostor nije bio dovoljan za sve goste.",
+    "ukrainian_translation_sentence": "Тісного простору було недостатньо для всіх гостей."
+  },
+  {
+    "maskuline": "timski",
+    "feminine": "timska",
+    "neutrum": "timsko",
+    "ukrainian_translation": "командний",
+    "example_sentence": "Timski rad pomaže u postizanju boljih rezultata.",
+    "ukrainian_translation_sentence": "Командна робота допомагає досягти кращих результатів."
+  },
+  {
+    "maskuline": "tinejdžerski",
+    "feminine": "tinejdžerska",
+    "neutrum": "tinejdžersko",
+    "ukrainian_translation": "підлітковий",
+    "example_sentence": "Tinejdžerski problemi često uključuju odnose s roditeljima.",
+    "ukrainian_translation_sentence": "Підліткові проблеми часто включають відносини з батьками."
+  },
+  {
+    "maskuline": "tipičan",
+    "feminine": "tipična",
+    "neutrum": "tipično",
+    "ukrainian_translation": "типовий",
+    "example_sentence": "To je tipičan primjer dobre suradnje.",
+    "ukrainian_translation_sentence": "Це типовий приклад гарної співпраці."
+  },
+  {
+    "maskuline": "tjelesni",
+    "feminine": "tjelesna",
+    "neutrum": "tjelesno",
+    "ukrainian_translation": "фізичний",
+    "example_sentence": "Tjelesna aktivnost važna je za zdravlje.",
+    "ukrainian_translation_sentence": "Фізична активність важлива для здоров'я."
+  },
+  {
+    "maskuline": "točan",
+    "feminine": "točna",
+    "neutrum": "točno",
+    "ukrainian_translation": "точний",
+    "example_sentence": "Točno vrijeme dolaska vlaka objavljeno je na peronu.",
+    "ukrainian_translation_sentence": "Точний час прибуття поїзда було оголошено на пероні."
+  },
+  {
+    "maskuline": "tolerantan",
+    "feminine": "tolerantna",
+    "neutrum": "tolerantno",
+    "ukrainian_translation": "толерантний",
+    "example_sentence": "Tolerantan pristup u diskusiji omogućuje bolje razumijevanje.",
+    "ukrainian_translation_sentence": "Толерантний підхід у дискусії сприяє кращому розумінню."
+  },
+  {
+    "maskuline": "topao",
+    "feminine": "topla",
+    "neutrum": "toplo",
+    "ukrainian_translation": "теплий",
+    "example_sentence": "Topla kava grijala ga je u hladno jutro.",
+    "ukrainian_translation_sentence": "Тепла кава гріла його в холодний ранок."
+  },
+  {
+    "maskuline": "toplinski",
+    "feminine": "toplinska",
+    "neutrum": "toplinsko",
+    "ukrainian_translation": "тепловий",
+    "example_sentence": "Toplinski val zahvatio je cijelu regiju.",
+    "ukrainian_translation_sentence": "Теплова хвиля охопила весь регіон."
+  },
+  {
+    "maskuline": "topnički",
+    "feminine": "topnička",
+    "neutrum": "topničko",
+    "ukrainian_translation": "артилерійський",
+    "example_sentence": "Topnička jedinica bila je ključna u operaciji.",
+    "ukrainian_translation_sentence": "Артилерійський підрозділ був ключовим у операції."
+  },
+  {
+    "maskuline": "tragičan",
+    "feminine": "tragična",
+    "neutrum": "tragično",
+    "ukrainian_translation": "трагічний",
+    "example_sentence": "Njegov tragičan gubitak pogodio je sve koji su ga poznavali.",
+    "ukrainian_translation_sentence": "Його трагічна втрата вразила всіх, хто його знав."
+  },
+  {
+    "maskuline": "trajan",
+    "feminine": "trajna",
+    "neutrum": "trajano",
+    "ukrainian_translation": "постійний",
+    "example_sentence": "Trajan mir bio je cilj diplomatskih pregovora.",
+    "ukrainian_translation_sentence": "Постійний мир був метою дипломатичних переговорів."
+  },
+  {
+    "maskuline": "transportni",
+    "feminine": "transportna",
+    "neutrum": "transportno",
+    "ukrainian_translation": "транспортний",
+    "example_sentence": "Transportni sustav grada poboljšan je novim vozilima.",
+    "ukrainian_translation_sentence": "Транспортна система міста була покращена новими транспортними засобами."
+  },
+  {
+    "maskuline": "travnat",
+    "feminine": "travnata",
+    "neutrum": "travnato",
+    "ukrainian_translation": "трав'яний",
+    "example_sentence": "Travnati teren bio je savršen za igru.",
+    "ukrainian_translation_sentence": "Трав'яне поле було ідеальним для гри."
+  },
+  {
+    "maskuline": "trećeplasiran",
+    "feminine": "trećeplasirana",
+    "neutrum": "trećeplasirano",
+    "ukrainian_translation": "третє місце",
+    "example_sentence": "Trećeplasirani tim dobio je brončanu medalju.",
+    "ukrainian_translation_sentence": "Команда, яка посіла третє місце, отримала бронзову медаль."
+  },
+  {
+    "maskuline": "trenerski",
+    "feminine": "trenerska",
+    "neutrum": "trenersko",
+    "ukrainian_translation": "тренерський",
+    "example_sentence": "Trenerski savjeti pomogli su timu da pobijedi.",
+    "ukrainian_translation_sentence": "Тренерські поради допомогли команді перемогти."
+  },
+  {
+    "maskuline": "trenutačan",
+    "feminine": "trenutačna",
+    "neutrum": "trenutačno",
+    "ukrainian_translation": "миттєвий",
+    "example_sentence": "Njegova reakcija bila je trenutačna i precizna.",
+    "ukrainian_translation_sentence": "Його реакція була миттєвою і точною."
+  },
+  {
+    "maskuline": "trenutan",
+    "feminine": "trenutna",
+    "neutrum": "trenutno",
+    "ukrainian_translation": "поточний",
+    "example_sentence": "Trenutna situacija zahtijeva hitne mjere.",
+    "ukrainian_translation_sentence": "Поточна ситуація вимагає термінових заходів."
+  },
+  {
+    "maskuline": "trgovinski",
+    "feminine": "trgovinska",
+    "neutrum": "trgovinsko",
+    "ukrainian_translation": "торговий",
+    "example_sentence": "Trgovinski odnosi između zemalja jačaju svake godine.",
+    "ukrainian_translation_sentence": "Торговельні відносини між країнами зміцнюються щороку."
+  },
+  {
+    "maskuline": "trijezan",
+    "feminine": "trijezna",
+    "neutrum": "trijezno",
+    "ukrainian_translation": "тверезий",
+    "example_sentence": "Trijezan pogled na situaciju pomogao je riješiti problem.",
+    "ukrainian_translation_sentence": "Тверезий погляд на ситуацію допоміг вирішити проблему."
+  },
+  {
+    "maskuline": "tropski",
+    "feminine": "tropska",
+    "neutrum": "tropsko",
+    "ukrainian_translation": "тропічний",
+    "example_sentence": "Tropski otoci poznati su po svojoj egzotičnoj ljepoti.",
+    "ukrainian_translation_sentence": "Тропічні острови відомі своєю екзотичною красою."
+  },
+  {
+    "maskuline": "trostruk",
+    "feminine": "trostruka",
+    "neutrum": "trostruko",
+    "ukrainian_translation": "потрійний",
+    "example_sentence": "Trostruka pobjeda donijela mu je titulu najboljeg natjecatelja.",
+    "ukrainian_translation_sentence": "Потрійна перемога принесла йому звання найкращого учасника."
+  },
+  {
+    "maskuline": "tuđ",
+    "feminine": "tuđa",
+    "neutrum": "tuđe",
+    "ukrainian_translation": "чужий",
+    "example_sentence": "Nije volio zadirati u tuđi život.",
+    "ukrainian_translation_sentence": "Він не любив втручатися в чужі справи."
+  },
+  {
+    "maskuline": "tvornički",
+    "feminine": "tvornička",
+    "neutrum": "tvorničko",
+    "ukrainian_translation": "заводський",
+    "example_sentence": "Tvornički radnici proveli su štrajk zbog uvjeta rada.",
+    "ukrainian_translation_sentence": "Заводські робітники провели страйк через умови праці."
+  },
+  {
+    "maskuline": "tvrd",
+    "feminine": "tvrda",
+    "neutrum": "tvrdo",
+    "ukrainian_translation": "твердий",
+    "example_sentence": "Tvrda površina stola bila je pogodna za rad.",
+    "ukrainian_translation_sentence": "Тверда поверхня столу була зручна для роботи."
+  },
+  {
+    "maskuline": "učen",
+    "feminine": "učena",
+    "neutrum": "učeno",
+    "ukrainian_translation": "освічений",
+    "example_sentence": "Učen čovjek donosi mudre odluke.",
+    "ukrainian_translation_sentence": "Освічена людина приймає мудрі рішення."
+  },
+  {
+    "maskuline": "učinkovit",
+    "feminine": "učinkovita",
+    "neutrum": "učinkovito",
+    "ukrainian_translation": "ефективний",
+    "example_sentence": "Učinkovit radni proces smanjuje vrijeme izvršenja zadataka.",
+    "ukrainian_translation_sentence": "Ефективний робочий процес зменшує час виконання завдань."
+  },
+  {
+    "maskuline": "udoban",
+    "feminine": "udobna",
+    "neutrum": "udobno",
+    "ukrainian_translation": "зручний",
+    "example_sentence": "Udoban naslonjač bio je savršen za čitanje knjiga.",
+    "ukrainian_translation_sentence": "Зручне крісло було ідеальним для читання книг."
+  },
+  {
+    "maskuline": "ugodan",
+    "feminine": "ugodna",
+    "neutrum": "ugodno",
+    "ukrainian_translation": "приємний",
+    "example_sentence": "Ugodan razgovor trajao je satima.",
+    "ukrainian_translation_sentence": "Приємна розмова тривала годинами."
+  },
+  {
+    "maskuline": "ugostiteljski",
+    "feminine": "ugostiteljska",
+    "neutrum": "ugostiteljsko",
+    "ukrainian_translation": "ресторанний",
+    "example_sentence": "Ugostiteljski sektor igra važnu ulogu u turizmu.",
+    "ukrainian_translation_sentence": "Ресторанний сектор відіграє важливу роль у туризмі."
+  },
+  {
+    "maskuline": "ugovoran",
+    "feminine": "ugovorna",
+    "neutrum": "ugovorno",
+    "ukrainian_translation": "договірний",
+    "example_sentence": "Ugovorni uvjeti moraju biti jasno definirani.",
+    "ukrainian_translation_sentence": "Договірні умови мають бути чітко визначені."
+  },
+  {
+    "maskuline": "uhićen",
+    "feminine": "uhićena",
+    "neutrum": "uhićeno",
+    "ukrainian_translation": "заарештований",
+    "example_sentence": "Uhićen osumnjičenik čeka na suđenje.",
+    "ukrainian_translation_sentence": "Заарештований підозрюваний чекає на суд."
+  }
+]

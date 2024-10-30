@@ -1,0 +1,402 @@
+[
+  {
+    "infinitive": "dogurati",
+    "present_tense": ["doguram", "doguraš", "dogura", "doguramo", "dogurate", "doguraju"],
+    "past_tense": ["dogurao", "dogurala", "doguralo"],
+    "ukrainian_translation": "досягнути",
+    "example_sentence": "Moraš naporno raditi da bi dogurao do vrha.",
+    "ukrainian_translation_sentence": "Треба наполегливо працювати, щоб досягнути вершини."
+  },
+  {
+    "infinitive": "dohvatiti",
+    "present_tense": ["dohvatim", "dohvatiš", "dohvati", "dohvatimo", "dohvatite", "dohvate"],
+    "past_tense": ["dohvatio", "dohvatila", "dohvatilo"],
+    "ukrainian_translation": "дістати",
+    "example_sentence": "Moraš dohvatiti knjigu s gornje police.",
+    "ukrainian_translation_sentence": "Ти повинен дістати книгу з верхньої полиці."
+  },
+  {
+    "infinitive": "doimati",
+    "present_tense": ["doimam", "doimaš", "doima", "doimamo", "doimate", "doimaju"],
+    "past_tense": ["doimao", "doimala", "doimalo"],
+    "ukrainian_translation": "вражати",
+    "example_sentence": "Njegov nastup je doimao sve prisutne.",
+    "ukrainian_translation_sentence": "Його виступ вразив усіх присутніх."
+  },
+  {
+    "infinitive": "dojiti",
+    "present_tense": ["dojim", "dojiš", "doji", "dojimo", "dojite", "doje"],
+    "past_tense": ["dojio", "dojila", "dojilo"],
+    "ukrainian_translation": "годувати грудьми",
+    "example_sentence": "Majka doji svoje dijete.",
+    "ukrainian_translation_sentence": "Мати годує свою дитину грудьми."
+  },
+  {
+    "infinitive": "dojmiti",
+    "present_tense": ["dojmljujem", "dojmljuješ", "dojmljuje", "dojmljujemo", "dojmljujete", "dojmljuju"],
+    "past_tense": ["dojmio", "dojmila", "dojmilo"],
+    "ukrainian_translation": "вразити",
+    "example_sentence": "Njegov govor je dojmljiv.",
+    "ukrainian_translation_sentence": "Його промова вражаюча."
+  },
+  {
+    "infinitive": "doktorirati",
+    "present_tense": ["doktoriram", "doktoriraš", "doktorira", "doktoriramo", "doktorirate", "doktoriraju"],
+    "past_tense": ["doktorirao", "doktorirala", "doktoriralo"],
+    "ukrainian_translation": "отримати ступінь доктора",
+    "example_sentence": "On planira doktorirati iduće godine.",
+    "ukrainian_translation_sentence": "Він планує отримати ступінь доктора наступного року."
+  },
+  {
+    "infinitive": "dolaziti",
+    "present_tense": ["dolazim", "dolaziš", "dolazi", "dolazimo", "dolazite", "dolaze"],
+    "past_tense": ["dolazio", "dolazila", "dolazilo"],
+    "ukrainian_translation": "приходити",
+    "example_sentence": "Dolazim na posao svaki dan.",
+    "ukrainian_translation_sentence": "Я приходжу на роботу кожного дня."
+  },
+  {
+    "infinitive": "doletjeti",
+    "present_tense": ["doletim", "doletiš", "doleti", "doletimo", "doletite", "dolete"],
+    "past_tense": ["doletio", "doletjela", "doletjelo"],
+    "ukrainian_translation": "прилетіти",
+    "example_sentence": "Ptica je doletjela na prozor.",
+    "ukrainian_translation_sentence": "Птах прилетів на вікно."
+  },
+  {
+    "infinitive": "donijeti",
+    "present_tense": ["donesem", "donesiš", "donese", "donesemo", "donesete", "donesu"],
+    "past_tense": ["donio", "donijela", "donijelo"],
+    "ukrainian_translation": "принести",
+    "example_sentence": "Molim te, donesi mi knjigu.",
+    "ukrainian_translation_sentence": "Будь ласка, принеси мені книгу."
+  },
+  {
+    "infinitive": "donositi",
+    "present_tense": ["donosim", "donosiš", "donosi", "donosimo", "donosite", "donose"],
+    "past_tense": ["donosio", "donosila", "donosilo"],
+    "ukrainian_translation": "приносити",
+    "example_sentence": "On često donosi cvijeće svojoj supruzi.",
+    "ukrainian_translation_sentence": "Він часто приносить квіти своїй дружині."
+  },
+  {
+    "infinitive": "dopadati",
+    "present_tense": ["dopadam", "dopadaš", "dopada", "dopadamo", "dopadate", "dopadaju"],
+    "past_tense": ["dopadao", "dopadala", "dopadalo"],
+    "ukrainian_translation": "подобатися",
+    "example_sentence": "Njegovo ponašanje mi se dopada.",
+    "ukrainian_translation_sentence": "Мені подобається його поведінка."
+  },
+  {
+    "infinitive": "doprijeti",
+    "present_tense": ["doprim", "dopreš", "dopre", "dopremo", "doprete", "dopru"],
+    "past_tense": ["doprio", "doprijela", "doprijelo"],
+    "ukrainian_translation": "досягти",
+    "example_sentence": "Zvuk je dopro do svakog kuta sobe.",
+    "ukrainian_translation_sentence": "Звук досяг кожного кута кімнати."
+  },
+  {
+    "infinitive": "doprinositi",
+    "present_tense": ["doprinosim", "doprinosiš", "doprinosi", "doprinosimo", "doprinosite", "doprinose"],
+    "past_tense": ["doprinosio", "doprinosila", "doprinosilo"],
+    "ukrainian_translation": "сприяти",
+    "example_sentence": "Svi moramo doprinositi zajedničkom cilju.",
+    "ukrainian_translation_sentence": "Усі ми повинні сприяти спільній меті."
+  },
+  {
+    "infinitive": "dopuniti",
+    "present_tense": ["dopunim", "dopuniš", "dopuni", "dopunimo", "dopunite", "dopune"],
+    "past_tense": ["dopunio", "dopunila", "dopunilo"],
+    "ukrainian_translation": "доповнити",
+    "example_sentence": "Molim te, dopuni ovaj dokument.",
+    "ukrainian_translation_sentence": "Будь ласка, доповни цей документ."
+  },
+  {
+    "infinitive": "dopuštati",
+    "present_tense": ["dopuštam", "dopuštaš", "dopušta", "dopuštamo", "dopuštate", "dopuštaju"],
+    "past_tense": ["dopuštao", "dopuštala", "dopuštalo"],
+    "ukrainian_translation": "дозволяти",
+    "example_sentence": "Roditelji mu dopuštaju da izlazi do kasno.",
+    "ukrainian_translation_sentence": "Батьки дозволяють йому гуляти до пізна."
+  },
+  {
+    "infinitive": "doseći",
+    "present_tense": ["dosegnem", "dosegneš", "dosegne", "dosegnemo", "dosegnete", "dosegnu"],
+    "past_tense": ["dosegao", "dosegla", "doseglo"],
+    "ukrainian_translation": "досягти",
+    "example_sentence": "On je dosegao svoje ciljeve.",
+    "ukrainian_translation_sentence": "Він досяг своїх цілей."
+  },
+  {
+    "infinitive": "dosegnuti",
+    "present_tense": ["dosegnem", "dosegneš", "dosegne", "dosegnemo", "dosegnete", "dosegnu"],
+    "past_tense": ["dosegnuo", "dosegnula", "dosegnulo"],
+    "ukrainian_translation": "досягти",
+    "example_sentence": "Moramo dosegnuti tu visinu.",
+    "ukrainian_translation_sentence": "Ми повинні досягти цієї висоти."
+  },
+  {
+    "infinitive": "doseliti",
+    "present_tense": ["doselim", "doseliš", "doseli", "doselimo", "doselite", "dosele"],
+    "past_tense": ["doselio", "doselila", "doselilo"],
+    "ukrainian_translation": "переселитися",
+    "example_sentence": "Obitelj je doselila u novi grad.",
+    "ukrainian_translation_sentence": "Сім'я переселилася до нового міста."
+  },
+  {
+    "infinitive": "doskočiti",
+    "present_tense": ["doskočim", "doskočiš", "doskoči", "doskočimo", "doskočite", "doskoče"],
+    "past_tense": ["doskočio", "doskočila", "doskočilo"],
+    "ukrainian_translation": "перестрибнути",
+    "example_sentence": "On je doskočio preko zida.",
+    "ukrainian_translation_sentence": "Він перестрибнув через стіну."
+  },
+  {
+    "infinitive": "dospijevati",
+    "present_tense": ["dospijevam", "dospijevaš", "dospijeva", "dospijevamo", "dospijevate", "dospijevaju"],
+    "past_tense": ["dospijevao", "dospijevala", "dospijevalo"],
+    "ukrainian_translation": "встигати",
+    "example_sentence": "Ne dospijevam obaviti sve zadatke.",
+    "ukrainian_translation_sentence": "Я не встигаю виконати всі завдання."
+  },
+  {
+    "infinitive": "dostaviti",
+    "present_tense": ["dostavim", "dostaviš", "dostavi", "dostavimo", "dostavite", "dostave"],
+    "past_tense": ["dostavio", "dostavila", "dostavilo"],
+    "ukrainian_translation": "доставити",
+    "example_sentence": "Kurier će dostaviti paket sutra.",
+    "ukrainian_translation_sentence": "Кур'єр доставить пакет завтра."
+  },
+  {
+    "infinitive": "dovoditi",
+    "present_tense": ["dovodim", "dovodiš", "dovodi", "dovodimo", "dovodite", "dovode"],
+    "past_tense": ["dovodio", "dovodila", "dovodilo"],
+    "ukrainian_translation": "приводити",
+    "example_sentence": "On često dovodi prijatelje kući.",
+    "ukrainian_translation_sentence": "Він часто приводить друзів додому."
+  },
+  {
+    "infinitive": "dovoziti",
+    "present_tense": ["dovozim", "dovoziš", "dovozi", "dovozimo", "dovozite", "dovoze"],
+    "past_tense": ["dovozio", "dovozila", "dovozilo"],
+    "ukrainian_translation": "привозити",
+    "example_sentence": "Kamion dovozio robu svakog jutra.",
+    "ukrainian_translation_sentence": "Вантажівка привозила товар щоранку."
+  },
+  {
+    "infinitive": "dozivati",
+    "present_tense": ["dozivam", "dozivaš", "doziva", "dozivamo", "dozivate", "dozivaju"],
+    "past_tense": ["dozivao", "dozivala", "dozivalo"],
+    "ukrainian_translation": "кликати",
+    "example_sentence": "Dozivam te, ali me ne čuješ.",
+    "ukrainian_translation_sentence": "Я кличу тебе, але ти мене не чуєш."
+  },
+  {
+    "infinitive": "doživjeti",
+    "present_tense": ["doživim", "doživiš", "doživi", "doživimo", "doživite", "dožive"],
+    "past_tense": ["doživio", "doživjela", "doživjelo"],
+    "ukrainian_translation": "пережити",
+    "example_sentence": "On je doživio mnogo toga u životu.",
+    "ukrainian_translation_sentence": "Він пережив багато чого в житті."
+  },
+  {
+    "infinitive": "doznati",
+    "past_tense": ["doznao", "doznala", "doznalo"],
+    "present_tense": ["doznam", "doznaš", "dozna", "doznajemo", "doznajete", "doznaju"],
+    "ukrainian_translation": "дізнатися",
+    "example_sentence": "Nadam se da ću uskoro doznati rezultate.",
+    "ukrainian_translation_sentence": "Сподіваюся, що скоро дізнаюся результати."
+  },
+  {
+      "infinitive": "drogirati",
+      "past_tense": ["drogirao", "drogirala", "drogiralo"],
+      "present_tense": ["drogiram", "drogiraš", "drogira", "drogiramo", "drogirate", "drogiraju"],
+      "ukrainian_translation": "употребляти наркотики",
+      "example_sentence": "On se ne smije drogirati.",
+      "ukrainian_translation_sentence": "Йому не слід вживати наркотики."
+  },
+  {
+      "infinitive": "duljiti",
+      "past_tense": ["duljio", "duljila", "duljilo"],
+      "present_tense": ["duljim", "duljiš", "dulji", "duljimo", "duljite", "dulje"],
+      "ukrainian_translation": "затягувати",
+      "example_sentence": "Ne volim duljiti s poslom.",
+      "ukrainian_translation_sentence": "Не люблю затягувати з роботою."
+  },
+  {
+      "infinitive": "dvoumiti",
+      "past_tense": ["dvoumio", "dvoumila", "dvoumilo"],
+      "present_tense": ["dvoumim", "dvoumiš", "dvoumi", "dvoumimo", "dvoumite", "dvoume"],
+      "ukrainian_translation": "сумніватися",
+      "example_sentence": "Počeo sam dvoumiti o svojoj odluci.",
+      "ukrainian_translation_sentence": "Я почав сумніватися у своєму рішенні."
+  },
+  {
+      "infinitive": "eliminirati",
+      "past_tense": ["eliminirao", "eliminirala", "eliminiralo"],
+      "present_tense": ["eliminiram", "eliminiraš", "eliminira", "eliminiramo", "eliminirate", "eliminiraju"],
+      "ukrainian_translation": "елімінувати",
+      "example_sentence": "Moramo eliminirati sve prepreke.",
+      "ukrainian_translation_sentence": "Ми повинні усунути всі перешкоди."
+  },
+  {
+      "infinitive": "evidentirati",
+      "past_tense": ["evidentirao", "evidentirala", "evidentiralo"],
+      "present_tense": ["evidentiram", "evidentiraš", "evidentira", "evidentiramo", "evidentirate", "evidentiraju"],
+      "ukrainian_translation": "зареєструвати",
+      "example_sentence": "Morate evidentirati svaki dolazak i odlazak.",
+      "ukrainian_translation_sentence": "Вам потрібно зареєструвати кожен прихід і відхід."
+  },
+  {
+      "infinitive": "evoluirati",
+      "past_tense": ["evoluirao", "evoluirala", "evoluiralo"],
+      "present_tense": ["evoluiram", "evoluiraš", "evoluira", "evoluiramo", "evoluirate", "evoluiraju"],
+      "ukrainian_translation": "еволюціонувати",
+      "example_sentence": "Tehnologija se stalno evoluira.",
+      "ukrainian_translation_sentence": "Технологія постійно еволюціонує."
+  },
+  {
+      "infinitive": "financirati",
+      "past_tense": ["financirao", "financirala", "financiralo"],
+      "present_tense": ["financiram", "financiraš", "financira", "financiramo", "financirate", "financiraju"],
+      "ukrainian_translation": "фінансувати",
+      "example_sentence": "Tvrtka planira financirati novi projekt.",
+      "ukrainian_translation_sentence": "Компанія планує фінансувати новий проект."
+  },
+  {
+      "infinitive": "fokusirati",
+      "past_tense": ["fokusirao", "fokusirala", "fokusiralo"],
+      "present_tense": ["fokusiram", "fokusiraš", "fokusira", "fokusiramo", "fokusirate", "fokusiraju"],
+      "ukrainian_translation": "зосереджуватися",
+      "example_sentence": "Moramo se fokusirati na ključne zadatke.",
+      "ukrainian_translation_sentence": "Ми повинні зосередитися на ключових завданнях."
+  },
+  {
+      "infinitive": "formirati",
+      "past_tense": ["formirao", "formirala", "formiralo"],
+      "present_tense": ["formiram", "formiraš", "formira", "formiramo", "formirate", "formiraju"],
+      "ukrainian_translation": "формувати",
+      "example_sentence": "Formirali smo novi tim za projekt.",
+      "ukrainian_translation_sentence": "Ми сформували нову команду для проекту."
+  },
+  {
+      "infinitive": "forsirati",
+      "past_tense": ["forsirao", "forsirala", "forsiralo"],
+      "present_tense": ["forsiram", "forsiraš", "forsira", "forsiramo", "forsirate", "forsiraju"],
+      "ukrainian_translation": "форсувати",
+      "example_sentence": "Pokušali smo forsirati završetak projekta.",
+      "ukrainian_translation_sentence": "Ми намагалися форсувати завершення проекту."
+  },
+  {
+      "infinitive": "fućkati",
+      "past_tense": ["fućkao", "fućkala", "fućkalo"],
+      "present_tense": ["fućkam", "fućkaš", "fućka", "fućkamo", "fućkate", "fućkaju"],
+      "ukrainian_translation": "дуркувати",
+      "example_sentence": "Ne možeš samo fućkati po poslu.",
+      "ukrainian_translation_sentence": "Ти не можеш просто дуркувати на роботі."
+  },
+  {
+      "infinitive": "gajiti",
+      "past_tense": ["gajio", "gajila", "gajilo"],
+      "present_tense": ["gajim", "gajiš", "gaji", "gajimo", "gajite", "gaje"],
+      "ukrainian_translation": "вирощувати",
+      "example_sentence": "Gajimo različite vrste biljaka.",
+      "ukrainian_translation_sentence": "Ми вирощуємо різні види рослин."
+  },
+  {
+      "infinitive": "gladovati",
+      "past_tense": ["gladovao", "gladovala", "gladovalo"],
+      "present_tense": ["gladujem", "gladuješ", "gladuje", "gladujemo", "gladujete", "gladuju"],
+      "ukrainian_translation": "голодувати",
+      "example_sentence": "Ljudi su počeli gladovati zbog nedostatka hrane.",
+      "ukrainian_translation_sentence": "Люди почали голодувати через нестачу їжі."
+  },
+  {
+      "infinitive": "glumiti",
+      "past_tense": ["glumio", "glumila", "glumilo"],
+      "present_tense": ["glumim", "glumiš", "glumi", "glumimo", "glumite", "glume"],
+      "ukrainian_translation": "грати (в театрі)",
+      "example_sentence": "On voli glumiti u kazalištu.",
+      "ukrainian_translation_sentence": "Він любить грати в театрі."
+  },
+  {
+      "infinitive": "goditi",
+      "past_tense": ["godio", "godila", "godilo"],
+      "present_tense": ["godim", "godiš", "godi", "godimo", "godite", "gode"],
+      "ukrainian_translation": "догоджувати",
+      "example_sentence": "Njegovo prisustvo mi zaista godi.",
+      "ukrainian_translation_sentence": "Його присутність справді радує мене."
+  },
+  {
+      "infinitive": "gomilati",
+      "past_tense": ["gomilao", "gomilala", "gomilalo"],
+      "present_tense": ["gomilam", "gomilaš", "gomila", "gomilamo", "gomilate", "gomilaju"],
+      "ukrainian_translation": "накопичувати",
+      "example_sentence": "Počeli smo gomilati stare knjige.",
+      "ukrainian_translation_sentence": "Ми почали накопичувати старі книги."
+  },
+  {
+      "infinitive": "gorjeti",
+      "past_tense": ["gorio", "gorjela", "gorjelo"],
+      "present_tense": ["gorim", "goriš", "gori", "gorimo", "gorite", "gore"],
+      "ukrainian_translation": "горіти",
+      "example_sentence": "Knjige su počele gorjeti.",
+      "ukrainian_translation_sentence": "Книги почали горіти."
+  },
+  {
+      "infinitive": "gospodariti",
+      "past_tense": ["gospodario", "gospodarila", "gospodarilo"],
+      "present_tense": ["gospodarim", "gospodariš", "gospodari", "gospodarimo", "gospodarite", "gospodare"],
+      "ukrainian_translation": "керувати",
+      "example_sentence": "On zna kako gospodariti resursima.",
+      "ukrainian_translation_sentence": "Він знає, як управляти ресурсами."
+  },
+  {
+      "infinitive": "gostiti",
+      "past_tense": ["gostio", "gostila", "gostilo"],
+      "present_tense": ["gostim", "gostiš", "gosti", "gostimo", "gostite", "goste"],
+      "ukrainian_translation": "гостити",
+      "example_sentence": "Planiramo gostiti prijatelje za vikend.",
+      "ukrainian_translation_sentence": "Ми плануємо приймати друзів на вихідні."
+  },
+  {
+      "infinitive": "gostovati",
+      "past_tense": ["gostovao", "gostovala", "gostovalo"],
+      "present_tense": ["gostujem", "gostuješ", "gostuje", "gostujemo", "gostujete", "gostuju"],
+      "ukrainian_translation": "гостювати",
+      "example_sentence": "Oni će gostovati u našem domu.",
+      "ukrainian_translation_sentence": "Вони будуть гостювати в нашому домі."
+  },
+  {
+      "infinitive": "graditi",
+      "past_tense": ["gradio", "gradila", "gradilo"],
+      "present_tense": ["gradim", "gradiš", "gradi", "gradimo", "gradite", "grade"],
+      "ukrainian_translation": "будувати",
+      "example_sentence": "Gradimo novu školu u našem selu.",
+      "ukrainian_translation_sentence": "Ми будуємо нову школу в нашому селі."
+  },
+  {
+      "infinitive": "graničiti",
+      "past_tense": ["graničio", "graničila", "graničilo"],
+      "present_tense": ["graničim", "graničiš", "graniči", "graničimo", "graničite", "graniče"],
+      "ukrainian_translation": "межувати",
+      "example_sentence": "Naša zemlja graniči s mnogim državama.",
+      "ukrainian_translation_sentence": "Наша країна межує з багатьма державами."
+  },
+  {
+      "infinitive": "grebati",
+      "past_tense": ["grebao", "grebala", "grebalo"],
+      "present_tense": ["grebam", "grebaš", "greba", "grebamo", "grebate", "grebaju"],
+      "ukrainian_translation": "дряпати",
+      "example_sentence": "Mačka grebe nam namještaj.",
+      "ukrainian_translation_sentence": "Кішка дряпає наші меблі."
+  },
+  {
+      "infinitive": "gristi",
+      "past_tense": ["grizao", "grizla", "grizlo"],
+      "present_tense": ["grizem", "grizeš", "grize", "grizemo", "grizete", "grizu"],
+      "ukrainian_translation": "кусати",
+      "example_sentence": "Pas često grize svoj rep.",
+      "ukrainian_translation_sentence": "Собака часто кусає свій хвіст."
+  }
+]

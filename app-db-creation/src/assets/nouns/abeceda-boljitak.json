@@ -1,0 +1,352 @@
+[
+	{
+    "singular": "abeceda",
+    "plural": "abecede",
+    "ukrainian_translation": "абетка",
+    "example_sentence": "Djeca uče abecedu u školi.",
+    "ukrainian_translation_sentence": "Діти вивчають абетку в школі."
+  },
+  {
+    "singular": "aerodrom",
+    "plural": "aerodromi",
+    "ukrainian_translation": "аеропорт",
+    "example_sentence": "Avion je sletio na aerodrom u Zagrebu.",
+    "ukrainian_translation_sentence": "Літак приземлився в аеропорту в Загребі."
+  },
+  {
+    "singular": "agnostik",
+    "plural": "agnostici",
+    "ukrainian_translation": "агностик",
+    "example_sentence": "On se identificira kao agnostik.",
+    "ukrainian_translation_sentence": "Він ідентифікує себе як агностик."
+  },
+  {
+    "singular": "agonija",
+    "plural": "agonije",
+    "ukrainian_translation": "агонія",
+    "example_sentence": "Pacijent je bio u agoniji zbog bolova.",
+    "ukrainian_translation_sentence": "Пацієнт був в агонії через біль."
+  },
+  {
+    "singular": "agregat",
+    "plural": "agregati",
+    "ukrainian_translation": "агрегат",
+    "example_sentence": "Agregat je osigurao električnu energiju za cijelo selo.",
+    "ukrainian_translation_sentence": "Агрегат забезпечив електроенергією ціле село."
+  },
+  {
+    "singular": "agresija",
+    "plural": "agresije",
+    "ukrainian_translation": "агресія",
+    "example_sentence": "Agresija je bila očita u njegovom ponašanju.",
+    "ukrainian_translation_sentence": "Агресія була очевидною в його поведінці."
+  },
+  {
+    "singular": "aktivacija",
+    "plural": "aktivacije",
+    "ukrainian_translation": "активація",
+    "example_sentence": "Aktivacija usluge traje nekoliko minuta.",
+    "ukrainian_translation_sentence": "Активація послуги триває кілька хвилин."
+  },
+  {
+    "singular": "alarm",
+    "plural": "alarmi",
+    "ukrainian_translation": "сигналізація",
+    "example_sentence": "Alarm se aktivirao tijekom noći.",
+    "ukrainian_translation_sentence": "Сигналізація активувалася вночі."
+  },
+  {
+    "singular": "alibi",
+    "plural": "alibiji",
+    "ukrainian_translation": "алібі",
+    "example_sentence": "Optuženi je pružio čvrst alibi.",
+    "ukrainian_translation_sentence": "Обвинувачений надав міцне алібі."
+  },
+  {
+    "singular": "alkoholizam",
+    "plural": "alkoholizmi",
+    "ukrainian_translation": "алкоголізм",
+    "example_sentence": "Alkoholizam je ozbiljan zdravstveni problem.",
+    "ukrainian_translation_sentence": "Алкоголізм — це серйозна проблема для здоров'я."
+  },
+	{
+    "singular": "ambulanta",
+    "plural": "ambulante",
+    "ukrainian_translation": "амбулаторія",
+    "example_sentence": "Pacijent je pregledan u ambulanti.",
+    "ukrainian_translation_sentence": "Пацієнта оглянули в амбулаторії."
+  },
+  {
+    "singular": "antioksidans",
+    "plural": "antioksidansi",
+    "ukrainian_translation": "антиоксидант",
+    "example_sentence": "Antioksidansi su važni za zdravlje.",
+    "ukrainian_translation_sentence": "Антиоксиданти важливі для здоров'я."
+  },
+  {
+    "singular": "antitijelo",
+    "plural": "antitijela",
+    "ukrainian_translation": "антитіло",
+    "example_sentence": "Tijelo stvara antitijela kao odgovor na infekciju.",
+    "ukrainian_translation_sentence": "Організм виробляє антитіла у відповідь на інфекцію."
+  },
+  {
+    "singular": "apstrakcija",
+    "plural": "apstrakcije",
+    "ukrainian_translation": "абстракція",
+    "example_sentence": "Umjetnikova djela puna su apstrakcije.",
+    "ukrainian_translation_sentence": "Твори художника повні абстракції."
+  },
+  {
+    "singular": "arbitraža",
+    "plural": "arbitraže",
+    "ukrainian_translation": "арбітраж",
+    "example_sentence": "Spor je riješen putem arbitraže.",
+    "ukrainian_translation_sentence": "Спір було вирішено через арбітраж."
+  },
+  {
+    "singular": "arhitektura",
+    "plural": "arhitekture",
+    "ukrainian_translation": "архітектура",
+    "example_sentence": "Arhitektura grada privlači turiste.",
+    "ukrainian_translation_sentence": "Архітектура міста приваблює туристів."
+  },
+  {
+    "singular": "astma",
+    "plural": "astme",
+    "ukrainian_translation": "астма",
+    "example_sentence": "Pacijent pati od astme od djetinjstva.",
+    "ukrainian_translation_sentence": "Пацієнт страждає від астми з дитинства."
+  },
+  {
+    "singular": "astronomija",
+    "plural": "astronomije",
+    "ukrainian_translation": "астрономія",
+    "example_sentence": "Astronomija proučava zvijezde i planete.",
+    "ukrainian_translation_sentence": "Астрономія вивчає зірки та планети."
+  },
+  {
+    "singular": "atelje",
+    "plural": "ateljei",
+    "ukrainian_translation": "ательє",
+    "example_sentence": "Umjetnik stvara svoja djela u ateljeu.",
+    "ukrainian_translation_sentence": "Художник створює свої твори в ательє."
+  },
+  {
+    "singular": "atribut",
+    "plural": "atributi",
+    "ukrainian_translation": "атрибут",
+    "example_sentence": "Snaga je ključni atribut sportaša.",
+    "ukrainian_translation_sentence": "Сила — це ключовий атрибут спортсмена."
+  },
+	{
+    "singular": "auspuh",
+    "plural": "auspuhi",
+    "ukrainian_translation": "вихлоп",
+    "example_sentence": "Auspuh automobila je bio preglasan.",
+    "ukrainian_translation_sentence": "Вихлоп автомобіля був надто гучний."
+  },
+  {
+    "singular": "autizam",
+    "plural": "autizmi",
+    "ukrainian_translation": "аутизм",
+    "example_sentence": "Autizam zahtijeva posebnu pažnju i brigu.",
+    "ukrainian_translation_sentence": "Аутизм вимагає особливої уваги та догляду."
+  },
+  {
+    "singular": "autogram",
+    "plural": "autogrami",
+    "ukrainian_translation": "автограф",
+    "example_sentence": "Obožavatelj je tražio autogram od pjevača.",
+    "ukrainian_translation_sentence": "Шанувальник попросив автограф у співака."
+  },
+  {
+    "singular": "autoput",
+    "plural": "autoputevi",
+    "ukrainian_translation": "автомагістраль",
+    "example_sentence": "Vozili su brzo po autoputu.",
+    "ukrainian_translation_sentence": "Вони їхали швидко по автомагістралі."
+  },
+  {
+    "singular": "avantura",
+    "plural": "avanture",
+    "ukrainian_translation": "пригоди",
+    "example_sentence": "Putovanje je bilo prava avantura.",
+    "ukrainian_translation_sentence": "Подорож була справжньою пригодою."
+  },
+  {
+    "singular": "avenija",
+    "plural": "avenije",
+    "ukrainian_translation": "авеню",
+    "example_sentence": "Prošetali su glavnom avenijom.",
+    "ukrainian_translation_sentence": "Вони прогулювалися головною авеню."
+  },
+  {
+    "singular": "badminton",
+    "plural": "badmintoni",
+    "ukrainian_translation": "бадмінтон",
+    "example_sentence": "Igrao je badminton s prijateljima.",
+    "ukrainian_translation_sentence": "Він грав у бадмінтон з друзями."
+  },
+  {
+    "singular": "bahatost",
+    "plural": "bahatosti",
+    "ukrainian_translation": "зарозумілість",
+    "example_sentence": "Njegova bahatost je izazvala negativne reakcije.",
+    "ukrainian_translation_sentence": "Його зарозумілість викликала негативні реакції."
+  },
+  {
+    "singular": "bakalar",
+    "plural": "bakalari",
+    "ukrainian_translation": "тріска",
+    "example_sentence": "Bakalar je popularno jelo za Božić.",
+    "ukrainian_translation_sentence": "Тріска є популярною стравою на Різдво."
+  },
+  {
+    "singular": "balkon",
+    "plural": "balkoni",
+    "ukrainian_translation": "балкон",
+    "example_sentence": "S balkona se pruža prekrasan pogled na more.",
+    "ukrainian_translation_sentence": "З балкона відкривається чудовий вид на море."
+  },
+	{
+    "singular": "bat",
+    "plural": "bati",
+    "ukrainian_translation": "бита",
+    "example_sentence": "Igrač je čvrsto držao bat u ruci.",
+    "ukrainian_translation_sentence": "Гравець міцно тримав биту в руці."
+  },
+  {
+    "singular": "bavljenje",
+    "plural": "bavljenja",
+    "ukrainian_translation": "заняття",
+    "example_sentence": "Bavljenje sportom je važno za zdravlje.",
+    "ukrainian_translation_sentence": "Заняття спортом важливе для здоров'я."
+  },
+  {
+    "singular": "besmislica",
+    "plural": "besmislice",
+    "ukrainian_translation": "дурниця",
+    "example_sentence": "Njegove riječi su bile potpuna besmislica.",
+    "ukrainian_translation_sentence": "Його слова були повною дурницею."
+  },
+  {
+    "singular": "beton",
+    "plural": "betoni",
+    "ukrainian_translation": "бетон",
+    "example_sentence": "Gradnja temelja zahtijeva puno betona.",
+    "ukrainian_translation_sentence": "Будівництво фундаменту потребує багато бетону."
+  },
+  {
+    "singular": "biciklijada",
+    "plural": "biciklijade",
+    "ukrainian_translation": "велопробіг",
+    "example_sentence": "Sudjelovali su na biciklijadi kroz grad.",
+    "ukrainian_translation_sentence": "Вони брали участь у велопробігу через місто."
+  },
+  {
+    "singular": "bilijun",
+    "plural": "bilijuni",
+    "ukrainian_translation": "більйон",
+    "example_sentence": "Dug zemlje iznosio je nekoliko bilijuna dolara.",
+    "ukrainian_translation_sentence": "Борг країни становив кілька більйонів доларів."
+  },
+  {
+    "singular": "bilješka",
+    "plural": "bilješke",
+    "ukrainian_translation": "нотатка",
+    "example_sentence": "Učitelj je napisao bilješku u bilježnici.",
+    "ukrainian_translation_sentence": "Вчитель написав нотатку в зошиті."
+  },
+  {
+    "singular": "biolog",
+    "plural": "biolozi",
+    "ukrainian_translation": "біолог",
+    "example_sentence": "Biolog je proučavao rijetke vrste biljaka.",
+    "ukrainian_translation_sentence": "Біолог вивчав рідкісні види рослин."
+  },
+  {
+    "singular": "biralište",
+    "plural": "birališta",
+    "ukrainian_translation": "виборча дільниця",
+    "example_sentence": "Glasao je na biralištu u svom kvartu.",
+    "ukrainian_translation_sentence": "Він проголосував на виборчій дільниці у своєму районі."
+  },
+  {
+    "singular": "biskupija",
+    "plural": "biskupije",
+    "ukrainian_translation": "єпископство",
+    "example_sentence": "Biskup je služio u biskupiji.",
+    "ukrainian_translation_sentence": "Єпископ служив у єпископстві."
+  },
+	{
+    "singular": "bjegunac",
+    "plural": "bjegunci",
+    "ukrainian_translation": "втікач",
+    "example_sentence": "Policija je uhvatila bjegunca nakon duge potjere.",
+    "ukrainian_translation_sentence": "Поліція затримала втікача після тривалої погоні."
+  },
+  {
+    "singular": "bježanje",
+    "plural": "bježanja",
+    "ukrainian_translation": "втеча",
+    "example_sentence": "Bježanje iz zatvora je ozbiljan zločin.",
+    "ukrainian_translation_sentence": "Втеча з в'язниці — це серйозний злочин."
+  },
+  {
+    "singular": "blagodat",
+    "plural": "blagodati",
+    "ukrainian_translation": "благодать",
+    "example_sentence": "Zdravi obrok je prava blagodat za tijelo.",
+    "ukrainian_translation_sentence": "Здоровий обід — це справжня благодать для тіла."
+  },
+  {
+    "singular": "blagovaonica",
+    "plural": "blagovaonice",
+    "ukrainian_translation": "їдальня",
+    "example_sentence": "Obitelj je večerala u blagovaonici.",
+    "ukrainian_translation_sentence": "Сім'я вечеряла в їдальні."
+  },
+  {
+    "singular": "blamaža",
+    "plural": "blamaže",
+    "ukrainian_translation": "ганьба",
+    "example_sentence": "Njegova pogreška je bila prava blamaža.",
+    "ukrainian_translation_sentence": "Його помилка була справжньою ганьбою."
+  },
+  {
+    "singular": "blizanka",
+    "plural": "blizanke",
+    "ukrainian_translation": "близнючка",
+    "example_sentence": "Blizanka je proslavila rođendan s bratom.",
+    "ukrainian_translation_sentence": "Близнючка відсвяткувала день народження разом з братом."
+  },
+  {
+    "singular": "bob",
+    "plural": "bobovi",
+    "ukrainian_translation": "боб",
+    "example_sentence": "Jeli su varivo s bobom za ručak.",
+    "ukrainian_translation_sentence": "Вони їли рагу з бобами на обід."
+  },
+  {
+    "singular": "boksač",
+    "plural": "boksači",
+    "ukrainian_translation": "боксер",
+    "example_sentence": "Boksač je trenirao za nadolazeći meč.",
+    "ukrainian_translation_sentence": "Боксер тренувався до майбутнього поєдинку."
+  },
+  {
+    "singular": "boleština",
+    "plural": "boleštine",
+    "ukrainian_translation": "хвороба",
+    "example_sentence": "Boleštine su se širile brže nego ikad.",
+    "ukrainian_translation_sentence": "Хвороби поширювалися швидше, ніж будь-коли."
+  },
+  {
+    "singular": "boljitak",
+    "plural": "boljitci",
+    "ukrainian_translation": "покращення",
+    "example_sentence": "Radi za boljitak cijele zajednice.",
+    "ukrainian_translation_sentence": "Він працює для покращення всього суспільства."
+  }
+]
