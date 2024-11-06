@@ -2,351 +2,351 @@
 	{
     "singular": "borbenost",
     "plural": "borbenosti",
-    "ukrainian_translation": "бойовий дух",
-    "example_sentence": "Njegova borbenost ga je dovela do pobjede.",
-    "ukrainian_translation_sentence": "Його бойовий дух привів його до перемоги."
+    "ukrainianTranslation": "бойовий дух",
+    "exampleSentence": "Njegova borbenost ga je dovela do pobjede.",
+    "ukrainianTranslationSentence": "Його бойовий дух привів його до перемоги."
   },
   {
     "singular": "brava",
     "plural": "brave",
-    "ukrainian_translation": "замок",
-    "example_sentence": "Brava na vratima se pokvarila.",
-    "ukrainian_translation_sentence": "Замок на дверях зламався."
+    "ukrainianTranslation": "замок",
+    "exampleSentence": "Brava na vratima se pokvarila.",
+    "ukrainianTranslationSentence": "Замок на дверях зламався."
   },
   {
     "singular": "breza",
     "plural": "breze",
-    "ukrainian_translation": "береза",
-    "example_sentence": "Breze u šumi pružale su hladovinu.",
-    "ukrainian_translation_sentence": "Берези в лісі давали тінь."
+    "ukrainianTranslation": "береза",
+    "exampleSentence": "Breze u šumi pružale su hladovinu.",
+    "ukrainianTranslationSentence": "Берези в лісі давали тінь."
   },
   {
     "singular": "brigadir",
     "plural": "brigadiri",
-    "ukrainian_translation": "бригадир",
-    "example_sentence": "Brigadir je nadgledao radnike na gradilištu.",
-    "ukrainian_translation_sentence": "Бригадир наглядав за робітниками на будівництві."
+    "ukrainianTranslation": "бригадир",
+    "exampleSentence": "Brigadir je nadgledao radnike na gradilištu.",
+    "ukrainianTranslationSentence": "Бригадир наглядав за робітниками на будівництві."
   },
   {
     "singular": "brodogradilište",
     "plural": "brodogradilišta",
-    "ukrainian_translation": "корабельня",
-    "example_sentence": "Brodogradilište je proizvodilo velike brodove.",
-    "ukrainian_translation_sentence": "Корабельня виробляла великі кораблі."
+    "ukrainianTranslation": "корабельня",
+    "exampleSentence": "Brodogradilište je proizvodilo velike brodove.",
+    "ukrainianTranslationSentence": "Корабельня виробляла великі кораблі."
   },
   {
     "singular": "bronca",
     "plural": "bronce",
-    "ukrainian_translation": "бронза",
-    "example_sentence": "Sportaš je osvojio broncu na natjecanju.",
-    "ukrainian_translation_sentence": "Спортсмен виграв бронзу на змаганнях."
+    "ukrainianTranslation": "бронза",
+    "exampleSentence": "Sportaš je osvojio broncu na natjecanju.",
+    "ukrainianTranslationSentence": "Спортсмен виграв бронзу на змаганнях."
   },
   {
     "singular": "brošura",
     "plural": "brošure",
-    "ukrainian_translation": "брошура",
-    "example_sentence": "Podijelili su brošure na sajmu.",
-    "ukrainian_translation_sentence": "Вони роздавали брошури на ярмарку."
+    "ukrainianTranslation": "брошура",
+    "exampleSentence": "Podijelili su brošure na sajmu.",
+    "ukrainianTranslationSentence": "Вони роздавали брошури на ярмарку."
   },
   {
     "singular": "buđenje",
     "plural": "buđenja",
-    "ukrainian_translation": "пробудження",
-    "example_sentence": "Jutarnje buđenje bilo je teško nakon dugog dana.",
-    "ukrainian_translation_sentence": "Ранкове пробудження було важким після тривалого дня."
+    "ukrainianTranslation": "пробудження",
+    "exampleSentence": "Jutarnje buđenje bilo je teško nakon dugog dana.",
+    "ukrainianTranslationSentence": "Ранкове пробудження було важким після тривалого дня."
   },
   {
     "singular": "car",
     "plural": "carevi",
-    "ukrainian_translation": "імператор",
-    "example_sentence": "Car je vladao ogromnim carstvom.",
-    "ukrainian_translation_sentence": "Імператор правив величезною імперією."
+    "ukrainianTranslation": "імператор",
+    "exampleSentence": "Car je vladao ogromnim carstvom.",
+    "ukrainianTranslationSentence": "Імператор правив величезною імперією."
   },
   {
     "singular": "čarolija",
     "plural": "čarolije",
-    "ukrainian_translation": "чарівність",
-    "example_sentence": "Bajka je bila puna čarolije i čudesa.",
-    "ukrainian_translation_sentence": "Казка була повна чарівності та чудес."
+    "ukrainianTranslation": "чарівність",
+    "exampleSentence": "Bajka je bila puna čarolije i čudesa.",
+    "ukrainianTranslationSentence": "Казка була повна чарівності та чудес."
   },
 	{
     "singular": "čekanje",
     "plural": "čekanja",
-    "ukrainian_translation": "очікування",
-    "example_sentence": "Dugo čekanje u redu bilo je naporno.",
-    "ukrainian_translation_sentence": "Довге очікування в черзі було виснажливим."
+    "ukrainianTranslation": "очікування",
+    "exampleSentence": "Dugo čekanje u redu bilo je naporno.",
+    "ukrainianTranslationSentence": "Довге очікування в черзі було виснажливим."
   },
   {
     "singular": "četverac",
     "plural": "četverci",
-    "ukrainian_translation": "четвірка",
-    "example_sentence": "Četverac je osvojio prvo mjesto na veslačkom natjecanju.",
-    "ukrainian_translation_sentence": "Четвірка зайняла перше місце на веслувальних змаганнях."
+    "ukrainianTranslation": "четвірка",
+    "exampleSentence": "Četverac je osvojio prvo mjesto na veslačkom natjecanju.",
+    "ukrainianTranslationSentence": "Четвірка зайняла перше місце на веслувальних змаганнях."
   },
   {
     "singular": "cifra",
     "plural": "cifre",
-    "ukrainian_translation": "цифра",
-    "example_sentence": "Cifra na računu bila je viša nego što su očekivali.",
-    "ukrainian_translation_sentence": "Цифра в рахунку була вищою, ніж вони очікували."
+    "ukrainianTranslation": "цифра",
+    "exampleSentence": "Cifra na računu bila je viša nego što su očekivali.",
+    "ukrainianTranslationSentence": "Цифра в рахунку була вищою, ніж вони очікували."
   },
   {
     "singular": "cijev",
     "plural": "cijevi",
-    "ukrainian_translation": "труба",
-    "example_sentence": "Voda je procurila iz oštećene cijevi.",
-    "ukrainian_translation_sentence": "Вода витекла з пошкодженої труби."
+    "ukrainianTranslation": "труба",
+    "exampleSentence": "Voda je procurila iz oštećene cijevi.",
+    "ukrainianTranslationSentence": "Вода витекла з пошкодженої труби."
   },
   {
     "singular": "cimet",
     "plural": "cimeti",
-    "ukrainian_translation": "кориця",
-    "example_sentence": "Dodali su malo cimeta u kolače.",
-    "ukrainian_translation_sentence": "Вони додали трохи кориці в тістечка."
+    "ukrainianTranslation": "кориця",
+    "exampleSentence": "Dodali su malo cimeta u kolače.",
+    "ukrainianTranslationSentence": "Вони додали трохи кориці в тістечка."
   },
   {
     "singular": "cirkus",
     "plural": "cirkusi",
-    "ukrainian_translation": "цирк",
-    "example_sentence": "Djeca su bila oduševljena cirkuskim predstavama.",
-    "ukrainian_translation_sentence": "Діти були в захваті від циркових вистав."
+    "ukrainianTranslation": "цирк",
+    "exampleSentence": "Djeca su bila oduševljena cirkuskim predstavama.",
+    "ukrainianTranslationSentence": "Діти були в захваті від циркових вистав."
   },
   {
     "singular": "čitanje",
     "plural": "čitanja",
-    "ukrainian_translation": "читання",
-    "example_sentence": "Čitanje knjiga pomaže razvijanju mašte.",
-    "ukrainian_translation_sentence": "Читання книг допомагає розвивати уяву."
+    "ukrainianTranslation": "читання",
+    "exampleSentence": "Čitanje knjiga pomaže razvijanju mašte.",
+    "ukrainianTranslationSentence": "Читання книг допомагає розвивати уяву."
   },
   {
     "singular": "civil",
     "plural": "civili",
-    "ukrainian_translation": "цивільний",
-    "example_sentence": "Civili su evakuirani iz zone sukoba.",
-    "ukrainian_translation_sentence": "Цивільних евакуювали із зони конфлікту."
+    "ukrainianTranslation": "цивільний",
+    "exampleSentence": "Civili su evakuirani iz zone sukoba.",
+    "ukrainianTranslationSentence": "Цивільних евакуювали із зони конфлікту."
   },
   {
     "singular": "čovječanstvo",
     "plural": "čovječanstva",
-    "ukrainian_translation": "людство",
-    "example_sentence": "Napredak znanosti donosi dobrobit cijelom čovječanstvu.",
-    "ukrainian_translation_sentence": "Прогрес науки приносить користь усьому людству."
+    "ukrainianTranslation": "людство",
+    "exampleSentence": "Napredak znanosti donosi dobrobit cijelom čovječanstvu.",
+    "ukrainianTranslationSentence": "Прогрес науки приносить користь усьому людству."
   },
   {
     "singular": "čovjek",
     "plural": "ljudi",
-    "ukrainian_translation": "людина",
-    "example_sentence": "Čovjek je tražio pomoć u nevolji.",
-    "ukrainian_translation_sentence": "Людина шукала допомоги в біді."
+    "ukrainianTranslation": "людина",
+    "exampleSentence": "Čovjek je tražio pomoć u nevolji.",
+    "ukrainianTranslationSentence": "Людина шукала допомоги в біді."
   },
 	{
     "singular": "crta",
     "plural": "crte",
-    "ukrainian_translation": "лінія",
-    "example_sentence": "Povukao je crtu preko papira.",
-    "ukrainian_translation_sentence": "Він провів лінію на папері."
+    "ukrainianTranslation": "лінія",
+    "exampleSentence": "Povukao je crtu preko papira.",
+    "ukrainianTranslationSentence": "Він провів лінію на папері."
   },
   {
     "singular": "crtica",
     "plural": "crtice",
-    "ukrainian_translation": "тире",
-    "example_sentence": "Koristio je crticu za odvajanje riječi.",
-    "ukrainian_translation_sentence": "Він використовував тире для розділення слів."
+    "ukrainianTranslation": "тире",
+    "exampleSentence": "Koristio je crticu za odvajanje riječi.",
+    "ukrainianTranslationSentence": "Він використовував тире для розділення слів."
   },
   {
     "singular": "čunj",
     "plural": "čunjevi",
-    "ukrainian_translation": "конус",
-    "example_sentence": "Čunjevi su postavljeni na stazi za trening.",
-    "ukrainian_translation_sentence": "Конуси були розміщені на доріжці для тренування."
+    "ukrainianTranslation": "конус",
+    "exampleSentence": "Čunjevi su postavljeni na stazi za trening.",
+    "ukrainianTranslationSentence": "Конуси були розміщені на доріжці для тренування."
   },
   {
     "singular": "curenje",
     "plural": "curenja",
-    "ukrainian_translation": "протікання",
-    "example_sentence": "Curenje vode uzrokovalo je oštećenje zida.",
-    "ukrainian_translation_sentence": "Протікання води спричинило пошкодження стіни."
+    "ukrainianTranslation": "протікання",
+    "exampleSentence": "Curenje vode uzrokovalo je oštećenje zida.",
+    "ukrainianTranslationSentence": "Протікання води спричинило пошкодження стіни."
   },
   {
     "singular": "dadilja",
     "plural": "dadilje",
-    "ukrainian_translation": "няня",
-    "example_sentence": "Dadilja je pazila na djecu dok su roditelji bili odsutni.",
-    "ukrainian_translation_sentence": "Няня доглядала дітей, поки батьки були відсутні."
+    "ukrainianTranslation": "няня",
+    "exampleSentence": "Dadilja je pazila na djecu dok su roditelji bili odsutni.",
+    "ukrainianTranslationSentence": "Няня доглядала дітей, поки батьки були відсутні."
   },
   {
     "singular": "dalekovod",
     "plural": "dalekovodi",
-    "ukrainian_translation": "лінія електропередач",
-    "example_sentence": "Dalekovodi su prenosili struju do udaljenih mjesta.",
-    "ukrainian_translation_sentence": "Лінії електропередач передавали струм у віддалені місця."
+    "ukrainianTranslation": "лінія електропередач",
+    "exampleSentence": "Dalekovodi su prenosili struju do udaljenih mjesta.",
+    "ukrainianTranslationSentence": "Лінії електропередач передавали струм у віддалені місця."
   },
   {
     "singular": "debitant",
     "plural": "debitanti",
-    "ukrainian_translation": "дебютант",
-    "example_sentence": "Debitant je ostvario sjajan prvi nastup.",
-    "ukrainian_translation_sentence": "Дебютант чудово виступив на своєму першому шоу."
+    "ukrainianTranslation": "дебютант",
+    "exampleSentence": "Debitant je ostvario sjajan prvi nastup.",
+    "ukrainianTranslationSentence": "Дебютант чудово виступив на своєму першому шоу."
   },
   {
     "singular": "decembar",
     "plural": "decembri",
-    "ukrainian_translation": "грудень",
-    "example_sentence": "Božić se slavi u decembru.",
-    "ukrainian_translation_sentence": "Різдво святкують у грудні."
+    "ukrainianTranslation": "грудень",
+    "exampleSentence": "Božić se slavi u decembru.",
+    "ukrainianTranslationSentence": "Різдво святкують у грудні."
   },
   {
     "singular": "dečko",
     "plural": "dečki",
-    "ukrainian_translation": "хлопець",
-    "example_sentence": "Njezin dečko ju je iznenadio cvijećem.",
-    "ukrainian_translation_sentence": "Її хлопець здивував її квітами."
+    "ukrainianTranslation": "хлопець",
+    "exampleSentence": "Njezin dečko ju je iznenadio cvijećem.",
+    "ukrainianTranslationSentence": "Її хлопець здивував її квітами."
   },
   {
     "singular": "deformacija",
     "plural": "deformacije",
-    "ukrainian_translation": "деформація",
-    "example_sentence": "Deformacija metala dogodila se pod visokim tlakom.",
-    "ukrainian_translation_sentence": "Деформація металу сталася під високим тиском."
+    "ukrainianTranslation": "деформація",
+    "exampleSentence": "Deformacija metala dogodila se pod visokim tlakom.",
+    "ukrainianTranslationSentence": "Деформація металу сталася під високим тиском."
   },
 	{
     "singular": "degradacija",
     "plural": "degradacije",
-    "ukrainian_translation": "деградація",
-    "example_sentence": "Degradacija okoliša postaje sve veći problem.",
-    "ukrainian_translation_sentence": "Деградація навколишнього середовища стає все більшою проблемою."
+    "ukrainianTranslation": "деградація",
+    "exampleSentence": "Degradacija okoliša postaje sve veći problem.",
+    "ukrainianTranslationSentence": "Деградація навколишнього середовища стає все більшою проблемою."
   },
   {
     "singular": "degustacija",
     "plural": "degustacije",
-    "ukrainian_translation": "дегустація",
-    "example_sentence": "Sudjelovali smo na degustaciji vina.",
-    "ukrainian_translation_sentence": "Ми брали участь у дегустації вина."
+    "ukrainianTranslation": "дегустація",
+    "exampleSentence": "Sudjelovali smo na degustaciji vina.",
+    "ukrainianTranslationSentence": "Ми брали участь у дегустації вина."
   },
   {
     "singular": "dekolte",
     "plural": "dekoltei",
-    "ukrainian_translation": "декольте",
-    "example_sentence": "Haljina s dubokim dekolteom privukla je pažnju.",
-    "ukrainian_translation_sentence": "Сукня з глибоким декольте привернула увагу."
+    "ukrainianTranslation": "декольте",
+    "exampleSentence": "Haljina s dubokim dekolteom privukla je pažnju.",
+    "ukrainianTranslationSentence": "Сукня з глибоким декольте привернула увагу."
   },
   {
     "singular": "delegat",
     "plural": "delegati",
-    "ukrainian_translation": "делегат",
-    "example_sentence": "Delegati su glasali na kongresu.",
-    "ukrainian_translation_sentence": "Делегати голосували на конгресі."
+    "ukrainianTranslation": "делегат",
+    "exampleSentence": "Delegati su glasali na kongresu.",
+    "ukrainianTranslationSentence": "Делегати голосували на конгресі."
   },
   {
     "singular": "desetljeće",
     "plural": "desetljeća",
-    "ukrainian_translation": "десятиліття",
-    "example_sentence": "Prošlo je već jedno desetljeće od izuma interneta.",
-    "ukrainian_translation_sentence": "Минуло вже одне десятиліття з моменту винайдення інтернету."
+    "ukrainianTranslation": "десятиліття",
+    "exampleSentence": "Prošlo je već jedno desetljeće od izuma interneta.",
+    "ukrainianTranslationSentence": "Минуло вже одне десятиліття з моменту винайдення інтернету."
   },
   {
     "singular": "destinacija",
     "plural": "destinacije",
-    "ukrainian_translation": "місце призначення",
-    "example_sentence": "Pariz je popularna turistička destinacija.",
-    "ukrainian_translation_sentence": "Париж — популярне туристичне місце призначення."
+    "ukrainianTranslation": "місце призначення",
+    "exampleSentence": "Pariz je popularna turistička destinacija.",
+    "ukrainianTranslationSentence": "Париж — популярне туристичне місце призначення."
   },
   {
     "singular": "deva",
     "plural": "deve",
-    "ukrainian_translation": "верблюд",
-    "example_sentence": "Deve su prolazile kroz pustinju.",
-    "ukrainian_translation_sentence": "Верблюди проходили через пустелю."
+    "ukrainianTranslation": "верблюд",
+    "exampleSentence": "Deve su prolazile kroz pustinju.",
+    "ukrainianTranslationSentence": "Верблюди проходили через пустелю."
   },
   {
     "singular": "diktat",
     "plural": "diktati",
-    "ukrainian_translation": "диктант",
-    "example_sentence": "Učenici su pisali diktat na satu hrvatskog jezika.",
-    "ukrainian_translation_sentence": "Учні писали диктант на уроці хорватської мови."
+    "ukrainianTranslation": "диктант",
+    "exampleSentence": "Učenici su pisali diktat na satu hrvatskog jezika.",
+    "ukrainianTranslationSentence": "Учні писали диктант на уроці хорватської мови."
   },
   {
     "singular": "dinastija",
     "plural": "dinastije",
-    "ukrainian_translation": "династія",
-    "example_sentence": "Dinastija Ming vladala je Kinom stoljećima.",
-    "ukrainian_translation_sentence": "Династія Мін правила Китаєм століттями."
+    "ukrainianTranslation": "династія",
+    "exampleSentence": "Dinastija Ming vladala je Kinom stoljećima.",
+    "ukrainianTranslationSentence": "Династія Мін правила Китаєм століттями."
   },
   {
     "singular": "dinosaur",
     "plural": "dinosauri",
-    "ukrainian_translation": "динозавр",
-    "example_sentence": "Dinosauri su izumrli prije milijuna godina.",
-    "ukrainian_translation_sentence": "Динозаври вимерли мільйони років тому."
+    "ukrainianTranslation": "динозавр",
+    "exampleSentence": "Dinosauri su izumrli prije milijuna godina.",
+    "ukrainianTranslationSentence": "Динозаври вимерли мільйони років тому."
   },
 	{
     "singular": "disertacija",
     "plural": "disertacije",
-    "ukrainian_translation": "дисертація",
-    "example_sentence": "Napisala je disertaciju o ekološkoj politici.",
-    "ukrainian_translation_sentence": "Вона написала дисертацію про екологічну політику."
+    "ukrainianTranslation": "дисертація",
+    "exampleSentence": "Napisala je disertaciju o ekološkoj politici.",
+    "ukrainianTranslationSentence": "Вона написала дисертацію про екологічну політику."
   },
   {
     "singular": "disk",
     "plural": "diskovi",
-    "ukrainian_translation": "диск",
-    "example_sentence": "Tvrdi disk na računalu je pun.",
-    "ukrainian_translation_sentence": "Жорсткий диск на комп'ютері заповнений."
+    "ukrainianTranslation": "диск",
+    "exampleSentence": "Tvrdi disk na računalu je pun.",
+    "ukrainianTranslationSentence": "Жорсткий диск на комп'ютері заповнений."
   },
   {
     "singular": "disko",
     "plural": "disko",
-    "ukrainian_translation": "дискотека",
-    "example_sentence": "Išli su na disko nakon večere.",
-    "ukrainian_translation_sentence": "Вони пішли на дискотеку після вечері."
+    "ukrainianTranslation": "дискотека",
+    "exampleSentence": "Išli su na disko nakon večere.",
+    "ukrainianTranslationSentence": "Вони пішли на дискотеку після вечері."
   },
   {
     "singular": "dizajnerica",
     "plural": "dizajnerice",
-    "ukrainian_translation": "дизайнерка",
-    "example_sentence": "Dizajnerica je osmislila novu kolekciju odjeće.",
-    "ukrainian_translation_sentence": "Дизайнерка розробила нову колекцію одягу."
+    "ukrainianTranslation": "дизайнерка",
+    "exampleSentence": "Dizajnerica je osmislila novu kolekciju odjeće.",
+    "ukrainianTranslationSentence": "Дизайнерка розробила нову колекцію одягу."
   },
   {
     "singular": "dječak",
     "plural": "dječaci",
-    "ukrainian_translation": "хлопчик",
-    "example_sentence": "Dječak se igrao u parku.",
-    "ukrainian_translation_sentence": "Хлопчик грався в парку."
+    "ukrainianTranslation": "хлопчик",
+    "exampleSentence": "Dječak se igrao u parku.",
+    "ukrainianTranslationSentence": "Хлопчик грався в парку."
   },
   {
     "singular": "djevica",
     "plural": "djevice",
-    "ukrainian_translation": "діва",
-    "example_sentence": "Djevica Marija se često spominje u molitvama.",
-    "ukrainian_translation_sentence": "Діву Марію часто згадують у молитвах."
+    "ukrainianTranslation": "діва",
+    "exampleSentence": "Djevica Marija se često spominje u molitvama.",
+    "ukrainianTranslationSentence": "Діву Марію часто згадують у молитвах."
   },
   {
     "singular": "djevojka",
     "plural": "djevojke",
-    "ukrainian_translation": "дівчина",
-    "example_sentence": "Djevojka je šetala parkom s prijateljima.",
-    "ukrainian_translation_sentence": "Дівчина гуляла парком із друзями."
+    "ukrainianTranslation": "дівчина",
+    "exampleSentence": "Djevojka je šetala parkom s prijateljima.",
+    "ukrainianTranslationSentence": "Дівчина гуляла парком із друзями."
   },
   {
     "singular": "dnevnik",
     "plural": "dnevnici",
-    "ukrainian_translation": "щоденник",
-    "example_sentence": "Pisala je u svoj dnevnik svaki dan.",
-    "ukrainian_translation_sentence": "Вона щодня писала у свій щоденник."
+    "ukrainianTranslation": "щоденник",
+    "exampleSentence": "Pisala je u svoj dnevnik svaki dan.",
+    "ukrainianTranslationSentence": "Вона щодня писала у свій щоденник."
   },
   {
     "singular": "dobrodošlica",
     "plural": "dobrodošlice",
-    "ukrainian_translation": "привітання",
-    "example_sentence": "Priredili su toplu dobrodošlicu novim članovima.",
-    "ukrainian_translation_sentence": "Вони підготували тепле привітання новим членам."
+    "ukrainianTranslation": "привітання",
+    "exampleSentence": "Priredili su toplu dobrodošlicu novim članovima.",
+    "ukrainianTranslationSentence": "Вони підготували тепле привітання новим членам."
   },
   {
     "singular": "dobrovoljac",
     "plural": "dobrovoljci",
-    "ukrainian_translation": "доброволець",
-    "example_sentence": "Dobrovoljci su pomagali u organizaciji događaja.",
-    "ukrainian_translation_sentence": "Добровольці допомагали в організації заходу."
+    "ukrainianTranslation": "доброволець",
+    "exampleSentence": "Dobrovoljci su pomagali u organizaciji događaja.",
+    "ukrainianTranslationSentence": "Добровольці допомагали в організації заходу."
   }
 ]

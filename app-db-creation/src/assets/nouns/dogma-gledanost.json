@@ -2,351 +2,351 @@
 	{
     "singular": "dogma",
     "plural": "dogme",
-    "ukrainian_translation": "догма",
-    "example_sentence": "Dogme su često neupitne u religijskim učenjima.",
-    "ukrainian_translation_sentence": "Догми часто є непорушними в релігійних вченнях."
+    "ukrainianTranslation": "догма",
+    "exampleSentence": "Dogme su često neupitne u religijskim učenjima.",
+    "ukrainianTranslationSentence": "Догми часто є непорушними в релігійних вченнях."
   },
   {
     "singular": "dokaz",
     "plural": "dokazi",
-    "ukrainian_translation": "доказ",
-    "example_sentence": "Priložio je dokaze na sudu.",
-    "ukrainian_translation_sentence": "Він надав докази в суді."
+    "ukrainianTranslation": "доказ",
+    "exampleSentence": "Priložio je dokaze na sudu.",
+    "ukrainianTranslationSentence": "Він надав докази в суді."
   },
   {
     "singular": "dokazivanje",
     "plural": "dokazivanja",
-    "ukrainian_translation": "доведення",
-    "example_sentence": "Dokazivanje teorema zahtijeva precizne korake.",
-    "ukrainian_translation_sentence": "Доведення теорем вимагає точних кроків."
+    "ukrainianTranslation": "доведення",
+    "exampleSentence": "Dokazivanje teorema zahtijeva precizne korake.",
+    "ukrainianTranslationSentence": "Доведення теорем вимагає точних кроків."
   },
   {
     "singular": "doktrina",
     "plural": "doktrine",
-    "ukrainian_translation": "доктрина",
-    "example_sentence": "Političke doktrine oblikuju državni sustav.",
-    "ukrainian_translation_sentence": "Політичні доктрини формують державну систему."
+    "ukrainianTranslation": "доктрина",
+    "exampleSentence": "Političke doktrine oblikuju državni sustav.",
+    "ukrainianTranslationSentence": "Політичні доктрини формують державну систему."
   },
   {
     "singular": "dokumentarac",
     "plural": "dokumentarci",
-    "ukrainian_translation": "документальний фільм",
-    "example_sentence": "Gledali su zanimljiv dokumentarac o prirodi.",
-    "ukrainian_translation_sentence": "Вони дивилися цікавий документальний фільм про природу."
+    "ukrainianTranslation": "документальний фільм",
+    "exampleSentence": "Gledali su zanimljiv dokumentarac o prirodi.",
+    "ukrainianTranslationSentence": "Вони дивилися цікавий документальний фільм про природу."
   },
   {
     "singular": "domena",
     "plural": "domene",
-    "ukrainian_translation": "домен",
-    "example_sentence": "Domena web stranice bila je lako pamtljiva.",
-    "ukrainian_translation_sentence": "Домен вебсайту був легко запам'ятовуваний."
+    "ukrainianTranslation": "домен",
+    "exampleSentence": "Domena web stranice bila je lako pamtljiva.",
+    "ukrainianTranslationSentence": "Домен вебсайту був легко запам'ятовуваний."
   },
   {
     "singular": "dominacija",
     "plural": "dominacije",
-    "ukrainian_translation": "домінація",
-    "example_sentence": "Njihova dominacija na tržištu bila je očigledna.",
-    "ukrainian_translation_sentence": "Їхня домінація на ринку була очевидною."
+    "ukrainianTranslation": "домінація",
+    "exampleSentence": "Njihova dominacija na tržištu bila je očigledna.",
+    "ukrainianTranslationSentence": "Їхня домінація на ринку була очевидною."
   },
   {
     "singular": "domoljublje",
     "plural": "domoljublja",
-    "ukrainian_translation": "патріотизм",
-    "example_sentence": "Domoljublje je važan dio nacionalnog identiteta.",
-    "ukrainian_translation_sentence": "Патріотизм є важливою частиною національної ідентичності."
+    "ukrainianTranslation": "патріотизм",
+    "exampleSentence": "Domoljublje je važan dio nacionalnog identiteta.",
+    "ukrainianTranslationSentence": "Патріотизм є важливою частиною національної ідентичності."
   },
   {
     "singular": "donator",
     "plural": "donatori",
-    "ukrainian_translation": "донор",
-    "example_sentence": "Donatori su osigurali sredstva za bolnicu.",
-    "ukrainian_translation_sentence": "Донори забезпечили фінансування для лікарні."
+    "ukrainianTranslation": "донор",
+    "exampleSentence": "Donatori su osigurali sredstva za bolnicu.",
+    "ukrainianTranslationSentence": "Донори забезпечили фінансування для лікарні."
   },
   {
     "singular": "dopisnik",
     "plural": "dopisnici",
-    "ukrainian_translation": "кореспондент",
-    "example_sentence": "Dopisnik je izvještavao s mjesta događaja.",
-    "ukrainian_translation_sentence": "Кореспондент повідомляв з місця події."
+    "ukrainianTranslation": "кореспондент",
+    "exampleSentence": "Dopisnik je izvještavao s mjesta događaja.",
+    "ukrainianTranslationSentence": "Кореспондент повідомляв з місця події."
   },
 	{
     "singular": "dopuštenje",
     "plural": "dopuštenja",
-    "ukrainian_translation": "дозвіл",
-    "example_sentence": "Tražio je dopuštenje za ulazak.",
-    "ukrainian_translation_sentence": "Він просив дозволу на вхід."
+    "ukrainianTranslation": "дозвіл",
+    "exampleSentence": "Tražio je dopuštenje za ulazak.",
+    "ukrainianTranslationSentence": "Він просив дозволу на вхід."
   },
   {
     "singular": "dostupnost",
     "plural": "dostupnosti",
-    "ukrainian_translation": "доступність",
-    "example_sentence": "Dostupnost proizvoda varira ovisno o regiji.",
-    "ukrainian_translation_sentence": "Доступність продукту варіюється в залежності від регіону."
+    "ukrainianTranslation": "доступність",
+    "exampleSentence": "Dostupnost proizvoda varira ovisno o regiji.",
+    "ukrainianTranslationSentence": "Доступність продукту варіюється в залежності від регіону."
   },
   {
     "singular": "dozvola",
     "plural": "dozvole",
-    "ukrainian_translation": "дозвіл",
-    "example_sentence": "Trebat ćeš dozvolu za parkiranje na tom mjestu.",
-    "ukrainian_translation_sentence": "Тобі знадобиться дозвіл на паркування в цьому місці."
+    "ukrainianTranslation": "дозвіл",
+    "exampleSentence": "Trebat ćeš dozvolu za parkiranje na tom mjestu.",
+    "ukrainianTranslationSentence": "Тобі знадобиться дозвіл на паркування в цьому місці."
   },
   {
     "singular": "drek",
     "plural": "dreki",
-    "ukrainian_translation": "гній",
-    "example_sentence": "Na farmi su koristili drek kao gnojivo.",
-    "ukrainian_translation_sentence": "На фермі використовували гній як добриво."
+    "ukrainianTranslation": "гній",
+    "exampleSentence": "Na farmi su koristili drek kao gnojivo.",
+    "ukrainianTranslationSentence": "На фермі використовували гній як добриво."
   },
   {
     "singular": "drenaža",
     "plural": "drenaže",
-    "ukrainian_translation": "дренаж",
-    "example_sentence": "Sustav drenaže sprječava poplave u podrumu.",
-    "ukrainian_translation_sentence": "Система дренажу запобігає затопленню підвалу."
+    "ukrainianTranslation": "дренаж",
+    "exampleSentence": "Sustav drenaže sprječava poplave u podrumu.",
+    "ukrainianTranslationSentence": "Система дренажу запобігає затопленню підвалу."
   },
   {
     "singular": "državljanstvo",
     "plural": "državljanstva",
-    "ukrainian_translation": "громадянство",
-    "example_sentence": "On je zatražio hrvatsko državljanstvo.",
-    "ukrainian_translation_sentence": "Він подав заяву на отримання хорватського громадянства."
+    "ukrainianTranslation": "громадянство",
+    "exampleSentence": "On je zatražio hrvatsko državljanstvo.",
+    "ukrainianTranslationSentence": "Він подав заяву на отримання хорватського громадянства."
   },
   {
     "singular": "duel",
     "plural": "dueli",
-    "ukrainian_translation": "дуель",
-    "example_sentence": "Njihov verbalni duel trajao je satima.",
-    "ukrainian_translation_sentence": "Їхній словесний дуель тривав годинами."
+    "ukrainianTranslation": "дуель",
+    "exampleSentence": "Njihov verbalni duel trajao je satima.",
+    "ukrainianTranslationSentence": "Їхній словесний дуель тривав годинами."
   },
   {
     "singular": "duhan",
     "plural": "duhani",
-    "ukrainian_translation": "тютюн",
-    "example_sentence": "Prodaja duhana je strogo regulirana.",
-    "ukrainian_translation_sentence": "Продаж тютюну суворо регулюється."
+    "ukrainianTranslation": "тютюн",
+    "exampleSentence": "Prodaja duhana je strogo regulirana.",
+    "ukrainianTranslationSentence": "Продаж тютюну суворо регулюється."
   },
   {
     "singular": "duhovnost",
     "plural": "duhovnosti",
-    "ukrainian_translation": "духовність",
-    "example_sentence": "Duhovnost je važan dio njegovog života.",
-    "ukrainian_translation_sentence": "Духовність є важливою частиною його життя."
+    "ukrainianTranslation": "духовність",
+    "exampleSentence": "Duhovnost je važan dio njegovog života.",
+    "ukrainianTranslationSentence": "Духовність є важливою частиною його життя."
   },
   {
     "singular": "dušik",
     "plural": "dušici",
-    "ukrainian_translation": "азот",
-    "example_sentence": "Dušik je prisutan u atmosferi u velikim količinama.",
-    "ukrainian_translation_sentence": "Азот присутній в атмосфері у великих кількостях."
+    "ukrainianTranslation": "азот",
+    "exampleSentence": "Dušik je prisutan u atmosferi u velikim količinama.",
+    "ukrainianTranslationSentence": "Азот присутній в атмосфері у великих кількостях."
   },
 	{
     "singular": "dvorište",
     "plural": "dvorišta",
-    "ukrainian_translation": "подвір'я",
-    "example_sentence": "Djeca su se igrala u dvorištu iza kuće.",
-    "ukrainian_translation_sentence": "Діти гралися на подвір'ї за будинком."
+    "ukrainianTranslation": "подвір'я",
+    "exampleSentence": "Djeca su se igrala u dvorištu iza kuće.",
+    "ukrainianTranslationSentence": "Діти гралися на подвір'ї за будинком."
   },
   {
     "singular": "džamija",
     "plural": "džamije",
-    "ukrainian_translation": "мечеть",
-    "example_sentence": "Molitve su se čule iz džamije u centru grada.",
-    "ukrainian_translation_sentence": "Молитви було чутно з мечеті в центрі міста."
+    "ukrainianTranslation": "мечеть",
+    "exampleSentence": "Molitve su se čule iz džamije u centru grada.",
+    "ukrainianTranslationSentence": "Молитви було чутно з мечеті в центрі міста."
   },
   {
     "singular": "džep",
     "plural": "džepovi",
-    "ukrainian_translation": "кишеня",
-    "example_sentence": "Ključeve je stavio u džep jakne.",
-    "ukrainian_translation_sentence": "Він поклав ключі в кишеню куртки."
+    "ukrainianTranslation": "кишеня",
+    "exampleSentence": "Ključeve je stavio u džep jakne.",
+    "ukrainianTranslationSentence": "Він поклав ключі в кишеню куртки."
   },
   {
     "singular": "džungla",
     "plural": "džungle",
-    "ukrainian_translation": "джунглі",
-    "example_sentence": "Istraživači su prolazili kroz gustu džunglu.",
-    "ukrainian_translation_sentence": "Дослідники проходили через густі джунглі."
+    "ukrainianTranslation": "джунглі",
+    "exampleSentence": "Istraživači su prolazili kroz gustu džunglu.",
+    "ukrainianTranslationSentence": "Дослідники проходили через густі джунглі."
   },
   {
     "singular": "editorijal",
     "plural": "editorijali",
-    "ukrainian_translation": "редакційна стаття",
-    "example_sentence": "Časopis je objavio zanimljiv editorijal o modi.",
-    "ukrainian_translation_sentence": "Журнал опублікував цікаву редакційну статтю про моду."
+    "ukrainianTranslation": "редакційна стаття",
+    "exampleSentence": "Časopis je objavio zanimljiv editorijal o modi.",
+    "ukrainianTranslationSentence": "Журнал опублікував цікаву редакційну статтю про моду."
   },
   {
     "singular": "efikasnost",
     "plural": "efikasnosti",
-    "ukrainian_translation": "ефективність",
-    "example_sentence": "Efikasnost novog sustava je impresivna.",
-    "ukrainian_translation_sentence": "Ефективність нової системи вражає."
+    "ukrainianTranslation": "ефективність",
+    "exampleSentence": "Efikasnost novog sustava je impresivna.",
+    "ukrainianTranslationSentence": "Ефективність нової системи вражає."
   },
   {
     "singular": "ekosustav",
     "plural": "ekosustavi",
-    "ukrainian_translation": "екосистема",
-    "example_sentence": "Šume su važan dio ekosustava našeg planeta.",
-    "ukrainian_translation_sentence": "Ліси є важливою частиною екосистеми нашої планети."
+    "ukrainianTranslation": "екосистема",
+    "exampleSentence": "Šume su važan dio ekosustava našeg planeta.",
+    "ukrainianTranslationSentence": "Ліси є важливою частиною екосистеми нашої планети."
   },
   {
     "singular": "eksperiment",
     "plural": "eksperimenti",
-    "ukrainian_translation": "експеримент",
-    "example_sentence": "Znanstvenici su proveli novi eksperiment u laboratoriju.",
-    "ukrainian_translation_sentence": "Вчені провели новий експеримент у лабораторії."
+    "ukrainianTranslation": "експеримент",
+    "exampleSentence": "Znanstvenici su proveli novi eksperiment u laboratoriju.",
+    "ukrainianTranslationSentence": "Вчені провели новий експеримент у лабораторії."
   },
   {
     "singular": "ekstrakt",
     "plural": "ekstrakti",
-    "ukrainian_translation": "екстракт",
-    "example_sentence": "Dodali su vanilijin ekstrakt u kolač.",
-    "ukrainian_translation_sentence": "Вони додали ванільний екстракт у тістечко."
+    "ukrainianTranslation": "екстракт",
+    "exampleSentence": "Dodali su vanilijin ekstrakt u kolač.",
+    "ukrainianTranslationSentence": "Вони додали ванільний екстракт у тістечко."
   },
   {
     "singular": "ekstrem",
     "plural": "ekstremi",
-    "ukrainian_translation": "екстрем",
-    "example_sentence": "Vremenski ekstremi uzrokovali su velike štete.",
-    "ukrainian_translation_sentence": "Погодні екстреми спричинили великі збитки."
+    "ukrainianTranslation": "екстрем",
+    "exampleSentence": "Vremenski ekstremi uzrokovali su velike štete.",
+    "ukrainianTranslationSentence": "Погодні екстреми спричинили великі збитки."
   },
 	{
     "singular": "epilog",
     "plural": "epilozi",
-    "ukrainian_translation": "епілог",
-    "example_sentence": "Epilog romana donosi razrješenje svih sukoba.",
-    "ukrainian_translation_sentence": "Епілог роману приносить розв'язку всіх конфліктів."
+    "ukrainianTranslation": "епілог",
+    "exampleSentence": "Epilog romana donosi razrješenje svih sukoba.",
+    "ukrainianTranslationSentence": "Епілог роману приносить розв'язку всіх конфліктів."
   },
   {
     "singular": "epoha",
     "plural": "epohe",
-    "ukrainian_translation": "епоха",
-    "example_sentence": "Renaissance je bila važna epoha u povijesti umjetnosti.",
-    "ukrainian_translation_sentence": "Ренесанс був важливою епохою в історії мистецтва."
+    "ukrainianTranslation": "епоха",
+    "exampleSentence": "Renaissance je bila važna epoha u povijesti umjetnosti.",
+    "ukrainianTranslationSentence": "Ренесанс був важливою епохою в історії мистецтва."
   },
   {
     "singular": "etaža",
     "plural": "etaže",
-    "ukrainian_translation": "поверх",
-    "example_sentence": "Stan se nalazi na drugoj etaži zgrade.",
-    "ukrainian_translation_sentence": "Квартира знаходиться на другому поверсі будинку."
+    "ukrainianTranslation": "поверх",
+    "exampleSentence": "Stan se nalazi na drugoj etaži zgrade.",
+    "ukrainianTranslationSentence": "Квартира знаходиться на другому поверсі будинку."
   },
   {
     "singular": "farsa",
     "plural": "farse",
-    "ukrainian_translation": "фарс",
-    "example_sentence": "Svi su se smijali njegovoj glumačkoj farsi.",
-    "ukrainian_translation_sentence": "Усі сміялися з його акторського фарсу."
+    "ukrainianTranslation": "фарс",
+    "exampleSentence": "Svi su se smijali njegovoj glumačkoj farsi.",
+    "ukrainianTranslationSentence": "Усі сміялися з його акторського фарсу."
   },
   {
     "singular": "filter",
     "plural": "filteri",
-    "ukrainian_translation": "фільтр",
-    "example_sentence": "Filter za vodu treba redovito mijenjati.",
-    "ukrainian_translation_sentence": "Фільтр для води потрібно регулярно змінювати."
+    "ukrainianTranslation": "фільтр",
+    "exampleSentence": "Filter za vodu treba redovito mijenjati.",
+    "ukrainianTranslationSentence": "Фільтр для води потрібно регулярно змінювати."
   },
   {
     "singular": "filtriranje",
     "plural": "filtriranja",
-    "ukrainian_translation": "фільтрація",
-    "example_sentence": "Filtriranje vode osigurava njenu čistoću.",
-    "ukrainian_translation_sentence": "Фільтрація води забезпечує її чистоту."
+    "ukrainianTranslation": "фільтрація",
+    "exampleSentence": "Filtriranje vode osigurava njenu čistoću.",
+    "ukrainianTranslationSentence": "Фільтрація води забезпечує її чистоту."
   },
   {
     "singular": "flora",
     "plural": "flore",
-    "ukrainian_translation": "флора",
-    "example_sentence": "Flora Amazonske prašume je nevjerojatno raznolika.",
-    "ukrainian_translation_sentence": "Флора амазонського дощового лісу неймовірно різноманітна."
+    "ukrainianTranslation": "флора",
+    "exampleSentence": "Flora Amazonske prašume je nevjerojatno raznolika.",
+    "ukrainianTranslationSentence": "Флора амазонського дощового лісу неймовірно різноманітна."
   },
   {
     "singular": "fluid",
     "plural": "fluidi",
-    "ukrainian_translation": "рідина",
-    "example_sentence": "Ovaj fluid se koristi u hidrauličnim sustavima.",
-    "ukrainian_translation_sentence": "Ця рідина використовується в гідравлічних системах."
+    "ukrainianTranslation": "рідина",
+    "exampleSentence": "Ovaj fluid se koristi u hidrauličnim sustavima.",
+    "ukrainianTranslationSentence": "Ця рідина використовується в гідравлічних системах."
   },
   {
     "singular": "fobija",
     "plural": "fobije",
-    "ukrainian_translation": "фобія",
-    "example_sentence": "Njegova fobija od visine sprječava ga u putovanju avionom.",
-    "ukrainian_translation_sentence": "Його фобія висоти заважає йому подорожувати літаком."
+    "ukrainianTranslation": "фобія",
+    "exampleSentence": "Njegova fobija od visine sprječava ga u putovanju avionom.",
+    "ukrainianTranslationSentence": "Його фобія висоти заважає йому подорожувати літаком."
   },
   {
     "singular": "foton",
     "plural": "fotoni",
-    "ukrainian_translation": "фотон",
-    "example_sentence": "Fotoni su osnovne čestice svjetlosti.",
-    "ukrainian_translation_sentence": "Фотони — це основні частинки світла."
+    "ukrainianTranslation": "фотон",
+    "exampleSentence": "Fotoni su osnovne čestice svjetlosti.",
+    "ukrainianTranslationSentence": "Фотони — це основні частинки світла."
   },
 	{
     "singular": "galama",
     "plural": "galame",
-    "ukrainian_translation": "гамір",
-    "example_sentence": "Djeca su napravila veliku galamu u učionici.",
-    "ukrainian_translation_sentence": "Діти створили великий гамір у класі."
+    "ukrainianTranslation": "гамір",
+    "exampleSentence": "Djeca su napravila veliku galamu u učionici.",
+    "ukrainianTranslationSentence": "Діти створили великий гамір у класі."
   },
   {
     "singular": "galerija",
     "plural": "galerije",
-    "ukrainian_translation": "галерея",
-    "example_sentence": "Posjetili smo umjetničku galeriju u gradu.",
-    "ukrainian_translation_sentence": "Ми відвідали художню галерею в місті."
+    "ukrainianTranslation": "галерея",
+    "exampleSentence": "Posjetili smo umjetničku galeriju u gradu.",
+    "ukrainianTranslationSentence": "Ми відвідали художню галерею в місті."
   },
   {
     "singular": "gat",
     "plural": "gatovi",
-    "ukrainian_translation": "пристань",
-    "example_sentence": "Brodovi su bili usidreni uz gat.",
-    "ukrainian_translation_sentence": "Кораблі були пришвартовані до пристані."
+    "ukrainianTranslation": "пристань",
+    "exampleSentence": "Brodovi su bili usidreni uz gat.",
+    "ukrainianTranslationSentence": "Кораблі були пришвартовані до пристані."
   },
   {
     "singular": "general",
     "plural": "generali",
-    "ukrainian_translation": "генерал",
-    "example_sentence": "General je zapovijedao vojskom u bitci.",
-    "ukrainian_translation_sentence": "Генерал командував армією в бою."
+    "ukrainianTranslation": "генерал",
+    "exampleSentence": "General je zapovijedao vojskom u bitci.",
+    "ukrainianTranslationSentence": "Генерал командував армією в бою."
   },
   {
     "singular": "gimnastika",
     "plural": "gimnastike",
-    "ukrainian_translation": "гімнастика",
-    "example_sentence": "Gimnastika zahtijeva veliku fleksibilnost i snagu.",
-    "ukrainian_translation_sentence": "Гімнастика вимагає великої гнучкості та сили."
+    "ukrainianTranslation": "гімнастика",
+    "exampleSentence": "Gimnastika zahtijeva veliku fleksibilnost i snagu.",
+    "ukrainianTranslationSentence": "Гімнастика вимагає великої гнучкості та сили."
   },
   {
     "singular": "gips",
     "plural": "gipsovi",
-    "ukrainian_translation": "гіпс",
-    "example_sentence": "Liječnik je stavio gips na slomljenu ruku.",
-    "ukrainian_translation_sentence": "Лікар наклав гіпс на зламану руку."
+    "ukrainianTranslation": "гіпс",
+    "exampleSentence": "Liječnik je stavio gips na slomljenu ruku.",
+    "ukrainianTranslationSentence": "Лікар наклав гіпс на зламану руку."
   },
   {
     "singular": "glad",
     "plural": "gladi",
-    "ukrainian_translation": "голод",
-    "example_sentence": "Glad je bila veliki problem u tom dijelu svijeta.",
-    "ukrainian_translation_sentence": "Голод був великою проблемою в тій частині світу."
+    "ukrainianTranslation": "голод",
+    "exampleSentence": "Glad je bila veliki problem u tom dijelu svijeta.",
+    "ukrainianTranslationSentence": "Голод був великою проблемою в тій частині світу."
   },
   {
     "singular": "glavnica",
     "plural": "glavnice",
-    "ukrainian_translation": "основний капітал",
-    "example_sentence": "Plaćanje glavnice kredita počinje sljedeći mjesec.",
-    "ukrainian_translation_sentence": "Виплата основного капіталу кредиту починається наступного місяця."
+    "ukrainianTranslation": "основний капітал",
+    "exampleSentence": "Plaćanje glavnice kredita počinje sljedeći mjesec.",
+    "ukrainianTranslationSentence": "Виплата основного капіталу кредиту починається наступного місяця."
   },
   {
     "singular": "glazura",
     "plural": "glazure",
-    "ukrainian_translation": "глазур",
-    "example_sentence": "Kolači su bili prekriveni čokoladnom glazurom.",
-    "ukrainian_translation_sentence": "Тістечка були покриті шоколадною глазур'ю."
+    "ukrainianTranslation": "глазур",
+    "exampleSentence": "Kolači su bili prekriveni čokoladnom glazurom.",
+    "ukrainianTranslationSentence": "Тістечка були покриті шоколадною глазур'ю."
   },
   {
     "singular": "gledanost",
     "plural": "gledanosti",
-    "ukrainian_translation": "перегляди",
-    "example_sentence": "Serija je imala visoku gledanost.",
-    "ukrainian_translation_sentence": "Серіал мав високі перегляди."
+    "ukrainianTranslation": "перегляди",
+    "exampleSentence": "Serija je imala visoku gledanost.",
+    "ukrainianTranslationSentence": "Серіал мав високі перегляди."
   }
 ]

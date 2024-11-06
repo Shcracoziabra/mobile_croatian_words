@@ -1,402 +1,402 @@
 [
   {
     "infinitive": "objaviti",
-    "past_tense": ["objavio", "objavila", "objavilo"],
-    "present_tense": ["objavim", "objaviš", "objavi", "objavimo", "objavite", "objave"],
-    "ukrainian_translation": "опублікувати",
-    "example_sentence": "Objavio je novu knjigu.",
-    "ukrainian_translation_sentence": "Він опублікував нову книгу."
+    "pastTense": ["objavio", "objavila", "objavilo"],
+    "presentTense": ["objavim", "objaviš", "objavi", "objavimo", "objavite", "objave"],
+    "ukrainianTranslation": "опублікувати",
+    "exampleSentence": "Objavio je novu knjigu.",
+    "ukrainianTranslationSentence": "Він опублікував нову книгу."
   },
   {
     "infinitive": "objediniti",
-    "past_tense": ["objedinio", "objedinila", "objedinilo"],
-    "present_tense": ["objedinjavam", "objedinjavaš", "objedinjava", "objedinjavamo", "objedinjavate", "objedinjavanju"],
-    "ukrainian_translation": "об'єднати",
-    "example_sentence": "Objedinio je sve projekte u jedan.",
-    "ukrainian_translation_sentence": "Він об'єднав всі проекти в один."
+    "pastTense": ["objedinio", "objedinila", "objedinilo"],
+    "presentTense": ["objedinjavam", "objedinjavaš", "objedinjava", "objedinjavamo", "objedinjavate", "objedinjavanju"],
+    "ukrainianTranslation": "об'єднати",
+    "exampleSentence": "Objedinio je sve projekte u jedan.",
+    "ukrainianTranslationSentence": "Він об'єднав всі проекти в один."
   },
   {
     "infinitive": "objesiti",
-    "past_tense": ["objesio", "objesila", "objesilo"],
-    "present_tense": ["objesim", "objesiš", "objesi", "objesimo", "objesite", "objese"],
-    "ukrainian_translation": "повісити",
-    "example_sentence": "Objesio je kaput na vješalicu.",
-    "ukrainian_translation_sentence": "Він повісив пальто на вішалку."
+    "pastTense": ["objesio", "objesila", "objesilo"],
+    "presentTense": ["objesim", "objesiš", "objesi", "objesimo", "objesite", "objese"],
+    "ukrainianTranslation": "повісити",
+    "exampleSentence": "Objesio je kaput na vješalicu.",
+    "ukrainianTranslationSentence": "Він повісив пальто на вішалку."
   },
   {
     "infinitive": "oblačiti",
-    "past_tense": ["oblačio", "oblačila", "oblačilo"],
-    "present_tense": ["oblačim", "oblačiš", "oblači", "oblačimo", "oblačite", "oblače"],
-    "ukrainian_translation": "одягати",
-    "example_sentence": "Oblači se vrlo elegantno.",
-    "ukrainian_translation_sentence": "Вона одягається дуже елегантно."
+    "pastTense": ["oblačio", "oblačila", "oblačilo"],
+    "presentTense": ["oblačim", "oblačiš", "oblači", "oblačimo", "oblačite", "oblače"],
+    "ukrainianTranslation": "одягати",
+    "exampleSentence": "Oblači se vrlo elegantno.",
+    "ukrainianTranslationSentence": "Вона одягається дуже елегантно."
   },
   {
     "infinitive": "obnašati",
-    "past_tense": ["obnašao", "obnašala", "obnašalo"],
-    "present_tense": ["obnašam", "obnašaš", "obnaša", "obnašamo", "obnašate", "obnašaju"],
-    "ukrainian_translation": "виконувати обов'язки",
-    "example_sentence": "Obnašao je dužnost direktora.",
-    "ukrainian_translation_sentence": "Він виконував обов'язки директора."
+    "pastTense": ["obnašao", "obnašala", "obnašalo"],
+    "presentTense": ["obnašam", "obnašaš", "obnaša", "obnašamo", "obnašate", "obnašaju"],
+    "ukrainianTranslation": "виконувати обов'язки",
+    "exampleSentence": "Obnašao je dužnost direktora.",
+    "ukrainianTranslationSentence": "Він виконував обов'язки директора."
   },
   {
     "infinitive": "obnavljati",
-    "past_tense": ["obnavljao", "obnavljala", "obnavljalo"],
-    "present_tense": ["obnavljam", "obnavljaš", "obnavlja", "obnavljamo", "obnavljate", "obnavljaju"],
-    "ukrainian_translation": "відновлювати",
-    "example_sentence": "Obnavljaju staru zgradu.",
-    "ukrainian_translation_sentence": "Вони відновлюють стару будівлю."
+    "pastTense": ["obnavljao", "obnavljala", "obnavljalo"],
+    "presentTense": ["obnavljam", "obnavljaš", "obnavlja", "obnavljamo", "obnavljate", "obnavljaju"],
+    "ukrainianTranslation": "відновлювати",
+    "exampleSentence": "Obnavljaju staru zgradu.",
+    "ukrainianTranslationSentence": "Вони відновлюють стару будівлю."
   },
   {
     "infinitive": "obnoviti",
-    "past_tense": ["obnovio", "obnovila", "obnovilo"],
-    "present_tense": ["obnovim", "obnoviš", "obnovi", "obnovimo", "obnovite", "obnove"],
-    "ukrainian_translation": "відновити",
-    "example_sentence": "Obnovio je putovnicu.",
-    "ukrainian_translation_sentence": "Він відновив паспорт."
+    "pastTense": ["obnovio", "obnovila", "obnovilo"],
+    "presentTense": ["obnovim", "obnoviš", "obnovi", "obnovimo", "obnovite", "obnove"],
+    "ukrainianTranslation": "відновити",
+    "exampleSentence": "Obnovio je putovnicu.",
+    "ukrainianTranslationSentence": "Він відновив паспорт."
   },
   {
     "infinitive": "oboljeti",
-    "past_tense": ["obolio", "oboljela", "oboljelo"],
-    "present_tense": ["obolim", "oboliš", "oboli", "obolimo", "obolite", "obole"],
-    "ukrainian_translation": "захворіти",
-    "example_sentence": "Obolio je od gripe.",
-    "ukrainian_translation_sentence": "Він захворів на грип."
+    "pastTense": ["obolio", "oboljela", "oboljelo"],
+    "presentTense": ["obolim", "oboliš", "oboli", "obolimo", "obolite", "obole"],
+    "ukrainianTranslation": "захворіти",
+    "exampleSentence": "Obolio je od gripe.",
+    "ukrainianTranslationSentence": "Він захворів на грип."
   },
   {
     "infinitive": "obraćati",
-    "past_tense": ["obraćao", "obraćala", "obraćalo"],
-    "present_tense": ["obraćam", "obraćaš", "obraća", "obraćamo", "obraćate", "obraćaju"],
-    "ukrainian_translation": "звертатися",
-    "example_sentence": "On se obraća publici svaki dan.",
-    "ukrainian_translation_sentence": "Він звертається до публіки щодня."
+    "pastTense": ["obraćao", "obraćala", "obraćalo"],
+    "presentTense": ["obraćam", "obraćaš", "obraća", "obraćamo", "obraćate", "obraćaju"],
+    "ukrainianTranslation": "звертатися",
+    "exampleSentence": "On se obraća publici svaki dan.",
+    "ukrainianTranslationSentence": "Він звертається до публіки щодня."
   },
   {
     "infinitive": "obraditi",
-    "past_tense": ["obradio", "obradila", "obradilo"],
-    "present_tense": ["obradim", "obradiš", "obradi", "obradimo", "obradite", "obrade"],
-    "ukrainian_translation": "обробити",
-    "example_sentence": "Obradio je podatke za izvještaj.",
-    "ukrainian_translation_sentence": "Він обробив дані для звіту."
+    "pastTense": ["obradio", "obradila", "obradilo"],
+    "presentTense": ["obradim", "obradiš", "obradi", "obradimo", "obradite", "obrade"],
+    "ukrainianTranslation": "обробити",
+    "exampleSentence": "Obradio je podatke za izvještaj.",
+    "ukrainianTranslationSentence": "Він обробив дані для звіту."
   },
   {
     "infinitive": "obrađivati",
-    "past_tense": ["obrađivao", "obrađivala", "obrađivalo"],
-    "present_tense": ["obrađujem", "obrađuješ", "obrađuje", "obrađujemo", "obrađujete", "obrađuju"],
-    "ukrainian_translation": "обробляти",
-    "example_sentence": "Svaki dan obrađuje nove informacije.",
-    "ukrainian_translation_sentence": "Він щодня обробляє нову інформацію."
+    "pastTense": ["obrađivao", "obrađivala", "obrađivalo"],
+    "presentTense": ["obrađujem", "obrađuješ", "obrađuje", "obrađujemo", "obrađujete", "obrađuju"],
+    "ukrainianTranslation": "обробляти",
+    "exampleSentence": "Svaki dan obrađuje nove informacije.",
+    "ukrainianTranslationSentence": "Він щодня обробляє нову інформацію."
   },
   {
     "infinitive": "obrazložiti",
-    "past_tense": ["obrazložio", "obrazložila", "obrazložilo"],
-    "present_tense": ["obrazložim", "obrazložiš", "obrazloži", "obrazložimo", "obrazložite", "obrazlože"],
-    "ukrainian_translation": "обґрунтувати",
-    "example_sentence": "Obrazložio je svoje stavove.",
-    "ukrainian_translation_sentence": "Він обґрунтував свої погляди."
+    "pastTense": ["obrazložio", "obrazložila", "obrazložilo"],
+    "presentTense": ["obrazložim", "obrazložiš", "obrazloži", "obrazložimo", "obrazložite", "obrazlože"],
+    "ukrainianTranslation": "обґрунтувати",
+    "exampleSentence": "Obrazložio je svoje stavove.",
+    "ukrainianTranslationSentence": "Він обґрунтував свої погляди."
   },
   {
     "infinitive": "obvezati",
-    "past_tense": ["obvezao", "obvezala", "obvezalo"],
-    "present_tense": ["obvezujem", "obvezuješ", "obvezuje", "obvezujemo", "obvezujete", "obvezuju"],
-    "ukrainian_translation": "зобов'язати",
-    "example_sentence": "Obvezao se na povratak duga.",
-    "ukrainian_translation_sentence": "Він зобов'язався повернути борг."
+    "pastTense": ["obvezao", "obvezala", "obvezalo"],
+    "presentTense": ["obvezujem", "obvezuješ", "obvezuje", "obvezujemo", "obvezujete", "obvezuju"],
+    "ukrainianTranslation": "зобов'язати",
+    "exampleSentence": "Obvezao se na povratak duga.",
+    "ukrainianTranslationSentence": "Він зобов'язався повернути борг."
   },
   {
     "infinitive": "obznaniti",
-    "past_tense": ["obznanio", "obznanila", "obznanilo"],
-    "present_tense": ["obznanim", "obznaniš", "obznani", "obznanimo", "obznanite", "obznane"],
-    "ukrainian_translation": "оголосити",
-    "example_sentence": "Obznanio je svoju kandidaturu.",
-    "ukrainian_translation_sentence": "Він оголосив свою кандидатуру."
+    "pastTense": ["obznanio", "obznanila", "obznanilo"],
+    "presentTense": ["obznanim", "obznaniš", "obznani", "obznanimo", "obznanite", "obznane"],
+    "ukrainianTranslation": "оголосити",
+    "exampleSentence": "Obznanio je svoju kandidaturu.",
+    "ukrainianTranslationSentence": "Він оголосив свою кандидатуру."
   },
   {
     "infinitive": "očekivati",
-    "past_tense": ["očekivao", "očekivala", "očekivalo"],
-    "present_tense": ["očekujem", "očekuješ", "očekuje", "očekujemo", "očekujete", "očekuju"],
-    "ukrainian_translation": "очікувати",
-    "example_sentence": "Očekuje posjet gostiju.",
-    "ukrainian_translation_sentence": "Він очікує візиту гостей."
+    "pastTense": ["očekivao", "očekivala", "očekivalo"],
+    "presentTense": ["očekujem", "očekuješ", "očekuje", "očekujemo", "očekujete", "očekuju"],
+    "ukrainianTranslation": "очікувати",
+    "exampleSentence": "Očekuje posjet gostiju.",
+    "ukrainianTranslationSentence": "Він очікує візиту гостей."
   },
   {
     "infinitive": "ocijediti",
-    "past_tense": ["ocijedio", "ocijedila", "ocijedilo"],
-    "present_tense": ["ocijedim", "ocijediš", "ocijedi", "ocijedimo", "ocijedite", "ocijede"],
-    "ukrainian_translation": "віджати",
-    "example_sentence": "Ocijedio je sok iz naranče.",
-    "ukrainian_translation_sentence": "Він віджав сік з апельсина."
+    "pastTense": ["ocijedio", "ocijedila", "ocijedilo"],
+    "presentTense": ["ocijedim", "ocijediš", "ocijedi", "ocijedimo", "ocijedite", "ocijede"],
+    "ukrainianTranslation": "віджати",
+    "exampleSentence": "Ocijedio je sok iz naranče.",
+    "ukrainianTranslationSentence": "Він віджав сік з апельсина."
   },
   {
     "infinitive": "očitovati",
-    "past_tense": ["očitovao", "očitovala", "očitovalo"],
-    "present_tense": ["očitujem", "očituješ", "očitujemo", "očitujete", "očitujemo", "očitujete"],
-    "ukrainian_translation": "висловлювати",
-    "example_sentence": "Očitovao je svoje mišljenje.",
-    "ukrainian_translation_sentence": "Він висловив свою думку."
+    "pastTense": ["očitovao", "očitovala", "očitovalo"],
+    "presentTense": ["očitujem", "očituješ", "očitujemo", "očitujete", "očitujemo", "očitujete"],
+    "ukrainianTranslation": "висловлювати",
+    "exampleSentence": "Očitovao je svoje mišljenje.",
+    "ukrainianTranslationSentence": "Він висловив свою думку."
   },
   {
     "infinitive": "ocjenjivati",
-    "past_tense": ["ocjenjivao", "ocjenjivala", "ocjenjivalo"],
-    "present_tense": ["ocjenjujem", "ocjenjuješ", "ocjenjuje", "ocjenjujemo", "ocjenjujete", "ocjenjuju"],
-    "ukrainian_translation": "оцінювати",
-    "example_sentence": "Profesor ocjenjuje učenike.",
-    "ukrainian_translation_sentence": "Професор оцінює учнів."
+    "pastTense": ["ocjenjivao", "ocjenjivala", "ocjenjivalo"],
+    "presentTense": ["ocjenjujem", "ocjenjuješ", "ocjenjuje", "ocjenjujemo", "ocjenjujete", "ocjenjuju"],
+    "ukrainianTranslation": "оцінювати",
+    "exampleSentence": "Profesor ocjenjuje učenike.",
+    "ukrainianTranslationSentence": "Професор оцінює учнів."
   },
   {
     "infinitive": "ocrtavati",
-    "past_tense": ["ocrtavao", "ocrtavala", "ocrtavalo"],
-    "present_tense": ["ocrtavam", "ocrtavaš", "ocrtava", "ocrtavamo", "ocrtavate", "ocrtavaju"],
-    "ukrainian_translation": "замальовувати",
-    "example_sentence": "Ocrtava planove za novi projekt.",
-    "ukrainian_translation_sentence": "Він замальовує плани для нового проекту."
+    "pastTense": ["ocrtavao", "ocrtavala", "ocrtavalo"],
+    "presentTense": ["ocrtavam", "ocrtavaš", "ocrtava", "ocrtavamo", "ocrtavate", "ocrtavaju"],
+    "ukrainianTranslation": "замальовувати",
+    "exampleSentence": "Ocrtava planove za novi projekt.",
+    "ukrainianTranslationSentence": "Він замальовує плани для нового проекту."
   },
   {
     "infinitive": "odabrati",
-    "past_tense": ["odabrao", "odabrala", "odabralo"],
-    "present_tense": ["odaberem", "odabereš", "odabere", "odaberemo", "odaberete", "odaberu"],
-    "ukrainian_translation": "вибрати",
-    "example_sentence": "Odabrao je najbolje rješenje.",
-    "ukrainian_translation_sentence": "Він вибрав найкраще рішення."
+    "pastTense": ["odabrao", "odabrala", "odabralo"],
+    "presentTense": ["odaberem", "odabereš", "odabere", "odaberemo", "odaberete", "odaberu"],
+    "ukrainianTranslation": "вибрати",
+    "exampleSentence": "Odabrao je najbolje rješenje.",
+    "ukrainianTranslationSentence": "Він вибрав найкраще рішення."
   },
   {
     "infinitive": "odaslati",
-    "past_tense": ["odaslao", "odaslala", "odaslalo"],
-    "present_tense": ["odaslatim", "odaslatiš", "odaslati", "odaslatimo", "odaslatite", "odaslate"],
-    "ukrainian_translation": "відправити",
-    "example_sentence": "Odaslao je pismo na adresu.",
-    "ukrainian_translation_sentence": "Він відправив лист на адресу."
+    "pastTense": ["odaslao", "odaslala", "odaslalo"],
+    "presentTense": ["odaslatim", "odaslatiš", "odaslati", "odaslatimo", "odaslatite", "odaslate"],
+    "ukrainianTranslation": "відправити",
+    "exampleSentence": "Odaslao je pismo na adresu.",
+    "ukrainianTranslationSentence": "Він відправив лист на адресу."
   },
   {
     "infinitive": "odavati",
-    "past_tense": ["odavao", "odavala", "odavalo"],
-    "present_tense": ["odajem", "odaješ", "odaje", "odajemo", "odajete", "odaju"],
-    "ukrainian_translation": "виявляти",
-    "example_sentence": "Njegov izraz lica odavao je tugu.",
-    "ukrainian_translation_sentence": "Його вираз обличчя виявляв сум."
+    "pastTense": ["odavao", "odavala", "odavalo"],
+    "presentTense": ["odajem", "odaješ", "odaje", "odajemo", "odajete", "odaju"],
+    "ukrainianTranslation": "виявляти",
+    "exampleSentence": "Njegov izraz lica odavao je tugu.",
+    "ukrainianTranslationSentence": "Його вираз обличчя виявляв сум."
   },
   {
     "infinitive": "odbaciti",
-    "past_tense": ["odbacio", "odbacila", "odbacilo"],
-    "present_tense": ["odbacim", "odbaciš", "odbaci", "odbacimo", "odbacite", "odbace"],
-    "ukrainian_translation": "відкинути",
-    "example_sentence": "Odbacio je staru odjeću.",
-    "ukrainian_translation_sentence": "Він відкинув старий одяг."
+    "pastTense": ["odbacio", "odbacila", "odbacilo"],
+    "presentTense": ["odbacim", "odbaciš", "odbaci", "odbacimo", "odbacite", "odbace"],
+    "ukrainianTranslation": "відкинути",
+    "exampleSentence": "Odbacio je staru odjeću.",
+    "ukrainianTranslationSentence": "Він відкинув старий одяг."
   },
   {
     "infinitive": "odbiti",
-    "past_tense": ["odbio", "odbila", "odbilo"],
-    "present_tense": ["odbijem", "odbijes", "odbije", "odbijemo", "odbijete", "odbiju"],
-    "ukrainian_translation": "відмовити",
-    "example_sentence": "Odbila je ponudu za posao.",
-    "ukrainian_translation_sentence": "Вона відмовилася від пропозиції роботи."
+    "pastTense": ["odbio", "odbila", "odbilo"],
+    "presentTense": ["odbijem", "odbijes", "odbije", "odbijemo", "odbijete", "odbiju"],
+    "ukrainianTranslation": "відмовити",
+    "exampleSentence": "Odbila je ponudu za posao.",
+    "ukrainianTranslationSentence": "Вона відмовилася від пропозиції роботи."
   },
   {
     "infinitive": "oderati",
-    "past_tense": ["oderao", "oderala", "oderalo"],
-    "present_tense": ["oderem", "odereš", "odere", "oderemo", "oderete", "oderu"],
-    "ukrainian_translation": "здерти",
-    "example_sentence": "Oderao je kožu s ruke.",
-    "ukrainian_translation_sentence": "Він здер шкіру з руки."
+    "pastTense": ["oderao", "oderala", "oderalo"],
+    "presentTense": ["oderem", "odereš", "odere", "oderemo", "oderete", "oderu"],
+    "ukrainianTranslation": "здерти",
+    "exampleSentence": "Oderao je kožu s ruke.",
+    "ukrainianTranslationSentence": "Він здер шкіру з руки."
   },
   {
     "infinitive": "odgledati",
-    "past_tense": ["odgledao", "odgledala", "odgledalo"],
-    "present_tense": ["odgledam", "odgledaš", "odgleda", "odgledamo", "odgledate", "odgledaju"],
-    "ukrainian_translation": "додивитися",
-    "example_sentence": "Odgledali su cijeli film.",
-    "ukrainian_translation_sentence": "Вони додивилися весь фільм."
+    "pastTense": ["odgledao", "odgledala", "odgledalo"],
+    "presentTense": ["odgledam", "odgledaš", "odgleda", "odgledamo", "odgledate", "odgledaju"],
+    "ukrainianTranslation": "додивитися",
+    "exampleSentence": "Odgledali su cijeli film.",
+    "ukrainianTranslationSentence": "Вони додивилися весь фільм."
   },
   {
     "infinitive": "odgoditi",
-    "past_tense": ["odgodio", "odgodila", "odgodilo"],
-    "present_tense": ["odgodim", "odgodiš", "odgodi", "odgodimo", "odgodite", "odgode"],
-    "ukrainian_translation": "відкласти",
-    "example_sentence": "Odgodili su sastanak za sutra.",
-    "ukrainian_translation_sentence": "Вони відклали зустріч на завтра."
+    "pastTense": ["odgodio", "odgodila", "odgodilo"],
+    "presentTense": ["odgodim", "odgodiš", "odgodi", "odgodimo", "odgodite", "odgode"],
+    "ukrainianTranslation": "відкласти",
+    "exampleSentence": "Odgodili su sastanak za sutra.",
+    "ukrainianTranslationSentence": "Вони відклали зустріч на завтра."
   },
   {
     "infinitive": "odgojiti",
-    "past_tense": ["odgojio", "odgojila", "odgojilo"],
-    "present_tense": ["odgojim", "odgojiš", "odgoji", "odgojimo", "odgojite", "odgoje"],
-    "ukrainian_translation": "виховати",
-    "example_sentence": "Odgojili su troje djece.",
-    "ukrainian_translation_sentence": "Вони виховали трьох дітей."
+    "pastTense": ["odgojio", "odgojila", "odgojilo"],
+    "presentTense": ["odgojim", "odgojiš", "odgoji", "odgojimo", "odgojite", "odgoje"],
+    "ukrainianTranslation": "виховати",
+    "exampleSentence": "Odgojili su troje djece.",
+    "ukrainianTranslationSentence": "Вони виховали трьох дітей."
   },
   {
     "infinitive": "odgovarati",
-    "past_tense": ["odgovarao", "odgovarala", "odgovaralo"],
-    "present_tense": ["odgovaram", "odgovaraš", "odgovara", "odgovaramo", "odgovarate", "odgovaraju"],
-    "ukrainian_translation": "відповідати",
-    "example_sentence": "Odgovarao je na pitanja učitelja.",
-    "ukrainian_translation_sentence": "Він відповідав на запитання вчителя."
+    "pastTense": ["odgovarao", "odgovarala", "odgovaralo"],
+    "presentTense": ["odgovaram", "odgovaraš", "odgovara", "odgovaramo", "odgovarate", "odgovaraju"],
+    "ukrainianTranslation": "відповідати",
+    "exampleSentence": "Odgovarao je na pitanja učitelja.",
+    "ukrainianTranslationSentence": "Він відповідав на запитання вчителя."
   },
   {
     "infinitive": "odigrati",
-    "past_tense": ["odigrao", "odigrala", "odigralo"],
-    "present_tense": ["odigram", "odigraš", "odigra", "odigramo", "odigrate", "odigraju"],
-    "ukrainian_translation": "зіграти",
-    "example_sentence": "Odigrao je važnu ulogu u predstavi.",
-    "ukrainian_translation_sentence": "Він зіграв важливу роль у виставі."
+    "pastTense": ["odigrao", "odigrala", "odigralo"],
+    "presentTense": ["odigram", "odigraš", "odigra", "odigramo", "odigrate", "odigraju"],
+    "ukrainianTranslation": "зіграти",
+    "exampleSentence": "Odigrao je važnu ulogu u predstavi.",
+    "ukrainianTranslationSentence": "Він зіграв важливу роль у виставі."
   },
   {
     "infinitive": "odisati",
-    "past_tense": ["odisao", "odisala", "odisalo"],
-    "present_tense": ["odajem", "odaješ", "odaje", "odajemo", "odajete", "odaju"],
-    "ukrainian_translation": "пахнути",
-    "example_sentence": "Kuća je odisala svježinom.",
-    "ukrainian_translation_sentence": "Будинок пахнув свіжістю."
+    "pastTense": ["odisao", "odisala", "odisalo"],
+    "presentTense": ["odajem", "odaješ", "odaje", "odajemo", "odajete", "odaju"],
+    "ukrainianTranslation": "пахнути",
+    "exampleSentence": "Kuća je odisala svježinom.",
+    "ukrainianTranslationSentence": "Будинок пахнув свіжістю."
   },
   {
     "infinitive": "odjeknuti",
-    "past_tense": ["odjeknuo", "odjeknula", "odjeknulo"],
-    "present_tense": ["odjeknem", "odjekneš", "odjekne", "odjeknemo", "odjeknete", "odjeknu"],
-    "ukrainian_translation": "відлунати",
-    "example_sentence": "Vijest je odjeknula u cijelom gradu.",
-    "ukrainian_translation_sentence": "Новина відлунала у всьому місті."
+    "pastTense": ["odjeknuo", "odjeknula", "odjeknulo"],
+    "presentTense": ["odjeknem", "odjekneš", "odjekne", "odjeknemo", "odjeknete", "odjeknu"],
+    "ukrainianTranslation": "відлунати",
+    "exampleSentence": "Vijest je odjeknula u cijelom gradu.",
+    "ukrainianTranslationSentence": "Новина відлунала у всьому місті."
   },
   {
     "infinitive": "odjuriti",
-    "past_tense": ["odjurio", "odjurila", "odjurilo"],
-    "present_tense": ["odjurim", "odjuriš", "odjuri", "odjurimo", "odjurite", "odjure"],
-    "ukrainian_translation": "помчати",
-    "example_sentence": "Odjurila je prema kući.",
-    "ukrainian_translation_sentence": "Вона помчала до будинку."
+    "pastTense": ["odjurio", "odjurila", "odjurilo"],
+    "presentTense": ["odjurim", "odjuriš", "odjuri", "odjurimo", "odjurite", "odjure"],
+    "ukrainianTranslation": "помчати",
+    "exampleSentence": "Odjurila je prema kući.",
+    "ukrainianTranslationSentence": "Вона помчала до будинку."
   },
   {
     "infinitive": "odlaziti",
-    "past_tense": ["odlazio", "odlazila", "odlazilo"],
-    "present_tense": ["odlazim", "odlaziš", "odlazi", "odlazimo", "odlazite", "odlaze"],
-    "ukrainian_translation": "йти",
-    "example_sentence": "Odlazi na posao svaki dan.",
-    "ukrainian_translation_sentence": "Він ходить на роботу кожен день."
+    "pastTense": ["odlazio", "odlazila", "odlazilo"],
+    "presentTense": ["odlazim", "odlaziš", "odlazi", "odlazimo", "odlazite", "odlaze"],
+    "ukrainianTranslation": "йти",
+    "exampleSentence": "Odlazi na posao svaki dan.",
+    "ukrainianTranslationSentence": "Він ходить на роботу кожен день."
   },
   {
     "infinitive": "odletjeti",
-    "past_tense": ["odletio", "odletjela", "odletjelo"],
-    "present_tense": ["odletim", "odletiš", "odleti", "odletimo", "odletite", "odlete"],
-    "ukrainian_translation": "відлетіти",
-    "example_sentence": "Avion je odletio prema Parizu.",
-    "ukrainian_translation_sentence": "Літак відлетів у напрямку Парижа."
+    "pastTense": ["odletio", "odletjela", "odletjelo"],
+    "presentTense": ["odletim", "odletiš", "odleti", "odletimo", "odletite", "odlete"],
+    "ukrainianTranslation": "відлетіти",
+    "exampleSentence": "Avion je odletio prema Parizu.",
+    "ukrainianTranslationSentence": "Літак відлетів у напрямку Парижа."
   },
   {
     "infinitive": "odložiti",
-    "past_tense": ["odložio", "odložila", "odložilo"],
-    "present_tense": ["odložim", "odložiš", "odloži", "odložimo", "odložite", "odlože"],
-    "ukrainian_translation": "відкласти",
-    "example_sentence": "Odložili su sastanak na sljedeći tjedan.",
-    "ukrainian_translation_sentence": "Вони відклали зустріч на наступний тиждень."
+    "pastTense": ["odložio", "odložila", "odložilo"],
+    "presentTense": ["odložim", "odložiš", "odloži", "odložimo", "odložite", "odlože"],
+    "ukrainianTranslation": "відкласти",
+    "exampleSentence": "Odložili su sastanak na sljedeći tjedan.",
+    "ukrainianTranslationSentence": "Вони відклали зустріч на наступний тиждень."
   },
   {
     "infinitive": "odlučiti",
-    "past_tense": ["odlučio", "odlučila", "odlučilo"],
-    "present_tense": ["odlučim", "odlučiš", "odluči", "odlučimo", "odlučite", "odluče"],
-    "ukrainian_translation": "вирішити",
-    "example_sentence": "Odlučio je kupiti novi automobil.",
-    "ukrainian_translation_sentence": "Він вирішив купити новий автомобіль."
+    "pastTense": ["odlučio", "odlučila", "odlučilo"],
+    "presentTense": ["odlučim", "odlučiš", "odluči", "odlučimo", "odlučite", "odluče"],
+    "ukrainianTranslation": "вирішити",
+    "exampleSentence": "Odlučio je kupiti novi automobil.",
+    "ukrainianTranslationSentence": "Він вирішив купити новий автомобіль."
   },
   {
     "infinitive": "odmahnuti",
-    "past_tense": ["odmahnuo", "odmahnula", "odmahnulo"],
-    "present_tense": ["odmahnem", "odmahneš", "odmahne", "odmahnemo", "odmahnete", "odmahnu"],
-    "ukrainian_translation": "махнути",
-    "example_sentence": "Odmahnula je rukom na to pitanje.",
-    "ukrainian_translation_sentence": "Вона махнула рукою на це питання."
+    "pastTense": ["odmahnuo", "odmahnula", "odmahnulo"],
+    "presentTense": ["odmahnem", "odmahneš", "odmahne", "odmahnemo", "odmahnete", "odmahnu"],
+    "ukrainianTranslation": "махнути",
+    "exampleSentence": "Odmahnula je rukom na to pitanje.",
+    "ukrainianTranslationSentence": "Вона махнула рукою на це питання."
   },
   {
     "infinitive": "odmaknuti",
-    "past_tense": ["odmaknuo", "odmaknula", "odmaknulo"],
-    "present_tense": ["odmaknem", "odmakneš", "odmakne", "odmaknemo", "odmaknete", "odmaknu"],
-    "ukrainian_translation": "відсунути",
-    "example_sentence": "Odmaknuo je stol od zida.",
-    "ukrainian_translation_sentence": "Він відсунув стіл від стіни."
+    "pastTense": ["odmaknuo", "odmaknula", "odmaknulo"],
+    "presentTense": ["odmaknem", "odmakneš", "odmakne", "odmaknemo", "odmaknete", "odmaknu"],
+    "ukrainianTranslation": "відсунути",
+    "exampleSentence": "Odmaknuo je stol od zida.",
+    "ukrainianTranslationSentence": "Він відсунув стіл від стіни."
   },
   {
     "infinitive": "odmarati",
-    "past_tense": ["odmarao", "odmarala", "odmaralo"],
-    "present_tense": ["odmaram", "odmaraš", "odmara", "odmaramo", "odmarate", "odmaraju"],
-    "ukrainian_translation": "відпочивати",
-    "example_sentence": "Odmaraju se na plaži.",
-    "ukrainian_translation_sentence": "Вони відпочивають на пляжі."
+    "pastTense": ["odmarao", "odmarala", "odmaralo"],
+    "presentTense": ["odmaram", "odmaraš", "odmara", "odmaramo", "odmarate", "odmaraju"],
+    "ukrainianTranslation": "відпочивати",
+    "exampleSentence": "Odmaraju se na plaži.",
+    "ukrainianTranslationSentence": "Вони відпочивають на пляжі."
   },
   {
     "infinitive": "odmicati",
-    "past_tense": ["odmicao", "odmicala", "odmicalo"],
-    "present_tense": ["odmičem", "odmičeš", "odmiče", "odmičemo", "odmičete", "odmiču"],
-    "ukrainian_translation": "відсувати",
-    "example_sentence": "Polako odmiče knjige s police.",
-    "ukrainian_translation_sentence": "Він повільно відсуває книги з полиці."
+    "pastTense": ["odmicao", "odmicala", "odmicalo"],
+    "presentTense": ["odmičem", "odmičeš", "odmiče", "odmičemo", "odmičete", "odmiču"],
+    "ukrainianTranslation": "відсувати",
+    "exampleSentence": "Polako odmiče knjige s police.",
+    "ukrainianTranslationSentence": "Він повільно відсуває книги з полиці."
   },
   {
     "infinitive": "odnijeti",
-    "past_tense": ["odnio", "odnijela", "odnijelo"],
-    "present_tense": ["odnesem", "odneseš", "odnese", "odnesemo", "odnesete", "odnesu"],
-    "ukrainian_translation": "віднести",
-    "example_sentence": "Odnio je prljavu odjeću na pranje.",
-    "ukrainian_translation_sentence": "Він відніс брудний одяг на прання."
+    "pastTense": ["odnio", "odnijela", "odnijelo"],
+    "presentTense": ["odnesem", "odneseš", "odnese", "odnesemo", "odnesete", "odnesu"],
+    "ukrainianTranslation": "віднести",
+    "exampleSentence": "Odnio je prljavu odjeću na pranje.",
+    "ukrainianTranslationSentence": "Він відніс брудний одяг на прання."
   },
   {
     "infinitive": "odnositi",
-    "past_tense": ["odnosio", "odnosila", "odnosilo"],
-    "present_tense": ["odnosim", "odnosiš", "odnosi", "odnosimo", "odnosite", "odnose"],
-    "ukrainian_translation": "відносити",
-    "example_sentence": "Svaki tjedan odnosi smeće.",
-    "ukrainian_translation_sentence": "Він кожного тижня відносить сміття."
+    "pastTense": ["odnosio", "odnosila", "odnosilo"],
+    "presentTense": ["odnosim", "odnosiš", "odnosi", "odnosimo", "odnosite", "odnose"],
+    "ukrainianTranslation": "відносити",
+    "exampleSentence": "Svaki tjedan odnosi smeće.",
+    "ukrainianTranslationSentence": "Він кожного тижня відносить сміття."
   },
   {
     "infinitive": "odraditi",
-    "past_tense": ["odradio", "odradila", "odradilo"],
-    "present_tense": ["odradim", "odradiš", "odradi", "odradimo", "odradite", "odrade"],
-    "ukrainian_translation": "завершити",
-    "example_sentence": "Odradio je sve zadatke na vrijeme.",
-    "ukrainian_translation_sentence": "Він завершив всі завдання вчасно."
+    "pastTense": ["odradio", "odradila", "odradilo"],
+    "presentTense": ["odradim", "odradiš", "odradi", "odradimo", "odradite", "odrade"],
+    "ukrainianTranslation": "завершити",
+    "exampleSentence": "Odradio je sve zadatke na vrijeme.",
+    "ukrainianTranslationSentence": "Він завершив всі завдання вчасно."
   },
   {
     "infinitive": "odrasti",
-    "past_tense": ["odrastao", "odrasla", "odraslo"],
-    "present_tense": ["odrastam", "odrastaš", "odrasta", "odrastamo", "odrastate", "odrastaju"],
-    "ukrainian_translation": "вирости",
-    "example_sentence": "Odrastao je u velikom gradu.",
-    "ukrainian_translation_sentence": "Він виріс у великому місті."
+    "pastTense": ["odrastao", "odrasla", "odraslo"],
+    "presentTense": ["odrastam", "odrastaš", "odrasta", "odrastamo", "odrastate", "odrastaju"],
+    "ukrainianTranslation": "вирости",
+    "exampleSentence": "Odrastao je u velikom gradu.",
+    "ukrainianTranslationSentence": "Він виріс у великому місті."
   },
   {
     "infinitive": "odrediti",
-    "past_tense": ["odredio", "odredila", "odredilo"],
-    "present_tense": ["odredim", "odrediš", "odredi", "odredimo", "odredite", "odrede"],
-    "ukrainian_translation": "визначити",
-    "example_sentence": "Odredio je datum sastanka.",
-    "ukrainian_translation_sentence": "Він визначив дату зустрічі."
+    "pastTense": ["odredio", "odredila", "odredilo"],
+    "presentTense": ["odredim", "odrediš", "odredi", "odredimo", "odredite", "odrede"],
+    "ukrainianTranslation": "визначити",
+    "exampleSentence": "Odredio je datum sastanka.",
+    "ukrainianTranslationSentence": "Він визначив дату зустрічі."
   },
   {
     "infinitive": "odsjesti",
-    "past_tense": ["odsjeo", "odsjela", "odsjelo"],
-    "present_tense": ["odsjedam", "odsjedaš", "odsjeda", "odsjedamo", "odsjedate", "odsjedaju"],
-    "ukrainian_translation": "зупинитися (в готелі)",
-    "example_sentence": "Odsjeli su u hotelu.",
-    "ukrainian_translation_sentence": "Вони зупинилися в готелі."
+    "pastTense": ["odsjeo", "odsjela", "odsjelo"],
+    "presentTense": ["odsjedam", "odsjedaš", "odsjeda", "odsjedamo", "odsjedate", "odsjedaju"],
+    "ukrainianTranslation": "зупинитися (в готелі)",
+    "exampleSentence": "Odsjeli su u hotelu.",
+    "ukrainianTranslationSentence": "Вони зупинилися в готелі."
   },
   {
     "infinitive": "odstajati",
-    "past_tense": ["odstajao", "odstajala", "odstajalo"],
-    "present_tense": ["odstajem", "odstaješ", "odstaje", "odstajemo", "odstajete", "odstaju"],
-    "ukrainian_translation": "стояти",
-    "example_sentence": "Odstajao je cijeli dan u redu.",
-    "ukrainian_translation_sentence": "Він стояв цілий день у черзі."
+    "pastTense": ["odstajao", "odstajala", "odstajalo"],
+    "presentTense": ["odstajem", "odstaješ", "odstaje", "odstajemo", "odstajete", "odstaju"],
+    "ukrainianTranslation": "стояти",
+    "exampleSentence": "Odstajao je cijeli dan u redu.",
+    "ukrainianTranslationSentence": "Він стояв цілий день у черзі."
   },
   {
     "infinitive": "odsvirati",
-    "past_tense": ["odsvirao", "odsvirala", "odsviralo"],
-    "present_tense": ["odsviram", "odsvirate", "odsviraju", "odsviramo", "odsvirate", "odsviraju"],
-    "ukrainian_translation": "зіграти (музику)",
-    "example_sentence": "Odsvirali su svoju omiljenu pjesmu.",
-    "ukrainian_translation_sentence": "Вони зіграли свою улюблену пісню."
+    "pastTense": ["odsvirao", "odsvirala", "odsviralo"],
+    "presentTense": ["odsviram", "odsvirate", "odsviraju", "odsviramo", "odsvirate", "odsviraju"],
+    "ukrainianTranslation": "зіграти (музику)",
+    "exampleSentence": "Odsvirali su svoju omiljenu pjesmu.",
+    "ukrainianTranslationSentence": "Вони зіграли свою улюблену пісню."
   },
   {
     "infinitive": "odustajati",
-    "past_tense": ["odustajao", "odustajala", "odustajalo"],
-    "present_tense": ["odustajem", "odustaješ", "odustaje", "odustajemo", "odustajete", "odustaju"],
-    "ukrainian_translation": "відмовлятися",
-    "example_sentence": "Odustaje od svojih planova.",
-    "ukrainian_translation_sentence": "Відмовився від своїх планів."
+    "pastTense": ["odustajao", "odustajala", "odustajalo"],
+    "presentTense": ["odustajem", "odustaješ", "odustaje", "odustajemo", "odustajete", "odustaju"],
+    "ukrainianTranslation": "відмовлятися",
+    "exampleSentence": "Odustaje od svojih planova.",
+    "ukrainianTranslationSentence": "Відмовився від своїх планів."
   }
 ]

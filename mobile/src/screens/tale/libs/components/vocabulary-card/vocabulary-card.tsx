@@ -21,7 +21,7 @@ const VocabularyCard: React.FC<Properties> = ({ translation, word }) => {
 				start={start}
 				style={[globalStyles.rt16, globalStyles.p12, globalStyles.lightGray]}
 			>
-				<Text color={BaseColor.DARK_BROWN} weight="bold">
+				<Text color={BaseColor.DARK_BROWN} weight='bold'>
 					{word}
 				</Text>
 			</LinearGradient>
@@ -32,7 +32,7 @@ const VocabularyCard: React.FC<Properties> = ({ translation, word }) => {
 					globalStyles.transparentGray,
 				]}
 			>
-				<Text color={BaseColor.WHITE} weight="bold">
+				<Text color={BaseColor.WHITE} weight='bold'>
 					{translation}
 				</Text>
 			</View>

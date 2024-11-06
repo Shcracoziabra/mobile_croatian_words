@@ -21,7 +21,7 @@ type Properties = {
 };
 
 const defaultImageSource =
-	require('~/assets/illustrations/story_4.jpg') as ImageSourcePropType;
+	require('~/assets/backgrounds/main-bg.png') as ImageSourcePropType;
 
 const TaleListItem: React.FC<Properties> = ({
 	title,
@@ -43,23 +43,32 @@ const TaleListItem: React.FC<Properties> = ({
 					<View
 						style={[
 							globalStyles.flex1,
+							globalStyles.fullWidth,
 							globalStyles.r16,
 							styles.container,
-							globalStyles.justifyContentEnd,
+						]}
+					>
+						<View
+						style={[
+							globalStyles.flex1,
+							globalStyles.rt16,
+							globalStyles.pt24,
+							globalStyles.ph24,
+							globalStyles.transparentGray,
 						]}
 					>
 						<Image
-							resizeMode="cover"
+							resizeMode='cover'
 							source={imageSource}
 							style={[styles.absoluteCover, globalStyles.rt16]}
 						/>
+					</View>
 						<LinearGradient
 							colors={[...buttonColors]}
 							end={end}
 							start={start}
 							style={[
 								globalStyles.justifyContentEnd,
-								globalStyles.alignItemsCenter,
 								globalStyles.p8,
 								globalStyles.rb16,
 							]}

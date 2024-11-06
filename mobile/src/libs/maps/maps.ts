@@ -1,3 +1,4 @@
+export { categoryToTableName } from './category-to-table-name/category-to-table-name.map';
 export { directionToGradient } from './direction-to-gradient/direction-to-gradient.map';
 export { fontWeightToFamily } from './font-weight-to-family/font-weight-to-family.map';
 export { partOfSpeechToTitle } from './part-of-speech-to-title/part-of-speech-to-title.map';

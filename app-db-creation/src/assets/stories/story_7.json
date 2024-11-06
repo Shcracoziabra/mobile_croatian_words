@@ -1,6 +1,6 @@
 {
-  "title_hr": "Obiteljsko okupljanje uz stol",
-  "title_uk": "Сімейне зібрання за столом",
+  "titleHr": "Obiteljsko okupljanje uz stol",
+  "titleUk": "Сімейне зібрання за столом",
   "illustration": "story_7.png",
   "text": [
     {
@@ -136,7 +136,6 @@
     {"hr": "čaša", "uk": "келих"},
     {"hr": "vino", "uk": "вино"},
     {"hr": "riba", "uk": "риба"},
-    {"hr": "kruh", "uk": "хліб"},
     {"hr": "salata", "uk": "салат"},
     {"hr": "maslinovo ulje", "uk": "оливкова олія"},
     {"hr": "vjetar", "uk": "вітер"},

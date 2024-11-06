@@ -1,8 +1,8 @@
 import React from 'react';
 import { type Edge, useSafeAreaInsets } from 'react-native-safe-area-context';
 
-import { View } from '~/libs/components/components';
-import { NumericalValue } from '~/libs/enums/enums';
+import { Text, View } from '~/libs/components/components';
+import { BaseColor, NumericalValue } from '~/libs/enums/enums';
 import { globalStyles } from '~/libs/styles/styles';
 import { type StyleProp, type ViewStyle } from '~/libs/types/types';
 
@@ -11,6 +11,7 @@ import { EdgeDirection } from './libs/enums/enums';
 type Properties = {
 	children: React.ReactNode;
 	edges?: Edge[];
+	isLoading?: boolean;
 	style?: StyleProp<ViewStyle>;
 };
 
@@ -24,6 +25,7 @@ const DEFAULT_SAFE_AREA_EDGES: Edge[] = [
 const ScreenWrapper: React.FC<Properties> = ({
 	children,
 	edges = DEFAULT_SAFE_AREA_EDGES,
+	isLoading = false,
 	style,
 }: Properties): JSX.Element => {
 	const insets = useSafeAreaInsets();
@@ -44,7 +46,14 @@ const ScreenWrapper: React.FC<Properties> = ({
 	};
 
 	return (
-		<View style={[globalStyles.flex1, paddingStyle, style]}>{children}</View>
+		<>
+		{isLoading
+			? <View style={[globalStyles.flex1, paddingStyle, globalStyles.alignItemsCenter, globalStyles.justifyContentCenter]}>
+					<Text color={BaseColor.WHITE} preset='uppercase' size='lg'>Loading...</Text>
+				</View>
+			: <View style={[globalStyles.flex1, paddingStyle, style]}>{children}</View>
+		}
+		</>
 	);
 };
 

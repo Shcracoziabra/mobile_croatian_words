@@ -1,6 +1,6 @@
 {
-  "title_hr": "Jutro u poštanskom uredu",
-  "title_uk": "Ранок у поштовому відділенні",
+  "titleHr": "Jutro u poštanskom uredu",
+  "titleUk": "Ранок у поштовому відділенні",
   "illustration": "story_4.png",
   "text": [
     {
@@ -153,9 +153,7 @@
     {"hr": "dani", "uk": "дні"},
     {"hr": "prijateljstvo", "uk": "дружба"},
     {"hr": "mirnoća", "uk": "спокій"},
-    {"hr": "kaput", "uk": "пальто"},
     {"hr": "vozač", "uk": "водій"},
-    {"hr": "djeca", "uk": "діти"},
     {"hr": "žena", "uk": "жінка"},
     {"hr": "pekara", "uk": "пекарня"},
     {"hr": "jutro", "uk": "ранок"},

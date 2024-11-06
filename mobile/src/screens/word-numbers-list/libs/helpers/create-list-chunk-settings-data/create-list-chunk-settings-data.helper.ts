@@ -16,7 +16,7 @@ const createListChunkSettingsData = ({
 
 	for (let i = start; i < end; i += step) {
 		const contentLength = end - i < step ? end - i : step;
-		listChunkSettingsData.push({ contentLength, startIndex: i });
+		listChunkSettingsData.push({ contentLength, startIndex: i + NumericalValue.ONE });
 	}
 
 	return listChunkSettingsData;

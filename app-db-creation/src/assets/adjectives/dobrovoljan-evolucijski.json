@@ -3,400 +3,400 @@
     "maskuline": "dobrovoljan",
     "feminine": "dobrovoljna",
     "neutrum": "dobrovoljno",
-    "ukrainian_translation": "добровільний",
-    "example_sentence": "Dobrovoljan rad u zajednici uvijek je cijenjen.",
-    "ukrainian_translation_sentence": "Добровільна праця в громаді завжди цінується."
+    "ukrainianTranslation": "добровільний",
+    "exampleSentence": "Dobrovoljan rad u zajednici uvijek je cijenjen.",
+    "ukrainianTranslationSentence": "Добровільна праця в громаді завжди цінується."
   },
   {
     "maskuline": "dodatan",
     "feminine": "dodatna",
     "neutrum": "dodatno",
-    "ukrainian_translation": "додатковий",
-    "example_sentence": "Dodatan napor donio je bolje rezultate na projektu.",
-    "ukrainian_translation_sentence": "Додаткові зусилля принесли кращі результати у проєкті."
+    "ukrainianTranslation": "додатковий",
+    "exampleSentence": "Dodatan napor donio je bolje rezultate na projektu.",
+    "ukrainianTranslationSentence": "Додаткові зусилля принесли кращі результати у проєкті."
   },
   {
     "maskuline": "dominantan",
     "feminine": "dominantna",
     "neutrum": "dominantno",
-    "ukrainian_translation": "домінантний",
-    "example_sentence": "Njegov dominantan karakter često je dolazio do izražaja u razgovorima.",
-    "ukrainian_translation_sentence": "Його домінантний характер часто проявлявся у розмовах."
+    "ukrainianTranslation": "домінантний",
+    "exampleSentence": "Njegov dominantan karakter često je dolazio do izražaja u razgovorima.",
+    "ukrainianTranslationSentence": "Його домінантний характер часто проявлявся у розмовах."
   },
   {
     "maskuline": "domoljuban",
     "feminine": "domoljubna",
     "neutrum": "domoljubno",
-    "ukrainian_translation": "патріотичний",
-    "example_sentence": "Domoljuban osjećaj potaknuo je ljude na proslavu Dana neovisnosti.",
-    "ukrainian_translation_sentence": "Патріотичні почуття спонукали людей святкувати День Незалежності."
+    "ukrainianTranslation": "патріотичний",
+    "exampleSentence": "Domoljuban osjećaj potaknuo je ljude na proslavu Dana neovisnosti.",
+    "ukrainianTranslationSentence": "Патріотичні почуття спонукали людей святкувати День Незалежності."
   },
   {
     "maskuline": "donji",
     "feminine": "donja",
     "neutrum": "donje",
-    "ukrainian_translation": "нижній",
-    "example_sentence": "Donji dio planine bio je prekriven gustom šumom.",
-    "ukrainian_translation_sentence": "Нижня частина гори була покрита густим лісом."
+    "ukrainianTranslation": "нижній",
+    "exampleSentence": "Donji dio planine bio je prekriven gustom šumom.",
+    "ukrainianTranslationSentence": "Нижня частина гори була покрита густим лісом."
   },
   {
     "maskuline": "dosadan",
     "feminine": "dosadna",
     "neutrum": "dosadno",
-    "ukrainian_translation": "нудний",
-    "example_sentence": "Predavanje je bilo dosadno i mnogi su se teško koncentrirali.",
-    "ukrainian_translation_sentence": "Лекція була нудною, і багатьом було важко зосередитися."
+    "ukrainianTranslation": "нудний",
+    "exampleSentence": "Predavanje je bilo dosadno i mnogi su se teško koncentrirali.",
+    "ukrainianTranslationSentence": "Лекція була нудною, і багатьом було важко зосередитися."
   },
   {
     "maskuline": "doslovan",
     "feminine": "doslovna",
     "neutrum": "doslovno",
-    "ukrainian_translation": "буквальний",
-    "example_sentence": "Njegovo doslovno tumačenje pravila izazvalo je zabunu.",
-    "ukrainian_translation_sentence": "Його буквальне трактування правил викликало плутанину."
+    "ukrainianTranslation": "буквальний",
+    "exampleSentence": "Njegovo doslovno tumačenje pravila izazvalo je zabunu.",
+    "ukrainianTranslationSentence": "Його буквальне трактування правил викликало плутанину."
   },
   {
     "maskuline": "dospjeli",
     "feminine": "dospjela",
     "neutrum": "dospjelo",
-    "ukrainian_translation": "прострочений",
-    "example_sentence": "Dospjeli računi trebali su biti plaćeni odmah.",
-    "ukrainian_translation_sentence": "Прострочені рахунки повинні були бути оплачені негайно."
+    "ukrainianTranslation": "прострочений",
+    "exampleSentence": "Dospjeli računi trebali su biti plaćeni odmah.",
+    "ukrainianTranslationSentence": "Прострочені рахунки повинні були бути оплачені негайно."
   },
   {
     "maskuline": "dostatan",
     "feminine": "dostatna",
     "neutrum": "dostatno",
-    "ukrainian_translation": "достатній",
-    "example_sentence": "Imali su dostatan broj ljudi za pokretanje projekta.",
-    "ukrainian_translation_sentence": "Вони мали достатню кількість людей для запуску проєкту."
+    "ukrainianTranslation": "достатній",
+    "exampleSentence": "Imali su dostatan broj ljudi za pokretanje projekta.",
+    "ukrainianTranslationSentence": "Вони мали достатню кількість людей для запуску проєкту."
   },
   {
     "maskuline": "dostojan",
     "feminine": "dostojna",
     "neutrum": "dostojno",
-    "ukrainian_translation": "гідний",
-    "example_sentence": "Bio je dostojan nagrade za svoj trud i rad.",
-    "ukrainian_translation_sentence": "Він був гідний нагороди за свої зусилля та роботу."
+    "ukrainianTranslation": "гідний",
+    "exampleSentence": "Bio je dostojan nagrade za svoj trud i rad.",
+    "ukrainianTranslationSentence": "Він був гідний нагороди за свої зусилля та роботу."
   },
 	{
     "maskuline": "dovoljan",
     "feminine": "dovoljna",
     "neutrum": "dovoljno",
-    "ukrainian_translation": "достатній",
-    "example_sentence": "Imali smo dovoljno hrane za sve goste.",
-    "ukrainian_translation_sentence": "Ми мали достатньо їжі для всіх гостей."
+    "ukrainianTranslation": "достатній",
+    "exampleSentence": "Imali smo dovoljno hrane za sve goste.",
+    "ukrainianTranslationSentence": "Ми мали достатньо їжі для всіх гостей."
   },
   {
     "maskuline": "doživotan",
     "feminine": "doživotna",
     "neutrum": "doživotno",
-    "ukrainian_translation": "довічний",
-    "example_sentence": "Osuđen je na doživotnu kaznu zatvora.",
-    "ukrainian_translation_sentence": "Його засудили до довічного ув'язнення."
+    "ukrainianTranslation": "довічний",
+    "exampleSentence": "Osuđen je na doživotnu kaznu zatvora.",
+    "ukrainianTranslationSentence": "Його засудили до довічного ув'язнення."
   },
   {
     "maskuline": "drag",
     "feminine": "draga",
     "neutrum": "drago",
-    "ukrainian_translation": "дорогий",
-    "example_sentence": "Bio mi je drag prijatelj s kojim sam dijelio mnogo uspomena.",
-    "ukrainian_translation_sentence": "Він був дорогим другом, з яким я ділився багатьма спогадами."
+    "ukrainianTranslation": "дорогий",
+    "exampleSentence": "Bio mi je drag prijatelj s kojim sam dijelio mnogo uspomena.",
+    "ukrainianTranslationSentence": "Він був дорогим другом, з яким я ділився багатьма спогадами."
   },
   {
     "maskuline": "dramatičan",
     "feminine": "dramatična",
     "neutrum": "dramatično",
-    "ukrainian_translation": "драматичний",
-    "example_sentence": "Dramatičan završetak utakmice ostavio je sve u napetosti.",
-    "ukrainian_translation_sentence": "Драматичний фінал матчу залишив усіх у напрузі."
+    "ukrainianTranslation": "драматичний",
+    "exampleSentence": "Dramatičan završetak utakmice ostavio je sve u napetosti.",
+    "ukrainianTranslationSentence": "Драматичний фінал матчу залишив усіх у напрузі."
   },
   {
     "maskuline": "dramski",
     "feminine": "dramska",
     "neutrum": "dramsko",
-    "ukrainian_translation": "драматичний",
-    "example_sentence": "Dramska predstava izazvala je duboke emocije kod publike.",
-    "ukrainian_translation_sentence": "Драматична вистава викликала глибокі емоції у глядачів."
+    "ukrainianTranslation": "драматичний",
+    "exampleSentence": "Dramska predstava izazvala je duboke emocije kod publike.",
+    "ukrainianTranslationSentence": "Драматична вистава викликала глибокі емоції у глядачів."
   },
   {
     "maskuline": "drastičan",
     "feminine": "drastična",
     "neutrum": "drastično",
-    "ukrainian_translation": "радикальний",
-    "example_sentence": "Drastičan pad cijena izazvao je paniku na tržištu.",
-    "ukrainian_translation_sentence": "Радикальне падіння цін викликало паніку на ринку."
+    "ukrainianTranslation": "радикальний",
+    "exampleSentence": "Drastičan pad cijena izazvao je paniku na tržištu.",
+    "ukrainianTranslationSentence": "Радикальне падіння цін викликало паніку на ринку."
   },
   {
     "maskuline": "društven",
     "feminine": "društvena",
     "neutrum": "društveno",
-    "ukrainian_translation": "соціальний",
-    "example_sentence": "Društveni život u gradu je vrlo aktivan.",
-    "ukrainian_translation_sentence": "Соціальне життя у місті дуже активне."
+    "ukrainianTranslation": "соціальний",
+    "exampleSentence": "Društveni život u gradu je vrlo aktivan.",
+    "ukrainianTranslationSentence": "Соціальне життя у місті дуже активне."
   },
   {
     "maskuline": "dubinski",
     "feminine": "dubinska",
     "neutrum": "dubinsko",
-    "ukrainian_translation": "глибокий",
-    "example_sentence": "Dubinska analiza podataka otkrila je nove trendove.",
-    "ukrainian_translation_sentence": "Глибокий аналіз даних виявив нові тенденції."
+    "ukrainianTranslation": "глибокий",
+    "exampleSentence": "Dubinska analiza podataka otkrila je nove trendove.",
+    "ukrainianTranslationSentence": "Глибокий аналіз даних виявив нові тенденції."
   },
   {
     "maskuline": "dubok",
     "feminine": "duboka",
     "neutrum": "duboko",
-    "ukrainian_translation": "глибокий",
-    "example_sentence": "Jezeru su pripisivali dubok i misteriozan karakter.",
-    "ukrainian_translation_sentence": "Озеро приписували глибокий і таємничий характер."
+    "ukrainianTranslation": "глибокий",
+    "exampleSentence": "Jezeru su pripisivali dubok i misteriozan karakter.",
+    "ukrainianTranslationSentence": "Озеро приписували глибокий і таємничий характер."
   },
   {
     "maskuline": "dugogodišnji",
     "feminine": "dugogodišnja",
     "neutrum": "dugogodišnje",
-    "ukrainian_translation": "багаторічний",
-    "example_sentence": "Njihovo dugogodišnje prijateljstvo izdržalo je mnoge izazove.",
-    "ukrainian_translation_sentence": "Їхня багаторічна дружба витримала багато випробувань."
+    "ukrainianTranslation": "багаторічний",
+    "exampleSentence": "Njihovo dugogodišnje prijateljstvo izdržalo je mnoge izazove.",
+    "ukrainianTranslationSentence": "Їхня багаторічна дружба витримала багато випробувань."
   },
 	{
     "maskuline": "dugotrajan",
     "feminine": "dugotrajna",
     "neutrum": "dugotrajno",
-    "ukrainian_translation": "тривалий",
-    "example_sentence": "Dugotrajan rad na projektu konačno je donio rezultate.",
-    "ukrainian_translation_sentence": "Тривала робота над проєктом нарешті принесла результати."
+    "ukrainianTranslation": "тривалий",
+    "exampleSentence": "Dugotrajan rad na projektu konačno je donio rezultate.",
+    "ukrainianTranslationSentence": "Тривала робота над проєктом нарешті принесла результати."
   },
   {
     "maskuline": "dugovječan",
     "feminine": "dugovječna",
     "neutrum": "dugovječno",
-    "ukrainian_translation": "довговічний",
-    "example_sentence": "Dugovječan odnos temelji se na međusobnom povjerenju.",
-    "ukrainian_translation_sentence": "Довговічні відносини ґрунтуються на взаємній довірі."
+    "ukrainianTranslation": "довговічний",
+    "exampleSentence": "Dugovječan odnos temelji se na međusobnom povjerenju.",
+    "ukrainianTranslationSentence": "Довговічні відносини ґрунтуються на взаємній довірі."
   },
   {
     "maskuline": "duševan",
     "feminine": "duševna",
     "neutrum": "duševno",
-    "ukrainian_translation": "душевний",
-    "example_sentence": "Njegova duševna snaga pomogla mu je prebroditi teškoće.",
-    "ukrainian_translation_sentence": "Його душевна сила допомогла йому подолати труднощі."
+    "ukrainianTranslation": "душевний",
+    "exampleSentence": "Njegova duševna snaga pomogla mu je prebroditi teškoće.",
+    "ukrainianTranslationSentence": "Його душевна сила допомогла йому подолати труднощі."
   },
   {
     "maskuline": "dužan",
     "feminine": "dužna",
     "neutrum": "dužno",
-    "ukrainian_translation": "зобов'язаний",
-    "example_sentence": "Bio je dužan ispuniti svoje obveze na vrijeme.",
-    "ukrainian_translation_sentence": "Він був зобов'язаний виконати свої зобов'язання вчасно."
+    "ukrainianTranslation": "зобов'язаний",
+    "exampleSentence": "Bio je dužan ispuniti svoje obveze na vrijeme.",
+    "ukrainianTranslationSentence": "Він був зобов'язаний виконати свої зобов'язання вчасно."
   },
   {
     "maskuline": "dužnički",
     "feminine": "dužnička",
     "neutrum": "dužničko",
-    "ukrainian_translation": "борговий",
-    "example_sentence": "Dužnička kriza je zahvatila mnoge zemlje u regiji.",
-    "ukrainian_translation_sentence": "Боргова криза торкнулася багатьох країн у регіоні."
+    "ukrainianTranslation": "борговий",
+    "exampleSentence": "Dužnička kriza je zahvatila mnoge zemlje u regiji.",
+    "ukrainianTranslationSentence": "Боргова криза торкнулася багатьох країн у регіоні."
   },
   {
     "maskuline": "dvodnevan",
     "feminine": "dvodnevna",
     "neutrum": "dvodnevno",
-    "ukrainian_translation": "дводенний",
-    "example_sentence": "Konferencija je trajala dva dana i bila je vrlo korisna.",
-    "ukrainian_translation_sentence": "Конференція тривала два дні і була дуже корисною."
+    "ukrainianTranslation": "дводенний",
+    "exampleSentence": "Konferencija je trajala dva dana i bila je vrlo korisna.",
+    "ukrainianTranslationSentence": "Конференція тривала два дні і була дуже корисною."
   },
   {
     "maskuline": "dvojben",
     "feminine": "dvojbena",
     "neutrum": "dvojbeno",
-    "ukrainian_translation": "сумнівний",
-    "example_sentence": "Njegova tvrdnja bila je dvojbena i nije se mogla dokazati.",
-    "ukrainian_translation_sentence": "Його твердження було сумнівним і не могло бути доведено."
+    "ukrainianTranslation": "сумнівний",
+    "exampleSentence": "Njegova tvrdnja bila je dvojbena i nije se mogla dokazati.",
+    "ukrainianTranslationSentence": "Його твердження було сумнівним і не могло бути доведено."
   },
   {
     "maskuline": "dvorski",
     "feminine": "dvorska",
     "neutrum": "dvorsko",
-    "ukrainian_translation": "дворовий",
-    "example_sentence": "Dvorski običaji i ceremonije bili su važan dio kraljevstva.",
-    "ukrainian_translation_sentence": "Дворові звичаї та церемонії були важливою частиною королівства."
+    "ukrainianTranslation": "дворовий",
+    "exampleSentence": "Dvorski običaji i ceremonije bili su važan dio kraljevstva.",
+    "ukrainianTranslationSentence": "Дворові звичаї та церемонії були важливою частиною королівства."
   },
   {
     "maskuline": "dvosatni",
     "feminine": "dvosatna",
     "neutrum": "dvosatno",
-    "ukrainian_translation": "двогодинний",
-    "example_sentence": "Gledali smo dvosatni film o povijesti umjetnosti.",
-    "ukrainian_translation_sentence": "Ми дивилися двогодинний фільм про історію мистецтва."
+    "ukrainianTranslation": "двогодинний",
+    "exampleSentence": "Gledali smo dvosatni film o povijesti umjetnosti.",
+    "ukrainianTranslationSentence": "Ми дивилися двогодинний фільм про історію мистецтва."
   },
   {
     "maskuline": "dvosmjeran",
     "feminine": "dvosmjerna",
     "neutrum": "dvosmjerno",
-    "ukrainian_translation": "двосторонній",
-    "example_sentence": "Promet na ovoj ulici je dvosmjeran i vrlo prometan.",
-    "ukrainian_translation_sentence": "Рух на цій вулиці двосторонній і дуже жвавий."
+    "ukrainianTranslation": "двосторонній",
+    "exampleSentence": "Promet na ovoj ulici je dvosmjeran i vrlo prometan.",
+    "ukrainianTranslationSentence": "Рух на цій вулиці двосторонній і дуже жвавий."
   },
 	{
     "maskuline": "efektan",
     "feminine": "efektna",
     "neutrum": "efektno",
-    "ukrainian_translation": "ефективний",
-    "example_sentence": "Njegov govor bio je vrlo efektan i izazvao je veliku pažnju.",
-    "ukrainian_translation_sentence": "Його промова була дуже ефективною і привернула велику увагу."
+    "ukrainianTranslation": "ефективний",
+    "exampleSentence": "Njegov govor bio je vrlo efektan i izazvao je veliku pažnju.",
+    "ukrainianTranslationSentence": "Його промова була дуже ефективною і привернула велику увагу."
   },
   {
     "maskuline": "egzistencijalan",
     "feminine": "egzistencijalna",
     "neutrum": "egzistencijalno",
-    "ukrainian_translation": "екзистенціальний",
-    "example_sentence": "Egzistencijalna pitanja o smislu života uvijek su izazov za filozofe.",
-    "ukrainian_translation_sentence": "Екзистенціальні питання про сенс життя завжди є викликом для філософів."
+    "ukrainianTranslation": "екзистенціальний",
+    "exampleSentence": "Egzistencijalna pitanja o smislu života uvijek su izazov za filozofe.",
+    "ukrainianTranslationSentence": "Екзистенціальні питання про сенс життя завжди є викликом для філософів."
   },
   {
     "maskuline": "egzotičan",
     "feminine": "egzotična",
     "neutrum": "egzotično",
-    "ukrainian_translation": "екзотичний",
-    "example_sentence": "Uživali smo u egzotičnoj hrani na putovanju u Aziju.",
-    "ukrainian_translation_sentence": "Ми насолоджувалися екзотичною їжею під час подорожі до Азії."
+    "ukrainianTranslation": "екзотичний",
+    "exampleSentence": "Uživali smo u egzotičnoj hrani na putovanju u Aziju.",
+    "ukrainianTranslationSentence": "Ми насолоджувалися екзотичною їжею під час подорожі до Азії."
   },
   {
     "maskuline": "ekipni",
     "feminine": "ekipna",
     "neutrum": "ekipno",
-    "ukrainian_translation": "командний",
-    "example_sentence": "Osvojili su prvo mjesto u ekipnom natjecanju.",
-    "ukrainian_translation_sentence": "Вони здобули перше місце у командних змаганнях."
+    "ukrainianTranslation": "командний",
+    "exampleSentence": "Osvojili su prvo mjesto u ekipnom natjecanju.",
+    "ukrainianTranslationSentence": "Вони здобули перше місце у командних змаганнях."
   },
   {
     "maskuline": "ekološki",
     "feminine": "ekološka",
     "neutrum": "ekološko",
-    "ukrainian_translation": "екологічний",
-    "example_sentence": "Ekološki pokret je sve popularniji u borbi za očuvanje prirode.",
-    "ukrainian_translation_sentence": "Екологічний рух стає все популярнішим у боротьбі за збереження природи."
+    "ukrainianTranslation": "екологічний",
+    "exampleSentence": "Ekološki pokret je sve popularniji u borbi za očuvanje prirode.",
+    "ukrainianTranslationSentence": "Екологічний рух стає все популярнішим у боротьбі за збереження природи."
   },
   {
     "maskuline": "ekonomski",
     "feminine": "ekonomska",
     "neutrum": "ekonomsko",
-    "ukrainian_translation": "економічний",
-    "example_sentence": "Ekonomska situacija u zemlji se poboljšava.",
-    "ukrainian_translation_sentence": "Економічна ситуація в країні покращується."
+    "ukrainianTranslation": "економічний",
+    "exampleSentence": "Ekonomska situacija u zemlji se poboljšava.",
+    "ukrainianTranslationSentence": "Економічна ситуація в країні покращується."
   },
   {
     "maskuline": "ekskluzivan",
     "feminine": "ekskluzivna",
     "neutrum": "ekskluzivno",
-    "ukrainian_translation": "ексклюзивний",
-    "example_sentence": "Novi hotel nudi ekskluzivan smještaj i vrhunsku uslugu.",
-    "ukrainian_translation_sentence": "Новий готель пропонує ексклюзивне проживання та першокласне обслуговування."
+    "ukrainianTranslation": "ексклюзивний",
+    "exampleSentence": "Novi hotel nudi ekskluzivan smještaj i vrhunsku uslugu.",
+    "ukrainianTranslationSentence": "Новий готель пропонує ексклюзивне проживання та першокласне обслуговування."
   },
   {
     "maskuline": "elastičan",
     "feminine": "elastična",
     "neutrum": "elastično",
-    "ukrainian_translation": "еластичний",
-    "example_sentence": "Elastična tkanina omogućuje udobnost tijekom vježbanja.",
-    "ukrainian_translation_sentence": "Еластична тканина забезпечує комфорт під час тренувань."
+    "ukrainianTranslation": "еластичний",
+    "exampleSentence": "Elastična tkanina omogućuje udobnost tijekom vježbanja.",
+    "ukrainianTranslationSentence": "Еластична тканина забезпечує комфорт під час тренувань."
   },
   {
     "maskuline": "elektronički",
     "feminine": "elektronička",
     "neutrum": "elektroničko",
-    "ukrainian_translation": "електронний",
-    "example_sentence": "Elektronički uređaji su postali neizostavni dio našeg života.",
-    "ukrainian_translation_sentence": "Електронні пристрої стали невід'ємною частиною нашого життя."
+    "ukrainianTranslation": "електронний",
+    "exampleSentence": "Elektronički uređaji su postali neizostavni dio našeg života.",
+    "ukrainianTranslationSentence": "Електронні пристрої стали невід'ємною частиною нашого життя."
   },
   {
     "maskuline": "elementaran",
     "feminine": "elementarna",
     "neutrum": "elementarno",
-    "ukrainian_translation": "основний",
-    "example_sentence": "Poznavanje elementarnih pravila matematike je ključno.",
-    "ukrainian_translation_sentence": "Знання основних правил математики є ключовим."
+    "ukrainianTranslation": "основний",
+    "exampleSentence": "Poznavanje elementarnih pravila matematike je ključno.",
+    "ukrainianTranslationSentence": "Знання основних правил математики є ключовим."
   },
 	{
     "maskuline": "elitan",
     "feminine": "elitna",
     "neutrum": "elitno",
-    "ukrainian_translation": "елітний",
-    "example_sentence": "Elitna škola je bila poznata po visokom obrazovnom standardu.",
-    "ukrainian_translation_sentence": "Елітна школа була відома високими стандартами освіти."
+    "ukrainianTranslation": "елітний",
+    "exampleSentence": "Elitna škola je bila poznata po visokom obrazovnom standardu.",
+    "ukrainianTranslationSentence": "Елітна школа була відома високими стандартами освіти."
   },
   {
     "maskuline": "eminentan",
     "feminine": "eminentna",
     "neutrum": "eminentno",
-    "ukrainian_translation": "видатний",
-    "example_sentence": "Eminentan profesor održao je predavanje o modernoj fizici.",
-    "ukrainian_translation_sentence": "Видатний професор прочитав лекцію з сучасної фізики."
+    "ukrainianTranslation": "видатний",
+    "exampleSentence": "Eminentan profesor održao je predavanje o modernoj fizici.",
+    "ukrainianTranslationSentence": "Видатний професор прочитав лекцію з сучасної фізики."
   },
   {
     "maskuline": "epski",
     "feminine": "epska",
     "neutrum": "epsko",
-    "ukrainian_translation": "епічний",
-    "example_sentence": "Epski film prikazao je herojsku borbu kroz stoljeća.",
-    "ukrainian_translation_sentence": "Епічний фільм показав героїчну боротьбу через століття."
+    "ukrainianTranslation": "епічний",
+    "exampleSentence": "Epski film prikazao je herojsku borbu kroz stoljeća.",
+    "ukrainianTranslationSentence": "Епічний фільм показав героїчну боротьбу через століття."
   },
   {
     "maskuline": "erotski",
     "feminine": "erotska",
     "neutrum": "erotsko",
-    "ukrainian_translation": "еротичний",
-    "example_sentence": "Roman je imao snažan erotski element koji je privukao publiku.",
-    "ukrainian_translation_sentence": "Роман мав сильний еротичний елемент, який привабив публіку."
+    "ukrainianTranslation": "еротичний",
+    "exampleSentence": "Roman je imao snažan erotski element koji je privukao publiku.",
+    "ukrainianTranslationSentence": "Роман мав сильний еротичний елемент, який привабив публіку."
   },
   {
     "maskuline": "esencijalan",
     "feminine": "esencijalna",
     "neutrum": "esencijalno",
-    "ukrainian_translation": "суттєвий",
-    "example_sentence": "Esencijalan dio uspjeha leži u timskom radu.",
-    "ukrainian_translation_sentence": "Суттєва частина успіху полягає в командній роботі."
+    "ukrainianTranslation": "суттєвий",
+    "exampleSentence": "Esencijalan dio uspjeha leži u timskom radu.",
+    "ukrainianTranslationSentence": "Суттєва частина успіху полягає в командній роботі."
   },
   {
     "maskuline": "estetski",
     "feminine": "estetska",
     "neutrum": "estetsko",
-    "ukrainian_translation": "естетичний",
-    "example_sentence": "Estetski dizajn interijera stana oduševio je posjetitelje.",
-    "ukrainian_translation_sentence": "Естетичний дизайн інтер'єру квартири вразив відвідувачів."
+    "ukrainianTranslation": "естетичний",
+    "exampleSentence": "Estetski dizajn interijera stana oduševio je posjetitelje.",
+    "ukrainianTranslationSentence": "Естетичний дизайн інтер'єру квартири вразив відвідувачів."
   },
   {
     "maskuline": "etabliran",
     "feminine": "etablirana",
     "neutrum": "etablirano",
-    "ukrainian_translation": "визнаний",
-    "example_sentence": "Etabliran umjetnik izložio je svoja djela u galeriji.",
-    "ukrainian_translation_sentence": "Визнаний художник виставив свої роботи в галереї."
+    "ukrainianTranslation": "визнаний",
+    "exampleSentence": "Etabliran umjetnik izložio je svoja djela u galeriji.",
+    "ukrainianTranslationSentence": "Визнаний художник виставив свої роботи в галереї."
   },
   {
     "maskuline": "eteričan",
     "feminine": "eterična",
     "neutrum": "eterično",
-    "ukrainian_translation": "ефірний",
-    "example_sentence": "Eterična ulja često se koriste u aromaterapiji.",
-    "ukrainian_translation_sentence": "Ефірні олії часто використовуються в ароматерапії."
+    "ukrainianTranslation": "ефірний",
+    "exampleSentence": "Eterična ulja često se koriste u aromaterapiji.",
+    "ukrainianTranslationSentence": "Ефірні олії часто використовуються в ароматерапії."
   },
   {
     "maskuline": "eventualan",
     "feminine": "eventualna",
     "neutrum": "eventualno",
-    "ukrainian_translation": "можливий",
-    "example_sentence": "Eventualan ishod pregovora još uvijek nije poznat.",
-    "ukrainian_translation_sentence": "Можливий результат переговорів досі невідомий."
+    "ukrainianTranslation": "можливий",
+    "exampleSentence": "Eventualan ishod pregovora još uvijek nije poznat.",
+    "ukrainianTranslationSentence": "Можливий результат переговорів досі невідомий."
   },
   {
     "maskuline": "evolucijski",
     "feminine": "evolucijska",
     "neutrum": "evolucijsko",
-    "ukrainian_translation": "еволюційний",
-    "example_sentence": "Evolucijski proces traje milijunima godina.",
-    "ukrainian_translation_sentence": "Еволюційний процес триває мільйони років."
+    "ukrainianTranslation": "еволюційний",
+    "exampleSentence": "Evolucijski proces traje milijunima godina.",
+    "ukrainianTranslationSentence": "Еволюційний процес триває мільйони років."
   }
 ]

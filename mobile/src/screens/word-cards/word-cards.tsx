@@ -9,11 +9,6 @@ import {
 	Text,
 	View,
 } from '~/libs/components/components';
-import {
-	mockAdjectiveData,
-	mockNounData,
-	mockVerbData,
-} from '~/libs/constants/constants';
 import { BaseColor, CategoryEnglish, RootScreenName } from '~/libs/enums/enums';
 import {
 	useAppRoute,
@@ -23,11 +18,15 @@ import {
 	useRef,
 	useState,
 } from '~/libs/hooks/hooks';
+import { categoryToTableName } from '~/libs/maps/maps';
 import { globalStyles } from '~/libs/styles/styles';
 import {
+	AdjectiveDataItem,
 	NativeStackNavigationProp,
+	NounDataItem,
 	PartOfSpeechName,
 	RootNavigationParameterList,
+	VerbDataItem,
 } from '~/libs/types/types';
 
 import {
@@ -36,29 +35,42 @@ import {
 	VerbCard,
 } from './libs/components/components';
 import { getGameData } from './libs/helpers/helpers';
+import { database } from '~/services/services';
+
+type WordsDataItem = AdjectiveDataItem | NounDataItem | VerbDataItem;
 
 const WordCards: React.FC = () => {
 	const [gameHidden, setGameHidden] = useState<boolean>(true);
+	const [wordsData, setWordsData] = useState<WordsDataItem[]>([]);
 
 	const { params } = useAppRoute<typeof RootScreenName.WORD_CARDS>();
+	const { contentLength, startIndex, partOfSpeechName } = params;
+
 	const navigation =
 		useNavigation<NativeStackNavigationProp<RootNavigationParameterList>>();
-
 	useEffect(() => {
 		navigation.setOptions({
 			headerShown: gameHidden,
 		});
 	}, [gameHidden, navigation]);
 
-	const { partOfSpeechName } = params;
-	const gameData = getGameData(partOfSpeechName);
+	useEffect(() => {
+		const handleWordsLoading = async (): Promise<void> => {
+			const tableName = categoryToTableName[partOfSpeechName];
+			const words = await database.getTableEntriesWithOffsetAndLimit<WordsDataItem>({ tableName, offset: startIndex, limit: contentLength });
+			words && setWordsData(words);
+		};
+		handleWordsLoading();
+	},[partOfSpeechName, contentLength, startIndex]);
+
+	const gameData = getGameData(wordsData, partOfSpeechName);
 
 	const ref = useRef<ScrollView>(null);
 
 	const headerHeight = useHeaderHeight();
 	const topPaddingStyle = { paddingTop: headerHeight };
 
-	const handleCollapsedSectionPress = (): void => ref.current?.scrollToEnd();
+	const handleScrollToCardYOnExpanded = (y: number): void => ref.current?.scrollTo({ y });
 
 	const handleStartGamePress = () => {
 		setGameHidden(false);
@@ -73,12 +85,12 @@ const WordCards: React.FC = () => {
 			case CategoryEnglish.ADJECTIVE: {
 				return (
 					<>
-						{mockAdjectiveData.map((adjectiveData, index) => {
+						{(wordsData as AdjectiveDataItem[]).map((adjectiveData, index) => {
 							return (
 								<AdjectiveCard
 									data={adjectiveData}
 									key={index}
-									onCollapsedSectionPress={handleCollapsedSectionPress}
+									onCardExpanded={handleScrollToCardYOnExpanded}
 								/>
 							);
 						})}
@@ -89,12 +101,12 @@ const WordCards: React.FC = () => {
 			case CategoryEnglish.NOUN: {
 				return (
 					<>
-						{mockNounData.map((nounData, index) => {
+						{(wordsData as NounDataItem[]).map((nounData, index) => {
 							return (
 								<NounCard
 									data={nounData}
 									key={index}
-									onCollapsedSectionPress={handleCollapsedSectionPress}
+									onCardExpanded={handleScrollToCardYOnExpanded}
 								/>
 							);
 						})}
@@ -105,12 +117,12 @@ const WordCards: React.FC = () => {
 			case CategoryEnglish.VERB: {
 				return (
 					<>
-						{mockVerbData.map((verbData, index) => {
+						{(wordsData as VerbDataItem[]).map((verbData, index) => {
 							return (
 								<VerbCard
 									data={verbData}
 									key={index}
-									onCollapsedSectionPress={handleCollapsedSectionPress}
+									onCardExpanded={handleScrollToCardYOnExpanded}
 								/>
 							);
 						})}
@@ -155,7 +167,7 @@ const WordCards: React.FC = () => {
 									<Text color={BaseColor.WHITE}>Почати гру</Text>
 									<Icon
 										color={BaseColor.WHITE}
-										name="play-circle-outline"
+										name='play-circle-outline'
 										size={30}
 									/>
 								</View>

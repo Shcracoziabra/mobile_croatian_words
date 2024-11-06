@@ -1,8 +1,9 @@
 type VerbDataItem = {
 	exampleSentence: string;
+	id: number;
 	infinitive: string;
-	pastTense: [string, string, string];
-	presentTense: [string, string, string, string, string, string];
+	pastTense: string;
+	presentTense: string;
 	ukrainianTranslation: string;
 	ukrainianTranslationSentence: string;
 };

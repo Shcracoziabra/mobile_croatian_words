@@ -1,402 +1,402 @@
 [
   {
     "infinitive": "nagađati",
-    "past_tense": ["nagađao", "nagađala", "nagađalo"],
-    "present_tense": ["nagađam", "nagađaš", "nagađa", "nagađamo", "nagađate", "nagađaju"],
-    "ukrainian_translation": "здогадуватися",
-    "example_sentence": "Pokušao je nagađati ishod igre.",
-    "ukrainian_translation_sentence": "Він спробував здогадатися про результат гри."
+    "pastTense": ["nagađao", "nagađala", "nagađalo"],
+    "presentTense": ["nagađam", "nagađaš", "nagađa", "nagađamo", "nagađate", "nagađaju"],
+    "ukrainianTranslation": "здогадуватися",
+    "exampleSentence": "Pokušao je nagađati ishod igre.",
+    "ukrainianTranslationSentence": "Він спробував здогадатися про результат гри."
   },
   {
     "infinitive": "naginjati",
-    "past_tense": ["naginjao", "naginjala", "naginjalo"],
-    "present_tense": ["naginjem", "naginješ", "naginje", "naginjemo", "naginjete", "naginju"],
-    "ukrainian_translation": "нахилятися",
-    "example_sentence": "On se često naginje kroz prozor.",
-    "ukrainian_translation_sentence": "Він часто нахиляється через вікно."
+    "pastTense": ["naginjao", "naginjala", "naginjalo"],
+    "presentTense": ["naginjem", "naginješ", "naginje", "naginjemo", "naginjete", "naginju"],
+    "ukrainianTranslation": "нахилятися",
+    "exampleSentence": "On se često naginje kroz prozor.",
+    "ukrainianTranslationSentence": "Він часто нахиляється через вікно."
   },
   {
     "infinitive": "nagnati",
-    "past_tense": ["nagnao", "nagnala", "nagnalo"],
-    "present_tense": ["nagnam", "nagnaš", "nagna", "nagnamo", "nagnate", "nagnaju"],
-    "ukrainian_translation": "змусити",
-    "example_sentence": "Situacija ga je nagnala na akciju.",
-    "ukrainian_translation_sentence": "Ситуація змусила його до дії."
+    "pastTense": ["nagnao", "nagnala", "nagnalo"],
+    "presentTense": ["nagnam", "nagnaš", "nagna", "nagnamo", "nagnate", "nagnaju"],
+    "ukrainianTranslation": "змусити",
+    "exampleSentence": "Situacija ga je nagnala na akciju.",
+    "ukrainianTranslationSentence": "Ситуація змусила його до дії."
   },
   {
     "infinitive": "nahraniti",
-    "past_tense": ["nahranio", "nahranila", "nahranilo"],
-    "present_tense": ["nahranim", "nahraniš", "nahrani", "nahranimo", "nahranite", "nahrane"],
-    "ukrainian_translation": "нагодувати",
-    "example_sentence": "Majka je nahranila dijete.",
-    "ukrainian_translation_sentence": "Мати нагодувала дитину."
+    "pastTense": ["nahranio", "nahranila", "nahranilo"],
+    "presentTense": ["nahranim", "nahraniš", "nahrani", "nahranimo", "nahranite", "nahrane"],
+    "ukrainianTranslation": "нагодувати",
+    "exampleSentence": "Majka je nahranila dijete.",
+    "ukrainianTranslationSentence": "Мати нагодувала дитину."
   },
   {
     "infinitive": "naići",
-    "past_tense": ["naišao", "naišla", "naišlo"],
-    "present_tense": ["naiđem", "naiđeš", "naiđe", "naiđemo", "naiđete", "naiđu"],
-    "ukrainian_translation": "зіткнутися",
-    "example_sentence": "Naišli smo na neočekivanu prepreku.",
-    "ukrainian_translation_sentence": "Ми зіткнулися з несподіваною перешкодою."
+    "pastTense": ["naišao", "naišla", "naišlo"],
+    "presentTense": ["naiđem", "naiđeš", "naiđe", "naiđemo", "naiđete", "naiđu"],
+    "ukrainianTranslation": "зіткнутися",
+    "exampleSentence": "Naišli smo na neočekivanu prepreku.",
+    "ukrainianTranslationSentence": "Ми зіткнулися з несподіваною перешкодою."
   },
   {
     "infinitive": "najesti",
-    "past_tense": ["najeo", "najela", "najelo"],
-    "present_tense": ["najedem", "najedeš", "najede", "najedemo", "najedete", "najedu"],
-    "ukrainian_translation": "наїстися",
-    "example_sentence": "Najeo se kolača do sita.",
-    "ukrainian_translation_sentence": "Він наївся тістечок до ситості."
+    "pastTense": ["najeo", "najela", "najelo"],
+    "presentTense": ["najedem", "najedeš", "najede", "najedemo", "najedete", "najedu"],
+    "ukrainianTranslation": "наїстися",
+    "exampleSentence": "Najeo se kolača do sita.",
+    "ukrainianTranslationSentence": "Він наївся тістечок до ситості."
   },
   {
     "infinitive": "nakupiti",
-    "past_tense": ["nakupio", "nakupila", "nakupilo"],
-    "present_tense": ["nakupim", "nakupiš", "nakupi", "nakupimo", "nakupite", "nakupe"],
-    "ukrainian_translation": "накопичити",
-    "example_sentence": "Nakupili su mnogo voća za zimu.",
-    "ukrainian_translation_sentence": "Вони накопичили багато фруктів на зиму."
+    "pastTense": ["nakupio", "nakupila", "nakupilo"],
+    "presentTense": ["nakupim", "nakupiš", "nakupi", "nakupimo", "nakupite", "nakupe"],
+    "ukrainianTranslation": "накопичити",
+    "exampleSentence": "Nakupili su mnogo voća za zimu.",
+    "ukrainianTranslationSentence": "Вони накопичили багато фруктів на зиму."
   },
   {
     "infinitive": "nalagati",
-    "past_tense": ["nalagao", "nalagala", "nalagalo"],
-    "present_tense": ["nalagam", "nalagaš", "nalaga", "nalagamo", "nalagate", "nalagaju"],
-    "ukrainian_translation": "обманювати",
-    "example_sentence": "Nalagao je o svojim namjerama.",
-    "ukrainian_translation_sentence": "Він обманював щодо своїх намірів."
+    "pastTense": ["nalagao", "nalagala", "nalagalo"],
+    "presentTense": ["nalagam", "nalagaš", "nalaga", "nalagamo", "nalagate", "nalagaju"],
+    "ukrainianTranslation": "обманювати",
+    "exampleSentence": "Nalagao je o svojim namjerama.",
+    "ukrainianTranslationSentence": "Він обманював щодо своїх намірів."
   },
   {
     "infinitive": "naletjeti",
-    "past_tense": ["naletio", "naletjela", "naletjelo"],
-    "present_tense": ["naletim", "naletiš", "naleti", "naletimo", "naletite", "nalete"],
-    "ukrainian_translation": "зіткнутися",
-    "example_sentence": "Naletjeli su na oluju na moru.",
-    "ukrainian_translation_sentence": "Вони зіткнулися з бурею в морі."
+    "pastTense": ["naletio", "naletjela", "naletjelo"],
+    "presentTense": ["naletim", "naletiš", "naleti", "naletimo", "naletite", "nalete"],
+    "ukrainianTranslation": "зіткнутися",
+    "exampleSentence": "Naletjeli su na oluju na moru.",
+    "ukrainianTranslationSentence": "Вони зіткнулися з бурею в морі."
   },
   {
     "infinitive": "naljutiti",
-    "past_tense": ["naljutio", "naljutila", "naljutilo"],
-    "present_tense": ["naljutim", "naljutiš", "naljuti", "naljutimo", "naljutite", "naljute"],
-    "ukrainian_translation": "розсердити",
-    "example_sentence": "Njegove riječi su ga naljutile.",
-    "ukrainian_translation_sentence": "Його слова його розсердили."
+    "pastTense": ["naljutio", "naljutila", "naljutilo"],
+    "presentTense": ["naljutim", "naljutiš", "naljuti", "naljutimo", "naljutite", "naljute"],
+    "ukrainianTranslation": "розсердити",
+    "exampleSentence": "Njegove riječi su ga naljutile.",
+    "ukrainianTranslationSentence": "Його слова його розсердили."
   },
   {
     "infinitive": "namazati",
-    "past_tense": ["namazao", "namazala", "namazalo"],
-    "present_tense": ["namažem", "namažeš", "namaže", "namažemo", "namažete", "namažu"],
-    "ukrainian_translation": "намазати",
-    "example_sentence": "Namazao je kruh maslacem.",
-    "ukrainian_translation_sentence": "Він намазав хліб маслом."
+    "pastTense": ["namazao", "namazala", "namazalo"],
+    "presentTense": ["namažem", "namažeš", "namaže", "namažemo", "namažete", "namažu"],
+    "ukrainianTranslation": "намазати",
+    "exampleSentence": "Namazao je kruh maslacem.",
+    "ukrainianTranslationSentence": "Він намазав хліб маслом."
   },
   {
     "infinitive": "namijeniti",
-    "past_tense": ["namijenio", "namijenila", "namijenilo"],
-    "present_tense": ["namijenim", "namijeniš", "namijeni", "namijenimo", "namijenite", "namijene"],
-    "ukrainian_translation": "призначити",
-    "example_sentence": "Ovaj dar je namijenio prijatelju.",
-    "ukrainian_translation_sentence": "Цей подарунок він призначив другові."
+    "pastTense": ["namijenio", "namijenila", "namijenilo"],
+    "presentTense": ["namijenim", "namijeniš", "namijeni", "namijenimo", "namijenite", "namijene"],
+    "ukrainianTranslation": "призначити",
+    "exampleSentence": "Ovaj dar je namijenio prijatelju.",
+    "ukrainianTranslationSentence": "Цей подарунок він призначив другові."
   },
   {
     "infinitive": "namjestiti",
-    "past_tense": ["namjestio", "namjestila", "namjestilo"],
-    "present_tense": ["namjestim", "namjestiš", "namjesti", "namjestimo", "namjestite", "namjeste"],
-    "ukrainian_translation": "настроїти",
-    "example_sentence": "Namjestio je sat na točno vrijeme.",
-    "ukrainian_translation_sentence": "Він налаштував годинник на точний час."
+    "pastTense": ["namjestio", "namjestila", "namjestilo"],
+    "presentTense": ["namjestim", "namjestiš", "namjesti", "namjestimo", "namjestite", "namjeste"],
+    "ukrainianTranslation": "настроїти",
+    "exampleSentence": "Namjestio je sat na točno vrijeme.",
+    "ukrainianTranslationSentence": "Він налаштував годинник на точний час."
   },
   {
     "infinitive": "nanositi",
-    "past_tense": ["nanosio", "nosila", "nosilo"],
-    "present_tense": ["nosim", "nosiš", "nosi", "nosimo", "nosite", "nose"],
-    "ukrainian_translation": "наносити",
-    "example_sentence": "Vjetar nosi pijesak po plaži.",
-    "ukrainian_translation_sentence": "Вітер несе пісок по пляжу."
+    "pastTense": ["nanosio", "nosila", "nosilo"],
+    "presentTense": ["nosim", "nosiš", "nosi", "nosimo", "nosite", "nose"],
+    "ukrainianTranslation": "наносити",
+    "exampleSentence": "Vjetar nosi pijesak po plaži.",
+    "ukrainianTranslationSentence": "Вітер несе пісок по пляжу."
   },
   {
     "infinitive": "napajati",
-    "past_tense": ["napajao", "napajala", "napajalo"],
-    "present_tense": ["napajam", "napajaš", "napaja", "napajamo", "napajate", "napajaju"],
-    "ukrainian_translation": "поїти",
-    "example_sentence": "Napajao je stado na izvoru.",
-    "ukrainian_translation_sentence": "Він поїв стадо біля джерела."
+    "pastTense": ["napajao", "napajala", "napajalo"],
+    "presentTense": ["napajam", "napajaš", "napaja", "napajamo", "napajate", "napajaju"],
+    "ukrainianTranslation": "поїти",
+    "exampleSentence": "Napajao je stado na izvoru.",
+    "ukrainianTranslationSentence": "Він поїв стадо біля джерела."
   },
   {
     "infinitive": "napaliti",
-    "past_tense": ["napalio", "napalila", "napalilo"],
-    "present_tense": ["napalim", "napališ", "napali", "napalimo", "napalite", "napale"],
-    "ukrainian_translation": "запалити",
-    "example_sentence": "Napalio je vatru u kaminu.",
-    "ukrainian_translation_sentence": "Він розпалив вогонь у каміні."
+    "pastTense": ["napalio", "napalila", "napalilo"],
+    "presentTense": ["napalim", "napališ", "napali", "napalimo", "napalite", "napale"],
+    "ukrainianTranslation": "запалити",
+    "exampleSentence": "Napalio je vatru u kaminu.",
+    "ukrainianTranslationSentence": "Він розпалив вогонь у каміні."
   },
   {
     "infinitive": "napisati",
-    "past_tense": ["napisao", "napisala", "napisalo"],
-    "present_tense": ["napišem", "napišeš", "napiše", "napišemo", "napišete", "napišu"],
-    "ukrainian_translation": "написати",
-    "example_sentence": "Napisao je pismo prijatelju.",
-    "ukrainian_translation_sentence": "Він написав листа другові."
+    "pastTense": ["napisao", "napisala", "napisalo"],
+    "presentTense": ["napišem", "napišeš", "napiše", "napišemo", "napišete", "napišu"],
+    "ukrainianTranslation": "написати",
+    "exampleSentence": "Napisao je pismo prijatelju.",
+    "ukrainianTranslationSentence": "Він написав листа другові."
   },
   {
     "infinitive": "napiti",
-    "past_tense": ["napio", "napila", "napilo"],
-    "present_tense": ["napijem", "napiješ", "napije", "napijemo", "napijete", "napiju"],
-    "ukrainian_translation": "напоїти",
-    "example_sentence": "Napio je konja na rijeci.",
-    "ukrainian_translation_sentence": "Він напоїв коня біля річки."
+    "pastTense": ["napio", "napila", "napilo"],
+    "presentTense": ["napijem", "napiješ", "napije", "napijemo", "napijete", "napiju"],
+    "ukrainianTranslation": "напоїти",
+    "exampleSentence": "Napio je konja na rijeci.",
+    "ukrainianTranslationSentence": "Він напоїв коня біля річки."
   },
   {
     "infinitive": "napomenuti",
-    "past_tense": ["napomenuo", "napomenula", "napomenulo"],
-    "present_tense": ["napomenem", "napomeneš", "napomene", "napomenemo", "napomenete", "napomenu"],
-    "ukrainian_translation": "згадати",
-    "example_sentence": "Napomenuo je važan detalj.",
-    "ukrainian_translation_sentence": "Він згадав важливу деталь."
+    "pastTense": ["napomenuo", "napomenula", "napomenulo"],
+    "presentTense": ["napomenem", "napomeneš", "napomene", "napomenemo", "napomenete", "napomenu"],
+    "ukrainianTranslation": "згадати",
+    "exampleSentence": "Napomenuo je važan detalj.",
+    "ukrainianTranslationSentence": "Він згадав важливу деталь."
   },
   {
     "infinitive": "napraviti",
-    "past_tense": ["napravio", "napravila", "napravilo"],
-    "present_tense": ["napravim", "napraviš", "napravi", "napravimo", "napravite", "naprave"],
-    "ukrainian_translation": "зробити",
-    "example_sentence": "Napravio je ukusan kolač.",
-    "ukrainian_translation_sentence": "Він зробив смачний торт."
+    "pastTense": ["napravio", "napravila", "napravilo"],
+    "presentTense": ["napravim", "napraviš", "napravi", "napravimo", "napravite", "naprave"],
+    "ukrainianTranslation": "зробити",
+    "exampleSentence": "Napravio je ukusan kolač.",
+    "ukrainianTranslationSentence": "Він зробив смачний торт."
   },
   {
     "infinitive": "napuštati",
-    "past_tense": ["napuštao", "napuštala", "napuštalo"],
-    "present_tense": ["napuštam", "napuštaš", "napušta", "napuštamo", "napuštate", "napuštaju"],
-    "ukrainian_translation": "залишати",
-    "example_sentence": "Napuštao je sobu svaki put kad bi se posvađali.",
-    "ukrainian_translation_sentence": "Він залишав кімнату щоразу, коли вони сварилися."
+    "pastTense": ["napuštao", "napuštala", "napuštalo"],
+    "presentTense": ["napuštam", "napuštaš", "napušta", "napuštamo", "napuštate", "napuštaju"],
+    "ukrainianTranslation": "залишати",
+    "exampleSentence": "Napuštao je sobu svaki put kad bi se posvađali.",
+    "ukrainianTranslationSentence": "Він залишав кімнату щоразу, коли вони сварилися."
   },
   {
     "infinitive": "naređivati",
-    "past_tense": ["naređivao", "naređivala", "naređivalo"],
-    "present_tense": ["naređujem", "naređuješ", "naređuje", "naređujemo", "naređujete", "naređuju"],
-    "ukrainian_translation": "наказувати",
-    "example_sentence": "Naređivao je vojsci u boju.",
-    "ukrainian_translation_sentence": "Він командував армією в бою."
+    "pastTense": ["naređivao", "naređivala", "naređivalo"],
+    "presentTense": ["naređujem", "naređuješ", "naređuje", "naređujemo", "naređujete", "naređuju"],
+    "ukrainianTranslation": "наказувати",
+    "exampleSentence": "Naređivao je vojsci u boju.",
+    "ukrainianTranslationSentence": "Він командував армією в бою."
   },
   {
     "infinitive": "narezati",
-    "past_tense": ["narezao", "narezala", "narezalo"],
-    "present_tense": ["narežem", "narežeš", "nareže", "narežemo", "narežete", "narežu"],
-    "ukrainian_translation": "нарізати",
-    "example_sentence": "Narezala je kruh za doručak.",
-    "ukrainian_translation_sentence": "Вона нарізала хліб на сніданок."
+    "pastTense": ["narezao", "narezala", "narezalo"],
+    "presentTense": ["narežem", "narežeš", "nareže", "narežemo", "narežete", "narežu"],
+    "ukrainianTranslation": "нарізати",
+    "exampleSentence": "Narezala je kruh za doručak.",
+    "ukrainianTranslationSentence": "Вона нарізала хліб на сніданок."
   },
   {
     "infinitive": "naručivati",
-    "past_tense": ["naručivao", "naručivala", "naručivalo"],
-    "present_tense": ["naručujem", "naručuješ", "naručuje", "naručujemo", "naručujete", "naručuju"],
-    "ukrainian_translation": "замовляти",
-    "example_sentence": "Često naručuje pizzu za večeru.",
-    "ukrainian_translation_sentence": "Він часто замовляє піцу на вечерю."
+    "pastTense": ["naručivao", "naručivala", "naručivalo"],
+    "presentTense": ["naručujem", "naručuješ", "naručuje", "naručujemo", "naručujete", "naručuju"],
+    "ukrainianTranslation": "замовляти",
+    "exampleSentence": "Često naručuje pizzu za večeru.",
+    "ukrainianTranslationSentence": "Він часто замовляє піцу на вечерю."
   },
   {
     "infinitive": "narušavati",
-    "past_tense": ["narušavao", "narušavala", "narušavalo"],
-    "present_tense": ["narušavam", "narušavaš", "narušava", "narušavamo", "narušavate", "narušavaju"],
-    "ukrainian_translation": "порушувати",
-    "example_sentence": "Narušavali su mir u susjedstvu.",
-    "ukrainian_translation_sentence": "Вони порушували спокій у сусідстві."
+    "pastTense": ["narušavao", "narušavala", "narušavalo"],
+    "presentTense": ["narušavam", "narušavaš", "narušava", "narušavamo", "narušavate", "narušavaju"],
+    "ukrainianTranslation": "порушувати",
+    "exampleSentence": "Narušavali su mir u susjedstvu.",
+    "ukrainianTranslationSentence": "Вони порушували спокій у сусідстві."
   },
   {
     "infinitive": "naseliti",
-    "past_tense": ["naselio", "naselila", "naselilo"],
-    "present_tense": ["naselim", "naseliš", "naseli", "naselimo", "naselite", "nasela"],
-    "ukrainian_translation": "поселити",
-    "example_sentence": "Naselio je novu zemlju.",
-    "ukrainian_translation_sentence": "Він поселився на новій землі."
+    "pastTense": ["naselio", "naselila", "naselilo"],
+    "presentTense": ["naselim", "naseliš", "naseli", "naselimo", "naselite", "nasela"],
+    "ukrainianTranslation": "поселити",
+    "exampleSentence": "Naselio je novu zemlju.",
+    "ukrainianTranslationSentence": "Він поселився на новій землі."
   },
   {
     "infinitive": "nasjesti",
-    "past_tense": ["nasjeo", "nasjela", "nasjelo"],
-    "present_tense": ["nasjednem", "nasjedneš", "nasjedne", "nasjednemo", "nasjednete", "nasjednu"],
-    "ukrainian_translation": "потрапити",
-    "example_sentence": "Nasjeo je na njihovu prevaru.",
-    "ukrainian_translation_sentence": "Він потрапив на їхню хитрість."
+    "pastTense": ["nasjeo", "nasjela", "nasjelo"],
+    "presentTense": ["nasjednem", "nasjedneš", "nasjedne", "nasjednemo", "nasjednete", "nasjednu"],
+    "ukrainianTranslation": "потрапити",
+    "exampleSentence": "Nasjeo je na njihovu prevaru.",
+    "ukrainianTranslationSentence": "Він потрапив на їхню хитрість."
   },
   {
     "infinitive": "naslanjati",
-    "past_tense": ["naslanjao", "naslanjala", "naslanjalo"],
-    "present_tense": ["naslanjam", "naslanjaš", "naslanja", "naslanjamo", "naslanjate", "naslanjaju"],
-    "ukrainian_translation": "притулятися",
-    "example_sentence": "Često se naslanja na zid dok čeka.",
-    "ukrainian_translation_sentence": "Він часто притуляється до стіни, коли чекає."
+    "pastTense": ["naslanjao", "naslanjala", "naslanjalo"],
+    "presentTense": ["naslanjam", "naslanjaš", "naslanja", "naslanjamo", "naslanjate", "naslanjaju"],
+    "ukrainianTranslation": "притулятися",
+    "exampleSentence": "Često se naslanja na zid dok čeka.",
+    "ukrainianTranslationSentence": "Він часто притуляється до стіни, коли чекає."
   },
   {
     "infinitive": "naštetiti",
-    "past_tense": ["naštetio", "naštetila", "naštetilo"],
-    "present_tense": ["naštetim", "naštetiš", "našteti", "naštetimo", "naštetite", "naštete"],
-    "ukrainian_translation": "шкодити",
-    "example_sentence": "Njegove riječi su naštetile njezinom ugledu.",
-    "ukrainian_translation_sentence": "Його слова зашкодили її репутації."
+    "pastTense": ["naštetio", "naštetila", "naštetilo"],
+    "presentTense": ["naštetim", "naštetiš", "našteti", "naštetimo", "naštetite", "naštete"],
+    "ukrainianTranslation": "шкодити",
+    "exampleSentence": "Njegove riječi su naštetile njezinom ugledu.",
+    "ukrainianTranslationSentence": "Його слова зашкодили її репутації."
   },
   {
     "infinitive": "natjerati",
-    "past_tense": ["natjerao", "natjerala", "natjeralo"],
-    "present_tense": ["natjeram", "natjeraš", "natjera", "natjeramo", "natjerate", "natjeraju"],
-    "ukrainian_translation": "змусити",
-    "example_sentence": "Natjerao ga je da prizna istinu.",
-    "ukrainian_translation_sentence": "Він змусив його зізнатися у правді."
+    "pastTense": ["natjerao", "natjerala", "natjeralo"],
+    "presentTense": ["natjeram", "natjeraš", "natjera", "natjeramo", "natjerate", "natjeraju"],
+    "ukrainianTranslation": "змусити",
+    "exampleSentence": "Natjerao ga je da prizna istinu.",
+    "ukrainianTranslationSentence": "Він змусив його зізнатися у правді."
   },
   {
     "infinitive": "naučiti",
-    "past_tense": ["naučio", "naučila", "naučilo"],
-    "present_tense": ["naučim", "naučiš", "nauči", "naučimo", "naučite", "nauče"],
-    "ukrainian_translation": "вивчити",
-    "example_sentence": "Naučila je novi jezik.",
-    "ukrainian_translation_sentence": "Вона вивчила нову мову."
+    "pastTense": ["naučio", "naučila", "naučilo"],
+    "presentTense": ["naučim", "naučiš", "nauči", "naučimo", "naučite", "nauče"],
+    "ukrainianTranslation": "вивчити",
+    "exampleSentence": "Naučila je novi jezik.",
+    "ukrainianTranslationSentence": "Вона вивчила нову мову."
   },
   {
     "infinitive": "navaliti",
-    "past_tense": ["navalio", "navalila", "navalilo"],
-    "present_tense": ["navalim", "navališ", "navali", "navalimo", "navalite", "navale"],
-    "ukrainian_translation": "натиснути",
-    "example_sentence": "Navalili su na vrata.",
-    "ukrainian_translation_sentence": "Вони натиснули на двері."
+    "pastTense": ["navalio", "navalila", "navalilo"],
+    "presentTense": ["navalim", "navališ", "navali", "navalimo", "navalite", "navale"],
+    "ukrainianTranslation": "натиснути",
+    "exampleSentence": "Navalili su na vrata.",
+    "ukrainianTranslationSentence": "Вони натиснули на двері."
   },
   {
     "infinitive": "navoditi",
-    "past_tense": ["naveo", "navela", "navelo"],
-    "present_tense": ["navodim", "navodiš", "navodi", "navodimo", "navodite", "navode"],
-    "ukrainian_translation": "вказувати",
-    "example_sentence": "Navodio je primjere iz knjige.",
-    "ukrainian_translation_sentence": "Він вказував приклади з книги."
+    "pastTense": ["naveo", "navela", "navelo"],
+    "presentTense": ["navodim", "navodiš", "navodi", "navodimo", "navodite", "navode"],
+    "ukrainianTranslation": "вказувати",
+    "exampleSentence": "Navodio je primjere iz knjige.",
+    "ukrainianTranslationSentence": "Він вказував приклади з книги."
   },
   {
     "infinitive": "navući",
-    "past_tense": ["navukao", "navukla", "navuklo"],
-    "present_tense": ["navučem", "navučeš", "navuče", "navučemo", "navučete", "navuku"],
-    "ukrainian_translation": "натягнути",
-    "example_sentence": "Navukao je kaput zbog hladnoće.",
-    "ukrainian_translation_sentence": "Він натягнув пальто через холод."
+    "pastTense": ["navukao", "navukla", "navuklo"],
+    "presentTense": ["navučem", "navučeš", "navuče", "navučemo", "navučete", "navuku"],
+    "ukrainianTranslation": "натягнути",
+    "exampleSentence": "Navukao je kaput zbog hladnoće.",
+    "ukrainianTranslationSentence": "Він натягнув пальто через холод."
   },
   {
     "infinitive": "naznačiti",
-    "past_tense": ["naznačio", "naznačila", "naznačilo"],
-    "present_tense": ["naznačim", "naznačiš", "naznači", "naznačimo", "naznačite", "naznače"],
-    "ukrainian_translation": "вказати",
-    "example_sentence": "Naznačio je važnost projekta.",
-    "ukrainian_translation_sentence": "Він вказав на важливість проекту."
+    "pastTense": ["naznačio", "naznačila", "naznačilo"],
+    "presentTense": ["naznačim", "naznačiš", "naznači", "naznačimo", "naznačite", "naznače"],
+    "ukrainianTranslation": "вказати",
+    "exampleSentence": "Naznačio je važnost projekta.",
+    "ukrainianTranslationSentence": "Він вказав на важливість проекту."
   },
   {
     "infinitive": "nedostajati",
-    "past_tense": ["nedostajao", "nedostajala", "nedostajalo"],
-    "present_tense": ["nedostajem", "nedostaješ", "nedostaje", "nedostajemo", "nedostajete", "nedostaju"],
-    "ukrainian_translation": "брак",
-    "example_sentence": "Nedostaje mu hrabrosti.",
-    "ukrainian_translation_sentence": "Йому бракує сміливості."
+    "pastTense": ["nedostajao", "nedostajala", "nedostajalo"],
+    "presentTense": ["nedostajem", "nedostaješ", "nedostaje", "nedostajemo", "nedostajete", "nedostaju"],
+    "ukrainianTranslation": "брак",
+    "exampleSentence": "Nedostaje mu hrabrosti.",
+    "ukrainianTranslationSentence": "Йому бракує сміливості."
   },
   {
     "infinitive": "nemati",
-    "past_tense": ["nemao", "nemala", "nemalo"],
-    "present_tense": ["nemam", "nemaš", "nema", "nemamo", "nemate", "nemaju"],
-    "ukrainian_translation": "не мати",
-    "example_sentence": "On nema dovoljno novca.",
-    "ukrainian_translation_sentence": "У нього недостатньо грошей."
+    "pastTense": ["nemao", "nemala", "nemalo"],
+    "presentTense": ["nemam", "nemaš", "nema", "nemamo", "nemate", "nemaju"],
+    "ukrainianTranslation": "не мати",
+    "exampleSentence": "On nema dovoljno novca.",
+    "ukrainianTranslationSentence": "У нього недостатньо грошей."
   },
   {
     "infinitive": "nervirati",
-    "past_tense": ["nervirao", "nervirala", "nerviralo"],
-    "present_tense": ["nerviram", "nerviraš", "nervira", "nerviramo", "nervirate", "nerviraju"],
-    "ukrainian_translation": "нервувати",
-    "example_sentence": "On je nervirao svoje roditelje.",
-    "ukrainian_translation_sentence": "Він нервував своїх батьків."
+    "pastTense": ["nervirao", "nervirala", "nerviralo"],
+    "presentTense": ["nerviram", "nerviraš", "nervira", "nerviramo", "nervirate", "nerviraju"],
+    "ukrainianTranslation": "нервувати",
+    "exampleSentence": "On je nervirao svoje roditelje.",
+    "ukrainianTranslationSentence": "Він нервував своїх батьків."
   },
   {
     "infinitive": "nestati",
-    "past_tense": ["nestao", "nestala", "nestalo"],
-    "present_tense": ["nestanem", "nestaneš", "nestane", "nestanemo", "nestanete", "nestanu"],
-    "ukrainian_translation": "зникнути",
-    "example_sentence": "Ključ je iznenada nestao.",
-    "ukrainian_translation_sentence": "Ключ раптово зник."
+    "pastTense": ["nestao", "nestala", "nestalo"],
+    "presentTense": ["nestanem", "nestaneš", "nestane", "nestanemo", "nestanete", "nestanu"],
+    "ukrainianTranslation": "зникнути",
+    "exampleSentence": "Ključ je iznenada nestao.",
+    "ukrainianTranslationSentence": "Ключ раптово зник."
   },
   {
     "infinitive": "neutralizirati",
-    "past_tense": ["neutralizirao", "neutralizirala", "neutraliziralo"],
-    "present_tense": ["neutraliziram", "neutraliziraš", "neutralizira", "neutraliziramo", "neutralizirate", "neutraliziraju"],
-    "ukrainian_translation": "нейтралізувати",
-    "example_sentence": "Neutralizirali su opasnost na vrijeme.",
-    "ukrainian_translation_sentence": "Вони вчасно нейтралізували небезпеку."
+    "pastTense": ["neutralizirao", "neutralizirala", "neutraliziralo"],
+    "presentTense": ["neutraliziram", "neutraliziraš", "neutralizira", "neutraliziramo", "neutralizirate", "neutraliziraju"],
+    "ukrainianTranslation": "нейтралізувати",
+    "exampleSentence": "Neutralizirali su opasnost na vrijeme.",
+    "ukrainianTranslationSentence": "Вони вчасно нейтралізували небезпеку."
   },
   {
     "infinitive": "nijekati",
-    "past_tense": ["nijekao", "nijekala", "nijekalo"],
-    "present_tense": ["niječem", "niječeš", "niječe", "niječemo", "niječete", "niječu"],
-    "ukrainian_translation": "заперечувати",
-    "example_sentence": "On niječe sve optužbe.",
-    "ukrainian_translation_sentence": "Він заперечує всі звинувачення."
+    "pastTense": ["nijekao", "nijekala", "nijekalo"],
+    "presentTense": ["niječem", "niječeš", "niječe", "niječemo", "niječete", "niječu"],
+    "ukrainianTranslation": "заперечувати",
+    "exampleSentence": "On niječe sve optužbe.",
+    "ukrainianTranslationSentence": "Він заперечує всі звинувачення."
   },
   {
     "infinitive": "nizati",
-    "past_tense": ["nizao", "nizala", "nizalo"],
-    "present_tense": ["nizam", "nizaš", "niza", "nizamo", "nizate", "nizaju"],
-    "ukrainian_translation": "нанизувати",
-    "example_sentence": "Djeca su nizala perle na nit.",
-    "ukrainian_translation_sentence": "Діти нанизували перлини на нитку."
+    "pastTense": ["nizao", "nizala", "nizalo"],
+    "presentTense": ["nizam", "nizaš", "niza", "nizamo", "nizate", "nizaju"],
+    "ukrainianTranslation": "нанизувати",
+    "exampleSentence": "Djeca su nizala perle na nit.",
+    "ukrainianTranslationSentence": "Діти нанизували перлини на нитку."
   },
   {
     "infinitive": "nominirati",
-    "past_tense": ["nominirao", "nominirala", "nominiralo"],
-    "present_tense": ["nominiram", "nominiraš", "nominira", "nominiramo", "nominirate", "nominiraju"],
-    "ukrainian_translation": "номінувати",
-    "example_sentence": "Nominirali su ga za nagradu.",
-    "ukrainian_translation_sentence": "Його номінували на нагороду."
+    "pastTense": ["nominirao", "nominirala", "nominiralo"],
+    "presentTense": ["nominiram", "nominiraš", "nominira", "nominiramo", "nominirate", "nominiraju"],
+    "ukrainianTranslation": "номінувати",
+    "exampleSentence": "Nominirali su ga za nagradu.",
+    "ukrainianTranslationSentence": "Його номінували на нагороду."
   },
   {
     "infinitive": "normalizirati",
-    "past_tense": ["normalizirao", "normalizirala", "normaliziralo"],
-    "present_tense": ["normaliziram", "normaliziraš", "normalizira", "normaliziramo", "normalizirate", "normaliziraju"],
-    "ukrainian_translation": "нормалізувати",
-    "example_sentence": "Pokušali su normalizirati odnose.",
-    "ukrainian_translation_sentence": "Вони намагалися нормалізувати стосунки."
+    "pastTense": ["normalizirao", "normalizirala", "normaliziralo"],
+    "presentTense": ["normaliziram", "normaliziraš", "normalizira", "normaliziramo", "normalizirate", "normaliziraju"],
+    "ukrainianTranslation": "нормалізувати",
+    "exampleSentence": "Pokušali su normalizirati odnose.",
+    "ukrainianTranslationSentence": "Вони намагалися нормалізувати стосунки."
   },
   {
     "infinitive": "nositi",
-    "past_tense": ["nosio", "nosila", "nosilo"],
-    "present_tense": ["nosim", "nosiš", "nosi", "nosimo", "nosite", "nose"],
-    "ukrainian_translation": "носити",
-    "example_sentence": "On nosi tešku torbu.",
-    "ukrainian_translation_sentence": "Він носить важку сумку."
+    "pastTense": ["nosio", "nosila", "nosilo"],
+    "presentTense": ["nosim", "nosiš", "nosi", "nosimo", "nosite", "nose"],
+    "ukrainianTranslation": "носити",
+    "exampleSentence": "On nosi tešku torbu.",
+    "ukrainianTranslationSentence": "Він носить важку сумку."
   },
   {
     "infinitive": "obarati",
-    "past_tense": ["obarao", "obarala", "obaralo"],
-    "present_tense": ["obaravam", "obaraš", "obara", "obaramo", "obarate", "obara"],
-    "ukrainian_translation": "збивати",
-    "example_sentence": "Obarali su stabla u šumi.",
-    "ukrainian_translation_sentence": "Вони збивали дерева в лісі."
+    "pastTense": ["obarao", "obarala", "obaralo"],
+    "presentTense": ["obaravam", "obaraš", "obara", "obaramo", "obarate", "obara"],
+    "ukrainianTranslation": "збивати",
+    "exampleSentence": "Obarali su stabla u šumi.",
+    "ukrainianTranslationSentence": "Вони збивали дерева в лісі."
   },
   {
     "infinitive": "obavijestiti",
-    "past_tense": ["obavijestio", "obavijestila", "obavijestilo"],
-    "present_tense": ["obavijestim", "obavijestiš", "obavijesti", "obavijestimo", "obavijestite", "obavijeste"],
-    "ukrainian_translation": "повідомити",
-    "example_sentence": "Obavijestio je sve o promjenama.",
-    "ukrainian_translation_sentence": "Він повідомив усіх про зміни."
+    "pastTense": ["obavijestio", "obavijestila", "obavijestilo"],
+    "presentTense": ["obavijestim", "obavijestiš", "obavijesti", "obavijestimo", "obavijestite", "obavijeste"],
+    "ukrainianTranslation": "повідомити",
+    "exampleSentence": "Obavijestio je sve o promjenama.",
+    "ukrainianTranslationSentence": "Він повідомив усіх про зміни."
   },
   {
     "infinitive": "obavljati",
-    "past_tense": ["obavljao", "obavljala", "obavljalo"],
-    "present_tense": ["obavljam", "obavljaš", "obavlja", "obavljamo", "obavljate", "obavljaju"],
-    "ukrainian_translation": "виконувати",
-    "example_sentence": "Obavljala je sve zadatke na vrijeme.",
-    "ukrainian_translation_sentence": "Вона виконувала всі завдання вчасно."
+    "pastTense": ["obavljao", "obavljala", "obavljalo"],
+    "presentTense": ["obavljam", "obavljaš", "obavlja", "obavljamo", "obavljate", "obavljaju"],
+    "ukrainianTranslation": "виконувати",
+    "exampleSentence": "Obavljala je sve zadatke na vrijeme.",
+    "ukrainianTranslationSentence": "Вона виконувала всі завдання вчасно."
   },
   {
     "infinitive": "obećati",
-    "past_tense": ["obećao", "obećala", "obećalo"],
-    "present_tense": ["obećam", "obećaš", "obeća", "obećamo", "obećate", "obećaju"],
-    "ukrainian_translation": "обіцяти",
-    "example_sentence": "Obećao je da će doći.",
-    "ukrainian_translation_sentence": "Він пообіцяв, що прийде."
+    "pastTense": ["obećao", "obećala", "obećalo"],
+    "presentTense": ["obećam", "obećaš", "obeća", "obećamo", "obećate", "obećaju"],
+    "ukrainianTranslation": "обіцяти",
+    "exampleSentence": "Obećao je da će doći.",
+    "ukrainianTranslationSentence": "Він пообіцяв, що прийде."
   },
   {
     "infinitive": "objasniti",
-    "past_tense": ["objasnio", "objasnila", "objasnilo"],
-    "present_tense": ["objasnim", "objasniš", "objasni", "objasnemo", "objasnite", "objasne"],
-    "ukrainian_translation": "пояснити",
-    "example_sentence": "Objasnio je kako riješiti problem.",
-    "ukrainian_translation_sentence": "Він пояснив, як вирішити проблему."
+    "pastTense": ["objasnio", "objasnila", "objasnilo"],
+    "presentTense": ["objasnim", "objasniš", "objasni", "objasnemo", "objasnite", "objasne"],
+    "ukrainianTranslation": "пояснити",
+    "exampleSentence": "Objasnio je kako riješiti problem.",
+    "ukrainianTranslationSentence": "Він пояснив, як вирішити проблему."
   }
 ]

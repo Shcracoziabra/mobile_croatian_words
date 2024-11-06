@@ -3,400 +3,400 @@
     "maskuline": "nepotpun",
     "feminine": "nepotpuna",
     "neutrum": "nepotpuno",
-    "ukrainian_translation": "неповний",
-    "example_sentence": "Nepotpun izvještaj nije omogućio detaljnu analizu.",
-    "ukrainian_translation_sentence": "Неповний звіт не дозволив провести детальний аналіз."
+    "ukrainianTranslation": "неповний",
+    "exampleSentence": "Nepotpun izvještaj nije omogućio detaljnu analizu.",
+    "ukrainianTranslationSentence": "Неповний звіт не дозволив провести детальний аналіз."
   },
   {
     "maskuline": "nepovoljan",
     "feminine": "nepovoljna",
     "neutrum": "nepovoljno",
-    "ukrainian_translation": "несприятливий",
-    "example_sentence": "Nepovoljni vremenski uvjeti odgodili su događaj.",
-    "ukrainian_translation_sentence": "Несприятливі погодні умови відклали захід."
+    "ukrainianTranslation": "несприятливий",
+    "exampleSentence": "Nepovoljni vremenski uvjeti odgodili su događaj.",
+    "ukrainianTranslationSentence": "Несприятливі погодні умови відклали захід."
   },
   {
     "maskuline": "nepoželjan",
     "feminine": "nepoželjna",
     "neutrum": "nepoželjno",
-    "ukrainian_translation": "небажаний",
-    "example_sentence": "Njegov dolazak bio je nepoželjan.",
-    "ukrainian_translation_sentence": "Його прихід був небажаним."
+    "ukrainianTranslation": "небажаний",
+    "exampleSentence": "Njegov dolazak bio je nepoželjan.",
+    "ukrainianTranslationSentence": "Його прихід був небажаним."
   },
   {
     "maskuline": "nepravedan",
     "feminine": "nepravedna",
     "neutrum": "nepravedno",
-    "ukrainian_translation": "несправедливий",
-    "example_sentence": "Nepravedan tretman izazvao je pobunu među radnicima.",
-    "ukrainian_translation_sentence": "Несправедливе ставлення викликало обурення серед працівників."
+    "ukrainianTranslation": "несправедливий",
+    "exampleSentence": "Nepravedan tretman izazvao je pobunu među radnicima.",
+    "ukrainianTranslationSentence": "Несправедливе ставлення викликало обурення серед працівників."
   },
   {
     "maskuline": "nepredvidljiv",
     "feminine": "nepredvidljiva",
     "neutrum": "nepredvidljivo",
-    "ukrainian_translation": "непередбачуваний",
-    "example_sentence": "Vremenski uvjeti bili su nepredvidljivi.",
-    "ukrainian_translation_sentence": "Погодні умови були непередбачуваними."
+    "ukrainianTranslation": "непередбачуваний",
+    "exampleSentence": "Vremenski uvjeti bili su nepredvidljivi.",
+    "ukrainianTranslationSentence": "Погодні умови були непередбачуваними."
   },
   {
     "maskuline": "nepregledan",
     "feminine": "nepregledna",
     "neutrum": "nepregledno",
-    "ukrainian_translation": "безмежний",
-    "example_sentence": "Nepregledna polja prostirala su se koliko je pogled mogao doseći.",
-    "ukrainian_translation_sentence": "Безмежні поля простягалися, скільки сягало око."
+    "ukrainianTranslation": "безмежний",
+    "exampleSentence": "Nepregledna polja prostirala su se koliko je pogled mogao doseći.",
+    "ukrainianTranslationSentence": "Безмежні поля простягалися, скільки сягало око."
   },
   {
     "maskuline": "nepremostiv",
     "feminine": "nepremostiva",
     "neutrum": "nepremostivo",
-    "ukrainian_translation": "нездоланний",
-    "example_sentence": "Činilo se da su problemi nepremostivi, ali su ipak pronašli rješenje.",
-    "ukrainian_translation_sentence": "Здавалося, що проблеми нездоланні, але вони все ж знайшли рішення."
+    "ukrainianTranslation": "нездоланний",
+    "exampleSentence": "Činilo se da su problemi nepremostivi, ali su ipak pronašli rješenje.",
+    "ukrainianTranslationSentence": "Здавалося, що проблеми нездоланні, але вони все ж знайшли рішення."
   },
   {
     "maskuline": "neprihvatljiv",
     "feminine": "neprihvatljiva",
     "neutrum": "neprihvatljivo",
-    "ukrainian_translation": "неприйнятний",
-    "example_sentence": "Njihovo ponašanje bilo je neprihvatljivo u toj situaciji.",
-    "ukrainian_translation_sentence": "Їхня поведінка була неприйнятною у цій ситуації."
+    "ukrainianTranslation": "неприйнятний",
+    "exampleSentence": "Njihovo ponašanje bilo je neprihvatljivo u toj situaciji.",
+    "ukrainianTranslationSentence": "Їхня поведінка була неприйнятною у цій ситуації."
   },
   {
     "maskuline": "neprimjetan",
     "feminine": "neprimjetna",
     "neutrum": "neprimjetno",
-    "ukrainian_translation": "непомітний",
-    "example_sentence": "Njegova prisutnost bila je gotovo neprimjetna.",
-    "ukrainian_translation_sentence": "Його присутність була майже непомітною."
+    "ukrainianTranslation": "непомітний",
+    "exampleSentence": "Njegova prisutnost bila je gotovo neprimjetna.",
+    "ukrainianTranslationSentence": "Його присутність була майже непомітною."
   },
   {
     "maskuline": "neprirodan",
     "feminine": "neprirodna",
     "neutrum": "neprirodno",
-    "ukrainian_translation": "неприродний",
-    "example_sentence": "Neprirodni zvukovi uznemirili su životinje.",
-    "ukrainian_translation_sentence": "Неприродні звуки занепокоїли тварин."
+    "ukrainianTranslation": "неприродний",
+    "exampleSentence": "Neprirodni zvukovi uznemirili su životinje.",
+    "ukrainianTranslationSentence": "Неприродні звуки занепокоїли тварин."
   },
   {
     "maskuline": "nepristojan",
     "feminine": "nepristojna",
     "neutrum": "nepristojno",
-    "ukrainian_translation": "невихований",
-    "example_sentence": "Njegovo nepristojno ponašanje uvrijedilo je goste.",
-    "ukrainian_translation_sentence": "Його невихована поведінка образила гостей."
+    "ukrainianTranslation": "невихований",
+    "exampleSentence": "Njegovo nepristojno ponašanje uvrijedilo je goste.",
+    "ukrainianTranslationSentence": "Його невихована поведінка образила гостей."
   },
   {
     "maskuline": "nepristran",
     "feminine": "nepristrana",
     "neutrum": "nepristrano",
-    "ukrainian_translation": "неупереджений",
-    "example_sentence": "Nepristran sudac donio je pravednu odluku.",
-    "ukrainian_translation_sentence": "Неупереджений суддя виніс справедливе рішення."
+    "ukrainianTranslation": "неупереджений",
+    "exampleSentence": "Nepristran sudac donio je pravednu odluku.",
+    "ukrainianTranslationSentence": "Неупереджений суддя виніс справедливе рішення."
   },
   {
     "maskuline": "nepromijenjen",
     "feminine": "nepromijenjena",
     "neutrum": "nepromijenjeno",
-    "ukrainian_translation": "незмінний",
-    "example_sentence": "Njezin stav ostao je nepromijenjen i nakon razgovora.",
-    "ukrainian_translation_sentence": "Її позиція залишилася незмінною навіть після розмови."
+    "ukrainianTranslation": "незмінний",
+    "exampleSentence": "Njezin stav ostao je nepromijenjen i nakon razgovora.",
+    "ukrainianTranslationSentence": "Її позиція залишилася незмінною навіть після розмови."
   },
   {
     "maskuline": "nerazumljiv",
     "feminine": "nerazumljiva",
     "neutrum": "nerazumljivo",
-    "ukrainian_translation": "незрозумілий",
-    "example_sentence": "Njegov govor bio je nerazumljiv zbog lošeg mikrofona.",
-    "ukrainian_translation_sentence": "Його промова була незрозумілою через поганий мікрофон."
+    "ukrainianTranslation": "незрозумілий",
+    "exampleSentence": "Njegov govor bio je nerazumljiv zbog lošeg mikrofona.",
+    "ukrainianTranslationSentence": "Його промова була незрозумілою через поганий мікрофон."
   },
   {
     "maskuline": "neredovit",
     "feminine": "neredovita",
     "neutrum": "neredovito",
-    "ukrainian_translation": "нерегулярний",
-    "example_sentence": "Neredovit dolazak na posao doveo je do otkaza.",
-    "ukrainian_translation_sentence": "Нерегулярне відвідування роботи призвело до звільнення."
+    "ukrainianTranslation": "нерегулярний",
+    "exampleSentence": "Neredovit dolazak na posao doveo je do otkaza.",
+    "ukrainianTranslationSentence": "Нерегулярне відвідування роботи призвело до звільнення."
   },
   {
     "maskuline": "neriješen",
     "feminine": "neriješena",
     "neutrum": "neriješeno",
-    "ukrainian_translation": "нерозв'язаний",
-    "example_sentence": "Pitanje je ostalo neriješeno nakon sastanka.",
-    "ukrainian_translation_sentence": "Питання залишилося нерозв'язаним після зустрічі."
+    "ukrainianTranslation": "нерозв'язаний",
+    "exampleSentence": "Pitanje je ostalo neriješeno nakon sastanka.",
+    "ukrainianTranslationSentence": "Питання залишилося нерозв'язаним після зустрічі."
   },
   {
     "maskuline": "nesavršen",
     "feminine": "nesavršena",
     "neutrum": "nesavršeno",
-    "ukrainian_translation": "недосконалий",
-    "example_sentence": "Njegov rad bio je nesavršen, ali obećavajući.",
-    "ukrainian_translation_sentence": "Його робота була недосконалою, але багатообіцяючою."
+    "ukrainianTranslation": "недосконалий",
+    "exampleSentence": "Njegov rad bio je nesavršen, ali obećavajući.",
+    "ukrainianTranslationSentence": "Його робота була недосконалою, але багатообіцяючою."
   },
   {
     "maskuline": "nesebičan",
     "feminine": "nesebična",
     "neutrum": "nesebično",
-    "ukrainian_translation": "безкорисливий",
-    "example_sentence": "Nesebičan čin spašavanja dirnuo je sve prisutne.",
-    "ukrainian_translation_sentence": "Безкорисливий акт порятунку зворушив усіх присутніх."
+    "ukrainianTranslation": "безкорисливий",
+    "exampleSentence": "Nesebičan čin spašavanja dirnuo je sve prisutne.",
+    "ukrainianTranslationSentence": "Безкорисливий акт порятунку зворушив усіх присутніх."
   },
   {
     "maskuline": "neshvatljiv",
     "feminine": "neshvatljiva",
     "neutrum": "neshvatljivo",
-    "ukrainian_translation": "незбагненний",
-    "example_sentence": "Za njega je to bila neshvatljiva odluka.",
-    "ukrainian_translation_sentence": "Для нього це було незбагненне рішення."
+    "ukrainianTranslation": "незбагненний",
+    "exampleSentence": "Za njega je to bila neshvatljiva odluka.",
+    "ukrainianTranslationSentence": "Для нього це було незбагненне рішення."
   },
   {
     "maskuline": "nesiguran",
     "feminine": "nesigurna",
     "neutrum": "nesigurno",
-    "ukrainian_translation": "невпевнений",
-    "example_sentence": "Njegov nesiguran govor izazvao je sumnje.",
-    "ukrainian_translation_sentence": "Його невпевнена промова викликала сумніви."
+    "ukrainianTranslation": "невпевнений",
+    "exampleSentence": "Njegov nesiguran govor izazvao je sumnje.",
+    "ukrainianTranslationSentence": "Його невпевнена промова викликала сумніви."
   },
   {
     "maskuline": "neslužben",
     "feminine": "neslužbena",
     "neutrum": "neslužbeno",
-    "ukrainian_translation": "неофіційний",
-    "example_sentence": "Na neslužbenom sastanku raspravljalo se o novim planovima.",
-    "ukrainian_translation_sentence": "На неофіційній зустрічі обговорювали нові плани."
+    "ukrainianTranslation": "неофіційний",
+    "exampleSentence": "Na neslužbenom sastanku raspravljalo se o novim planovima.",
+    "ukrainianTranslationSentence": "На неофіційній зустрічі обговорювали нові плани."
   },
   {
     "maskuline": "nesmetan",
     "feminine": "nesmetana",
     "neutrum": "nesmetano",
-    "ukrainian_translation": "безперешкодний",
-    "example_sentence": "Njihov nesmetan rad omogućio je brže završavanje projekta.",
-    "ukrainian_translation_sentence": "Їхня безперешкодна робота дозволила швидше завершити проєкт."
+    "ukrainianTranslation": "безперешкодний",
+    "exampleSentence": "Njihov nesmetan rad omogućio je brže završavanje projekta.",
+    "ukrainianTranslationSentence": "Їхня безперешкодна робота дозволила швидше завершити проєкт."
   },
   {
     "maskuline": "nespojiv",
     "feminine": "nespojiva",
     "neutrum": "nespojivo",
-    "ukrainian_translation": "несумісний",
-    "example_sentence": "Neki njihovi interesi bili su nespojivi.",
-    "ukrainian_translation_sentence": "Деякі їхні інтереси були несумісними."
+    "ukrainianTranslation": "несумісний",
+    "exampleSentence": "Neki njihovi interesi bili su nespojivi.",
+    "ukrainianTranslationSentence": "Деякі їхні інтереси були несумісними."
   },
   {
     "maskuline": "nesposoban",
     "feminine": "nesposobna",
     "neutrum": "nesposobno",
-    "ukrainian_translation": "нездатний",
-    "example_sentence": "On je bio nesposoban donijeti odluku u tom trenutku.",
-    "ukrainian_translation_sentence": "Він був нездатний прийняти рішення в той момент."
+    "ukrainianTranslation": "нездатний",
+    "exampleSentence": "On je bio nesposoban donijeti odluku u tom trenutku.",
+    "ukrainianTranslationSentence": "Він був нездатний прийняти рішення в той момент."
   },
   {
     "maskuline": "nespretan",
     "feminine": "nespretna",
     "neutrum": "nespretno",
-    "ukrainian_translation": "незграбний",
-    "example_sentence": "Njegovi nespretni pokreti izazvali su smijeh u sobi.",
-    "ukrainian_translation_sentence": "Його незграбні рухи викликали сміх у кімнаті."
+    "ukrainianTranslation": "незграбний",
+    "exampleSentence": "Njegovi nespretni pokreti izazvali su smijeh u sobi.",
+    "ukrainianTranslationSentence": "Його незграбні рухи викликали сміх у кімнаті."
   },
   {
     "maskuline": "nesretan",
     "feminine": "nesretna",
     "neutrum": "nesretno",
-    "ukrainian_translation": "нещасливий",
-    "example_sentence": "Bio je nesretan nakon što je izgubio posao.",
-    "ukrainian_translation_sentence": "Він був нещасливий після втрати роботи."
+    "ukrainianTranslation": "нещасливий",
+    "exampleSentence": "Bio je nesretan nakon što je izgubio posao.",
+    "ukrainianTranslationSentence": "Він був нещасливий після втрати роботи."
   },
   {
     "maskuline": "nestašan",
     "feminine": "nestašna",
     "neutrum": "nestašno",
-    "ukrainian_translation": "неслухняний",
-    "example_sentence": "Nestašan dječak je stalno pravio nestašluke u školi.",
-    "ukrainian_translation_sentence": "Неслухняний хлопчик постійно витворяв пустощі в школі."
+    "ukrainianTranslation": "неслухняний",
+    "exampleSentence": "Nestašan dječak je stalno pravio nestašluke u školi.",
+    "ukrainianTranslationSentence": "Неслухняний хлопчик постійно витворяв пустощі в школі."
   },
   {
     "maskuline": "nestrpljiv",
     "feminine": "nestrpljiva",
     "neutrum": "nestrpljivo",
-    "ukrainian_translation": "нетерплячий",
-    "example_sentence": "Nestrpljivo je čekao rezultate ispita.",
-    "ukrainian_translation_sentence": "Він нетерпляче чекав результатів іспиту."
+    "ukrainianTranslation": "нетерплячий",
+    "exampleSentence": "Nestrpljivo je čekao rezultate ispita.",
+    "ukrainianTranslationSentence": "Він нетерпляче чекав результатів іспиту."
   },
   {
     "maskuline": "nestvaran",
     "feminine": "nestvarna",
     "neutrum": "nestvarno",
-    "ukrainian_translation": "несправжній",
-    "example_sentence": "Nestvaran prizor oduzeo je dah svima prisutnima.",
-    "ukrainian_translation_sentence": "Несправжній пейзаж захопив подих усіх присутніх."
+    "ukrainianTranslation": "несправжній",
+    "exampleSentence": "Nestvaran prizor oduzeo je dah svima prisutnima.",
+    "ukrainianTranslationSentence": "Несправжній пейзаж захопив подих усіх присутніх."
   },
   {
     "maskuline": "nesuđen",
     "feminine": "nesuđena",
     "neutrum": "nesuđeno",
-    "ukrainian_translation": "нездійснений",
-    "example_sentence": "Nesuđena ljubav ostavila je trag u njegovom srcu.",
-    "ukrainian_translation_sentence": "Нездійснене кохання залишило слід у його серці."
+    "ukrainianTranslation": "нездійснений",
+    "exampleSentence": "Nesuđena ljubav ostavila je trag u njegovom srcu.",
+    "ukrainianTranslationSentence": "Нездійснене кохання залишило слід у його серці."
   },
   {
     "maskuline": "nesvjestan",
     "feminine": "nesvjesna",
     "neutrum": "nesvjesno",
-    "ukrainian_translation": "несвідомий",
-    "example_sentence": "Bio je nesvjestan utjecaja svojih riječi.",
-    "ukrainian_translation_sentence": "Він був несвідомим впливу своїх слів."
+    "ukrainianTranslation": "несвідомий",
+    "exampleSentence": "Bio je nesvjestan utjecaja svojih riječi.",
+    "ukrainianTranslationSentence": "Він був несвідомим впливу своїх слів."
   },
   {
     "maskuline": "nesvrstan",
     "feminine": "nesvrstana",
     "neutrum": "nesvrstano",
-    "ukrainian_translation": "нейтральний",
-    "example_sentence": "Nesvrstane zemlje nisu sudjelovale u sukobu.",
-    "ukrainian_translation_sentence": "Нейтральні країни не брали участі у конфлікті."
+    "ukrainianTranslation": "нейтральний",
+    "exampleSentence": "Nesvrstane zemlje nisu sudjelovale u sukobu.",
+    "ukrainianTranslationSentence": "Нейтральні країни не брали участі у конфлікті."
   },
   {
     "maskuline": "neugledan",
     "feminine": "neugledna",
     "neutrum": "neugledno",
-    "ukrainian_translation": "непоказний",
-    "example_sentence": "Njegova neugledna kuća nije odražavala njegov uspjeh.",
-    "ukrainian_translation_sentence": "Його непоказний будинок не відображав його успіх."
+    "ukrainianTranslation": "непоказний",
+    "exampleSentence": "Njegova neugledna kuća nije odražavala njegov uspjeh.",
+    "ukrainianTranslationSentence": "Його непоказний будинок не відображав його успіх."
   },
   {
     "maskuline": "neugodan",
     "feminine": "neugodna",
     "neutrum": "neugodno",
-    "ukrainian_translation": "неприємний",
-    "example_sentence": "Njihov neugodan razgovor trajao je satima.",
-    "ukrainian_translation_sentence": "Їхня неприємна розмова тривала годинами."
+    "ukrainianTranslation": "неприємний",
+    "exampleSentence": "Njihov neugodan razgovor trajao je satima.",
+    "ukrainianTranslationSentence": "Їхня неприємна розмова тривала годинами."
   },
   {
     "maskuline": "neumoljiv",
     "feminine": "neumoljiva",
     "neutrum": "neumoljivo",
-    "ukrainian_translation": "невблаганний",
-    "example_sentence": "Neumoljiv sudac nije popustio ni pred čim.",
-    "ukrainian_translation_sentence": "Невблаганний суддя не піддався жодним обставинам."
+    "ukrainianTranslation": "невблаганний",
+    "exampleSentence": "Neumoljiv sudac nije popustio ni pred čim.",
+    "ukrainianTranslationSentence": "Невблаганний суддя не піддався жодним обставинам."
   },
   {
     "maskuline": "neupućen",
     "feminine": "neupućena",
     "neutrum": "neupućeno",
-    "ukrainian_translation": "непроінформований",
-    "example_sentence": "Bio je neupućen u sve detalje projekta.",
-    "ukrainian_translation_sentence": "Він був непроінформований про всі деталі проєкту."
+    "ukrainianTranslation": "непроінформований",
+    "exampleSentence": "Bio je neupućen u sve detalje projekta.",
+    "ukrainianTranslationSentence": "Він був непроінформований про всі деталі проєкту."
   },
   {
     "maskuline": "neuspio",
     "feminine": "neuspjela",
     "neutrum": "neuspjelo",
-    "ukrainian_translation": "невдалий",
-    "example_sentence": "Njihov plan je bio neuspio pokušaj promjene.",
-    "ukrainian_translation_sentence": "Їхній план був невдалою спробою змін."
+    "ukrainianTranslation": "невдалий",
+    "exampleSentence": "Njihov plan je bio neuspio pokušaj promjene.",
+    "ukrainianTranslationSentence": "Їхній план був невдалою спробою змін."
   },
   {
     "maskuline": "neuspješan",
     "feminine": "neuspješna",
     "neutrum": "neuspješno",
-    "ukrainian_translation": "невдалий",
-    "example_sentence": "Njegov poslovni poduhvat bio je neuspješan.",
-    "ukrainian_translation_sentence": "Його бізнесовий проєкт був невдалим."
+    "ukrainianTranslation": "невдалий",
+    "exampleSentence": "Njegov poslovni poduhvat bio je neuspješan.",
+    "ukrainianTranslationSentence": "Його бізнесовий проєкт був невдалим."
   },
   {
     "maskuline": "neutemeljen",
     "feminine": "neutemeljena",
     "neutrum": "neutemeljeno",
-    "ukrainian_translation": "безпідставний",
-    "example_sentence": "Neutemeljene optužbe izazvale su javno ogorčenje.",
-    "ukrainian_translation_sentence": "Безпідставні звинувачення викликали громадське обурення."
+    "ukrainianTranslation": "безпідставний",
+    "exampleSentence": "Neutemeljene optužbe izazvale su javno ogorčenje.",
+    "ukrainianTranslationSentence": "Безпідставні звинувачення викликали громадське обурення."
   },
   {
     "maskuline": "nevažan",
     "feminine": "nevažna",
     "neutrum": "nevažno",
-    "ukrainian_translation": "незначний",
-    "example_sentence": "Taj detalj je bio nevažan u konačnoj odluci.",
-    "ukrainian_translation_sentence": "Ця деталь була незначною у фінальному рішенні."
+    "ukrainianTranslation": "незначний",
+    "exampleSentence": "Taj detalj je bio nevažan u konačnoj odluci.",
+    "ukrainianTranslationSentence": "Ця деталь була незначною у фінальному рішенні."
   },
   {
     "maskuline": "nevidljiv",
     "feminine": "nevidljiva",
     "neutrum": "nevidljivo",
-    "ukrainian_translation": "невидимий",
-    "example_sentence": "Nevidljiva ruka pomogla je u tajnom zadatku.",
-    "ukrainian_translation_sentence": "Невидима рука допомогла у таємній місії."
+    "ukrainianTranslation": "невидимий",
+    "exampleSentence": "Nevidljiva ruka pomogla je u tajnom zadatku.",
+    "ukrainianTranslationSentence": "Невидима рука допомогла у таємній місії."
   },
   {
     "maskuline": "nezainteresiran",
     "feminine": "nezainteresirana",
     "neutrum": "nezainteresirano",
-    "ukrainian_translation": "байдужий",
-    "example_sentence": "On je bio potpuno nezainteresiran za ishod igre.",
-    "ukrainian_translation_sentence": "Він був абсолютно байдужим до результату гри."
+    "ukrainianTranslation": "байдужий",
+    "exampleSentence": "On je bio potpuno nezainteresiran za ishod igre.",
+    "ukrainianTranslationSentence": "Він був абсолютно байдужим до результату гри."
   },
   {
     "maskuline": "nezamjenjiv",
     "feminine": "nezamjenjiva",
     "neutrum": "nezamjenjivo",
-    "ukrainian_translation": "незамінний",
-    "example_sentence": "Njezin rad bio je nezamjenjiv za uspjeh projekta.",
-    "ukrainian_translation_sentence": "Її робота була незамінною для успіху проєкту."
+    "ukrainianTranslation": "незамінний",
+    "exampleSentence": "Njezin rad bio je nezamjenjiv za uspjeh projekta.",
+    "ukrainianTranslationSentence": "Її робота була незамінною для успіху проєкту."
   },
   {
     "maskuline": "nezaposlen",
     "feminine": "nezaposlena",
     "neutrum": "nezaposleno",
-    "ukrainian_translation": "безробітний",
-    "example_sentence": "Nakon gubitka posla, ostao je nezaposlen nekoliko mjeseci.",
-    "ukrainian_translation_sentence": "Після втрати роботи він залишався безробітним кілька місяців."
+    "ukrainianTranslation": "безробітний",
+    "exampleSentence": "Nakon gubitka posla, ostao je nezaposlen nekoliko mjeseci.",
+    "ukrainianTranslationSentence": "Після втрати роботи він залишався безробітним кілька місяців."
   },
   {
     "maskuline": "nezaustavljiv",
     "feminine": "nezaustavljiva",
     "neutrum": "nezaustavljivo",
-    "ukrainian_translation": "незупинний",
-    "example_sentence": "Njegova želja za uspjehom bila je nezaustavljiva.",
-    "ukrainian_translation_sentence": "Його бажання досягти успіху було незупинним."
+    "ukrainianTranslation": "незупинний",
+    "exampleSentence": "Njegova želja za uspjehom bila je nezaustavljiva.",
+    "ukrainianTranslationSentence": "Його бажання досягти успіху було незупинним."
   },
   {
     "maskuline": "nezavidan",
     "feminine": "nezavidna",
     "neutrum": "nezavidno",
-    "ukrainian_translation": "незаздрісний",
-    "example_sentence": "Bio je u nezavidnom položaju nakon gubitka sredstava.",
-    "ukrainian_translation_sentence": "Він опинився в незаздрісному становищі після втрати коштів."
+    "ukrainianTranslation": "незаздрісний",
+    "exampleSentence": "Bio je u nezavidnom položaju nakon gubitka sredstava.",
+    "ukrainianTranslationSentence": "Він опинився в незаздрісному становищі після втрати коштів."
   },
   {
     "maskuline": "neželjen",
     "feminine": "neželjena",
     "neutrum": "neželjeno",
-    "ukrainian_translation": "небажаний",
-    "example_sentence": "Njegov neželjen dolazak iznenadio je sve.",
-    "ukrainian_translation_sentence": "Його небажаний прихід здивував усіх."
+    "ukrainianTranslation": "небажаний",
+    "exampleSentence": "Njegov neželjen dolazak iznenadio je sve.",
+    "ukrainianTranslationSentence": "Його небажаний прихід здивував усіх."
   },
   {
     "maskuline": "nezreo",
     "feminine": "nezrela",
     "neutrum": "nezrelo",
-    "ukrainian_translation": "незрілий",
-    "example_sentence": "Njegovo nezrelo ponašanje razočaralo je prijatelje.",
-    "ukrainian_translation_sentence": "Його незріла поведінка розчарувала друзів."
+    "ukrainianTranslation": "незрілий",
+    "exampleSentence": "Njegovo nezrelo ponašanje razočaralo je prijatelje.",
+    "ukrainianTranslationSentence": "Його незріла поведінка розчарувала друзів."
   },
   {
     "maskuline": "nizak",
     "feminine": "niska",
     "neutrum": "nisko",
-    "ukrainian_translation": "низький",
-    "example_sentence": "Nizak muškarac stajao je kraj visokog prijatelja.",
-    "ukrainian_translation_sentence": "Низький чоловік стояв поруч з високим другом."
+    "ukrainianTranslation": "низький",
+    "exampleSentence": "Nizak muškarac stajao je kraj visokog prijatelja.",
+    "ukrainianTranslationSentence": "Низький чоловік стояв поруч з високим другом."
   },
   {
     "maskuline": "nježan",
     "feminine": "nježna",
     "neutrum": "nježno",
-    "ukrainian_translation": "ніжний",
-    "example_sentence": "Njegov nježan dodir umirio je dijete.",
-    "ukrainian_translation_sentence": "Його ніжний дотик заспокоїв дитину."
+    "ukrainianTranslation": "ніжний",
+    "exampleSentence": "Njegov nježan dodir umirio je dijete.",
+    "ukrainianTranslationSentence": "Його ніжний дотик заспокоїв дитину."
   }
 ]

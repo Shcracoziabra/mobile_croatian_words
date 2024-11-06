@@ -4,9 +4,9 @@ const { createDataFromLocalJSON, formatDataItemPropsToColumnNames } = require('.
 const columnNamesToDataItemPropsMap = {
   'singular': 'singular',
   'plural': 'plural',
-  'ukrainian_translation': 'ukrainian_translation',
-  'example_sentence': 'example_sentence',
-  'ukrainian_translation_sentence': 'ukrainian_translation_sentence',
+  'ukrainianTranslation': 'ukrainianTranslation',
+  'exampleSentence': 'exampleSentence',
+  'ukrainianTranslationSentence': 'ukrainianTranslationSentence',
 };
 
 const TABLE_NAME = 'nouns';

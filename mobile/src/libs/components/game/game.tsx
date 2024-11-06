@@ -67,7 +67,7 @@ const Game: React.FC<Properties> = ({ gameCardData, onFinishPress }) => {
 										wrapperBackgroundColorStyle,
 									]}
 								>
-									<Text color={BaseColor.WHITE} weight="light">
+									<Text color={BaseColor.WHITE} weight='light'>
 										Завершити гру
 									</Text>
 								</View>
@@ -103,10 +103,10 @@ const Game: React.FC<Properties> = ({ gameCardData, onFinishPress }) => {
 							<TwoOptionsCard
 								addedStyles={styles.card}
 								cardCount={cardCount}
-								noButtonLabel="Завершити"
+								noButtonLabel='Завершити'
 								onNoButtonPress={onFinishPress}
 								onYesButtonPress={handleRestartGameButtonPress}
-								yesButtonLabel="Грати ще раз"
+								yesButtonLabel='Грати ще раз'
 							>
 								<Text color={BaseColor.DARK_BROWN}>
 									Правильних відповідей: {correctAnswers} /{' '}

@@ -26,7 +26,7 @@ const RoundButtonWithIndicator: React.FC<Properties> = ({
 		<Pressable
 			hitSlop={20}
 			onPress={onPress}
-			style={[styles.button, globalStyles.mb8]}
+			style={[styles.button, globalStyles.mb8, globalStyles.boxShadow]}
 		>
 			<LinearGradient
 				colors={[...colors]}

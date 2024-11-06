@@ -1,6 +1,6 @@
 {
-  "title_hr": "Šetnja kroz osjetila",
-  "title_uk": "Прогулянка через відчуття",
+  "titleHr": "Šetnja kroz osjetila",
+  "titleUk": "Прогулянка через відчуття",
   "illustration": "story_10.png",
   "text": [
     {
@@ -165,7 +165,6 @@
     }
   ],
   "vocabulary": [
-    {"hr": "šuma", "uk": "ліс"},
     {"hr": "osjetilo", "uk": "відчуття"},
     {"hr": "miris", "uk": "запах"},
     {"hr": "zrak", "uk": "повітря"},

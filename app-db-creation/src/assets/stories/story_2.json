@@ -1,6 +1,6 @@
 {
-  "title_hr": "Iščekivanje pred kazalištem",
-  "title_uk": "Очікування перед театром",
+  "titleHr": "Iščekivanje pred kazalištem",
+  "titleUk": "Очікування перед театром",
   "illustration": "story_2.png",
   "text": [
     {
@@ -161,9 +161,7 @@
     {"hr": "parfem", "uk": "парфум"},
     {"hr": "vjetar", "uk": "вітер"},
     {"hr": "park", "uk": "парк"},
-    {"hr": "naočale", "uk": "окуляри"},
     {"hr": "ples", "uk": "танець"},
-    {"hr": "kazalište", "uk": "театр"},
     {"hr": "tihi", "uk": "тихий"},
     {"hr": "smijeh", "uk": "сміх"},
     {"hr": "vrata", "uk": "двері"},
@@ -181,7 +179,6 @@
     {"hr": "čekati", "uk": "чекати"},
     {"hr": "uživati", "uk": "насолоджуватися"},
     {"hr": "prostor", "uk": "простір"},
-    {"hr": "kap", "uk": "крапля"},
     {"hr": "boje", "uk": "кольори"},
     {"hr": "blizina", "uk": "близькість"},
     {"hr": "djetinjstvo", "uk": "дитинство"},
@@ -191,7 +188,6 @@
     {"hr": "svakodnevnica", "uk": "щоденність"},
     {"hr": "sretan", "uk": "щасливий"},
     {"hr": "vrijeme", "uk": "час"},
-    {"hr": "vrata", "uk": "двері"},
     {"hr": "umjetnost", "uk": "мистецтво"}
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "title_hr": "Zanatlije u malom selu",
-  "title_uk": "Майстри у маленькому селі",
+  "titleHr": "Zanatlije u malom selu",
+  "titleUk": "Майстри у маленькому селі",
   "illustration": "story_23.png",
   "text": [
     {
@@ -268,7 +268,6 @@
     { "hr": "posao", "uk": "робота" },
     { "hr": "osobni", "uk": "особистий" },
     { "hr": "početak", "uk": "початок" },
-    { "hr": "alatka", "uk": "інструмент" },
     { "hr": "kolo", "uk": "колесо" },
     { "hr": "umjetnost", "uk": "мистецтво" },
     { "hr": "izrada", "uk": "виготовлення" },

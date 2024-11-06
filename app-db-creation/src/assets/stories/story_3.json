@@ -1,6 +1,6 @@
 {
-  "title_hr": "Mirno gradsko jutro",
-  "title_uk": "Спокійний ранок у місті",
+  "titleHr": "Mirno gradsko jutro",
+  "titleUk": "Спокійний ранок у місті",
   "illustration": "story_3.png",
   "text": [
     {
@@ -147,7 +147,6 @@
     {"hr": "vozač", "uk": "водій"},
     {"hr": "torba", "uk": "сумка"},
     {"hr": "vrućina", "uk": "спека"},
-    {"hr": "hladnoća", "uk": "холод"},
     {"hr": "cesta", "uk": "дорога"},
     {"hr": "putnici", "uk": "пасажири"},
     {"hr": "opustiti se", "uk": "розслабитися"},

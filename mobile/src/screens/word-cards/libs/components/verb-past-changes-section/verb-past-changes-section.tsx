@@ -7,7 +7,7 @@ import { globalStyles } from '~/libs/styles/styles';
 import { Gender } from '../../constants/constants';
 
 type Properties = {
-	verbs: [string, string, string];
+	verbs: string;
 };
 
 const VerbPastChangesSection: React.FC<Properties> = ({ verbs }) => {
@@ -21,7 +21,7 @@ const VerbPastChangesSection: React.FC<Properties> = ({ verbs }) => {
 			]}
 		>
 			<Text color={BaseColor.ORANGE}>Минулий час</Text>
-			{verbs.map((verb, index) => {
+			{verbs.split(', ').map((verb, index) => {
 				return (
 					<Text color={BaseColor.DARK_BROWN} key={index}>
 						{Gender[index]} {verb}

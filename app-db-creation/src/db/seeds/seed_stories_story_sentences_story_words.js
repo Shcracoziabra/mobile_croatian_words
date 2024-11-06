@@ -2,8 +2,8 @@ const path = require('node:path');
 const { createDataFromLocalJSON } = require('../../helpers/helpers');;
 
 const STORIES_TABLE_NAME = 'stories';
-const SENTENCES_TABLE_NAME = 'story_sentences';
-const WORDS_TABLE_NAME = 'story_words';
+const SENTENCES_TABLE_NAME = 'storySentences';
+const WORDS_TABLE_NAME = 'storyWords';
 
 /**
  * @param { import("knex").Knex } knex
@@ -19,9 +19,9 @@ exports.seed = async function(knex) {
   let storyImages = [];
 
   for (let story of rawStoriesData) {
-    const { title_hr, illustration } = story;
+    const { titleHr, illustration } = story;
     storyImages.push(illustration);
-    storyTitles.push(title_hr);
+    storyTitles.push(titleHr);
   }
 
   const images = await knex('images')
@@ -30,11 +30,11 @@ exports.seed = async function(knex) {
   
   const imageIdByName = Object.fromEntries(images.map(({name, id}) => [name, id]));
 
-  const storiesData = rawStoriesData.map(({ title_hr, title_uk, illustration}) => {
+  const storiesData = rawStoriesData.map(({ titleHr, titleUk, illustration}) => {
     return {
-      title_hr,
-      title_uk,
-      image_id: imageIdByName[illustration]
+      titleHr,
+      titleUk,
+      imageId: imageIdByName[illustration]
     }
   });
 
@@ -43,16 +43,16 @@ exports.seed = async function(knex) {
   await knex(STORIES_TABLE_NAME).insert(storiesData);
 
   const stories = await knex(STORIES_TABLE_NAME)
-  .select('id', 'title_hr')
-  .whereIn('title_hr', storyTitles);
+  .select('id', 'titleHr')
+  .whereIn('titleHr', storyTitles);
 
-  const storyIdByTitle = Object.fromEntries(stories.map(({ id, title_hr}) => [title_hr, id]));
+  const storyIdByTitle = Object.fromEntries(stories.map(({ id, titleHr}) => [titleHr, id]));
 
   await knex(SENTENCES_TABLE_NAME).del();
   for (let story of rawStoriesData) {
-    const { title_hr, text, vocabulary } = story;
-    sentencesData.push(...text.map((text, index) => ({...text, index, story_id: storyIdByTitle[title_hr]})));
-    vocabularyData.push(...vocabulary.map((vocabulary) => ({...vocabulary, story_id: storyIdByTitle[title_hr]})));
+    const { titleHr, text, vocabulary } = story;
+    sentencesData.push(...text.map((text, index) => ({...text, sentenceIndex: index, storyId: storyIdByTitle[titleHr]})));
+    vocabularyData.push(...vocabulary.map((vocabulary) => ({...vocabulary, storyId: storyIdByTitle[titleHr]})));
   };
 
   await knex(WORDS_TABLE_NAME).del();

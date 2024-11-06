@@ -51,7 +51,7 @@ const ToggleButton: React.FC<Properties> = ({
 						alignItemsStyle,
 					]}
 				>
-					<Text color={labelColor} weight="bold">
+					<Text color={labelColor} weight='bold'>
 						{label}
 					</Text>
 				</View>

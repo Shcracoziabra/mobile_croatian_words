@@ -1,6 +1,6 @@
 {
-  "title_hr": "Nedjeljni ručak kod bake Ane",
-  "title_uk": "Неділя за обіднім столом у бабусі Ани",
+  "titleHr": "Nedjeljni ručak kod bake Ane",
+  "titleUk": "Неділя за обіднім столом у бабусі Ани",
   "illustration": "story_21.png",
   "text": [
     {
@@ -174,7 +174,6 @@
     { "hr": "sol", "uk": "сіль" },
     { "hr": "papar", "uk": "перець" },
     { "hr": "pećnica", "uk": "духовка" },
-    { "hr": "krumpir", "uk": "картопля" },
     { "hr": "maslinovo ulje", "uk": "оливкова олія" },
     { "hr": "ružmarin", "uk": "розмарин" },
     { "hr": "salata", "uk": "салат" },
@@ -190,7 +189,6 @@
     { "hr": "pečenje", "uk": "запікання" },
     { "hr": "korica", "uk": "кірка" },
     { "hr": "hrskav", "uk": "хрусткий" },
-    { "hr": "sočno", "uk": "соковите" },
     { "hr": "narezati", "uk": "нарізати" },
     { "hr": "pladanj", "uk": "таця" },
     { "hr": "miris", "uk": "аромат" },

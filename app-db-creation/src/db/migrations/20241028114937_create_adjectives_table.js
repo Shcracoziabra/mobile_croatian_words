@@ -8,9 +8,9 @@ exports.up = function(knex) {
 		table.string('maskuline');
 		table.string('feminine');
 		table.string('neutrum');
-		table.string('ukrainian_translation');
-		table.string('example_sentence');
-		table.string('ukrainian_translation_sentence');
+		table.string('ukrainianTranslation');
+		table.string('exampleSentence');
+		table.string('ukrainianTranslationSentence');
 	})
 };
 

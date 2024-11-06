@@ -1,6 +1,6 @@
 {
-  "title_hr": "Lukin umjetnički svijet",
-  "title_uk": "Художній світ Луки",
+  "titleHr": "Lukin umjetnički svijet",
+  "titleUk": "Художній світ Луки",
   "illustration": "story_17.png",
   "text": [
     {
@@ -187,7 +187,6 @@
   "vocabulary": [
     {"hr": "slikar", "uk": "художник"},
     {"hr": "atelje", "uk": "майстерня"},
-    {"hr": "boje", "uk": "фарби"},
     {"hr": "platno", "uk": "полотно"},
     {"hr": "kist", "uk": "пензель"},
     {"hr": "grafitna olovka", "uk": "графітний олівець"},
@@ -196,7 +195,6 @@
     {"hr": "reljef", "uk": "рельєф"},
     {"hr": "kompozicija", "uk": "композиція"},
     {"hr": "skica", "uk": "ескіз"},
-    {"hr": "boje", "uk": "кольори"},
     {"hr": "kontrast", "uk": "контраст"},
     {"hr": "pastel", "uk": "пастель"},
     {"hr": "akvarel", "uk": "акварель"},
@@ -209,7 +207,6 @@
     {"hr": "zid", "uk": "стіна"},
     {"hr": "slika", "uk": "картина"},
     {"hr": "potez", "uk": "мазок"},
-    {"hr": "reljef", "uk": "рельєф"},
     {"hr": "prostor", "uk": "простір"},
     {"hr": "izraziti", "uk": "виразити"},
     {"hr": "umjetnost", "uk": "мистецтво"},

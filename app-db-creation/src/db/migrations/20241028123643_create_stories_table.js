@@ -5,10 +5,10 @@
 exports.up = function(knex) {
   return knex.schema.createTable('stories', (table) => {
 		table.increments('id').primary();
-		table.string('title_hr');
-		table.string('title_uk');
+		table.string('titleHr');
+		table.string('titleUk');
 		table
-			.integer('image_id')
+			.integer('imageId')
 			.references('id')
 			.inTable('images');
 	});

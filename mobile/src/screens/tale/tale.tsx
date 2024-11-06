@@ -6,10 +6,10 @@ import {
 	ScrollView,
 	ToggleButton,
 } from '~/libs/components/components';
-import { mockTalesData } from '~/libs/constants/constants';
 import { BaseColor, NumericalValue, RootScreenName } from '~/libs/enums/enums';
 import {
 	useAppRoute,
+	useEffect,
 	useHeaderHeight,
 	useRef,
 	useState,
@@ -22,21 +22,38 @@ import {
 } from './libs/components/components';
 
 import { globalStyles } from '~/libs/styles/styles';
+import { database } from '~/services/services';
 
 const Tale: React.FC = () => {
 	const [isVocabularyHidden, setIsVocabularyHidden] = useState<boolean>(true);
+	const [isLoading, setIsLoading] = useState<boolean>(true);
+	const [sentences, setSentences] = useState<{id: Number; hr: string; uk: string}[]>([]);
+	const [words, setWords] = useState<{id:  number; hr: string; uk: string}[]>([]);
 
 	const { params } = useAppRoute<typeof RootScreenName.TALE>();
+	const { taleIndex, imageSource, titleHr } = params;
 
-	const { taleIndex, imageSource } = params;
-	const { titleHr, text, vocabulary } = mockTalesData[taleIndex];
+	useEffect(() => {
+		const handleContentLoading = async(): Promise<void> => {
+			const sentencesQueryResult = await database.getSentences(taleIndex);
+			const wordsQueryResult = await database.getStoryWords(taleIndex);
+			if(sentencesQueryResult){
+				setSentences(sentencesQueryResult);
+			}
+			if(wordsQueryResult){
+				setWords(wordsQueryResult);
+			}
+			setIsLoading(false);
+		};
+		handleContentLoading();
+	},[taleIndex]);
 
-	const taleSentenceCards = text.map(({ uk, hr }, index) => {
-		return <TaleSentence key={index} sentence={hr} translation={uk} />;
+	const taleSentenceCards = sentences.map(({ id, uk, hr }) => {
+		return <TaleSentence key={id.toString()} sentence={hr} translation={uk} />;
 	});
 
-	const vocabularyCards = vocabulary.map(({ uk, hr }, index) => {
-		return <VocabularyCard key={index} word={hr} translation={uk} />;
+	const vocabularyCards = words.map(({ id, uk, hr }) => {
+		return <VocabularyCard key={id.toString()} word={hr} translation={uk} />;
 	});
 
 	const ref = useRef<ScrollView>(null);
@@ -55,7 +72,7 @@ const Tale: React.FC = () => {
 
 	return (
 		<BackgroundWrapper imageSource={imageSource} filterColor={filterColor}>
-			<ScreenWrapper style={[topPaddingStyle]}>
+			<ScreenWrapper isLoading={isLoading} style={topPaddingStyle}>
 				<TaleHeader title={titleHr} />
 				<ToggleButton
 					colors={[BaseColor.LIGHT_ORANGE, BaseColor.GREEN]}

@@ -2,351 +2,351 @@
 	{
     "singular": "kip",
     "plural": "kipovi",
-    "ukrainian_translation": "статуя",
-    "example_sentence": "Kip vojnika stoji u centru grada.",
-    "ukrainian_translation_sentence": "Статуя солдата стоїть у центрі міста."
+    "ukrainianTranslation": "статуя",
+    "exampleSentence": "Kip vojnika stoji u centru grada.",
+    "ukrainianTranslationSentence": "Статуя солдата стоїть у центрі міста."
   },
   {
     "singular": "kipar",
     "plural": "kipari",
-    "ukrainian_translation": "скульптор",
-    "example_sentence": "Kipar je izradio novu skulpturu od mramora.",
-    "ukrainian_translation_sentence": "Скульптор створив нову скульптуру з мармуру."
+    "ukrainianTranslation": "скульптор",
+    "exampleSentence": "Kipar je izradio novu skulpturu od mramora.",
+    "ukrainianTranslationSentence": "Скульптор створив нову скульптуру з мармуру."
   },
   {
     "singular": "klađenje",
     "plural": "klađenja",
-    "ukrainian_translation": "ставка",
-    "example_sentence": "Klađenje na sportske događaje postalo je popularno.",
-    "ukrainian_translation_sentence": "Ставки на спортивні події стали популярними."
+    "ukrainianTranslation": "ставка",
+    "exampleSentence": "Klađenje na sportske događaje postalo je popularno.",
+    "ukrainianTranslationSentence": "Ставки на спортивні події стали популярними."
   },
   {
     "singular": "klavir",
     "plural": "klaviri",
-    "ukrainian_translation": "піаніно",
-    "example_sentence": "Naučio je svirati klavir kad je bio dijete.",
-    "ukrainian_translation_sentence": "Він навчився грати на піаніно, коли був дитиною."
+    "ukrainianTranslation": "піаніно",
+    "exampleSentence": "Naučio je svirati klavir kad je bio dijete.",
+    "ukrainianTranslationSentence": "Він навчився грати на піаніно, коли був дитиною."
   },
   {
     "singular": "klijent",
     "plural": "klijenti",
-    "ukrainian_translation": "клієнт",
-    "example_sentence": "Klijent je zadovoljan uslugom tvrtke.",
-    "ukrainian_translation_sentence": "Клієнт задоволений послугами компанії."
+    "ukrainianTranslation": "клієнт",
+    "exampleSentence": "Klijent je zadovoljan uslugom tvrtke.",
+    "ukrainianTranslationSentence": "Клієнт задоволений послугами компанії."
   },
   {
     "singular": "klik",
     "plural": "klikovi",
-    "ukrainian_translation": "клік",
-    "example_sentence": "Jednim klikom miša otvorio je novu stranicu.",
-    "ukrainian_translation_sentence": "Одним кліком миші він відкрив нову сторінку."
+    "ukrainianTranslation": "клік",
+    "exampleSentence": "Jednim klikom miša otvorio je novu stranicu.",
+    "ukrainianTranslationSentence": "Одним кліком миші він відкрив нову сторінку."
   },
   {
     "singular": "kloniranje",
     "plural": "kloniranja",
-    "ukrainian_translation": "клонування",
-    "example_sentence": "Znanstvenici istražuju mogućnosti kloniranja.",
-    "ukrainian_translation_sentence": "Вчені досліджують можливості клонування."
+    "ukrainianTranslation": "клонування",
+    "exampleSentence": "Znanstvenici istražuju mogućnosti kloniranja.",
+    "ukrainianTranslationSentence": "Вчені досліджують можливості клонування."
   },
   {
     "singular": "knez",
     "plural": "kneževi",
-    "ukrainian_translation": "князь",
-    "example_sentence": "Knez je vladao svojim područjem s mudrošću.",
-    "ukrainian_translation_sentence": "Князь правив своїм регіоном із мудрістю."
+    "ukrainianTranslation": "князь",
+    "exampleSentence": "Knez je vladao svojim područjem s mudrošću.",
+    "ukrainianTranslationSentence": "Князь правив своїм регіоном із мудрістю."
   },
   {
     "singular": "književnik",
     "plural": "književnici",
-    "ukrainian_translation": "письменник",
-    "example_sentence": "Književnik je napisao mnoge poznate romane.",
-    "ukrainian_translation_sentence": "Письменник написав багато відомих романів."
+    "ukrainianTranslation": "письменник",
+    "exampleSentence": "Književnik je napisao mnoge poznate romane.",
+    "ukrainianTranslationSentence": "Письменник написав багато відомих романів."
   },
   {
     "singular": "kockica",
     "plural": "kockice",
-    "ukrainian_translation": "кубик",
-    "example_sentence": "Djeca su se igrala s kockicama u sobi.",
-    "ukrainian_translation_sentence": "Діти гралися кубиками в кімнаті."
+    "ukrainianTranslation": "кубик",
+    "exampleSentence": "Djeca su se igrala s kockicama u sobi.",
+    "ukrainianTranslationSentence": "Діти гралися кубиками в кімнаті."
   },
 	{
     "singular": "kokos",
     "plural": "kokosi",
-    "ukrainian_translation": "кокос",
-    "example_sentence": "U trgovini su prodavali svježi kokos.",
-    "ukrainian_translation_sentence": "У магазині продавали свіжий кокос."
+    "ukrainianTranslation": "кокос",
+    "exampleSentence": "U trgovini su prodavali svježi kokos.",
+    "ukrainianTranslationSentence": "У магазині продавали свіжий кокос."
   },
   {
     "singular": "kolač",
     "plural": "kolači",
-    "ukrainian_translation": "тістечко",
-    "example_sentence": "Napravila je ukusne kolače za rođendan.",
-    "ukrainian_translation_sentence": "Вона приготувала смачні тістечка на день народження."
+    "ukrainianTranslation": "тістечко",
+    "exampleSentence": "Napravila je ukusne kolače za rođendan.",
+    "ukrainianTranslationSentence": "Вона приготувала смачні тістечка на день народження."
   },
   {
     "singular": "kolegica",
     "plural": "kolegice",
-    "ukrainian_translation": "колега",
-    "example_sentence": "Kolegica s posla je ponudila pomoć u projektu.",
-    "ukrainian_translation_sentence": "Колега з роботи запропонувала допомогу в проєкті."
+    "ukrainianTranslation": "колега",
+    "exampleSentence": "Kolegica s posla je ponudila pomoć u projektu.",
+    "ukrainianTranslationSentence": "Колега з роботи запропонувала допомогу в проєкті."
   },
   {
     "singular": "komanda",
     "plural": "komande",
-    "ukrainian_translation": "команда",
-    "example_sentence": "Dao je komandu za pokret.",
-    "ukrainian_translation_sentence": "Він віддав команду на рух."
+    "ukrainianTranslation": "команда",
+    "exampleSentence": "Dao je komandu za pokret.",
+    "ukrainianTranslationSentence": "Він віддав команду на рух."
   },
   {
     "singular": "kombi",
     "plural": "kombiji",
-    "ukrainian_translation": "фургон",
-    "example_sentence": "Unajmili su kombi za prijevoz robe.",
-    "ukrainian_translation_sentence": "Вони орендували фургон для перевезення товарів."
+    "ukrainianTranslation": "фургон",
+    "exampleSentence": "Unajmili su kombi za prijevoz robe.",
+    "ukrainianTranslationSentence": "Вони орендували фургон для перевезення товарів."
   },
   {
     "singular": "komentiranje",
     "plural": "komentiranja",
-    "ukrainian_translation": "коментування",
-    "example_sentence": "Komentiranje utakmice bilo je vrlo uzbudljivo.",
-    "ukrainian_translation_sentence": "Коментування матчу було дуже захоплюючим."
+    "ukrainianTranslation": "коментування",
+    "exampleSentence": "Komentiranje utakmice bilo je vrlo uzbudljivo.",
+    "ukrainianTranslationSentence": "Коментування матчу було дуже захоплюючим."
   },
   {
     "singular": "kompjutor",
     "plural": "kompjutori",
-    "ukrainian_translation": "комп'ютер",
-    "example_sentence": "Njegov kompjutor je star, ali još uvijek dobro radi.",
-    "ukrainian_translation_sentence": "Його комп'ютер старий, але ще добре працює."
+    "ukrainianTranslation": "комп'ютер",
+    "exampleSentence": "Njegov kompjutor je star, ali još uvijek dobro radi.",
+    "ukrainianTranslationSentence": "Його комп'ютер старий, але ще добре працює."
   },
   {
     "singular": "komplet",
     "plural": "kompleti",
-    "ukrainian_translation": "комплект",
-    "example_sentence": "Kupio je novi komplet za rad u uredu.",
-    "ukrainian_translation_sentence": "Він купив новий комплект для роботи в офісі."
+    "ukrainianTranslation": "комплект",
+    "exampleSentence": "Kupio je novi komplet za rad u uredu.",
+    "ukrainianTranslationSentence": "Він купив новий комплект для роботи в офісі."
   },
   {
     "singular": "kompromis",
     "plural": "kompromisi",
-    "ukrainian_translation": "компроміс",
-    "example_sentence": "Postigli su kompromis nakon dugog razgovora.",
-    "ukrainian_translation_sentence": "Вони досягли компромісу після тривалої розмови."
+    "ukrainianTranslation": "компроміс",
+    "exampleSentence": "Postigli su kompromis nakon dugog razgovora.",
+    "ukrainianTranslationSentence": "Вони досягли компромісу після тривалої розмови."
   },
   {
     "singular": "komuniciranje",
     "plural": "komuniciranja",
-    "ukrainian_translation": "спілкування",
-    "example_sentence": "Efikasno komuniciranje je ključno u timu.",
-    "ukrainian_translation_sentence": "Ефективне спілкування є ключовим у команді."
+    "ukrainianTranslation": "спілкування",
+    "exampleSentence": "Efikasno komuniciranje je ključno u timu.",
+    "ukrainianTranslationSentence": "Ефективне спілкування є ключовим у команді."
   },
 	{
     "singular": "koncentracija",
     "plural": "koncentracije",
-    "ukrainian_translation": "концентрація",
-    "example_sentence": "Njegova koncentracija je bila na visokoj razini tijekom ispita.",
-    "ukrainian_translation_sentence": "Його концентрація була на високому рівні під час іспиту."
+    "ukrainianTranslation": "концентрація",
+    "exampleSentence": "Njegova koncentracija je bila na visokoj razini tijekom ispita.",
+    "ukrainianTranslationSentence": "Його концентрація була на високому рівні під час іспиту."
   },
   {
     "singular": "koncert",
     "plural": "koncerti",
-    "ukrainian_translation": "концерт",
-    "example_sentence": "Otišli su na koncert svoje omiljene grupe.",
-    "ukrainian_translation_sentence": "Вони пішли на концерт своєї улюбленої групи."
+    "ukrainianTranslation": "концерт",
+    "exampleSentence": "Otišli su na koncert svoje omiljene grupe.",
+    "ukrainianTranslationSentence": "Вони пішли на концерт своєї улюбленої групи."
   },
   {
     "singular": "konkurencija",
     "plural": "konkurencije",
-    "ukrainian_translation": "конкуренція",
-    "example_sentence": "Konkurencija u poslovnom svijetu je vrlo jaka.",
-    "ukrainian_translation_sentence": "Конкуренція у діловому світі дуже сильна."
+    "ukrainianTranslation": "конкуренція",
+    "exampleSentence": "Konkurencija u poslovnom svijetu je vrlo jaka.",
+    "ukrainianTranslationSentence": "Конкуренція у діловому світі дуже сильна."
   },
   {
     "singular": "konkurentnost",
     "plural": "konkurentnosti",
-    "ukrainian_translation": "конкурентоспроможність",
-    "example_sentence": "Njihova tvrtka je poznata po svojoj konkurentnosti.",
-    "ukrainian_translation_sentence": "Їхня компанія відома своєю конкурентоспроможністю."
+    "ukrainianTranslation": "конкурентоспроможність",
+    "exampleSentence": "Njihova tvrtka je poznata po svojoj konkurentnosti.",
+    "ukrainianTranslationSentence": "Їхня компанія відома своєю конкурентоспроможністю."
   },
   {
     "singular": "konstatacija",
     "plural": "konstatacije",
-    "ukrainian_translation": "констатація",
-    "example_sentence": "Njegova konstatacija je bila točna.",
-    "ukrainian_translation_sentence": "Його констатація була точною."
+    "ukrainianTranslation": "констатація",
+    "exampleSentence": "Njegova konstatacija je bila točna.",
+    "ukrainianTranslationSentence": "Його констатація була точною."
   },
   {
     "singular": "konstruktor",
     "plural": "konstruktori",
-    "ukrainian_translation": "конструктор",
-    "example_sentence": "Konstruktor je projektirao novi model automobila.",
-    "ukrainian_translation_sentence": "Конструктор спроєктував нову модель автомобіля."
+    "ukrainianTranslation": "конструктор",
+    "exampleSentence": "Konstruktor je projektirao novi model automobila.",
+    "ukrainianTranslationSentence": "Конструктор спроєктував нову модель автомобіля."
   },
   {
     "singular": "kontrakcija",
     "plural": "kontrakcije",
-    "ukrainian_translation": "скорочення",
-    "example_sentence": "Tijekom poroda, kontrakcije su postajale sve jače.",
-    "ukrainian_translation_sentence": "Під час пологів скорочення ставали все сильнішими."
+    "ukrainianTranslation": "скорочення",
+    "exampleSentence": "Tijekom poroda, kontrakcije su postajale sve jače.",
+    "ukrainianTranslationSentence": "Під час пологів скорочення ставали все сильнішими."
   },
   {
     "singular": "kontrola",
     "plural": "kontrole",
-    "ukrainian_translation": "контроль",
-    "example_sentence": "Na granici je provedena stroga kontrola putnika.",
-    "ukrainian_translation_sentence": "На кордоні було проведено суворий контроль пасажирів."
+    "ukrainianTranslation": "контроль",
+    "exampleSentence": "Na granici je provedena stroga kontrola putnika.",
+    "ukrainianTranslationSentence": "На кордоні було проведено суворий контроль пасажирів."
   },
   {
     "singular": "kontroler",
     "plural": "kontroleri",
-    "ukrainian_translation": "контролер",
-    "example_sentence": "Kontroler u tvornici provjerava kvalitetu proizvoda.",
-    "ukrainian_translation_sentence": "Контролер на заводі перевіряє якість продукції."
+    "ukrainianTranslation": "контролер",
+    "exampleSentence": "Kontroler u tvornici provjerava kvalitetu proizvoda.",
+    "ukrainianTranslationSentence": "Контролер на заводі перевіряє якість продукції."
   },
   {
     "singular": "konverzija",
     "plural": "konverzije",
-    "ukrainian_translation": "конверсія",
-    "example_sentence": "Konverzija valuta je potrebna za međunarodne transakcije.",
-    "ukrainian_translation_sentence": "Конверсія валют необхідна для міжнародних транзакцій."
+    "ukrainianTranslation": "конверсія",
+    "exampleSentence": "Konverzija valuta je potrebna za međunarodne transakcije.",
+    "ukrainianTranslationSentence": "Конверсія валют необхідна для міжнародних транзакцій."
   },
   {
     "singular": "konzulat",
     "plural": "konzulati",
-    "ukrainian_translation": "консульство",
-    "example_sentence": "Otišli su u konzulat da bi riješili vizna pitanja.",
-    "ukrainian_translation_sentence": "Вони пішли до консульства, щоб вирішити питання з візою."
+    "ukrainianTranslation": "консульство",
+    "exampleSentence": "Otišli su u konzulat da bi riješili vizna pitanja.",
+    "ukrainianTranslationSentence": "Вони пішли до консульства, щоб вирішити питання з візою."
   },
   {
     "singular": "konzultacija",
     "plural": "konzultacije",
-    "ukrainian_translation": "консультація",
-    "example_sentence": "Liječnik je zakazao konzultaciju s pacijentom.",
-    "ukrainian_translation_sentence": "Лікар призначив консультацію з пацієнтом."
+    "ukrainianTranslation": "консультація",
+    "exampleSentence": "Liječnik je zakazao konzultaciju s pacijentom.",
+    "ukrainianTranslationSentence": "Лікар призначив консультацію з пацієнтом."
   },
   {
     "singular": "kopča",
     "plural": "kopče",
-    "ukrainian_translation": "пряжка",
-    "example_sentence": "Kopča na njegovom pojasu bila je izuzetno ukrašena.",
-    "ukrainian_translation_sentence": "Пряжка на його поясі була дуже прикрашена."
+    "ukrainianTranslation": "пряжка",
+    "exampleSentence": "Kopča na njegovom pojasu bila je izuzetno ukrašena.",
+    "ukrainianTranslationSentence": "Пряжка на його поясі була дуже прикрашена."
   },
   {
     "singular": "korektor",
     "plural": "korektori",
-    "ukrainian_translation": "коректор",
-    "example_sentence": "Koristila je korektor kako bi prekrila greške u tekstu.",
-    "ukrainian_translation_sentence": "Вона використовувала коректор, щоб виправити помилки в тексті."
+    "ukrainianTranslation": "коректор",
+    "exampleSentence": "Koristila je korektor kako bi prekrila greške u tekstu.",
+    "ukrainianTranslationSentence": "Вона використовувала коректор, щоб виправити помилки в тексті."
   },
   {
     "singular": "korištenje",
     "plural": "korištenja",
-    "ukrainian_translation": "використання",
-    "example_sentence": "Korištenje mobitela u školi nije dozvoljeno.",
-    "ukrainian_translation_sentence": "Використання мобільних телефонів у школі не дозволено."
+    "ukrainianTranslation": "використання",
+    "exampleSentence": "Korištenje mobitela u školi nije dozvoljeno.",
+    "ukrainianTranslationSentence": "Використання мобільних телефонів у школі не дозволено."
   },
   {
     "singular": "košarkaš",
     "plural": "košarkaši",
-    "ukrainian_translation": "баскетболіст",
-    "example_sentence": "Košarkaši su trenirali za sljedeću utakmicu.",
-    "ukrainian_translation_sentence": "Баскетболісти тренувалися до наступного матчу."
+    "ukrainianTranslation": "баскетболіст",
+    "exampleSentence": "Košarkaši su trenirali za sljedeću utakmicu.",
+    "ukrainianTranslationSentence": "Баскетболісти тренувалися до наступного матчу."
   },
   {
     "singular": "kostim",
     "plural": "kostimi",
-    "ukrainian_translation": "костюм",
-    "example_sentence": "Nosila je tradicionalni kostim na svečanosti.",
-    "ukrainian_translation_sentence": "Вона носила традиційний костюм на святі."
+    "ukrainianTranslation": "костюм",
+    "exampleSentence": "Nosila je tradicionalni kostim na svečanosti.",
+    "ukrainianTranslationSentence": "Вона носила традиційний костюм на святі."
   },
   {
     "singular": "kotačić",
     "plural": "kotačići",
-    "ukrainian_translation": "коліщатко",
-    "example_sentence": "Mali kotačići omogućuju lako kretanje stolice.",
-    "ukrainian_translation_sentence": "Маленькі коліщатка дозволяють легко пересувати стілець."
+    "ukrainianTranslation": "коліщатко",
+    "exampleSentence": "Mali kotačići omogućuju lako kretanje stolice.",
+    "ukrainianTranslationSentence": "Маленькі коліщатка дозволяють легко пересувати стілець."
   },
   {
     "singular": "kovač",
     "plural": "kovači",
-    "ukrainian_translation": "коваль",
-    "example_sentence": "Kovač je izrađivao željezne alate u svojoj radionici.",
-    "ukrainian_translation_sentence": "Коваль виготовляв залізні інструменти у своїй майстерні."
+    "ukrainianTranslation": "коваль",
+    "exampleSentence": "Kovač je izrađivao željezne alate u svojoj radionici.",
+    "ukrainianTranslationSentence": "Коваль виготовляв залізні інструменти у своїй майстерні."
   },
   {
     "singular": "kreacija",
     "plural": "kreacije",
-    "ukrainian_translation": "творіння",
-    "example_sentence": "Njezina nova modna kreacija privukla je mnogo pažnje.",
-    "ukrainian_translation_sentence": "Її нове модне творіння привернуло багато уваги."
+    "ukrainianTranslation": "творіння",
+    "exampleSentence": "Njezina nova modna kreacija privukla je mnogo pažnje.",
+    "ukrainianTranslationSentence": "Її нове модне творіння привернуло багато уваги."
   },
   {
     "singular": "kreda",
     "plural": "krede",
-    "ukrainian_translation": "крейда",
-    "example_sentence": "Učiteljica je napisala zadatak na ploči bijelom kredom.",
-    "ukrainian_translation_sentence": "Вчителька написала завдання на дошці білою крейдою."
+    "ukrainianTranslation": "крейда",
+    "exampleSentence": "Učiteljica je napisala zadatak na ploči bijelom kredom.",
+    "ukrainianTranslationSentence": "Вчителька написала завдання на дошці білою крейдою."
   },
   {
     "singular": "krijumčarenje",
     "plural": "krijumčarenja",
-    "ukrainian_translation": "контрабанда",
-    "example_sentence": "Policija je spriječila krijumčarenje droge preko granice.",
-    "ukrainian_translation_sentence": "Поліція зупинила контрабанду наркотиків через кордон."
+    "ukrainianTranslation": "контрабанда",
+    "exampleSentence": "Policija je spriječila krijumčarenje droge preko granice.",
+    "ukrainianTranslationSentence": "Поліція зупинила контрабанду наркотиків через кордон."
   },
   {
     "singular": "krik",
     "plural": "krikovi",
-    "ukrainian_translation": "крик",
-    "example_sentence": "Krik se čuo iz daljine, što je zabrinulo ljude.",
-    "ukrainian_translation_sentence": "Крик було чути здалеку, що викликало занепокоєння у людей."
+    "ukrainianTranslation": "крик",
+    "exampleSentence": "Krik se čuo iz daljine, što je zabrinulo ljude.",
+    "ukrainianTranslationSentence": "Крик було чути здалеку, що викликало занепокоєння у людей."
   },
   {
     "singular": "kriterij",
     "plural": "kriteriji",
-    "ukrainian_translation": "критерій",
-    "example_sentence": "Odluka će biti donesena prema jasnim kriterijima.",
-    "ukrainian_translation_sentence": "Рішення буде прийняте за чіткими критеріями."
+    "ukrainianTranslation": "критерій",
+    "exampleSentence": "Odluka će biti donesena prema jasnim kriterijima.",
+    "ukrainianTranslationSentence": "Рішення буде прийняте за чіткими критеріями."
   },
   {
     "singular": "krivnja",
     "plural": "krivnje",
-    "ukrainian_translation": "провина",
-    "example_sentence": "Osjećao je duboku krivnju zbog svojih postupaka.",
-    "ukrainian_translation_sentence": "Він відчував глибоку провину за свої дії."
+    "ukrainianTranslation": "провина",
+    "exampleSentence": "Osjećao je duboku krivnju zbog svojih postupaka.",
+    "ukrainianTranslationSentence": "Він відчував глибоку провину за свої дії."
   },
   {
     "singular": "križaljka",
     "plural": "križaljke",
-    "ukrainian_translation": "кросворд",
-    "example_sentence": "Riješio je križaljku za manje od deset minuta.",
-    "ukrainian_translation_sentence": "Він вирішив кросворд менш ніж за десять хвилин."
+    "ukrainianTranslation": "кросворд",
+    "exampleSentence": "Riješio je križaljku za manje od deset minuta.",
+    "ukrainianTranslationSentence": "Він вирішив кросворд менш ніж за десять хвилин."
   },
 	{
     "singular": "krokodil",
     "plural": "krokodili",
-    "ukrainian_translation": "крокодил",
-    "example_sentence": "Krokodil je ležao na obali rijeke.",
-    "ukrainian_translation_sentence": "Крокодил лежав на березі річки."
+    "ukrainianTranslation": "крокодил",
+    "exampleSentence": "Krokodil je ležao na obali rijeke.",
+    "ukrainianTranslationSentence": "Крокодил лежав на березі річки."
   },
   {
     "singular": "kronologija",
     "plural": "kronologije",
-    "ukrainian_translation": "хронологія",
-    "example_sentence": "Povjesničar je izložio kronologiju važnih događaja.",
-    "ukrainian_translation_sentence": "Історик виклав хронологію важливих подій."
+    "ukrainianTranslation": "хронологія",
+    "exampleSentence": "Povjesničar je izložio kronologiju važnih događaja.",
+    "ukrainianTranslationSentence": "Історик виклав хронологію важливих подій."
   },
   {
     "singular": "krovište",
     "plural": "krovišta",
-    "ukrainian_translation": "дах",
-    "example_sentence": "Krovište kuće treba biti popravljeno prije zime.",
-    "ukrainian_translation_sentence": "Дах будинку потрібно відремонтувати до зими."
+    "ukrainianTranslation": "дах",
+    "exampleSentence": "Krovište kuće treba biti popravljeno prije zime.",
+    "ukrainianTranslationSentence": "Дах будинку потрібно відремонтувати до зими."
   },
 	{
     "singular": "krv",
     "plural": "krvi",
-    "ukrainian_translation": "кров",
-    "example_sentence": "Doniranje krvi može spasiti živote.",
-    "ukrainian_translation_sentence": "Донорство крові може врятувати життя."
+    "ukrainianTranslation": "кров",
+    "exampleSentence": "Doniranje krvi može spasiti živote.",
+    "ukrainianTranslationSentence": "Донорство крові може врятувати життя."
   }
 ]

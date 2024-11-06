@@ -2,351 +2,351 @@
 	{
     "singular": "statut",
     "plural": "statuti",
-    "ukrainian_translation": "статут",
-    "example_sentence": "Statut organizacije jasno definira prava i obveze članova.",
-    "ukrainian_translation_sentence": "Статут організації чітко визначає права та обов'язки членів."
+    "ukrainianTranslation": "статут",
+    "exampleSentence": "Statut organizacije jasno definira prava i obveze članova.",
+    "ukrainianTranslationSentence": "Статут організації чітко визначає права та обов'язки членів."
   },
 	{
     "singular": "stavak",
     "plural": "stavci",
-    "ukrainian_translation": "пункт",
-    "example_sentence": "Prvi stavak ugovora opisuje obveze stranaka.",
-    "ukrainian_translation_sentence": "Перший пункт договору описує зобов'язання сторін."
+    "ukrainianTranslation": "пункт",
+    "exampleSentence": "Prvi stavak ugovora opisuje obveze stranaka.",
+    "ukrainianTranslationSentence": "Перший пункт договору описує зобов'язання сторін."
   },
   {
     "singular": "stečevina",
     "plural": "stečevine",
-    "ukrainian_translation": "надбання",
-    "example_sentence": "Kulturna stečevina ove regije vrlo je bogata i raznolika.",
-    "ukrainian_translation_sentence": "Культурне надбання цього регіону дуже багате й різноманітне."
+    "ukrainianTranslation": "надбання",
+    "exampleSentence": "Kulturna stečevina ove regije vrlo je bogata i raznolika.",
+    "ukrainianTranslationSentence": "Культурне надбання цього регіону дуже багате й різноманітне."
   },
 	{
     "singular": "štediša",
     "plural": "štediše",
-    "ukrainian_translation": "вкладник",
-    "example_sentence": "Štediše su zabrinute zbog promjena kamatnih stopa.",
-    "ukrainian_translation_sentence": "Вкладники занепокоєні через зміни процентних ставок."
+    "ukrainianTranslation": "вкладник",
+    "exampleSentence": "Štediše su zabrinute zbog promjena kamatnih stopa.",
+    "ukrainianTranslationSentence": "Вкладники занепокоєні через зміни процентних ставок."
   },
   {
     "singular": "stereo",
     "plural": "sterei",
-    "ukrainian_translation": "стерео",
-    "example_sentence": "Kupio je novi stereo sustav za svoj dnevni boravak.",
-    "ukrainian_translation_sentence": "Він купив нову стереосистему для своєї вітальні."
+    "ukrainianTranslation": "стерео",
+    "exampleSentence": "Kupio je novi stereo sustav za svoj dnevni boravak.",
+    "ukrainianTranslationSentence": "Він купив нову стереосистему для своєї вітальні."
   },
   {
     "singular": "stereotip",
     "plural": "stereotipi",
-    "ukrainian_translation": "стереотип",
-    "example_sentence": "Važno je razbijati stereotipe i prihvaćati različitosti.",
-    "ukrainian_translation_sentence": "Важливо руйнувати стереотипи та приймати відмінності."
+    "ukrainianTranslation": "стереотип",
+    "exampleSentence": "Važno je razbijati stereotipe i prihvaćati različitosti.",
+    "ukrainianTranslationSentence": "Важливо руйнувати стереотипи та приймати відмінності."
   },
   {
     "singular": "šteta",
     "plural": "štete",
-    "ukrainian_translation": "шкода",
-    "example_sentence": "Oluja je uzrokovala veliku štetu na kućama.",
-    "ukrainian_translation_sentence": "Буря завдала значної шкоди будинкам."
+    "ukrainianTranslation": "шкода",
+    "exampleSentence": "Oluja je uzrokovala veliku štetu na kućama.",
+    "ukrainianTranslationSentence": "Буря завдала значної шкоди будинкам."
   },
   {
     "singular": "štitnjača",
     "plural": "štitnjače",
-    "ukrainian_translation": "щитоподібна залоза",
-    "example_sentence": "Poremećaji štitnjače mogu utjecati na cjelokupno zdravlje.",
-    "ukrainian_translation_sentence": "Порушення роботи щитоподібної залози можуть вплинути на загальний стан здоров'я."
+    "ukrainianTranslation": "щитоподібна залоза",
+    "exampleSentence": "Poremećaji štitnjače mogu utjecati na cjelokupno zdravlje.",
+    "ukrainianTranslationSentence": "Порушення роботи щитоподібної залози можуть вплинути на загальний стан здоров'я."
   },
   {
     "singular": "stočar",
     "plural": "stočari",
-    "ukrainian_translation": "скотар",
-    "example_sentence": "Stočari su se suočili s izazovima zbog suše.",
-    "ukrainian_translation_sentence": "Скотарі зіткнулися з труднощами через посуху."
+    "ukrainianTranslation": "скотар",
+    "exampleSentence": "Stočari su se suočili s izazovima zbog suše.",
+    "ukrainianTranslationSentence": "Скотарі зіткнулися з труднощами через посуху."
   },
   {
     "singular": "stoka",
     "plural": "stoke",
-    "ukrainian_translation": "худоба",
-    "example_sentence": "Stoka se napasala na širokim livadama.",
-    "ukrainian_translation_sentence": "Худоба паслася на широких луках."
+    "ukrainianTranslation": "худоба",
+    "exampleSentence": "Stoka se napasala na širokim livadama.",
+    "ukrainianTranslationSentence": "Худоба паслася на широких луках."
   },
 	{
     "singular": "štovanje",
     "plural": "štovanja",
-    "ukrainian_translation": "шанування",
-    "example_sentence": "Njegovo štovanje tradicije bilo je duboko ukorijenjeno u obitelji.",
-    "ukrainian_translation_sentence": "Його шанування традицій було глибоко вкорінене в родині."
+    "ukrainianTranslation": "шанування",
+    "exampleSentence": "Njegovo štovanje tradicije bilo je duboko ukorijenjeno u obitelji.",
+    "ukrainianTranslationSentence": "Його шанування традицій було глибоко вкорінене в родині."
   },
   {
     "singular": "štovatelj",
     "plural": "štovatelji",
-    "ukrainian_translation": "шанувальник",
-    "example_sentence": "Štovatelji glazbenika okupili su se na koncertu kako bi ga podržali.",
-    "ukrainian_translation_sentence": "Шанувальники музиканта зібралися на концерті, щоб підтримати його."
+    "ukrainianTranslation": "шанувальник",
+    "exampleSentence": "Štovatelji glazbenika okupili su se na koncertu kako bi ga podržali.",
+    "ukrainianTranslationSentence": "Шанувальники музиканта зібралися на концерті, щоб підтримати його."
   },
   {
     "singular": "strast",
     "plural": "strasti",
-    "ukrainian_translation": "пристрасть",
-    "example_sentence": "Njegova strast prema slikanju bila je očita u svakom djelu.",
-    "ukrainian_translation_sentence": "Його пристрасть до малювання була очевидною в кожній роботі."
+    "ukrainianTranslation": "пристрасть",
+    "exampleSentence": "Njegova strast prema slikanju bila je očita u svakom djelu.",
+    "ukrainianTranslationSentence": "Його пристрасть до малювання була очевидною в кожній роботі."
   },
   {
     "singular": "strijela",
     "plural": "strijele",
-    "ukrainian_translation": "стріла",
-    "example_sentence": "Strijela je pogodila metu usred.",
-    "ukrainian_translation_sentence": "Стріла влучила в центр мішені."
+    "ukrainianTranslation": "стріла",
+    "exampleSentence": "Strijela je pogodila metu usred.",
+    "ukrainianTranslationSentence": "Стріла влучила в центр мішені."
   },
   {
     "singular": "struka",
     "plural": "struke",
-    "ukrainian_translation": "професія",
-    "example_sentence": "Njegova struka zahtijeva stalno obrazovanje i usavršavanje.",
-    "ukrainian_translation_sentence": "Його професія вимагає постійного навчання та вдосконалення."
+    "ukrainianTranslation": "професія",
+    "exampleSentence": "Njegova struka zahtijeva stalno obrazovanje i usavršavanje.",
+    "ukrainianTranslationSentence": "Його професія вимагає постійного навчання та вдосконалення."
   },
   {
     "singular": "student",
     "plural": "studenti",
-    "ukrainian_translation": "студент",
-    "example_sentence": "Studenti su protestirali zbog visokih školarina.",
-    "ukrainian_translation_sentence": "Студенти протестували через високі плати за навчання."
+    "ukrainianTranslation": "студент",
+    "exampleSentence": "Studenti su protestirali zbog visokih školarina.",
+    "ukrainianTranslationSentence": "Студенти протестували через високі плати за навчання."
   },
   {
     "singular": "stupanje",
     "plural": "stupanja",
-    "ukrainian_translation": "вступ",
-    "example_sentence": "Stupanje u brak smatra se važnim korakom u životu.",
-    "ukrainian_translation_sentence": "Вступ у шлюб вважається важливим кроком у житті."
+    "ukrainianTranslation": "вступ",
+    "exampleSentence": "Stupanje u brak smatra se važnim korakom u životu.",
+    "ukrainianTranslationSentence": "Вступ у шлюб вважається важливим кроком у житті."
   },
   {
     "singular": "stvar",
     "plural": "stvari",
-    "ukrainian_translation": "річ",
-    "example_sentence": "Njezine osobne stvari bile su uredno složene u ormaru.",
-    "ukrainian_translation_sentence": "Її особисті речі були акуратно складені в шафі."
+    "ukrainianTranslation": "річ",
+    "exampleSentence": "Njezine osobne stvari bile su uredno složene u ormaru.",
+    "ukrainianTranslationSentence": "Її особисті речі були акуратно складені в шафі."
   },
   {
     "singular": "stvaratelj",
     "plural": "stvaratelji",
-    "ukrainian_translation": "творець",
-    "example_sentence": "On je bio stvaratelj mnogih inovacija u svojoj industriji.",
-    "ukrainian_translation_sentence": "Він був творцем багатьох інновацій у своїй галузі."
+    "ukrainianTranslation": "творець",
+    "exampleSentence": "On je bio stvaratelj mnogih inovacija u svojoj industriji.",
+    "ukrainianTranslationSentence": "Він був творцем багатьох інновацій у своїй галузі."
   },
   {
     "singular": "stvarčica",
     "plural": "stvarčice",
-    "ukrainian_translation": "дрібничка",
-    "example_sentence": "Na polici je imala mnoštvo malih stvarčica iz svojih putovanja.",
-    "ukrainian_translation_sentence": "На полиці у неї було багато дрібничок з її подорожей."
+    "ukrainianTranslation": "дрібничка",
+    "exampleSentence": "Na polici je imala mnoštvo malih stvarčica iz svojih putovanja.",
+    "ukrainianTranslationSentence": "На полиці у неї було багато дрібничок з її подорожей."
   },
   {
     "singular": "sučelje",
     "plural": "sučelja",
-    "ukrainian_translation": "інтерфейс",
-    "example_sentence": "Sučelje novog softvera bilo je intuitivno i jednostavno za korištenje.",
-    "ukrainian_translation_sentence": "Інтерфейс нового програмного забезпечення був інтуїтивним і простим у використанні."
+    "ukrainianTranslation": "інтерфейс",
+    "exampleSentence": "Sučelje novog softvera bilo je intuitivno i jednostavno za korištenje.",
+    "ukrainianTranslationSentence": "Інтерфейс нового програмного забезпечення був інтуїтивним і простим у використанні."
   },
   {
     "singular": "sućut",
     "plural": "sućuti",
-    "ukrainian_translation": "співчуття",
-    "example_sentence": "Poslala je izraze sućuti obitelji nakon gubitka.",
-    "ukrainian_translation_sentence": "Вона надіслала співчуття родині після втрати."
+    "ukrainianTranslation": "співчуття",
+    "exampleSentence": "Poslala je izraze sućuti obitelji nakon gubitka.",
+    "ukrainianTranslationSentence": "Вона надіслала співчуття родині після втрати."
   },
   {
     "singular": "sudbina",
     "plural": "sudbine",
-    "ukrainian_translation": "доля",
-    "example_sentence": "Vjerovali su da je njihova sudbina bila povezana.",
-    "ukrainian_translation_sentence": "Вони вірили, що їхні долі були пов'язані."
+    "ukrainianTranslation": "доля",
+    "exampleSentence": "Vjerovali su da je njihova sudbina bila povezana.",
+    "ukrainianTranslationSentence": "Вони вірили, що їхні долі були пов'язані."
   },
 	{
     "singular": "sudnica",
     "plural": "sudnice",
-    "ukrainian_translation": "судова зала",
-    "example_sentence": "Suđenje se održalo u velikoj sudnici na trećem katu.",
-    "ukrainian_translation_sentence": "Судовий процес проходив у великій судовій залі на третьому поверсі."
+    "ukrainianTranslation": "судова зала",
+    "exampleSentence": "Suđenje se održalo u velikoj sudnici na trećem katu.",
+    "ukrainianTranslationSentence": "Судовий процес проходив у великій судовій залі на третьому поверсі."
   },
   {
     "singular": "sugrađanin",
     "plural": "sugrađani",
-    "ukrainian_translation": "співгромадянин",
-    "example_sentence": "Sugrađani su se okupili kako bi podržali lokalnu akciju čišćenja.",
-    "ukrainian_translation_sentence": "Співгромадяни зібралися, щоб підтримати місцеву акцію прибирання."
+    "ukrainianTranslation": "співгромадянин",
+    "exampleSentence": "Sugrađani su se okupili kako bi podržali lokalnu akciju čišćenja.",
+    "ukrainianTranslationSentence": "Співгромадяни зібралися, щоб підтримати місцеву акцію прибирання."
   },
   {
     "singular": "suicid",
     "plural": "suicidi",
-    "ukrainian_translation": "самогубство",
-    "example_sentence": "Prevencija suicida postala je važan društveni problem.",
-    "ukrainian_translation_sentence": "Профілактика самогубств стала важливою соціальною проблемою."
+    "ukrainianTranslation": "самогубство",
+    "exampleSentence": "Prevencija suicida postala je važan društveni problem.",
+    "ukrainianTranslationSentence": "Профілактика самогубств стала важливою соціальною проблемою."
   },
   {
     "singular": "šum",
     "plural": "šumovi",
-    "ukrainian_translation": "шум",
-    "example_sentence": "Šum vjetra kroz drveće stvorio je umirujuću atmosferu.",
-    "ukrainian_translation_sentence": "Шум вітру серед дерев створив заспокійливу атмосферу."
+    "ukrainianTranslation": "шум",
+    "exampleSentence": "Šum vjetra kroz drveće stvorio je umirujuću atmosferu.",
+    "ukrainianTranslationSentence": "Шум вітру серед дерев створив заспокійливу атмосферу."
   },
   {
     "singular": "sunčanje",
     "plural": "sunčanja",
-    "ukrainian_translation": "засмагання",
-    "example_sentence": "Tijekom ljetnog odmora uživali su u sunčanju na plaži.",
-    "ukrainian_translation_sentence": "Під час літньої відпустки вони насолоджувалися засмаганням на пляжі."
+    "ukrainianTranslation": "засмагання",
+    "exampleSentence": "Tijekom ljetnog odmora uživali su u sunčanju na plaži.",
+    "ukrainianTranslationSentence": "Під час літньої відпустки вони насолоджувалися засмаганням на пляжі."
   },
   {
     "singular": "suosjećanje",
     "plural": "suosjećanja",
-    "ukrainian_translation": "співчуття",
-    "example_sentence": "Njegovo suosjećanje prema tuđoj patnji bilo je dirljivo.",
-    "ukrainian_translation_sentence": "Його співчуття до чужих страждань було зворушливим."
+    "ukrainianTranslation": "співчуття",
+    "exampleSentence": "Njegovo suosjećanje prema tuđoj patnji bilo je dirljivo.",
+    "ukrainianTranslationSentence": "Його співчуття до чужих страждань було зворушливим."
   },
   {
     "singular": "suosnivač",
     "plural": "suosnivači",
-    "ukrainian_translation": "співзасновник",
-    "example_sentence": "On je bio jedan od suosnivača uspješne kompanije.",
-    "ukrainian_translation_sentence": "Він був одним із співзасновників успішної компанії."
+    "ukrainianTranslation": "співзасновник",
+    "exampleSentence": "On je bio jedan od suosnivača uspješne kompanije.",
+    "ukrainianTranslationSentence": "Він був одним із співзасновників успішної компанії."
   },
   {
     "singular": "suradnica",
     "plural": "suradnice",
-    "ukrainian_translation": "колега (жінка)",
-    "example_sentence": "Suradnica je predstavila svoj projekt na sastanku.",
-    "ukrainian_translation_sentence": "Колега (жінка) представила свій проєкт на зустрічі."
+    "ukrainianTranslation": "колега (жінка)",
+    "exampleSentence": "Suradnica je predstavila svoj projekt na sastanku.",
+    "ukrainianTranslationSentence": "Колега (жінка) представила свій проєкт на зустрічі."
   },
   {
     "singular": "suradnik",
     "plural": "suradnici",
-    "ukrainian_translation": "колега",
-    "example_sentence": "Njegovi suradnici su ga podržali tijekom cijelog procesa.",
-    "ukrainian_translation_sentence": "Його колеги підтримували його протягом усього процесу."
+    "ukrainianTranslation": "колега",
+    "exampleSentence": "Njegovi suradnici su ga podržali tijekom cijelog procesa.",
+    "ukrainianTranslationSentence": "Його колеги підтримували його протягом усього процесу."
   },
   {
     "singular": "suradnja",
     "plural": "suradnje",
-    "ukrainian_translation": "співпраця",
-    "example_sentence": "Suradnja između dviju kompanija rezultirala je velikim uspjehom.",
-    "ukrainian_translation_sentence": "Співпраця між двома компаніями призвела до великого успіху."
+    "ukrainianTranslation": "співпраця",
+    "exampleSentence": "Suradnja između dviju kompanija rezultirala je velikim uspjehom.",
+    "ukrainianTranslationSentence": "Співпраця між двома компаніями призвела до великого успіху."
   },
   {
     "singular": "susjeda",
     "plural": "susjede",
-    "ukrainian_translation": "сусідка",
-    "example_sentence": "Njihova susjeda ih je često posjećivala i donosila kolače.",
-    "ukrainian_translation_sentence": "Їхня сусідка часто навідувалася і приносила тістечка."
+    "ukrainianTranslation": "сусідка",
+    "exampleSentence": "Njihova susjeda ih je često posjećivala i donosila kolače.",
+    "ukrainianTranslationSentence": "Їхня сусідка часто навідувалася і приносила тістечка."
   },
   {
     "singular": "sutkinja",
     "plural": "sutkinje",
-    "ukrainian_translation": "суддя (жінка)",
-    "example_sentence": "Sutkinja je donijela pravednu presudu nakon dugog suđenja.",
-    "ukrainian_translation_sentence": "Суддя (жінка) винесла справедливий вирок після тривалого судового процесу."
+    "ukrainianTranslation": "суддя (жінка)",
+    "exampleSentence": "Sutkinja je donijela pravednu presudu nakon dugog suđenja.",
+    "ukrainianTranslationSentence": "Суддя (жінка) винесла справедливий вирок після тривалого судового процесу."
   },
   {
     "singular": "šutnja",
     "plural": "šutnje",
-    "ukrainian_translation": "мовчання",
-    "example_sentence": "Njegova šutnja tijekom sastanka bila je primijećena.",
-    "ukrainian_translation_sentence": "Його мовчання під час зустрічі не залишилося непоміченим."
+    "ukrainianTranslation": "мовчання",
+    "exampleSentence": "Njegova šutnja tijekom sastanka bila je primijećena.",
+    "ukrainianTranslationSentence": "Його мовчання під час зустрічі не залишилося непоміченим."
   },
   {
     "singular": "suvenir",
     "plural": "suveniri",
-    "ukrainian_translation": "сувенір",
-    "example_sentence": "Donijeli su suvenir s putovanja kako bi se sjećali lijepih trenutaka.",
-    "ukrainian_translation_sentence": "Вони привезли сувенір із подорожі, щоб згадувати приємні моменти."
+    "ukrainianTranslation": "сувенір",
+    "exampleSentence": "Donijeli su suvenir s putovanja kako bi se sjećali lijepih trenutaka.",
+    "ukrainianTranslationSentence": "Вони привезли сувенір із подорожі, щоб згадувати приємні моменти."
   },
   {
     "singular": "svadba",
     "plural": "svadbe",
-    "ukrainian_translation": "весілля",
-    "example_sentence": "Njihova svadba bila je pravi društveni događaj godine.",
-    "ukrainian_translation_sentence": "Їхнє весілля стало справжньою подією року."
+    "ukrainianTranslation": "весілля",
+    "exampleSentence": "Njihova svadba bila je pravi društveni događaj godine.",
+    "ukrainianTranslationSentence": "Їхнє весілля стало справжньою подією року."
   },
   {
     "singular": "svijest",
     "plural": "svijesti",
-    "ukrainian_translation": "свідомість",
-    "example_sentence": "Razvijanje ekološke svijesti važno je za očuvanje planeta.",
-    "ukrainian_translation_sentence": "Розвиток екологічної свідомості важливий для збереження планети."
+    "ukrainianTranslation": "свідомість",
+    "exampleSentence": "Razvijanje ekološke svijesti važno je za očuvanje planeta.",
+    "ukrainianTranslationSentence": "Розвиток екологічної свідомості важливий для збереження планети."
   },
   {
     "singular": "svijet",
     "plural": "svjetovi",
-    "ukrainian_translation": "світ",
-    "example_sentence": "Putovali su po svijetu i otkrivali nove kulture.",
-    "ukrainian_translation_sentence": "Вони подорожували світом і відкривали нові культури."
+    "ukrainianTranslation": "світ",
+    "exampleSentence": "Putovali su po svijetu i otkrivali nove kulture.",
+    "ukrainianTranslationSentence": "Вони подорожували світом і відкривали нові культури."
   },
   {
     "singular": "svjedodžba",
     "plural": "svjedodžbe",
-    "ukrainian_translation": "свідоцтво",
-    "example_sentence": "Na kraju školovanja, učenici su dobili svoje svjedodžbe.",
-    "ukrainian_translation_sentence": "Наприкінці навчання учні отримали свої свідоцтва."
+    "ukrainianTranslation": "свідоцтво",
+    "exampleSentence": "Na kraju školovanja, učenici su dobili svoje svjedodžbe.",
+    "ukrainianTranslationSentence": "Наприкінці навчання учні отримали свої свідоцтва."
   },
   {
     "singular": "svjetionik",
     "plural": "svjetionici",
-    "ukrainian_translation": "маяк",
-    "example_sentence": "Svjetionik je vodio brodove kroz tamne noći.",
-    "ukrainian_translation_sentence": "Маяк вів кораблі крізь темні ночі."
+    "ukrainianTranslation": "маяк",
+    "exampleSentence": "Svjetionik je vodio brodove kroz tamne noći.",
+    "ukrainianTranslationSentence": "Маяк вів кораблі крізь темні ночі."
   },
   {
     "singular": "svojstvo",
     "plural": "svojstva",
-    "ukrainian_translation": "властивість",
-    "example_sentence": "Voda ima mnoge jedinstvene fizikalne i kemijske osobine.",
-    "ukrainian_translation_sentence": "Вода має багато унікальних фізичних і хімічних властивостей."
+    "ukrainianTranslation": "властивість",
+    "exampleSentence": "Voda ima mnoge jedinstvene fizikalne i kemijske osobine.",
+    "ukrainianTranslationSentence": "Вода має багато унікальних фізичних і хімічних властивостей."
   },
 	{
     "singular": "svrbež",
     "plural": "svrbeži",
-    "ukrainian_translation": "свербіж",
-    "example_sentence": "Osjetio je svrbež na ruci nakon uboda komarca.",
-    "ukrainian_translation_sentence": "Він відчув свербіж на руці після укусу комара."
+    "ukrainianTranslation": "свербіж",
+    "exampleSentence": "Osjetio je svrbež na ruci nakon uboda komarca.",
+    "ukrainianTranslationSentence": "Він відчув свербіж на руці після укусу комара."
   },
   {
     "singular": "tabela",
     "plural": "tabele",
-    "ukrainian_translation": "таблиця",
-    "example_sentence": "Rezultati su prikazani u jasnoj tabeli.",
-    "ukrainian_translation_sentence": "Результати представлені у чіткій таблиці."
+    "ukrainianTranslation": "таблиця",
+    "exampleSentence": "Rezultati su prikazani u jasnoj tabeli.",
+    "ukrainianTranslationSentence": "Результати представлені у чіткій таблиці."
   },
   {
     "singular": "taekwondo",
     "plural": "taekwondo",
-    "ukrainian_translation": "тхеквондо",
-    "example_sentence": "On trenira taekwondo već pet godina.",
-    "ukrainian_translation_sentence": "Він займається тхеквондо вже п'ять років."
+    "ukrainianTranslation": "тхеквондо",
+    "exampleSentence": "On trenira taekwondo već pet godina.",
+    "ukrainianTranslationSentence": "Він займається тхеквондо вже п'ять років."
   },
   {
     "singular": "taliban",
     "plural": "talibani",
-    "ukrainian_translation": "таліб",
-    "example_sentence": "Talibani su preuzeli kontrolu nad dijelovima Afganistana.",
-    "ukrainian_translation_sentence": "Таліби взяли під контроль частини Афганістану."
+    "ukrainianTranslation": "таліб",
+    "exampleSentence": "Talibani su preuzeli kontrolu nad dijelovima Afganistana.",
+    "ukrainianTranslationSentence": "Таліби взяли під контроль частини Афганістану."
   },
   {
     "singular": "talog",
     "plural": "talog",
-    "ukrainian_translation": "осад",
-    "example_sentence": "Na dnu šalice ostao je talog od kave.",
-    "ukrainian_translation_sentence": "На дні чашки залишився осад від кави."
+    "ukrainianTranslation": "осад",
+    "exampleSentence": "Na dnu šalice ostao je talog od kave.",
+    "ukrainianTranslationSentence": "На дні чашки залишився осад від кави."
   },
   {
     "singular": "tamnica",
     "plural": "tamnice",
-    "ukrainian_translation": "в'язниця",
-    "example_sentence": "Zatvorenici su proveli mnogo godina u mračnoj tamnici.",
-    "ukrainian_translation_sentence": "Ув'язнені провели багато років у темній в'язниці."
+    "ukrainianTranslation": "в'язниця",
+    "exampleSentence": "Zatvorenici su proveli mnogo godina u mračnoj tamnici.",
+    "ukrainianTranslationSentence": "Ув'язнені провели багато років у темній в'язниці."
   },
   {
     "singular": "tečaj",
     "plural": "tečajevi",
-    "ukrainian_translation": "курс",
-    "example_sentence": "Prijavila se na tečaj engleskog jezika.",
-    "ukrainian_translation_sentence": "Вона записалася на курс англійської мови."
+    "ukrainianTranslation": "курс",
+    "exampleSentence": "Prijavila se na tečaj engleskog jezika.",
+    "ukrainianTranslationSentence": "Вона записалася на курс англійської мови."
   }
 ]

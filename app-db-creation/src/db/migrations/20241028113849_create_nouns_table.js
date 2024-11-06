@@ -7,9 +7,9 @@ exports.up = function(knex) {
 		table.increments('id').primary();
 		table.string('singular');
 		table.string('plural');
-		table.string('ukrainian_translation');
-		table.string('example_sentence');
-		table.string('ukrainian_translation_sentence');
+		table.string('ukrainianTranslation');
+		table.string('exampleSentence');
+		table.string('ukrainianTranslationSentence');
 	});
 };
 

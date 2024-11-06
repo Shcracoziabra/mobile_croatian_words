@@ -25,7 +25,7 @@ const BackgroundWrapper: React.FC<Properties> = ({
 	return (
 		<View style={globalStyles.flex1}>
 			<Image
-				resizeMode="cover"
+				resizeMode='cover'
 				source={imageSource}
 				style={styles.absoluteCover}
 			/>

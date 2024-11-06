@@ -1,0 +1,23 @@
+{
+  "name": "croatian_words",
+  "version": "1.0.0",
+  "description": "The project of two parts, create and prepopulate database and use that database file in the mobile words learning app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "add-db": "cpx ./app-db-creation/database.sqlite3 ./mobile/src/assets/www/ && cpx ./app-db-creation/database.sqlite3 ./mobile/android/app/src/main/assets/www/"
+  },
+  "keywords": [
+    "croatian",
+    "language",
+    "learning",
+    "croatian",
+    "hrvatski",
+    "ukrainian"
+  ],
+  "author": "Tetiana Brezhynska",
+  "license": "ISC",
+  "devDependencies": {
+    "cpx": "^1.5.0"
+  }
+}

@@ -25,7 +25,7 @@ const TaleHeader: React.FC<Properties> = ({ title }) => {
 				globalStyles.green,
 			]}
 		>
-			<Text color={BaseColor.WHITE} preset="uppercase">
+			<Text color={BaseColor.WHITE} preset='uppercase'>
 				{title}
 			</Text>
 		</LinearGradient>

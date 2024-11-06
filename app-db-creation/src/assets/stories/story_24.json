@@ -1,6 +1,6 @@
 {
-  "title_hr": "Važnost školovanja",
-  "title_uk": "Важливість освіти",
+  "titleHr": "Važnost školovanja",
+  "titleUk": "Важливість освіти",
   "illustration": "story_24.png",
   "text": [
     {
@@ -133,7 +133,6 @@
     { "hr": "razmišljanje", "uk": "мислення" },
     { "hr": "odgovorni građani", "uk": "відповідальні громадяни" },
     { "hr": "školske klupe", "uk": "шкільні лави" },
-    { "hr": "kritičko mišljenje", "uk": "критичне мислення" },
     { "hr": "učenici", "uk": "учні" },
     { "hr": "sudjelovati", "uk": "брати участь" },
     { "hr": "predavanja", "uk": "лекції" },

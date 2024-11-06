@@ -7,6 +7,7 @@ import { useState } from '~/libs/hooks/hooks';
 import { globalStyles } from '~/libs/styles/styles';
 
 import { CollapsedSection } from '../../components/components';
+import { ARROW_SIZE } from '../../constants/constants';
 
 type Properties = {
 	example: string;
@@ -35,7 +36,7 @@ const ExampleBlock: React.FC<Properties> = ({
 			]}
 		>
 			{exampleHidden ? (
-				<CollapsedSection label="Приклад" rounded />
+				<CollapsedSection label='Приклад' rounded />
 			) : (
 				<View
 					style={[
@@ -48,15 +49,15 @@ const ExampleBlock: React.FC<Properties> = ({
 					<View
 						style={[globalStyles.flex1, globalStyles.gap8, globalStyles.p16]}
 					>
-						<Text color={BaseColor.BROWN} weight="bold">
+						<Text color={BaseColor.BROWN} weight='bold'>
 							{example}
 						</Text>
-						<Text color={BaseColor.DARK_BROWN} weight="light">
+						<Text color={BaseColor.DARK_BROWN} weight='light'>
 							{translation}
 						</Text>
 					</View>
 					<View style={[globalStyles.justifyContentEnd, globalStyles.p12]}>
-						<Icon color={BaseColor.GREEN} name="arrow-drop-up" size={24} />
+						<Icon color={BaseColor.GREEN} name='arrow-drop-up' size={ARROW_SIZE} />
 					</View>
 				</View>
 			)}

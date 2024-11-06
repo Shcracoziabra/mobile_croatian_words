@@ -1,6 +1,6 @@
 {
-  "title_hr": "Proljetni dan s Anom, Zlatkom i Micom",
-  "title_uk": "Весняний день з Аною, Златком та Міцею",
+  "titleHr": "Proljetni dan s Anom, Zlatkom i Micom",
+  "titleUk": "Весняний день з Аною, Златком та Міцею",
   "illustration": "story_1.png",
   "text": [
     {
@@ -180,7 +180,6 @@
     {"hr": "smijeh", "uk": "сміх"},
     {"hr": "prijatelj", "uk": "друг"},
     {"hr": "haljina", "uk": "сукня"},
-    {"hr": "čeka", "uk": "чекати"},
     {"hr": "miran", "uk": "спокійний"},
     {"hr": "dan", "uk": "день"},
     {"hr": "grijanje", "uk": "нагрівання"},

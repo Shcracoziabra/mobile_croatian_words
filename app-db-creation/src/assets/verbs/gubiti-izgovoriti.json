@@ -1,402 +1,402 @@
 [
   {
     "infinitive": "gubiti",
-    "past_tense": ["gubio", "gubila", "gubilo"],
-    "present_tense": ["gubim", "gubiš", "gubi", "gubimo", "gubite", "gube"],
-    "ukrainian_translation": "втрачати",
-    "example_sentence": "Počeo sam gubiti nadu.",
-    "ukrainian_translation_sentence": "Я почав втрачати надію."
+    "pastTense": ["gubio", "gubila", "gubilo"],
+    "presentTense": ["gubim", "gubiš", "gubi", "gubimo", "gubite", "gube"],
+    "ukrainianTranslation": "втрачати",
+    "exampleSentence": "Počeo sam gubiti nadu.",
+    "ukrainianTranslationSentence": "Я почав втрачати надію."
   },
   {
       "infinitive": "guliti",
-      "past_tense": ["gulio", "gulila", "gulilo"],
-      "present_tense": ["gulim", "guliš", "guli", "gulimo", "gulite", "gule"],
-      "ukrainian_translation": "пилити",
-      "example_sentence": "Moram guliti drvo za novi projekt.",
-      "ukrainian_translation_sentence": "Мені потрібно пилити дерево для нового проекту."
+      "pastTense": ["gulio", "gulila", "gulilo"],
+      "presentTense": ["gulim", "guliš", "guli", "gulimo", "gulite", "gule"],
+      "ukrainianTranslation": "пилити",
+      "exampleSentence": "Moram guliti drvo za novi projekt.",
+      "ukrainianTranslationSentence": "Мені потрібно пилити дерево для нового проекту."
   },
   {
       "infinitive": "gurnuti",
-      "past_tense": ["gurnuo", "gurnula", "gurnulo"],
-      "present_tense": ["gurnem", "gurneš", "gurne", "gurnemo", "gurnete", "gurnu"],
-      "ukrainian_translation": "штовхнути",
-      "example_sentence": "Gurnuo je vrata da bi ih otvorio.",
-      "ukrainian_translation_sentence": "Він штовхнув двері, щоб відкрити їх."
+      "pastTense": ["gurnuo", "gurnula", "gurnulo"],
+      "presentTense": ["gurnem", "gurneš", "gurne", "gurnemo", "gurnete", "gurnu"],
+      "ukrainianTranslation": "штовхнути",
+      "exampleSentence": "Gurnuo je vrata da bi ih otvorio.",
+      "ukrainianTranslationSentence": "Він штовхнув двері, щоб відкрити їх."
   },
   {
       "infinitive": "harati",
-      "past_tense": ["hario", "harala", "haralo"],
-      "present_tense": ["haram", "haraš", "hara", "haramo", "harate", "haraju"],
-      "ukrainian_translation": "бути в моді",
-      "example_sentence": "Ove haljine su još uvijek u modi, haraju.",
-      "ukrainian_translation_sentence": "Ці сукні все ще в моді, вони в тренді."
+      "pastTense": ["hario", "harala", "haralo"],
+      "presentTense": ["haram", "haraš", "hara", "haramo", "harate", "haraju"],
+      "ukrainianTranslation": "бути в моді",
+      "exampleSentence": "Ove haljine su još uvijek u modi, haraju.",
+      "ukrainianTranslationSentence": "Ці сукні все ще в моді, вони в тренді."
   },
   {
       "infinitive": "hladiti",
-      "past_tense": ["hladio", "hladila", "hladilo"],
-      "present_tense": ["hladim", "hladiš", "hladi", "hladimo", "hladite", "hlade"],
-      "ukrainian_translation": "охолоджувати",
-      "example_sentence": "Hladim vodu prije nego što je pijem.",
-      "ukrainian_translation_sentence": "Я охолоджую воду перед тим, як її пити."
+      "pastTense": ["hladio", "hladila", "hladilo"],
+      "presentTense": ["hladim", "hladiš", "hladi", "hladimo", "hladite", "hlade"],
+      "ukrainianTranslation": "охолоджувати",
+      "exampleSentence": "Hladim vodu prije nego što je pijem.",
+      "ukrainianTranslationSentence": "Я охолоджую воду перед тим, як її пити."
   },
   {
       "infinitive": "hoditi",
-      "past_tense": ["hodio", "hodila", "hodilo"],
-      "present_tense": ["hodim", "hodiš", "hodi", "hodimo", "hodite", "hodaju"],
-      "ukrainian_translation": "ходити",
-      "example_sentence": "Volim hoditi u prirodi.",
-      "ukrainian_translation_sentence": "Я люблю ходити на природу."
+      "pastTense": ["hodio", "hodila", "hodilo"],
+      "presentTense": ["hodim", "hodiš", "hodi", "hodimo", "hodite", "hodaju"],
+      "ukrainianTranslation": "ходити",
+      "exampleSentence": "Volim hoditi u prirodi.",
+      "ukrainianTranslationSentence": "Я люблю ходити на природу."
   },
   {
       "infinitive": "hvatati",
-      "past_tense": ["hvatao", "hvatala", "hvatala"],
-      "present_tense": ["hvatam", "hvataš", "hvata", "hvatamo", "hvatate", "hvataju"],
-      "ukrainian_translation": "ловити",
-      "example_sentence": "Pokušavam hvatati lopte u igri.",
-      "ukrainian_translation_sentence": "Я намагаюся ловити м'ячі під час гри."
+      "pastTense": ["hvatao", "hvatala", "hvatala"],
+      "presentTense": ["hvatam", "hvataš", "hvata", "hvatamo", "hvatate", "hvataju"],
+      "ukrainianTranslation": "ловити",
+      "exampleSentence": "Pokušavam hvatati lopte u igri.",
+      "ukrainianTranslationSentence": "Я намагаюся ловити м'ячі під час гри."
   },
   {
       "infinitive": "identificirati",
-      "past_tense": ["identificirao", "identificirala", "identificiralo"],
-      "present_tense": ["identificiram", "identificiraš", "identificira", "identificiramo", "identificirate", "identificiraju"],
-      "ukrainian_translation": "ідентифікувати",
-      "example_sentence": "Moramo identificirati sve članove tima.",
-      "ukrainian_translation_sentence": "Ми повинні ідентифікувати всіх членів команди."
+      "pastTense": ["identificirao", "identificirala", "identificiralo"],
+      "presentTense": ["identificiram", "identificiraš", "identificira", "identificiramo", "identificirate", "identificiraju"],
+      "ukrainianTranslation": "ідентифікувати",
+      "exampleSentence": "Moramo identificirati sve članove tima.",
+      "ukrainianTranslationSentence": "Ми повинні ідентифікувати всіх членів команди."
   },
   {
       "infinitive": "ignorirati",
-      "past_tense": ["ignorirao", "ignorirala", "ignoriralo"],
-      "present_tense": ["ignoriram", "ignoriraš", "ignorira", "ignoriramo", "ignorirate", "ignoriraju"],
-      "ukrainian_translation": "ігнорувати",
-      "example_sentence": "Ne smijete ignorirati njegove poruke.",
-      "ukrainian_translation_sentence": "Вам не слід ігнорувати його повідомлення."
+      "pastTense": ["ignorirao", "ignorirala", "ignoriralo"],
+      "presentTense": ["ignoriram", "ignoriraš", "ignorira", "ignoriramo", "ignorirate", "ignoriraju"],
+      "ukrainianTranslation": "ігнорувати",
+      "exampleSentence": "Ne smijete ignorirati njegove poruke.",
+      "ukrainianTranslationSentence": "Вам не слід ігнорувати його повідомлення."
   },
   {
       "infinitive": "implementirati",
-      "past_tense": ["implementirao", "implementirala", "implementiralo"],
-      "present_tense": ["implementiram", "implementiraš", "implementira", "implementiramo", "implementirate", "implementiraju"],
-      "ukrainian_translation": "впроваджувати",
-      "example_sentence": "Planiramo implementirati nove tehnologije.",
-      "ukrainian_translation_sentence": "Ми плануємо впроваджувати нові технології."
+      "pastTense": ["implementirao", "implementirala", "implementiralo"],
+      "presentTense": ["implementiram", "implementiraš", "implementira", "implementiramo", "implementirate", "implementiraju"],
+      "ukrainianTranslation": "впроваджувати",
+      "exampleSentence": "Planiramo implementirati nove tehnologije.",
+      "ukrainianTranslationSentence": "Ми плануємо впроваджувати нові технології."
   },
   {
       "infinitive": "implicirati",
-      "past_tense": ["implicirao", "implicirala", "impliciralo"],
-      "present_tense": ["impliciram", "impliciraš", "implicira", "impliciramo", "implicirate", "impliciraju"],
-      "ukrainian_translation": "натякати",
-      "example_sentence": "Njegove riječi impliciraju da nešto nije u redu.",
-      "ukrainian_translation_sentence": "Його слова натякають на те, що щось не так."
+      "pastTense": ["implicirao", "implicirala", "impliciralo"],
+      "presentTense": ["impliciram", "impliciraš", "implicira", "impliciramo", "implicirate", "impliciraju"],
+      "ukrainianTranslation": "натякати",
+      "exampleSentence": "Njegove riječi impliciraju da nešto nije u redu.",
+      "ukrainianTranslationSentence": "Його слова натякають на те, що щось не так."
   },
   {
       "infinitive": "informirati",
-      "past_tense": ["informirao", "informirala", "informiralo"],
-      "present_tense": ["informiram", "informiraš", "informira", "informiramo", "informirate", "informiraju"],
-      "ukrainian_translation": "інформувати",
-      "example_sentence": "Treba te informirati o promjenama.",
-      "ukrainian_translation_sentence": "Тебе потрібно проінформувати про зміни."
+      "pastTense": ["informirao", "informirala", "informiralo"],
+      "presentTense": ["informiram", "informiraš", "informira", "informiramo", "informirate", "informiraju"],
+      "ukrainianTranslation": "інформувати",
+      "exampleSentence": "Treba te informirati o promjenama.",
+      "ukrainianTranslationSentence": "Тебе потрібно проінформувати про зміни."
   },
   {
       "infinitive": "inicirati",
-      "past_tense": ["inicirao", "inicirala", "iniciralo"],
-      "present_tense": ["iniciram", "iniciraš", "inicira", "iniciramo", "inicirate", "iniciraju"],
-      "ukrainian_translation": "ініціювати",
-      "example_sentence": "On je inicirao novi projekt.",
-      "ukrainian_translation_sentence": "Він ініціював новий проект."
+      "pastTense": ["inicirao", "inicirala", "iniciralo"],
+      "presentTense": ["iniciram", "iniciraš", "inicira", "iniciramo", "inicirate", "iniciraju"],
+      "ukrainianTranslation": "ініціювати",
+      "exampleSentence": "On je inicirao novi projekt.",
+      "ukrainianTranslationSentence": "Він ініціював новий проект."
   },
   {
       "infinitive": "intenzivirati",
-      "past_tense": ["intenzivirao", "intenzivirala", "intenziviralo"],
-      "present_tense": ["intenziviram", "intenziviraš", "intenzivira", "intenziviramo", "intenzivirate", "intenziviraju"],
-      "ukrainian_translation": "інтенсифікувати",
-      "example_sentence": "Planiramo intenzivirati naše marketinške aktivnosti.",
-      "ukrainian_translation_sentence": "Ми плануємо інтенсифікувати наші маркетингові активності."
+      "pastTense": ["intenzivirao", "intenzivirala", "intenziviralo"],
+      "presentTense": ["intenziviram", "intenziviraš", "intenzivira", "intenziviramo", "intenzivirate", "intenziviraju"],
+      "ukrainianTranslation": "інтенсифікувати",
+      "exampleSentence": "Planiramo intenzivirati naše marketinške aktivnosti.",
+      "ukrainianTranslationSentence": "Ми плануємо інтенсифікувати наші маркетингові активності."
   },
   {
       "infinitive": "interesirati",
-      "past_tense": ["interesirao", "interesirala", "interesiralo"],
-      "present_tense": ["interesiram", "interesiraš", "interesira", "interesiramo", "interesirate", "interesiraju"],
-      "ukrainian_translation": "цікавити",
-      "example_sentence": "Tema predavanja me jako interesira.",
-      "ukrainian_translation_sentence": "Тема лекції мене дуже цікавить."
+      "pastTense": ["interesirao", "interesirala", "interesiralo"],
+      "presentTense": ["interesiram", "interesiraš", "interesira", "interesiramo", "interesirate", "interesiraju"],
+      "ukrainianTranslation": "цікавити",
+      "exampleSentence": "Tema predavanja me jako interesira.",
+      "ukrainianTranslationSentence": "Тема лекції мене дуже цікавить."
   },
   {
       "infinitive": "interpretirati",
-      "past_tense": ["interpretirao", "interpretirala", "interpretiralo"],
-      "present_tense": ["interpretiram", "interpretiraš", "interpretira", "interpretiramo", "interpretirate", "interpretiraju"],
-      "ukrainian_translation": "інтерпретувати",
-      "example_sentence": "Moraš pravilno interpretirati podatke.",
-      "ukrainian_translation_sentence": "Ти повинен правильно інтерпретувати дані."
+      "pastTense": ["interpretirao", "interpretirala", "interpretiralo"],
+      "presentTense": ["interpretiram", "interpretiraš", "interpretira", "interpretiramo", "interpretirate", "interpretiraju"],
+      "ukrainianTranslation": "інтерпретувати",
+      "exampleSentence": "Moraš pravilno interpretirati podatke.",
+      "ukrainianTranslationSentence": "Ти повинен правильно інтерпретувати дані."
   },
   {
       "infinitive": "investirati",
-      "past_tense": ["investirao", "investirala", "investiralo"],
-      "present_tense": ["investiram", "investiraš", "investira", "investiramo", "investirate", "investiraju"],
-      "ukrainian_translation": "інвестувати",
-      "example_sentence": "Planiramo investirati u novi start-up.",
-      "ukrainian_translation_sentence": "Ми плануємо інвестувати в новий стартап."
+      "pastTense": ["investirao", "investirala", "investiralo"],
+      "presentTense": ["investiram", "investiraš", "investira", "investiramo", "investirate", "investiraju"],
+      "ukrainianTranslation": "інвестувати",
+      "exampleSentence": "Planiramo investirati u novi start-up.",
+      "ukrainianTranslationSentence": "Ми плануємо інвестувати в новий стартап."
   },
   {
       "infinitive": "inzistirati",
-      "past_tense": ["inzistirao", "inzistirala", "inzistiralo"],
-      "present_tense": ["inzistiram", "inzistiraš", "inzistira", "inzistiramo", "inzistirate", "inzistiraju"],
-      "ukrainian_translation": "наполягати",
-      "example_sentence": "On inzistira na svojoj verziji priče.",
-      "ukrainian_translation_sentence": "Він наполягає на своїй версії історії."
+      "pastTense": ["inzistirao", "inzistirala", "inzistiralo"],
+      "presentTense": ["inzistiram", "inzistiraš", "inzistira", "inzistiramo", "inzistirate", "inzistiraju"],
+      "ukrainianTranslation": "наполягати",
+      "exampleSentence": "On inzistira na svojoj verziji priče.",
+      "ukrainianTranslationSentence": "Він наполягає на своїй версії історії."
   },
   {
       "infinitive": "iseliti",
-      "past_tense": ["iselio", "iselila", "iselilo"],
-      "present_tense": ["iselim", "iselili", "iselimo", "iselite", "iselimo", "iselite"],
-      "ukrainian_translation": "виселити",
-      "example_sentence": "Moramo iseliti iz stana prije kraja mjeseca.",
-      "ukrainian_translation_sentence": "Ми повинні виселитися з квартири до кінця місяця."
+      "pastTense": ["iselio", "iselila", "iselilo"],
+      "presentTense": ["iselim", "iselili", "iselimo", "iselite", "iselimo", "iselite"],
+      "ukrainianTranslation": "виселити",
+      "exampleSentence": "Moramo iseliti iz stana prije kraja mjeseca.",
+      "ukrainianTranslationSentence": "Ми повинні виселитися з квартири до кінця місяця."
   },
   {
       "infinitive": "iskazivati",
-      "past_tense": ["iskazivao", "iskazivala", "iskazivalo"],
-      "present_tense": ["iskazujem", "iskazuješ", "iskazuje", "iskazujemo", "iskazujete", "iskazuju"],
-      "ukrainian_translation": "виявляти",
-      "example_sentence": "Iskazujte više poštovanja prema kolegama.",
-      "ukrainian_translation_sentence": "Виявляйте більше поваги до колег."
+      "pastTense": ["iskazivao", "iskazivala", "iskazivalo"],
+      "presentTense": ["iskazujem", "iskazuješ", "iskazuje", "iskazujemo", "iskazujete", "iskazuju"],
+      "ukrainianTranslation": "виявляти",
+      "exampleSentence": "Iskazujte više poštovanja prema kolegama.",
+      "ukrainianTranslationSentence": "Виявляйте більше поваги до колег."
   },
   {
       "infinitive": "isključiti",
-      "past_tense": ["isključio", "isključila", "isključilo"],
-      "present_tense": ["isključujem", "isključuješ", "isključuje", "isključujemo", "isključujete", "isključuju"],
-      "ukrainian_translation": "виключити",
-      "example_sentence": "Moramo isključiti neaktivne korisnike.",
-      "ukrainian_translation_sentence": "Ми повинні виключити неактивних користувачів."
+      "pastTense": ["isključio", "isključila", "isključilo"],
+      "presentTense": ["isključujem", "isključuješ", "isključuje", "isključujemo", "isključujete", "isključuju"],
+      "ukrainianTranslation": "виключити",
+      "exampleSentence": "Moramo isključiti neaktivne korisnike.",
+      "ukrainianTranslationSentence": "Ми повинні виключити неактивних користувачів."
   },
   {
       "infinitive": "iskočiti",
-      "past_tense": ["iskočio", "iskočila", "iskočilo"],
-      "present_tense": ["iskočim", "iskočiš", "iskoči", "iskočimo", "iskočite", "iskoče"],
-      "ukrainian_translation": "випригнути",
-      "example_sentence": "Mačka je iznenada iskočila iz kutije.",
-      "ukrainian_translation_sentence": "Кішка раптово виплигнула з коробки."
+      "pastTense": ["iskočio", "iskočila", "iskočilo"],
+      "presentTense": ["iskočim", "iskočiš", "iskoči", "iskočimo", "iskočite", "iskoče"],
+      "ukrainianTranslation": "випригнути",
+      "exampleSentence": "Mačka je iznenada iskočila iz kutije.",
+      "ukrainianTranslationSentence": "Кішка раптово виплигнула з коробки."
   },
   {
       "infinitive": "iskorištavati",
-      "past_tense": ["iskorištavao", "iskorištavala", "iskorištavalo"],
-      "present_tense": ["iskorištavam", "iskorištavaš", "iskorištava", "iskorištavamo", "iskorištavate", "iskorištavaju"],
-      "ukrainian_translation": "експлуатувати",
-      "example_sentence": "Ne smijemo iskorištavati prirodne resurse.",
-      "ukrainian_translation_sentence": "Ми не повинні експлуатувати природні ресурси."
+      "pastTense": ["iskorištavao", "iskorištavala", "iskorištavalo"],
+      "presentTense": ["iskorištavam", "iskorištavaš", "iskorištava", "iskorištavamo", "iskorištavate", "iskorištavaju"],
+      "ukrainianTranslation": "експлуатувати",
+      "exampleSentence": "Ne smijemo iskorištavati prirodne resurse.",
+      "ukrainianTranslationSentence": "Ми не повинні експлуатувати природні ресурси."
   },
   {
       "infinitive": "iskrcati",
-      "past_tense": ["iskrcao", "iskrcala", "iskrcalo"],
-      "present_tense": ["iskrcavam", "iskrcavaš", "iskrcava", "iskrcavamo", "iskrcavate", "iskrcavaju"],
-      "ukrainian_translation": "вивантажити",
-      "example_sentence": "Moramo ispravno iskrčiti sve kutije.",
-      "ukrainian_translation_sentence": "Ми повинні правильно вивантажити всі коробки."
+      "pastTense": ["iskrcao", "iskrcala", "iskrcalo"],
+      "presentTense": ["iskrcavam", "iskrcavaš", "iskrcava", "iskrcavamo", "iskrcavate", "iskrcavaju"],
+      "ukrainianTranslation": "вивантажити",
+      "exampleSentence": "Moramo ispravno iskrčiti sve kutije.",
+      "ukrainianTranslationSentence": "Ми повинні правильно вивантажити всі коробки."
   },
   {
       "infinitive": "iskupiti",
-      "past_tense": ["iskupio", "iskupila", "iskupilo"],
-      "present_tense": ["iskupim", "iskupiš", "iskupi", "iskupimo", "iskupite", "iskupiju"],
-      "ukrainian_translation": "викупити",
-      "example_sentence": "On je pokušao ispraviti svoju grešku kako bi je ispravio.",
-      "ukrainian_translation_sentence": "Він намагався виправити свою помилку, щоб виправити її."
+      "pastTense": ["iskupio", "iskupila", "iskupilo"],
+      "presentTense": ["iskupim", "iskupiš", "iskupi", "iskupimo", "iskupite", "iskupiju"],
+      "ukrainianTranslation": "викупити",
+      "exampleSentence": "On je pokušao ispraviti svoju grešku kako bi je ispravio.",
+      "ukrainianTranslationSentence": "Він намагався виправити свою помилку, щоб виправити її."
   },
   {
       "infinitive": "ispadati",
-      "past_tense": ["ispadao", "ispadala", "ispadalo"],
-      "present_tense": ["ispadam", "ispadaš", "ispada", "ispadamo", "ispadate", "ispadaju"],
-      "ukrainian_translation": "випадати",
-      "example_sentence": "Ključevi su mi stalno ispadali iz ruku.",
-      "ukrainian_translation_sentence": "Ключі постійно випадали у мене з рук."
+      "pastTense": ["ispadao", "ispadala", "ispadalo"],
+      "presentTense": ["ispadam", "ispadaš", "ispada", "ispadamo", "ispadate", "ispadaju"],
+      "ukrainianTranslation": "випадати",
+      "exampleSentence": "Ključevi su mi stalno ispadali iz ruku.",
+      "ukrainianTranslationSentence": "Ключі постійно випадали у мене з рук."
   },
   {
       "infinitive": "ispeći",
-      "past_tense": ["ispekao", "ispekla", "ispeklo"],
-      "present_tense": ["ispečem", "ispečeš", "ispeče", "ispečemo", "ispečete", "ispeku"],
-      "ukrainian_translation": "спекти",
-      "example_sentence": "Moram ispeći tortu za rođendan.",
-      "ukrainian_translation_sentence": "Мені потрібно спекти торт на день народження."
+      "pastTense": ["ispekao", "ispekla", "ispeklo"],
+      "presentTense": ["ispečem", "ispečeš", "ispeče", "ispečemo", "ispečete", "ispeku"],
+      "ukrainianTranslation": "спекти",
+      "exampleSentence": "Moram ispeći tortu za rođendan.",
+      "ukrainianTranslationSentence": "Мені потрібно спекти торт на день народження."
   },
   {
       "infinitive": "ispijati",
-      "past_tense": ["ispijao", "ispijala", "ispijalo"],
-      "present_tense": ["ispijam", "ispijaš", "ispija", "ispijamo", "ispijate", "ispijaju"],
-      "ukrainian_translation": "випивати",
-      "example_sentence": "Svako jutro ispijam kavu.",
-      "ukrainian_translation_sentence": "Щоранку я випиваю каву."
+      "pastTense": ["ispijao", "ispijala", "ispijalo"],
+      "presentTense": ["ispijam", "ispijaš", "ispija", "ispijamo", "ispijate", "ispijaju"],
+      "ukrainianTranslation": "випивати",
+      "exampleSentence": "Svako jutro ispijam kavu.",
+      "ukrainianTranslationSentence": "Щоранку я випиваю каву."
   },
   {
       "infinitive": "ispirati",
-      "past_tense": ["ispirao", "ispirala", "ispiralo"],
-      "present_tense": ["ispiram", "ispiraš", "ispira", "ispiramo", "ispirate", "ispiraju"],
-      "ukrainian_translation": "промивати",
-      "example_sentence": "Moram isprati voće prije nego što ga pojedem.",
-      "ukrainian_translation_sentence": "Мені потрібно промити фрукти перед тим, як їх їсти."
+      "pastTense": ["ispirao", "ispirala", "ispiralo"],
+      "presentTense": ["ispiram", "ispiraš", "ispira", "ispiramo", "ispirate", "ispiraju"],
+      "ukrainianTranslation": "промивати",
+      "exampleSentence": "Moram isprati voće prije nego što ga pojedem.",
+      "ukrainianTranslationSentence": "Мені потрібно промити фрукти перед тим, як їх їсти."
   },
   {
       "infinitive": "ispisati",
-      "past_tense": ["ispisao", "ispisala", "ispisalo"],
-      "present_tense": ["ispisujem", "ispisuješ", "ispisuje", "ispisujemo", "ispisujete", "ispisuju"],
-      "ukrainian_translation": "написати",
-      "example_sentence": "Moram ispisati sve važnije informacije.",
-      "ukrainian_translation_sentence": "Мені потрібно написати всі важливі інформації."
+      "pastTense": ["ispisao", "ispisala", "ispisalo"],
+      "presentTense": ["ispisujem", "ispisuješ", "ispisuje", "ispisujemo", "ispisujete", "ispisuju"],
+      "ukrainianTranslation": "написати",
+      "exampleSentence": "Moram ispisati sve važnije informacije.",
+      "ukrainianTranslationSentence": "Мені потрібно написати всі важливі інформації."
   },
   {
       "infinitive": "ispiti",
-      "past_tense": ["ispio", "ispila", "ispilo"],
-      "present_tense": ["ispijem", "ispiješ", "ispije", "ispijemo", "ispijete", "ispiju"],
-      "ukrainian_translation": "випити",
-      "example_sentence": "Ispio sam čašu vode.",
-      "ukrainian_translation_sentence": "Я випив склянку води."
+      "pastTense": ["ispio", "ispila", "ispilo"],
+      "presentTense": ["ispijem", "ispiješ", "ispije", "ispijemo", "ispijete", "ispiju"],
+      "ukrainianTranslation": "випити",
+      "exampleSentence": "Ispio sam čašu vode.",
+      "ukrainianTranslationSentence": "Я випив склянку води."
   },
   {
       "infinitive": "ispoštovati",
-      "past_tense": ["ispoštovao", "ispoštovala", "ispoštovalo"],
-      "present_tense": ["ispoštujem", "ispoštuješ", "ispoštuje", "ispoštujemo", "ispoštujete", "ispoštuju"],
-      "ukrainian_translation": "дотримуватися",
-      "example_sentence": "Moramo ispoštovati pravila igre.",
-      "ukrainian_translation_sentence": "Ми повинні дотримуватися правил гри."
+      "pastTense": ["ispoštovao", "ispoštovala", "ispoštovalo"],
+      "presentTense": ["ispoštujem", "ispoštuješ", "ispoštuje", "ispoštujemo", "ispoštujete", "ispoštuju"],
+      "ukrainianTranslation": "дотримуватися",
+      "exampleSentence": "Moramo ispoštovati pravila igre.",
+      "ukrainianTranslationSentence": "Ми повинні дотримуватися правил гри."
   },
   {
       "infinitive": "isprati",
-      "past_tense": ["isprao", "isprala", "ispralo"],
-      "present_tense": ["ispram", "ispravaš", "isprava", "ispramo", "isprate", "ispravi"],
-      "ukrainian_translation": "випрати",
-      "example_sentence": "Isprala sam odjeću u novom deterdžentu.",
-      "ukrainian_translation_sentence": "Я випрала одяг новим пральним порошком."
+      "pastTense": ["isprao", "isprala", "ispralo"],
+      "presentTense": ["ispram", "ispravaš", "isprava", "ispramo", "isprate", "ispravi"],
+      "ukrainianTranslation": "випрати",
+      "exampleSentence": "Isprala sam odjeću u novom deterdžentu.",
+      "ukrainianTranslationSentence": "Я випрала одяг новим пральним порошком."
   },
   {
       "infinitive": "ispraviti",
-      "past_tense": ["ispravio", "ispravila", "ispravilo"],
-      "present_tense": ["ispravljam", "ispravljaš", "ispravlja", "ispravljamo", "ispravljate", "ispravljaju"],
-      "ukrainian_translation": "виправити",
-      "example_sentence": "Moram ispraviti greške u izvještaju.",
-      "ukrainian_translation_sentence": "Мені потрібно виправити помилки в звіті."
+      "pastTense": ["ispravio", "ispravila", "ispravilo"],
+      "presentTense": ["ispravljam", "ispravljaš", "ispravlja", "ispravljamo", "ispravljate", "ispravljaju"],
+      "ukrainianTranslation": "виправити",
+      "exampleSentence": "Moram ispraviti greške u izvještaju.",
+      "ukrainianTranslationSentence": "Мені потрібно виправити помилки в звіті."
   },
   {
       "infinitive": "isprazniti",
-      "past_tense": ["ispraznio", "ispraznila", "ispraznilo"],
-      "present_tense": ["ispražnjavam", "ispražnjavaš", "ispražnjava", "ispražnjavamo", "ispražnjavate", "ispražnjavaju"],
-      "ukrainian_translation": "опорожнити",
-      "example_sentence": "Moramo ispraniti ormar prije selidbe.",
-      "ukrainian_translation_sentence": "Ми повинні опорожнити шафу перед переїздом."
+      "pastTense": ["ispraznio", "ispraznila", "ispraznilo"],
+      "presentTense": ["ispražnjavam", "ispražnjavaš", "ispražnjava", "ispražnjavamo", "ispražnjavate", "ispražnjavaju"],
+      "ukrainianTranslation": "опорожнити",
+      "exampleSentence": "Moramo ispraniti ormar prije selidbe.",
+      "ukrainianTranslationSentence": "Ми повинні опорожнити шафу перед переїздом."
   },
   {
       "infinitive": "ispreplitati",
-      "past_tense": ["ispreplitao", "ispreplitala", "ispreplitalo"],
-      "present_tense": ["ispreplitam", "ispreplišeš", "isprepliva", "ispreplitamo", "ispreplitate", "ispreplitaju"],
-      "ukrainian_translation": "переплітати",
-      "example_sentence": "Niti su se ispreplitale u kompliciranoj mreži.",
-      "ukrainian_translation_sentence": "Нитки переплелися в складній мережі."
+      "pastTense": ["ispreplitao", "ispreplitala", "ispreplitalo"],
+      "presentTense": ["ispreplitam", "ispreplišeš", "isprepliva", "ispreplitamo", "ispreplitate", "ispreplitaju"],
+      "ukrainianTranslation": "переплітати",
+      "exampleSentence": "Niti su se ispreplitale u kompliciranoj mreži.",
+      "ukrainianTranslationSentence": "Нитки переплелися в складній мережі."
   },
   {
       "infinitive": "ispričati",
-      "past_tense": ["ispričao", "ispričala", "ispričalo"],
-      "present_tense": ["ispričavam", "ispričavaš", "ispričava", "ispričavamo", "ispričavate", "ispričavaju"],
-      "ukrainian_translation": "вибачити",
-      "example_sentence": "Ispričao sam se zbog svog ponašanja.",
-      "ukrainian_translation_sentence": "Я вибачився за свою поведінку."
+      "pastTense": ["ispričao", "ispričala", "ispričalo"],
+      "presentTense": ["ispričavam", "ispričavaš", "ispričava", "ispričavamo", "ispričavate", "ispričavaju"],
+      "ukrainianTranslation": "вибачити",
+      "exampleSentence": "Ispričao sam se zbog svog ponašanja.",
+      "ukrainianTranslationSentence": "Я вибачився за свою поведінку."
   },
   {
       "infinitive": "isprobati",
-      "past_tense": ["isprobao", "isprobala", "isprobalo"],
-      "present_tense": ["isprobam", "isprobavaš", "isprobava", "isprobavamo", "isprobavate", "isprobavaju"],
-      "ukrainian_translation": "спробувати",
-      "example_sentence": "Želim isprobati novu recepturu.",
-      "ukrainian_translation_sentence": "Я хочу спробувати новий рецепт."
+      "pastTense": ["isprobao", "isprobala", "isprobalo"],
+      "presentTense": ["isprobam", "isprobavaš", "isprobava", "isprobavamo", "isprobavate", "isprobavaju"],
+      "ukrainianTranslation": "спробувати",
+      "exampleSentence": "Želim isprobati novu recepturu.",
+      "ukrainianTranslationSentence": "Я хочу спробувати новий рецепт."
   },
   {
       "infinitive": "ispucati",
-      "past_tense": ["ispucao", "ispucala", "ispucalo"],
-      "present_tense": ["ispucavam", "ispucavaš", "ispucava", "ispucavamo", "ispucavate", "ispucavaju"],
-      "ukrainian_translation": "розстріляти",
-      "example_sentence": "Ispucao je cijeli okvir municije.",
-      "ukrainian_translation_sentence": "Він розстріляв цілий магазин патронів."
+      "pastTense": ["ispucao", "ispucala", "ispucalo"],
+      "presentTense": ["ispucavam", "ispucavaš", "ispucava", "ispucavamo", "ispucavate", "ispucavaju"],
+      "ukrainianTranslation": "розстріляти",
+      "exampleSentence": "Ispucao je cijeli okvir municije.",
+      "ukrainianTranslationSentence": "Він розстріляв цілий магазин патронів."
   },
   {
       "infinitive": "ispunjavati",
-      "past_tense": ["ispunjavao", "ispunjavala", "ispunjavalo"],
-      "present_tense": ["ispunjavam", "ispunjavaš", "ispunjava", "ispunjavamo", "ispunjavate", "ispunjavaju"],
-      "ukrainian_translation": "виконувати",
-      "example_sentence": "Ispunjavamo sve zahtjeve klijenata.",
-      "ukrainian_translation_sentence": "Ми виконуємо всі вимоги клієнтів."
+      "pastTense": ["ispunjavao", "ispunjavala", "ispunjavalo"],
+      "presentTense": ["ispunjavam", "ispunjavaš", "ispunjava", "ispunjavamo", "ispunjavate", "ispunjavaju"],
+      "ukrainianTranslation": "виконувати",
+      "exampleSentence": "Ispunjavamo sve zahtjeve klijenata.",
+      "ukrainianTranslationSentence": "Ми виконуємо всі вимоги клієнтів."
   },
   {
       "infinitive": "isticati",
-      "past_tense": ["isticao", "isticajla", "isticajlo"],
-      "present_tense": ["ističem", "ističeš", "ističe", "ističemo", "ističete", "ističu"],
-      "ukrainian_translation": "підкреслювати",
-      "example_sentence": "Moramo isticati važnost obrazovanja.",
-      "ukrainian_translation_sentence": "Ми повинні підкреслити важливість освіти."
+      "pastTense": ["isticao", "isticajla", "isticajlo"],
+      "presentTense": ["ističem", "ističeš", "ističe", "ističemo", "ističete", "ističu"],
+      "ukrainianTranslation": "підкреслювати",
+      "exampleSentence": "Moramo isticati važnost obrazovanja.",
+      "ukrainianTranslationSentence": "Ми повинні підкреслити важливість освіти."
   },
   {
       "infinitive": "istjerati",
-      "past_tense": ["istjerao", "istjerala", "istjeralo"],
-      "present_tense": ["istjerujem", "istjeruješ", "istjeruje", "istjerujemo", "istjerujete", "istjeruju"],
-      "ukrainian_translation": "виселити",
-      "example_sentence": "Morali smo istjerati nepoželjne goste.",
-      "ukrainian_translation_sentence": "Ми мусили виселити небажаних гостей."
+      "pastTense": ["istjerao", "istjerala", "istjeralo"],
+      "presentTense": ["istjerujem", "istjeruješ", "istjeruje", "istjerujemo", "istjerujete", "istjeruju"],
+      "ukrainianTranslation": "виселити",
+      "exampleSentence": "Morali smo istjerati nepoželjne goste.",
+      "ukrainianTranslationSentence": "Ми мусили виселити небажаних гостей."
   },
   {
       "infinitive": "istrčati",
-      "past_tense": ["istrčao", "istrčala", "istrčalo"],
-      "present_tense": ["istrčavam", "istrčavaš", "istrčava", "istrčavamo", "istrčavate", "istrčavaju"],
-      "ukrainian_translation": "вибігти",
-      "example_sentence": "Istrčali su iz zgrade kad je počeo požar.",
-      "ukrainian_translation_sentence": "Вони вибігли з будівлі, коли почалася пожежа."
+      "pastTense": ["istrčao", "istrčala", "istrčalo"],
+      "presentTense": ["istrčavam", "istrčavaš", "istrčava", "istrčavamo", "istrčavate", "istrčavaju"],
+      "ukrainianTranslation": "вибігти",
+      "exampleSentence": "Istrčali su iz zgrade kad je počeo požar.",
+      "ukrainianTranslationSentence": "Вони вибігли з будівлі, коли почалася пожежа."
   },
   {
       "infinitive": "istupiti",
-      "past_tense": ["istupio", "istupila", "istupilo"],
-      "present_tense": ["istupim", "istupiš", "istupi", "istupimo", "istupite", "istupe"],
-      "ukrainian_translation": "вийти",
-      "example_sentence": "On je odlučio istupiti iz organizacije.",
-      "ukrainian_translation_sentence": "Він вирішив вийти з організації."
+      "pastTense": ["istupio", "istupila", "istupilo"],
+      "presentTense": ["istupim", "istupiš", "istupi", "istupimo", "istupite", "istupe"],
+      "ukrainianTranslation": "вийти",
+      "exampleSentence": "On je odlučio istupiti iz organizacije.",
+      "ukrainianTranslationSentence": "Він вирішив вийти з організації."
   },
   {
       "infinitive": "izazvati",
-      "past_tense": ["izazvao", "izazvala", "izazvalo"],
-      "present_tense": ["izazivam", "izazivaš", "izaziva", "izazivamo", "izazivate", "izazivaju"],
-      "ukrainian_translation": "викликати",
-      "example_sentence": "Pokušaj ne bi trebao izazvati dodatne probleme.",
-      "ukrainian_translation_sentence": "Спроба не повинна викликати додаткових проблем."
+      "pastTense": ["izazvao", "izazvala", "izazvalo"],
+      "presentTense": ["izazivam", "izazivaš", "izaziva", "izazivamo", "izazivate", "izazivaju"],
+      "ukrainianTranslation": "викликати",
+      "exampleSentence": "Pokušaj ne bi trebao izazvati dodatne probleme.",
+      "ukrainianTranslationSentence": "Спроба не повинна викликати додаткових проблем."
   },
   {
       "infinitive": "izbaciti",
-      "past_tense": ["izbacio", "izbacila", "izbacilo"],
-      "present_tense": ["izbacujem", "izbacuješ", "izbacuje", "izbacujemo", "izbacujete", "izbacuju"],
-      "ukrainian_translation": "викинути",
-      "example_sentence": "Moramo izbaciti stari namještaj iz sobe.",
-      "ukrainian_translation_sentence": "Ми повинні викинути старі меблі з кімнати."
+      "pastTense": ["izbacio", "izbacila", "izbacilo"],
+      "presentTense": ["izbacujem", "izbacuješ", "izbacuje", "izbacujemo", "izbacujete", "izbacuju"],
+      "ukrainianTranslation": "викинути",
+      "exampleSentence": "Moramo izbaciti stari namještaj iz sobe.",
+      "ukrainianTranslationSentence": "Ми повинні викинути старі меблі з кімнати."
   },
   {
       "infinitive": "izbaviti",
-      "past_tense": ["izbavio", "izbavila", "izbavilo"],
-      "present_tense": ["izbavljam", "izbavljaš", "izbavlja", "izbavljamo", "izbavijate", "izbavljaju"],
-      "ukrainian_translation": "визволити",
-      "example_sentence": "On je uspio izbaviti zarobljenike.",
-      "ukrainian_translation_sentence": "Він зміг визволити заручників."
+      "pastTense": ["izbavio", "izbavila", "izbavilo"],
+      "presentTense": ["izbavljam", "izbavljaš", "izbavlja", "izbavljamo", "izbavijate", "izbavljaju"],
+      "ukrainianTranslation": "визволити",
+      "exampleSentence": "On je uspio izbaviti zarobljenike.",
+      "ukrainianTranslationSentence": "Він зміг визволити заручників."
   },
   {
       "infinitive": "izbjegnuti",
-      "past_tense": ["izbjegao", "izbjegla", "izbjeglo"],
-      "present_tense": ["izbjegavam", "izbjegavaš", "izbjegava", "izbjegavamo", "izbjegavate", "izbjegavaju"],
-      "ukrainian_translation": "уникнути",
-      "example_sentence": "Pokušajmo izbjeći nesuglasice.",
-      "ukrainian_translation_sentence": "Давайте спробуємо уникнути непорозумінь."
+      "pastTense": ["izbjegao", "izbjegla", "izbjeglo"],
+      "presentTense": ["izbjegavam", "izbjegavaš", "izbjegava", "izbjegavamo", "izbjegavate", "izbjegavaju"],
+      "ukrainianTranslation": "уникнути",
+      "exampleSentence": "Pokušajmo izbjeći nesuglasice.",
+      "ukrainianTranslationSentence": "Давайте спробуємо уникнути непорозумінь."
   },
   {
       "infinitive": "izdvajati",
-      "past_tense": ["izdvajao", "izdvajala", "izdvajalo"],
-      "present_tense": ["izdvajam", "izdvajaš", "izdvaja", "izdvajamo", "izdvajate", "izdvajaju"],
-      "ukrainian_translation": "виділяти",
-      "example_sentence": "Moramo izdvojiti važnije prioritete.",
-      "ukrainian_translation_sentence": "Ми повинні виділити важливіші пріоритети."
+      "pastTense": ["izdvajao", "izdvajala", "izdvajalo"],
+      "presentTense": ["izdvajam", "izdvajaš", "izdvaja", "izdvajamo", "izdvajate", "izdvajaju"],
+      "ukrainianTranslation": "виділяти",
+      "exampleSentence": "Moramo izdvojiti važnije prioritete.",
+      "ukrainianTranslationSentence": "Ми повинні виділити важливіші пріоритети."
   },
   {
     "infinitive": "izgovoriti",
-    "past_tense": ["izgovorio", "izgovorila", "izgovorilo"],
-    "present_tense": ["izgovaram", "izgovaraš", "izgovara", "izgovaramo", "izgovarate", "izgovaraju"],
-    "ukrainian_translation": "вимовити",
-    "example_sentence": "Važno je izgovoriti sve reči jasno.",
-    "ukrainian_translation_sentence": "Важливо вимовляти всі слова чітко."
+    "pastTense": ["izgovorio", "izgovorila", "izgovorilo"],
+    "presentTense": ["izgovaram", "izgovaraš", "izgovara", "izgovaramo", "izgovarate", "izgovaraju"],
+    "ukrainianTranslation": "вимовити",
+    "exampleSentence": "Važno je izgovoriti sve reči jasno.",
+    "ukrainianTranslationSentence": "Важливо вимовляти всі слова чітко."
   }
 ]

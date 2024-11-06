@@ -3,400 +3,400 @@
     "maskuline": "pučki",
     "feminine": "pučka",
     "neutrum": "pučko",
-    "ukrainian_translation": "народний",
-    "example_sentence": "Održan je pučki festival s tradicionalnim plesovima.",
-    "ukrainian_translation_sentence": "Проведено народний фестиваль з традиційними танцями."
+    "ukrainianTranslation": "народний",
+    "exampleSentence": "Održan je pučki festival s tradicionalnim plesovima.",
+    "ukrainianTranslationSentence": "Проведено народний фестиваль з традиційними танцями."
   },
   {
     "maskuline": "pustolovan",
     "feminine": "pustolovna",
     "neutrum": "pustolovno",
-    "ukrainian_translation": "пригодницький",
-    "example_sentence": "Njegov pustolovan duh vodio ga je na daleka putovanja.",
-    "ukrainian_translation_sentence": "Його пригодницький дух вів його у далекі подорожі."
+    "ukrainianTranslation": "пригодницький",
+    "exampleSentence": "Njegov pustolovan duh vodio ga je na daleka putovanja.",
+    "ukrainianTranslationSentence": "Його пригодницький дух вів його у далекі подорожі."
   },
   {
     "maskuline": "putni",
     "feminine": "putna",
     "neutrum": "putno",
-    "ukrainian_translation": "дорожній",
-    "example_sentence": "Putna torba bila je spremna za putovanje.",
-    "ukrainian_translation_sentence": "Дорожня сумка була готова до подорожі."
+    "ukrainianTranslation": "дорожній",
+    "exampleSentence": "Putna torba bila je spremna za putovanje.",
+    "ukrainianTranslationSentence": "Дорожня сумка була готова до подорожі."
   },
   {
     "maskuline": "putnički",
     "feminine": "putnička",
     "neutrum": "putničko",
-    "ukrainian_translation": "пасажирський",
-    "example_sentence": "Putnički vlak stigao je na vrijeme.",
-    "ukrainian_translation_sentence": "Пасажирський потяг прибув вчасно."
+    "ukrainianTranslation": "пасажирський",
+    "exampleSentence": "Putnički vlak stigao je na vrijeme.",
+    "ukrainianTranslationSentence": "Пасажирський потяг прибув вчасно."
   },
   {
     "maskuline": "računalni",
     "feminine": "računalna",
     "neutrum": "računalno",
-    "ukrainian_translation": "комп'ютерний",
-    "example_sentence": "Računalni sustav bio je nadograđen novim softverom.",
-    "ukrainian_translation_sentence": "Комп'ютерну систему було оновлено новим програмним забезпеченням."
+    "ukrainianTranslation": "комп'ютерний",
+    "exampleSentence": "Računalni sustav bio je nadograđen novim softverom.",
+    "ukrainianTranslationSentence": "Комп'ютерну систему було оновлено новим програмним забезпеченням."
   },
   {
     "maskuline": "radarski",
     "feminine": "radarska",
     "neutrum": "radarsko",
-    "ukrainian_translation": "радарний",
-    "example_sentence": "Radarski sustav otkrio je približavanje oluje.",
-    "ukrainian_translation_sentence": "Радарна система виявила наближення шторму."
+    "ukrainianTranslation": "радарний",
+    "exampleSentence": "Radarski sustav otkrio je približavanje oluje.",
+    "ukrainianTranslationSentence": "Радарна система виявила наближення шторму."
   },
   {
     "maskuline": "radijski",
     "feminine": "radijska",
     "neutrum": "radijsko",
-    "ukrainian_translation": "радійний",
-    "example_sentence": "Emitiran je radijski program o lokalnim događajima.",
-    "ukrainian_translation_sentence": "Було транслювано радійний програму про місцеві події."
+    "ukrainianTranslation": "радійний",
+    "exampleSentence": "Emitiran je radijski program o lokalnim događajima.",
+    "ukrainianTranslationSentence": "Було транслювано радійний програму про місцеві події."
   },
   {
     "maskuline": "radioaktivan",
     "feminine": "radioaktivna",
     "neutrum": "radioaktivno",
-    "ukrainian_translation": "радіоактивний",
-    "example_sentence": "Radioaktivni otpad mora se sigurno skladištiti.",
-    "ukrainian_translation_sentence": "Радіоактивні відходи повинні зберігатися у безпечних умовах."
+    "ukrainianTranslation": "радіоактивний",
+    "exampleSentence": "Radioaktivni otpad mora se sigurno skladištiti.",
+    "ukrainianTranslationSentence": "Радіоактивні відходи повинні зберігатися у безпечних умовах."
   },
   {
     "maskuline": "radnički",
     "feminine": "radnička",
     "neutrum": "radničko",
-    "ukrainian_translation": "робітничий",
-    "example_sentence": "Radnička prava zaštićena su zakonima.",
-    "ukrainian_translation_sentence": "Робітничі права захищені законами."
+    "ukrainianTranslation": "робітничий",
+    "exampleSentence": "Radnička prava zaštićena su zakonima.",
+    "ukrainianTranslationSentence": "Робітничі права захищені законами."
   },
   {
     "maskuline": "radostan",
     "feminine": "radosna",
     "neutrum": "radosno",
-    "ukrainian_translation": "радісний",
-    "example_sentence": "Bio je radostan zbog dolaska prijatelja.",
-    "ukrainian_translation_sentence": "Він був радісним через приїзд друзів."
+    "ukrainianTranslation": "радісний",
+    "exampleSentence": "Bio je radostan zbog dolaska prijatelja.",
+    "ukrainianTranslationSentence": "Він був радісним через приїзд друзів."
   },
   {
     "maskuline": "radoznao",
     "feminine": "radoznala",
     "neutrum": "radoznalo",
-    "ukrainian_translation": "допитливий",
-    "example_sentence": "Radoznao dječak postavljao je mnogo pitanja.",
-    "ukrainian_translation_sentence": "Допитливий хлопчик задавав багато питань."
+    "ukrainianTranslation": "допитливий",
+    "exampleSentence": "Radoznao dječak postavljao je mnogo pitanja.",
+    "ukrainianTranslationSentence": "Допитливий хлопчик задавав багато питань."
   },
   {
     "maskuline": "rafiniran",
     "feminine": "rafinirana",
     "neutrum": "rafinirano",
-    "ukrainian_translation": "витончений",
-    "example_sentence": "Njegov rafiniran ukus primijetili su svi.",
-    "ukrainian_translation_sentence": "Його витончений смак помітили всі."
+    "ukrainianTranslation": "витончений",
+    "exampleSentence": "Njegov rafiniran ukus primijetili su svi.",
+    "ukrainianTranslationSentence": "Його витончений смак помітили всі."
   },
   {
     "maskuline": "rajski",
     "feminine": "rajska",
     "neutrum": "rajsko",
-    "ukrainian_translation": "райський",
-    "example_sentence": "Otok je izgledao kao rajski vrt.",
-    "ukrainian_translation_sentence": "Острів виглядав як райський сад."
+    "ukrainianTranslation": "райський",
+    "exampleSentence": "Otok je izgledao kao rajski vrt.",
+    "ukrainianTranslationSentence": "Острів виглядав як райський сад."
   },
   {
     "maskuline": "raketni",
     "feminine": "raketna",
     "neutrum": "raketno",
-    "ukrainian_translation": "ракетний",
-    "example_sentence": "Raketni napad izazvao je veliku štetu.",
-    "ukrainian_translation_sentence": "Ракетний напад завдав великої шкоди."
+    "ukrainianTranslation": "ракетний",
+    "exampleSentence": "Raketni napad izazvao je veliku štetu.",
+    "ukrainianTranslationSentence": "Ракетний напад завдав великої шкоди."
   },
   {
     "maskuline": "ran",
     "feminine": "rana",
     "neutrum": "rano",
-    "ukrainian_translation": "ранній",
-    "example_sentence": "Stigao je na ran jutarnji sastanak.",
-    "ukrainian_translation_sentence": "Він прийшов на ранкову зустріч."
+    "ukrainianTranslation": "ранній",
+    "exampleSentence": "Stigao je na ran jutarnji sastanak.",
+    "ukrainianTranslationSentence": "Він прийшов на ранкову зустріч."
   },
   {
     "maskuline": "raniji",
     "feminine": "ranija",
     "neutrum": "ranije",
-    "ukrainian_translation": "попередній",
-    "example_sentence": "Ranije iskustvo pomoglo mu je u ovom poslu.",
-    "ukrainian_translation_sentence": "Попередній досвід допоміг йому в цій роботі."
+    "ukrainianTranslation": "попередній",
+    "exampleSentence": "Ranije iskustvo pomoglo mu je u ovom poslu.",
+    "ukrainianTranslationSentence": "Попередній досвід допоміг йому в цій роботі."
   },
   {
     "maskuline": "ranjiv",
     "feminine": "ranjiva",
     "neutrum": "ranjivo",
-    "ukrainian_translation": "вразливий",
-    "example_sentence": "Ranjiv položaj zahtijevao je dodatnu zaštitu.",
-    "ukrainian_translation_sentence": "Вразлива позиція вимагала додаткового захисту."
+    "ukrainianTranslation": "вразливий",
+    "exampleSentence": "Ranjiv položaj zahtijevao je dodatnu zaštitu.",
+    "ukrainianTranslationSentence": "Вразлива позиція вимагала додаткового захисту."
   },
   {
     "maskuline": "rashladni",
     "feminine": "rashladna",
     "neutrum": "rashladno",
-    "ukrainian_translation": "охолоджувальний",
-    "example_sentence": "Rashladni sustav bio je ključan za održavanje temperature.",
-    "ukrainian_translation_sentence": "Охолоджувальна система була ключовою для підтримання температури."
+    "ukrainianTranslation": "охолоджувальний",
+    "exampleSentence": "Rashladni sustav bio je ključan za održavanje temperature.",
+    "ukrainianTranslationSentence": "Охолоджувальна система була ключовою для підтримання температури."
   },
   {
     "maskuline": "rasistički",
     "feminine": "rasistička",
     "neutrum": "rasističko",
-    "ukrainian_translation": "расистський",
-    "example_sentence": "Njegov rasistički komentar izazvao je kontroverzu.",
-    "ukrainian_translation_sentence": "Його расистський коментар викликав суперечку."
+    "ukrainianTranslation": "расистський",
+    "exampleSentence": "Njegov rasistički komentar izazvao je kontroverzu.",
+    "ukrainianTranslationSentence": "Його расистський коментар викликав суперечку."
   },
   {
     "maskuline": "raspoređen",
     "feminine": "raspoređena",
     "neutrum": "raspoređeno",
-    "ukrainian_translation": "розподілений",
-    "example_sentence": "Radnici su bili raspoređeni po različitim odjelima.",
-    "ukrainian_translation_sentence": "Працівники були розподілені по різних відділах."
+    "ukrainianTranslation": "розподілений",
+    "exampleSentence": "Radnici su bili raspoređeni po različitim odjelima.",
+    "ukrainianTranslationSentence": "Працівники були розподілені по різних відділах."
   },
   {
     "maskuline": "rastući",
     "feminine": "rastuća",
     "neutrum": "rastuće",
-    "ukrainian_translation": "зростаючий",
-    "example_sentence": "Rastući broj nezaposlenih zabrinuo je vladu.",
-    "ukrainian_translation_sentence": "Зростаюча кількість безробітних стурбувала уряд."
+    "ukrainianTranslation": "зростаючий",
+    "exampleSentence": "Rastući broj nezaposlenih zabrinuo je vladu.",
+    "ukrainianTranslationSentence": "Зростаюча кількість безробітних стурбувала уряд."
   },
   {
     "maskuline": "ratni",
     "feminine": "ratna",
     "neutrum": "ratno",
-    "ukrainian_translation": "військовий",
-    "example_sentence": "Ratni veteran podijelio je svoje iskustvo iz rata.",
-    "ukrainian_translation_sentence": "Військовий ветеран поділився своїм досвідом війни."
+    "ukrainianTranslation": "військовий",
+    "exampleSentence": "Ratni veteran podijelio je svoje iskustvo iz rata.",
+    "ukrainianTranslationSentence": "Військовий ветеран поділився своїм досвідом війни."
   },
   {
     "maskuline": "ravnodušan",
     "feminine": "ravnodušna",
     "neutrum": "ravnodušno",
-    "ukrainian_translation": "байдужий",
-    "example_sentence": "Njegov ravnodušan stav šokirao je sve prisutne.",
-    "ukrainian_translation_sentence": "Його байдужа поведінка шокувала всіх присутніх."
+    "ukrainianTranslation": "байдужий",
+    "exampleSentence": "Njegov ravnodušan stav šokirao je sve prisutne.",
+    "ukrainianTranslationSentence": "Його байдужа поведінка шокувала всіх присутніх."
   },
   {
     "maskuline": "ravnomjeran",
     "feminine": "ravnomjerna",
     "neutrum": "ravnomjerno",
-    "ukrainian_translation": "рівномірний",
-    "example_sentence": "Snijeg je ravnomjerno prekrio cijeli grad.",
-    "ukrainian_translation_sentence": "Сніг рівномірно покрив усе місто."
+    "ukrainianTranslation": "рівномірний",
+    "exampleSentence": "Snijeg je ravnomjerno prekrio cijeli grad.",
+    "ukrainianTranslationSentence": "Сніг рівномірно покрив усе місто."
   },
   {
     "maskuline": "raznolik",
     "feminine": "raznolika",
     "neutrum": "raznoliko",
-    "ukrainian_translation": "різноманітний",
-    "example_sentence": "Raznolik izbor jela bio je dostupan u restoranu.",
-    "ukrainian_translation_sentence": "Різноманітний вибір страв був доступний у ресторані."
+    "ukrainianTranslation": "різноманітний",
+    "exampleSentence": "Raznolik izbor jela bio je dostupan u restoranu.",
+    "ukrainianTranslationSentence": "Різноманітний вибір страв був доступний у ресторані."
   },
   {
     "maskuline": "raznorazni",
     "feminine": "raznorazna",
     "neutrum": "raznorazno",
-    "ukrainian_translation": "різноманітний",
-    "example_sentence": "Raznorazni problemi pojavili su se tijekom projekta.",
-    "ukrainian_translation_sentence": "Різноманітні проблеми виникли під час проєкту."
+    "ukrainianTranslation": "різноманітний",
+    "exampleSentence": "Raznorazni problemi pojavili su se tijekom projekta.",
+    "ukrainianTranslationSentence": "Різноманітні проблеми виникли під час проєкту."
   },
   {
     "maskuline": "razočaran",
     "feminine": "razočarana",
     "neutrum": "razočarano",
-    "ukrainian_translation": "розчарований",
-    "example_sentence": "Bio je razočaran ishodom natjecanja.",
-    "ukrainian_translation_sentence": "Він був розчарований результатом змагання."
+    "ukrainianTranslation": "розчарований",
+    "exampleSentence": "Bio je razočaran ishodom natjecanja.",
+    "ukrainianTranslationSentence": "Він був розчарований результатом змагання."
   },
   {
     "maskuline": "razvojan",
     "feminine": "razvojna",
     "neutrum": "razvojno",
-    "ukrainian_translation": "розвивальний",
-    "example_sentence": "Razvojna faza projekta bila je ključna za njegov uspjeh.",
-    "ukrainian_translation_sentence": "Розвивальна фаза проєкту була ключовою для його успіху."
+    "ukrainianTranslation": "розвивальний",
+    "exampleSentence": "Razvojna faza projekta bila je ključna za njegov uspjeh.",
+    "ukrainianTranslationSentence": "Розвивальна фаза проєкту була ключовою для його успіху."
   },
   {
     "maskuline": "realan",
     "feminine": "realna",
     "neutrum": "realno",
-    "ukrainian_translation": "реальний",
-    "example_sentence": "Moramo biti realni u vezi s očekivanjima.",
-    "ukrainian_translation_sentence": "Ми повинні бути реалістами щодо очікувань."
+    "ukrainianTranslation": "реальний",
+    "exampleSentence": "Moramo biti realni u vezi s očekivanjima.",
+    "ukrainianTranslationSentence": "Ми повинні бути реалістами щодо очікувань."
   },
   {
     "maskuline": "redovan",
     "feminine": "redovna",
     "neutrum": "redovno",
-    "ukrainian_translation": "регулярний",
-    "example_sentence": "On je redovan student na sveučilištu.",
-    "ukrainian_translation_sentence": "Він є регулярним студентом в університеті."
+    "ukrainianTranslation": "регулярний",
+    "exampleSentence": "On je redovan student na sveučilištu.",
+    "ukrainianTranslationSentence": "Він є регулярним студентом в університеті."
   },
   {
     "maskuline": "referentan",
     "feminine": "referentna",
     "neutrum": "referentno",
-    "ukrainian_translation": "референтний",
-    "example_sentence": "Referentna točka bila je jasno određena.",
-    "ukrainian_translation_sentence": "Референтна точка була чітко визначена."
+    "ukrainianTranslation": "референтний",
+    "exampleSentence": "Referentna točka bila je jasno određena.",
+    "ukrainianTranslationSentence": "Референтна точка була чітко визначена."
   },
   {
     "maskuline": "registriran",
     "feminine": "registrirana",
     "neutrum": "registrirano",
-    "ukrainian_translation": "зареєстрований",
-    "example_sentence": "Automobil je bio registriran na njegovo ime.",
-    "ukrainian_translation_sentence": "Автомобіль був зареєстрований на його ім'я."
+    "ukrainianTranslation": "зареєстрований",
+    "exampleSentence": "Automobil je bio registriran na njegovo ime.",
+    "ukrainianTranslationSentence": "Автомобіль був зареєстрований на його ім'я."
   },
   {
     "maskuline": "regularan",
     "feminine": "regularna",
     "neutrum": "regularno",
-    "ukrainian_translation": "звичайний",
-    "example_sentence": "Njegova regularna prisutnost na sastancima bila je važna.",
-    "ukrainian_translation_sentence": "Його регулярна присутність на зустрічах була важливою."
+    "ukrainianTranslation": "звичайний",
+    "exampleSentence": "Njegova regularna prisutnost na sastancima bila je važna.",
+    "ukrainianTranslationSentence": "Його регулярна присутність на зустрічах була важливою."
   },
   {
     "maskuline": "rehabilitacijski",
     "feminine": "rehabilitacijska",
     "neutrum": "rehabilitacijsko",
-    "ukrainian_translation": "реабілітаційний",
-    "example_sentence": "Rehabilitacijski centar pruža skrb pacijentima nakon ozljeda.",
-    "ukrainian_translation_sentence": "Реабілітаційний центр надає допомогу пацієнтам після травм."
+    "ukrainianTranslation": "реабілітаційний",
+    "exampleSentence": "Rehabilitacijski centar pruža skrb pacijentima nakon ozljeda.",
+    "ukrainianTranslationSentence": "Реабілітаційний центр надає допомогу пацієнтам після травм."
   },
   {
     "maskuline": "rekordan",
     "feminine": "rekordna",
     "neutrum": "rekordno",
-    "ukrainian_translation": "рекордний",
-    "example_sentence": "Ostvarili su rekordan broj pobjeda ove sezone.",
-    "ukrainian_translation_sentence": "Вони досягли рекордної кількості перемог цього сезону."
+    "ukrainianTranslation": "рекордний",
+    "exampleSentence": "Ostvarili su rekordan broj pobjeda ove sezone.",
+    "ukrainianTranslationSentence": "Вони досягли рекордної кількості перемог цього сезону."
   },
   {
     "maskuline": "rekreativan",
     "feminine": "rekreativna",
     "neutrum": "rekreativno",
-    "ukrainian_translation": "рекреаційний",
-    "example_sentence": "Rekreativne aktivnosti uključuju plivanje i planinarenje.",
-    "ukrainian_translation_sentence": "Рекреаційні заходи включають плавання та походи."
+    "ukrainianTranslation": "рекреаційний",
+    "exampleSentence": "Rekreativne aktivnosti uključuju plivanje i planinarenje.",
+    "ukrainianTranslationSentence": "Рекреаційні заходи включають плавання та походи."
   },
   {
     "maskuline": "relevantan",
     "feminine": "relevantna",
     "neutrum": "relevantno",
-    "ukrainian_translation": "релевантний",
-    "example_sentence": "Pitanje je bilo relevantno za raspravu.",
-    "ukrainian_translation_sentence": "Питання було релевантним для обговорення."
+    "ukrainianTranslation": "релевантний",
+    "exampleSentence": "Pitanje je bilo relevantno za raspravu.",
+    "ukrainianTranslationSentence": "Питання було релевантним для обговорення."
   },
   {
     "maskuline": "reprezentativan",
     "feminine": "reprezentativna",
     "neutrum": "reprezentativno",
-    "ukrainian_translation": "репрезентативний",
-    "example_sentence": "Ovo je bio reprezentativan primjer moderne arhitekture.",
-    "ukrainian_translation_sentence": "Це був репрезентативний приклад сучасної архітектури."
+    "ukrainianTranslation": "репрезентативний",
+    "exampleSentence": "Ovo je bio reprezentativan primjer moderne arhitekture.",
+    "ukrainianTranslationSentence": "Це був репрезентативний приклад сучасної архітектури."
   },
   {
     "maskuline": "reproduktivan",
     "feminine": "reproduktivna",
     "neutrum": "reproduktivno",
-    "ukrainian_translation": "репродуктивний",
-    "example_sentence": "Reproduktivno zdravlje je važno za cjelokupno zdravlje osobe.",
-    "ukrainian_translation_sentence": "Репродуктивне здоров'я важливе для загального здоров'я людини."
+    "ukrainianTranslation": "репродуктивний",
+    "exampleSentence": "Reproduktivno zdravlje je važno za cjelokupno zdravlje osobe.",
+    "ukrainianTranslationSentence": "Репродуктивне здоров'я важливе для загального здоров'я людини."
   },
   {
     "maskuline": "resorni",
     "feminine": "resorna",
     "neutrum": "resorno",
-    "ukrainian_translation": "відповідний",
-    "example_sentence": "Resorno ministarstvo najavilo je nove reforme.",
-    "ukrainian_translation_sentence": "Відповідне міністерство оголосило нові реформи."
+    "ukrainianTranslation": "відповідний",
+    "exampleSentence": "Resorno ministarstvo najavilo je nove reforme.",
+    "ukrainianTranslationSentence": "Відповідне міністерство оголосило нові реформи."
   },
   {
     "maskuline": "rezultatski",
     "feminine": "rezultatska",
     "neutrum": "rezultatsko",
-    "ukrainian_translation": "результатний",
-    "example_sentence": "Rezultatski pokazatelji pokazuju značajan napredak.",
-    "ukrainian_translation_sentence": "Результатні показники демонструють значний прогрес."
+    "ukrainianTranslation": "результатний",
+    "exampleSentence": "Rezultatski pokazatelji pokazuju značajan napredak.",
+    "ukrainianTranslationSentence": "Результатні показники демонструють значний прогрес."
   },
   {
     "maskuline": "riblji",
     "feminine": "riblja",
     "neutrum": "riblje",
-    "ukrainian_translation": "рибний",
-    "example_sentence": "Riblji restoran nudi svježu ribu svaki dan.",
-    "ukrainian_translation_sentence": "Рибний ресторан пропонує свіжу рибу щодня."
+    "ukrainianTranslation": "рибний",
+    "exampleSentence": "Riblji restoran nudi svježu ribu svaki dan.",
+    "ukrainianTranslationSentence": "Рибний ресторан пропонує свіжу рибу щодня."
   },
   {
     "maskuline": "ribolovan",
     "feminine": "ribolovna",
     "neutrum": "ribolovno",
-    "ukrainian_translation": "рибальський",
-    "example_sentence": "Ribolovna sezona počinje na proljeće.",
-    "ukrainian_translation_sentence": "Рибальський сезон починається навесні."
+    "ukrainianTranslation": "рибальський",
+    "exampleSentence": "Ribolovna sezona počinje na proljeće.",
+    "ukrainianTranslationSentence": "Рибальський сезон починається навесні."
   },
   {
     "maskuline": "rigorozan",
     "feminine": "rigorozna",
     "neutrum": "rigorozno",
-    "ukrainian_translation": "суворий",
-    "example_sentence": "Rigorozan sustav testiranja osigurava visoku kvalitetu proizvoda.",
-    "ukrainian_translation_sentence": "Сувора система тестування забезпечує високу якість продукції."
+    "ukrainianTranslation": "суворий",
+    "exampleSentence": "Rigorozan sustav testiranja osigurava visoku kvalitetu proizvoda.",
+    "ukrainianTranslationSentence": "Сувора система тестування забезпечує високу якість продукції."
   },
   {
     "maskuline": "riješen",
     "feminine": "riješena",
     "neutrum": "riješeno",
-    "ukrainian_translation": "вирішений",
-    "example_sentence": "Spor je napokon riješen na sudu.",
-    "ukrainian_translation_sentence": "Суперечку нарешті вирішили в суді."
+    "ukrainianTranslation": "вирішений",
+    "exampleSentence": "Spor je napokon riješen na sudu.",
+    "ukrainianTranslationSentence": "Суперечку нарешті вирішили в суді."
   },
   {
     "maskuline": "rizičan",
     "feminine": "rizična",
     "neutrum": "rizično",
-    "ukrainian_translation": "ризикований",
-    "example_sentence": "Investicija je bila rizična, ali se isplatila.",
-    "ukrainian_translation_sentence": "Інвестиція була ризикованою, але виправдала себе."
+    "ukrainianTranslation": "ризикований",
+    "exampleSentence": "Investicija je bila rizična, ali se isplatila.",
+    "ukrainianTranslationSentence": "Інвестиція була ризикованою, але виправдала себе."
   },
   {
     "maskuline": "rođendanski",
     "feminine": "rođendanska",
     "neutrum": "rođendansko",
-    "ukrainian_translation": "день народження",
-    "example_sentence": "Rođendanska zabava održat će se u petak.",
-    "ukrainian_translation_sentence": "Вечірка на день народження відбудеться у п'ятницю."
+    "ukrainianTranslation": "день народження",
+    "exampleSentence": "Rođendanska zabava održat će se u petak.",
+    "ukrainianTranslationSentence": "Вечірка на день народження відбудеться у п'ятницю."
   },
   {
     "maskuline": "roditeljski",
     "feminine": "roditeljska",
     "neutrum": "roditeljsko",
-    "ukrainian_translation": "батьківський",
-    "example_sentence": "Roditeljski sastanak održat će se u školi.",
-    "ukrainian_translation_sentence": "Батьківські збори відбудуться в школі."
+    "ukrainianTranslation": "батьківський",
+    "exampleSentence": "Roditeljski sastanak održat će se u školi.",
+    "ukrainianTranslationSentence": "Батьківські збори відбудуться в школі."
   },
   {
     "maskuline": "romantičan",
     "feminine": "romantična",
     "neutrum": "romantično",
-    "ukrainian_translation": "романтичний",
-    "example_sentence": "Romantična večera bila je savršena.",
-    "ukrainian_translation_sentence": "Романтична вечеря була ідеальною."
+    "ukrainianTranslation": "романтичний",
+    "exampleSentence": "Romantična večera bila je savršena.",
+    "ukrainianTranslationSentence": "Романтична вечеря була ідеальною."
   },
   {
     "maskuline": "ručni",
     "feminine": "ručna",
     "neutrum": "ručno",
-    "ukrainian_translation": "ручний",
-    "example_sentence": "Ručno izrađeni nakit prodaje se na sajmu.",
-    "ukrainian_translation_sentence": "Ручні вироби продаються на ярмарку."
+    "ukrainianTranslation": "ручний",
+    "exampleSentence": "Ručno izrađeni nakit prodaje se na sajmu.",
+    "ukrainianTranslationSentence": "Ручні вироби продаються на ярмарку."
   }
 ]

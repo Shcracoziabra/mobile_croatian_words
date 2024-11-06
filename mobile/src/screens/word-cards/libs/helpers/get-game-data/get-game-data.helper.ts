@@ -4,12 +4,12 @@ import {
 	mockVerbData,
 } from '~/libs/constants/constants';
 import { CategoryEnglish } from '~/libs/enums/enums';
-import { type PartOfSpeechName, type GameDataItem } from '~/libs/types/types';
+import { type AdjectiveDataItem, type NounDataItem, type VerbDataItem, type PartOfSpeechName, type GameDataItem } from '~/libs/types/types';
 
-const getGameData = (screen: PartOfSpeechName): GameDataItem[] => {
+const getGameData = <T>(words: T[], screen: PartOfSpeechName): GameDataItem[] => {
 	switch (screen) {
 		case CategoryEnglish.ADJECTIVE: {
-			const gameCardData = mockAdjectiveData.map(
+			const gameCardData = (words as AdjectiveDataItem[]).map(
 				({ maskuline, ukrainianTranslation }) => {
 					return {
 						question: maskuline,
@@ -21,7 +21,7 @@ const getGameData = (screen: PartOfSpeechName): GameDataItem[] => {
 		}
 
 		case CategoryEnglish.NOUN: {
-			const gameCardData = mockNounData.map(
+			const gameCardData = (words as NounDataItem[]).map(
 				({ singular, ukrainianTranslation }) => {
 					return {
 						question: singular,
@@ -33,7 +33,7 @@ const getGameData = (screen: PartOfSpeechName): GameDataItem[] => {
 		}
 
 		case CategoryEnglish.VERB: {
-			const gameCardData = mockVerbData.map(
+			const gameCardData = (words as VerbDataItem[]).map(
 				({ infinitive, ukrainianTranslation }) => {
 					return {
 						question: infinitive,

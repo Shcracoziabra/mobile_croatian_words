@@ -2,351 +2,351 @@
 	{
     "singular": "uključenost",
     "plural": "uključenosti",
-    "ukrainian_translation": "залученість",
-    "example_sentence": "Njegova uključenost u projekt bila je ključna za uspjeh.",
-    "ukrainian_translation_sentence": "Його залученість у проєкт була ключовою для успіху."
+    "ukrainianTranslation": "залученість",
+    "exampleSentence": "Njegova uključenost u projekt bila je ključna za uspjeh.",
+    "ukrainianTranslationSentence": "Його залученість у проєкт була ключовою для успіху."
   },
   {
     "singular": "ulaz",
     "plural": "ulazi",
-    "ukrainian_translation": "вхід",
-    "example_sentence": "Ulaz u zgradu bio je čvrsto zaključan tijekom noći.",
-    "ukrainian_translation_sentence": "Вхід до будівлі був надійно зачинений на ніч."
+    "ukrainianTranslation": "вхід",
+    "exampleSentence": "Ulaz u zgradu bio je čvrsto zaključan tijekom noći.",
+    "ukrainianTranslationSentence": "Вхід до будівлі був надійно зачинений на ніч."
   },
   {
     "singular": "ulazak",
     "plural": "ulazci",
-    "ukrainian_translation": "входження",
-    "example_sentence": "Njegov ulazak u sobu privukao je pažnju svih prisutnih.",
-    "ukrainian_translation_sentence": "Його входження в кімнату привернуло увагу всіх присутніх."
+    "ukrainianTranslation": "входження",
+    "exampleSentence": "Njegov ulazak u sobu privukao je pažnju svih prisutnih.",
+    "ukrainianTranslationSentence": "Його входження в кімнату привернуло увагу всіх присутніх."
   },
   {
     "singular": "ulica",
     "plural": "ulice",
-    "ukrainian_translation": "вулиця",
-    "example_sentence": "Ulica je bila prepuna automobila i pješaka u jutarnjoj gužvi.",
-    "ukrainian_translation_sentence": "Вулиця була переповнена автомобілями та пішоходами під час ранкового затору."
+    "ukrainianTranslation": "вулиця",
+    "exampleSentence": "Ulica je bila prepuna automobila i pješaka u jutarnjoj gužvi.",
+    "ukrainianTranslationSentence": "Вулиця була переповнена автомобілями та пішоходами під час ранкового затору."
   },
   {
     "singular": "uloga",
     "plural": "uloge",
-    "ukrainian_translation": "роль",
-    "example_sentence": "Njegova uloga u filmu bila je hvaljena od strane kritike.",
-    "ukrainian_translation_sentence": "Його роль у фільмі була високо оцінена критиками."
+    "ukrainianTranslation": "роль",
+    "exampleSentence": "Njegova uloga u filmu bila je hvaljena od strane kritike.",
+    "ukrainianTranslationSentence": "Його роль у фільмі була високо оцінена критиками."
   },
   {
     "singular": "ulomak",
     "plural": "ulomci",
-    "ukrainian_translation": "фрагмент",
-    "example_sentence": "Ulomak starog zida otkriven je tijekom arheološkog istraživanja.",
-    "ukrainian_translation_sentence": "Фрагмент старої стіни був виявлений під час археологічних розкопок."
+    "ukrainianTranslation": "фрагмент",
+    "exampleSentence": "Ulomak starog zida otkriven je tijekom arheološkog istraživanja.",
+    "ukrainianTranslationSentence": "Фрагмент старої стіни був виявлений під час археологічних розкопок."
   },
   {
     "singular": "umjetnik",
     "plural": "umjetnici",
-    "ukrainian_translation": "художник",
-    "example_sentence": "Umjetnik je predstavio svoja nova djela u galeriji.",
-    "ukrainian_translation_sentence": "Художник представив свої нові роботи в галереї."
+    "ukrainianTranslation": "художник",
+    "exampleSentence": "Umjetnik je predstavio svoja nova djela u galeriji.",
+    "ukrainianTranslationSentence": "Художник представив свої нові роботи в галереї."
   },
   {
     "singular": "unos",
     "plural": "unosi",
-    "ukrainian_translation": "введення",
-    "example_sentence": "Unos podataka bio je ključan za završetak projekta.",
-    "ukrainian_translation_sentence": "Введення даних було ключовим для завершення проєкту."
+    "ukrainianTranslation": "введення",
+    "exampleSentence": "Unos podataka bio je ključan za završetak projekta.",
+    "ukrainianTranslationSentence": "Введення даних було ключовим для завершення проєкту."
   },
   {
     "singular": "unošenje",
     "plural": "unošenja",
-    "ukrainian_translation": "внесення",
-    "example_sentence": "Unošenje promjena u sustav trajalo je cijeli dan.",
-    "ukrainian_translation_sentence": "Внесення змін у систему тривало цілий день."
+    "ukrainianTranslation": "внесення",
+    "exampleSentence": "Unošenje promjena u sustav trajalo je cijeli dan.",
+    "ukrainianTranslationSentence": "Внесення змін у систему тривало цілий день."
   },
   {
     "singular": "upad",
     "plural": "upadi",
-    "ukrainian_translation": "вторгнення",
-    "example_sentence": "Njihov nenajavljeni upad u kuću iznenadio je sve prisutne.",
-    "ukrainian_translation_sentence": "Їхнє несподіване вторгнення в будинок здивувало всіх присутніх."
+    "ukrainianTranslation": "вторгнення",
+    "exampleSentence": "Njihov nenajavljeni upad u kuću iznenadio je sve prisutne.",
+    "ukrainianTranslationSentence": "Їхнє несподіване вторгнення в будинок здивувало всіх присутніх."
   },
   {
     "singular": "upaljač",
     "plural": "upaljači",
-    "ukrainian_translation": "запальничка",
-    "example_sentence": "Posudio je upaljač kako bi zapalio cigaretu.",
-    "ukrainian_translation_sentence": "Він позичив запальничку, щоб запалити сигарету."
+    "ukrainianTranslation": "запальничка",
+    "exampleSentence": "Posudio je upaljač kako bi zapalio cigaretu.",
+    "ukrainianTranslationSentence": "Він позичив запальничку, щоб запалити сигарету."
   },
   {
     "singular": "upornost",
     "plural": "upornosti",
-    "ukrainian_translation": "наполегливість",
-    "example_sentence": "Njegova upornost dovela ga je do velikog uspjeha.",
-    "ukrainian_translation_sentence": "Його наполегливість привела його до великого успіху."
+    "ukrainianTranslation": "наполегливість",
+    "exampleSentence": "Njegova upornost dovela ga je do velikog uspjeha.",
+    "ukrainianTranslationSentence": "Його наполегливість привела його до великого успіху."
   },
   {
     "singular": "uradak",
     "plural": "uradci",
-    "ukrainian_translation": "робота",
-    "example_sentence": "Njegov novi uradak osvojio je publiku na izložbi.",
-    "ukrainian_translation_sentence": "Його нова робота підкорила публіку на виставці."
+    "ukrainianTranslation": "робота",
+    "exampleSentence": "Njegov novi uradak osvojio je publiku na izložbi.",
+    "ukrainianTranslationSentence": "Його нова робота підкорила публіку на виставці."
   },
   {
     "singular": "uš",
     "plural": "uši",
-    "ukrainian_translation": "воша",
-    "example_sentence": "Uši su čest problem u školama i vrtićima.",
-    "ukrainian_translation_sentence": "Воші є поширеною проблемою в школах і дитячих садках."
+    "ukrainianTranslation": "воша",
+    "exampleSentence": "Uši su čest problem u školama i vrtićima.",
+    "ukrainianTranslationSentence": "Воші є поширеною проблемою в школах і дитячих садках."
   },
   {
     "singular": "usamljenost",
     "plural": "usamljenosti",
-    "ukrainian_translation": "самотність",
-    "example_sentence": "Osjećaj usamljenosti često je prisutan kod starijih ljudi.",
-    "ukrainian_translation_sentence": "Відчуття самотності часто присутнє у літніх людей."
+    "ukrainianTranslation": "самотність",
+    "exampleSentence": "Osjećaj usamljenosti često je prisutan kod starijih ljudi.",
+    "ukrainianTranslationSentence": "Відчуття самотності часто присутнє у літніх людей."
   },
   {
     "singular": "ušće",
     "plural": "ušća",
-    "ukrainian_translation": "гирло",
-    "example_sentence": "Rijeka se ulijevala u more na svom ušću.",
-    "ukrainian_translation_sentence": "Річка впадала в море у своєму гирлі."
+    "ukrainianTranslation": "гирло",
+    "exampleSentence": "Rijeka se ulijevala u more na svom ušću.",
+    "ukrainianTranslationSentence": "Річка впадала в море у своєму гирлі."
   },
   {
     "singular": "useljenje",
     "plural": "useljavanja",
-    "ukrainian_translation": "вселятися",
-    "example_sentence": "Useljenje u novi stan bilo je uzbudljivo iskustvo.",
-    "ukrainian_translation_sentence": "Вселятися в нову квартиру було захоплюючим досвідом."
+    "ukrainianTranslation": "вселятися",
+    "exampleSentence": "Useljenje u novi stan bilo je uzbudljivo iskustvo.",
+    "ukrainianTranslationSentence": "Вселятися в нову квартиру було захоплюючим досвідом."
   },
   {
     "singular": "usmjerenje",
     "plural": "usmjerenja",
-    "ukrainian_translation": "спрямування",
-    "example_sentence": "Njegovo usmjerenje prema znanstvenom istraživanju bilo je očito.",
-    "ukrainian_translation_sentence": "Його спрямування на наукові дослідження було очевидним."
+    "ukrainianTranslation": "спрямування",
+    "exampleSentence": "Njegovo usmjerenje prema znanstvenom istraživanju bilo je očito.",
+    "ukrainianTranslationSentence": "Його спрямування на наукові дослідження було очевидним."
   },
   {
     "singular": "uspjeh",
     "plural": "uspjesi",
-    "ukrainian_translation": "успіх",
-    "example_sentence": "Uspjeh na ispitima donio mu je veliko zadovoljstvo.",
-    "ukrainian_translation_sentence": "Успіх на іспитах приніс йому велике задоволення."
+    "ukrainianTranslation": "успіх",
+    "exampleSentence": "Uspjeh na ispitima donio mu je veliko zadovoljstvo.",
+    "ukrainianTranslationSentence": "Успіх на іспитах приніс йому велике задоволення."
   },
   {
     "singular": "uspostava",
     "plural": "uspostave",
-    "ukrainian_translation": "встановлення",
-    "example_sentence": "Uspostava novih pravila pomogla je u organizaciji rada.",
-    "ukrainian_translation_sentence": "Встановлення нових правил допомогло в організації роботи."
+    "ukrainianTranslation": "встановлення",
+    "exampleSentence": "Uspostava novih pravila pomogla je u organizaciji rada.",
+    "ukrainianTranslationSentence": "Встановлення нових правил допомогло в організації роботи."
   },
   {
     "singular": "ustanova",
     "plural": "ustanove",
-    "ukrainian_translation": "установа",
-    "example_sentence": "Rad u javnoj ustanovi donosi brojne pogodnosti.",
-    "ukrainian_translation_sentence": "Робота в державній установі приносить багато переваг."
+    "ukrainianTranslation": "установа",
+    "exampleSentence": "Rad u javnoj ustanovi donosi brojne pogodnosti.",
+    "ukrainianTranslationSentence": "Робота в державній установі приносить багато переваг."
   },
   {
     "singular": "uvjerljivost",
     "plural": "uvjerljivosti",
-    "ukrainian_translation": "переконливість",
-    "example_sentence": "Njegova uvjerljivost u pregovorima bila je ključna za postizanje dogovora.",
-    "ukrainian_translation_sentence": "Його переконливість на переговорах була ключовою для досягнення угоди."
+    "ukrainianTranslation": "переконливість",
+    "exampleSentence": "Njegova uvjerljivost u pregovorima bila je ključna za postizanje dogovora.",
+    "ukrainianTranslationSentence": "Його переконливість на переговорах була ключовою для досягнення угоди."
   },
   {
     "singular": "uvježbavanje",
     "plural": "uvježbavanja",
-    "ukrainian_translation": "тренування",
-    "example_sentence": "Uvježbavanje novih vještina pomoglo mu je u napredovanju na poslu.",
-    "ukrainian_translation_sentence": "Тренування нових навичок допомогло йому просунутися на роботі."
+    "ukrainianTranslation": "тренування",
+    "exampleSentence": "Uvježbavanje novih vještina pomoglo mu je u napredovanju na poslu.",
+    "ukrainianTranslationSentence": "Тренування нових навичок допомогло йому просунутися на роботі."
   },
   {
     "singular": "uzbuđenje",
     "plural": "uzbuđenja",
-    "ukrainian_translation": "хвилювання",
-    "example_sentence": "Osjetio je veliko uzbuđenje pred prvi dan na novom poslu.",
-    "ukrainian_translation_sentence": "Він відчув велике хвилювання перед першим робочим днем на новій роботі."
+    "ukrainianTranslation": "хвилювання",
+    "exampleSentence": "Osjetio je veliko uzbuđenje pred prvi dan na novom poslu.",
+    "ukrainianTranslationSentence": "Він відчув велике хвилювання перед першим робочим днем на новій роботі."
   },
   {
     "singular": "uzgajivač",
     "plural": "uzgajivači",
-    "ukrainian_translation": "виробник",
-    "example_sentence": "Uzgajivači povrća suočavaju se s izazovima zbog klimatskih promjena.",
-    "ukrainian_translation_sentence": "Виробники овочів стикаються з викликами через кліматичні зміни."
+    "ukrainianTranslation": "виробник",
+    "exampleSentence": "Uzgajivači povrća suočavaju se s izazovima zbog klimatskih promjena.",
+    "ukrainianTranslationSentence": "Виробники овочів стикаються з викликами через кліматичні зміни."
   },
   {
     "singular": "uzimanje",
     "plural": "uzimanja",
-    "ukrainian_translation": "взяття",
-    "example_sentence": "Uzimanje uzoraka tla važno je za analizu plodnosti.",
-    "ukrainian_translation_sentence": "Взяття зразків ґрунту важливе для аналізу родючості."
+    "ukrainianTranslation": "взяття",
+    "exampleSentence": "Uzimanje uzoraka tla važno je za analizu plodnosti.",
+    "ukrainianTranslationSentence": "Взяття зразків ґрунту важливе для аналізу родючості."
   },
   {
     "singular": "uživanje",
     "plural": "uživanja",
-    "ukrainian_translation": "насолода",
-    "example_sentence": "Uživanje u dobrom filmu uz večeru bilo je njegov način opuštanja.",
-    "ukrainian_translation_sentence": "Насолода хорошим фільмом за вечерею була його способом розслабитися."
+    "ukrainianTranslation": "насолода",
+    "exampleSentence": "Uživanje u dobrom filmu uz večeru bilo je njegov način opuštanja.",
+    "ukrainianTranslationSentence": "Насолода хорошим фільмом за вечерею була його способом розслабитися."
   },
   {
     "singular": "uzrečica",
     "plural": "uzrečice",
-    "ukrainian_translation": "приказка",
-    "example_sentence": "Stara uzrečica kaže: 'Bolje spriječiti nego liječiti.'",
-    "ukrainian_translation_sentence": "Стара приказка каже: 'Краще запобігти, ніж лікувати.'"
+    "ukrainianTranslation": "приказка",
+    "exampleSentence": "Stara uzrečica kaže: 'Bolje spriječiti nego liječiti.'",
+    "ukrainianTranslationSentence": "Стара приказка каже: 'Краще запобігти, ніж лікувати.'"
   },
   {
     "singular": "val",
     "plural": "valovi",
-    "ukrainian_translation": "хвиля",
-    "example_sentence": "Valovi su se sudarali s obalom stvarajući prekrasnu pjenu.",
-    "ukrainian_translation_sentence": "Хвилі накочувалися на берег, утворюючи чудову піну."
+    "ukrainianTranslation": "хвиля",
+    "exampleSentence": "Valovi su se sudarali s obalom stvarajući prekrasnu pjenu.",
+    "ukrainianTranslationSentence": "Хвилі накочувалися на берег, утворюючи чудову піну."
   },
   {
     "singular": "valcer",
     "plural": "valceri",
-    "ukrainian_translation": "вальс",
-    "example_sentence": "Na balu su plesali elegantan valcer.",
-    "ukrainian_translation_sentence": "На балу вони танцювали елегантний вальс."
+    "ukrainianTranslation": "вальс",
+    "exampleSentence": "Na balu su plesali elegantan valcer.",
+    "ukrainianTranslationSentence": "На балу вони танцювали елегантний вальс."
   },
   {
     "singular": "valjak",
     "plural": "valjci",
-    "ukrainian_translation": "валик",
-    "example_sentence": "Koristio je valjak za bojanje zidova u svojoj sobi.",
-    "ukrainian_translation_sentence": "Він використовував валик для фарбування стін у своїй кімнаті."
+    "ukrainianTranslation": "валик",
+    "exampleSentence": "Koristio je valjak za bojanje zidova u svojoj sobi.",
+    "ukrainianTranslationSentence": "Він використовував валик для фарбування стін у своїй кімнаті."
   },
   {
     "singular": "valjanost",
     "plural": "valjanosti",
-    "ukrainian_translation": "дійсність",
-    "example_sentence": "Provjerio je valjanost putovnice prije puta u inozemstvo.",
-    "ukrainian_translation_sentence": "Він перевірив дійсність паспорта перед поїздкою за кордон."
+    "ukrainianTranslation": "дійсність",
+    "exampleSentence": "Provjerio je valjanost putovnice prije puta u inozemstvo.",
+    "ukrainianTranslationSentence": "Він перевірив дійсність паспорта перед поїздкою за кордон."
   },
   {
     "singular": "varanje",
     "plural": "varanja",
-    "ukrainian_translation": "шахрайство",
-    "example_sentence": "Varanje na ispitima strogo se kažnjava.",
-    "ukrainian_translation_sentence": "Шахрайство на іспитах суворо карається."
+    "ukrainianTranslation": "шахрайство",
+    "exampleSentence": "Varanje na ispitima strogo se kažnjava.",
+    "ukrainianTranslationSentence": "Шахрайство на іспитах суворо карається."
   },
   {
     "singular": "veljača",
     "plural": "veljače",
-    "ukrainian_translation": "лютий",
-    "example_sentence": "Veljača je najkraći mjesec u godini.",
-    "ukrainian_translation_sentence": "Лютий — найкоротший місяць у році."
+    "ukrainianTranslation": "лютий",
+    "exampleSentence": "Veljača je najkraći mjesec u godini.",
+    "ukrainianTranslationSentence": "Лютий — найкоротший місяць у році."
   },
   {
     "singular": "ventil",
     "plural": "ventili",
-    "ukrainian_translation": "клапан",
-    "example_sentence": "Ventil na kotlu mora biti redovito provjeravan.",
-    "ukrainian_translation_sentence": "Клапан на котлі потрібно регулярно перевіряти."
+    "ukrainianTranslation": "клапан",
+    "exampleSentence": "Ventil na kotlu mora biti redovito provjeravan.",
+    "ukrainianTranslationSentence": "Клапан на котлі потрібно регулярно перевіряти."
   },
   {
     "singular": "vesta",
     "plural": "veste",
-    "ukrainian_translation": "жилет",
-    "example_sentence": "Nosio je toplu vestu tijekom hladnih zimskih dana.",
-    "ukrainian_translation_sentence": "Він носив теплий жилет у холодні зимові дні."
+    "ukrainianTranslation": "жилет",
+    "exampleSentence": "Nosio je toplu vestu tijekom hladnih zimskih dana.",
+    "ukrainianTranslationSentence": "Він носив теплий жилет у холодні зимові дні."
   },
   {
     "singular": "veterinar",
     "plural": "veterinari",
-    "ukrainian_translation": "ветеринар",
-    "example_sentence": "Veterinar je pregledao psa nakon nesreće.",
-    "ukrainian_translation_sentence": "Ветеринар оглянув собаку після аварії."
+    "ukrainianTranslation": "ветеринар",
+    "exampleSentence": "Veterinar je pregledao psa nakon nesreće.",
+    "ukrainianTranslationSentence": "Ветеринар оглянув собаку після аварії."
   },
   {
     "singular": "vic",
     "plural": "vicevi",
-    "ukrainian_translation": "жарт",
-    "example_sentence": "Ispričao je vic koji je sve nasmijao.",
-    "ukrainian_translation_sentence": "Він розповів жарт, який змусив усіх сміятися."
+    "ukrainianTranslation": "жарт",
+    "exampleSentence": "Ispričao je vic koji je sve nasmijao.",
+    "ukrainianTranslationSentence": "Він розповів жарт, який змусив усіх сміятися."
   },
   {
     "singular": "vikend",
     "plural": "vikendi",
-    "ukrainian_translation": "вихідні",
-    "example_sentence": "Vikend su proveli na selu, daleko od gradske gužve.",
-    "ukrainian_translation_sentence": "Вихідні вони провели в селі, подалі від міської метушні."
+    "ukrainianTranslation": "вихідні",
+    "exampleSentence": "Vikend su proveli na selu, daleko od gradske gužve.",
+    "ukrainianTranslationSentence": "Вихідні вони провели в селі, подалі від міської метушні."
   },
   {
     "singular": "vinogradar",
     "plural": "vinogradari",
-    "ukrainian_translation": "виноградар",
-    "example_sentence": "Vinogradari su se pripremali za berbu grožđa u rujnu.",
-    "ukrainian_translation_sentence": "Виноградарі готувалися до збору врожаю винограду у вересні."
+    "ukrainianTranslation": "виноградар",
+    "exampleSentence": "Vinogradari su se pripremali za berbu grožđa u rujnu.",
+    "ukrainianTranslationSentence": "Виноградарі готувалися до збору врожаю винограду у вересні."
   },
   {
     "singular": "vinogradarstvo",
     "plural": "vinogradarstva",
-    "ukrainian_translation": "виноградарство",
-    "example_sentence": "Vinogradarstvo je važan sektor poljoprivrede u toj regiji.",
-    "ukrainian_translation_sentence": "Виноградарство — важливий сектор сільського господарства в цьому регіоні."
+    "ukrainianTranslation": "виноградарство",
+    "exampleSentence": "Vinogradarstvo je važan sektor poljoprivrede u toj regiji.",
+    "ukrainianTranslationSentence": "Виноградарство — важливий сектор сільського господарства в цьому регіоні."
   },
   {
     "singular": "violinist",
     "plural": "violinisti",
-    "ukrainian_translation": "скрипаль",
-    "example_sentence": "Violinist je svirao predivnu melodiju na koncertu.",
-    "ukrainian_translation_sentence": "Скрипаль грав чудову мелодію на концерті."
+    "ukrainianTranslation": "скрипаль",
+    "exampleSentence": "Violinist je svirao predivnu melodiju na koncertu.",
+    "ukrainianTranslationSentence": "Скрипаль грав чудову мелодію на концерті."
   },
   {
     "singular": "vir",
     "plural": "virovi",
-    "ukrainian_translation": "вир",
-    "example_sentence": "Njihov čamac bio je uhvaćen u snažan vir na rijeci.",
-    "ukrainian_translation_sentence": "Їхній човен потрапив у сильний вир на річці."
+    "ukrainianTranslation": "вир",
+    "exampleSentence": "Njihov čamac bio je uhvaćen u snažan vir na rijeci.",
+    "ukrainianTranslationSentence": "Їхній човен потрапив у сильний вир на річці."
   },
   {
     "singular": "visina",
     "plural": "visine",
-    "ukrainian_translation": "висота",
-    "example_sentence": "Visina planine izazvala je divljenje među penjačima.",
-    "ukrainian_translation_sentence": "Висота гори викликала захоплення серед альпіністів."
+    "ukrainianTranslation": "висота",
+    "exampleSentence": "Visina planine izazvala je divljenje među penjačima.",
+    "ukrainianTranslationSentence": "Висота гори викликала захоплення серед альпіністів."
   },
   {
     "singular": "vizionar",
     "plural": "vizionari",
-    "ukrainian_translation": "візіонер",
-    "example_sentence": "On je bio vizionar u svojoj industriji, donoseći inovacije.",
-    "ukrainian_translation_sentence": "Він був візіонером у своїй галузі, впроваджуючи інновації."
+    "ukrainianTranslation": "візіонер",
+    "exampleSentence": "On je bio vizionar u svojoj industriji, donoseći inovacije.",
+    "ukrainianTranslationSentence": "Він був візіонером у своїй галузі, впроваджуючи інновації."
   },
   {
     "singular": "vizualizacija",
     "plural": "vizualizacije",
-    "ukrainian_translation": "візуалізація",
-    "example_sentence": "Vizualizacija podataka pomogla je boljem razumijevanju rezultata istraživanja.",
-    "ukrainian_translation_sentence": "Візуалізація даних допомогла краще зрозуміти результати дослідження."
+    "ukrainianTranslation": "візуалізація",
+    "exampleSentence": "Vizualizacija podataka pomogla je boljem razumijevanju rezultata istraživanja.",
+    "ukrainianTranslationSentence": "Візуалізація даних допомогла краще зрозуміти результати дослідження."
   },
   {
     "singular": "vjenčanica",
     "plural": "vjenčanice",
-    "ukrainian_translation": "весільна сукня",
-    "example_sentence": "Mlada je nosila predivnu bijelu vjenčanicu na svom vjenčanju.",
-    "ukrainian_translation_sentence": "Наречена була в чудовій білій весільній сукні на своєму весіллі."
+    "ukrainianTranslation": "весільна сукня",
+    "exampleSentence": "Mlada je nosila predivnu bijelu vjenčanicu na svom vjenčanju.",
+    "ukrainianTranslationSentence": "Наречена була в чудовій білій весільній сукні на своєму весіллі."
   },
   {
     "singular": "vještačenje",
     "plural": "vještačenja",
-    "ukrainian_translation": "експертиза",
-    "example_sentence": "Vještačenje je potvrdilo autentičnost umjetničkog djela.",
-    "ukrainian_translation_sentence": "Експертиза підтвердила автентичність художнього твору."
+    "ukrainianTranslation": "експертиза",
+    "exampleSentence": "Vještačenje je potvrdilo autentičnost umjetničkog djela.",
+    "ukrainianTranslationSentence": "Експертиза підтвердила автентичність художнього твору."
   },
   {
     "singular": "vjeverica",
     "plural": "vjeverice",
-    "ukrainian_translation": "білка",
-    "example_sentence": "Vjeverica je brzo skakala s jednog stabla na drugo.",
-    "ukrainian_translation_sentence": "Білка швидко стрибала з одного дерева на інше."
+    "ukrainianTranslation": "білка",
+    "exampleSentence": "Vjeverica je brzo skakala s jednog stabla na drugo.",
+    "ukrainianTranslationSentence": "Білка швидко стрибала з одного дерева на інше."
   },
   {
     "singular": "vlakno",
     "plural": "vlakna",
-    "ukrainian_translation": "волокно",
-    "example_sentence": "Svako vlakno u tkanini pridonosilo je njezinoj čvrstoći.",
-    "ukrainian_translation_sentence": "Кожне волокно в тканині додавало їй міцності."
+    "ukrainianTranslation": "волокно",
+    "exampleSentence": "Svako vlakno u tkanini pridonosilo je njezinoj čvrstoći.",
+    "ukrainianTranslationSentence": "Кожне волокно в тканині додавало їй міцності."
   }
 ]

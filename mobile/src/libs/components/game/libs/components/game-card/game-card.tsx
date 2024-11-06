@@ -67,7 +67,7 @@ const QuestionContent: React.FC<QuestionContentProperties> = ({
 					globalStyles.r16,
 				]}
 			>
-				<Text color={BaseColor.BROWN} style={styles.cardCount}>
+				<Text color={BaseColor.WHITE} style={styles.cardCount}>
 					{cardCount}
 				</Text>
 				<View
@@ -77,7 +77,7 @@ const QuestionContent: React.FC<QuestionContentProperties> = ({
 						globalStyles.alignItemsCenter,
 					]}
 				>
-					<Text color={BaseColor.WHITE} preset="uppercase">
+					<Text color={BaseColor.WHITE} preset='uppercase'>
 						{content}
 					</Text>
 				</View>
@@ -155,10 +155,10 @@ const GameCard: React.FC<GameCardProperties> = ({
 				<TwoOptionsCard
 					addedStyles={styles.card}
 					cardCount={cardCount}
-					noButtonLabel="Неправильно"
+					noButtonLabel='Неправильно'
 					onNoButtonPress={onCardWrongButtonPress}
 					onYesButtonPress={onCardRightButtonPress}
-					yesButtonLabel="Правильно"
+					yesButtonLabel='Правильно'
 				>
 					<Text color={BaseColor.BROWN} style={styles.cardCount}>
 						{cardCount}

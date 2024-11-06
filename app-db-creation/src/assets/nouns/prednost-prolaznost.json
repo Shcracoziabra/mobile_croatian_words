@@ -2,351 +2,351 @@
 	{
     "singular": "prednost",
     "plural": "prednosti",
-    "ukrainian_translation": "перевага",
-    "example_sentence": "Njegova visina bila je prednost u košarci.",
-    "ukrainian_translation_sentence": "Його зріст був перевагою в баскетболі."
+    "ukrainianTranslation": "перевага",
+    "exampleSentence": "Njegova visina bila je prednost u košarci.",
+    "ukrainianTranslationSentence": "Його зріст був перевагою в баскетболі."
   },
   {
     "singular": "predstojnik",
     "plural": "predstojnici",
-    "ukrainian_translation": "керівник",
-    "example_sentence": "Predstojnik odjela predstavio je novu strategiju.",
-    "ukrainian_translation_sentence": "Керівник відділу представив нову стратегію."
+    "ukrainianTranslation": "керівник",
+    "exampleSentence": "Predstojnik odjela predstavio je novu strategiju.",
+    "ukrainianTranslationSentence": "Керівник відділу представив нову стратегію."
   },
   {
     "singular": "predznanje",
     "plural": "predznanja",
-    "ukrainian_translation": "попереднє знання",
-    "example_sentence": "Za ovaj tečaj potrebno je predznanje iz matematike.",
-    "ukrainian_translation_sentence": "Для цього курсу потрібні попередні знання з математики."
+    "ukrainianTranslation": "попереднє знання",
+    "exampleSentence": "Za ovaj tečaj potrebno je predznanje iz matematike.",
+    "ukrainianTranslationSentence": "Для цього курсу потрібні попередні знання з математики."
   },
   {
     "singular": "preferencija",
     "plural": "preferencije",
-    "ukrainian_translation": "перевага",
-    "example_sentence": "Njegova preferencija bila je putovanje avionom umjesto vlakom.",
-    "ukrainian_translation_sentence": "Він віддавав перевагу подорожам літаком, а не поїздом."
+    "ukrainianTranslation": "перевага",
+    "exampleSentence": "Njegova preferencija bila je putovanje avionom umjesto vlakom.",
+    "ukrainianTranslationSentence": "Він віддавав перевагу подорожам літаком, а не поїздом."
   },
   {
     "singular": "preglednost",
     "plural": "preglednosti",
-    "ukrainian_translation": "оглядовість",
-    "example_sentence": "Preglednost na cesti bila je smanjena zbog guste magle.",
-    "ukrainian_translation_sentence": "Оглядовість на дорозі була знижена через густий туман."
+    "ukrainianTranslation": "оглядовість",
+    "exampleSentence": "Preglednost na cesti bila je smanjena zbog guste magle.",
+    "ukrainianTranslationSentence": "Оглядовість на дорозі була знижена через густий туман."
   },
 	{
     "singular": "pregovor",
     "plural": "pregovori",
-    "ukrainian_translation": "переговори",
-    "example_sentence": "Pregovori između dviju strana trajali su cijeli tjedan.",
-    "ukrainian_translation_sentence": "Переговори між двома сторонами тривали цілий тиждень."
+    "ukrainianTranslation": "переговори",
+    "exampleSentence": "Pregovori između dviju strana trajali su cijeli tjedan.",
+    "ukrainianTranslationSentence": "Переговори між двома сторонами тривали цілий тиждень."
   },
   {
     "singular": "prehrana",
     "plural": "prehrane",
-    "ukrainian_translation": "харчування",
-    "example_sentence": "Zdrava prehrana je ključna za dugovječnost.",
-    "ukrainian_translation_sentence": "Здорове харчування є ключовим для довголіття."
+    "ukrainianTranslation": "харчування",
+    "exampleSentence": "Zdrava prehrana je ključna za dugovječnost.",
+    "ukrainianTranslationSentence": "Здорове харчування є ключовим для довголіття."
   },
   {
     "singular": "prekid",
     "plural": "prekidi",
-    "ukrainian_translation": "перерва",
-    "example_sentence": "Zbog tehničkih poteškoća došlo je do prekida programa.",
-    "ukrainian_translation_sentence": "Через технічні труднощі сталася перерва у програмі."
+    "ukrainianTranslation": "перерва",
+    "exampleSentence": "Zbog tehničkih poteškoća došlo je do prekida programa.",
+    "ukrainianTranslationSentence": "Через технічні труднощі сталася перерва у програмі."
   },
   {
     "singular": "preljev",
     "plural": "preljevi",
-    "ukrainian_translation": "соус",
-    "example_sentence": "Salatu su prelili domaćim preljevom od maslinovog ulja.",
-    "ukrainian_translation_sentence": "Салат було полито домашнім соусом з оливкової олії."
+    "ukrainianTranslation": "соус",
+    "exampleSentence": "Salatu su prelili domaćim preljevom od maslinovog ulja.",
+    "ukrainianTranslationSentence": "Салат було полито домашнім соусом з оливкової олії."
   },
   {
     "singular": "premijera",
     "plural": "premijere",
-    "ukrainian_translation": "прем'єра",
-    "example_sentence": "Premijera novog filma bila je izuzetno uspješna.",
-    "ukrainian_translation_sentence": "Прем'єра нового фільму була надзвичайно успішною."
+    "ukrainianTranslation": "прем'єра",
+    "exampleSentence": "Premijera novog filma bila je izuzetno uspješna.",
+    "ukrainianTranslationSentence": "Прем'єра нового фільму була надзвичайно успішною."
   },
   {
     "singular": "prenamjena",
     "plural": "prenamjene",
-    "ukrainian_translation": "перепланування",
-    "example_sentence": "Prenamjena stare zgrade u muzej trajala je nekoliko mjeseci.",
-    "ukrainian_translation_sentence": "Перепланування старої будівлі під музей тривало кілька місяців."
+    "ukrainianTranslation": "перепланування",
+    "exampleSentence": "Prenamjena stare zgrade u muzej trajala je nekoliko mjeseci.",
+    "ukrainianTranslationSentence": "Перепланування старої будівлі під музей тривало кілька місяців."
   },
   {
     "singular": "prerada",
     "plural": "prerade",
-    "ukrainian_translation": "переробка",
-    "example_sentence": "Prerada sirovih materijala je ključan dio industrije.",
-    "ukrainian_translation_sentence": "Переробка сировини є ключовою частиною промисловості."
+    "ukrainianTranslation": "переробка",
+    "exampleSentence": "Prerada sirovih materijala je ključan dio industrije.",
+    "ukrainianTranslationSentence": "Переробка сировини є ключовою частиною промисловості."
   },
   {
     "singular": "presedan",
     "plural": "presedani",
-    "ukrainian_translation": "прецедент",
-    "example_sentence": "Ovaj slučaj postavio je važan pravni presedan.",
-    "ukrainian_translation_sentence": "Ця справа створила важливий правовий прецедент."
+    "ukrainianTranslation": "прецедент",
+    "exampleSentence": "Ovaj slučaj postavio je važan pravni presedan.",
+    "ukrainianTranslationSentence": "Ця справа створила важливий правовий прецедент."
   },
   {
     "singular": "preseljenje",
     "plural": "preseljenja",
-    "ukrainian_translation": "переїзд",
-    "example_sentence": "Preseljenje u novi stan bilo je iscrpljujuće.",
-    "ukrainian_translation_sentence": "Переїзд у нову квартиру був виснажливим."
+    "ukrainianTranslation": "переїзд",
+    "exampleSentence": "Preseljenje u novi stan bilo je iscrpljujuće.",
+    "ukrainianTranslationSentence": "Переїзд у нову квартиру був виснажливим."
   },
   {
     "singular": "presing",
     "plural": "presinzi",
-    "ukrainian_translation": "тиск",
-    "example_sentence": "Pod stalnim presingom, ekipa je postigla pobjedu.",
-    "ukrainian_translation_sentence": "Під постійним тиском команда здобула перемогу."
+    "ukrainianTranslation": "тиск",
+    "exampleSentence": "Pod stalnim presingom, ekipa je postigla pobjedu.",
+    "ukrainianTranslationSentence": "Під постійним тиском команда здобула перемогу."
   },
   {
     "singular": "pretjerivanje",
     "plural": "pretjerivanja",
-    "ukrainian_translation": "перебільшення",
-    "example_sentence": "Pretjerivanje u radu može dovesti do stresa.",
-    "ukrainian_translation_sentence": "Перебільшення у роботі може призвести до стресу."
+    "ukrainianTranslation": "перебільшення",
+    "exampleSentence": "Pretjerivanje u radu može dovesti do stresa.",
+    "ukrainianTranslationSentence": "Перебільшення у роботі може призвести до стресу."
   },
   {
     "singular": "pretpostavka",
     "plural": "pretpostavke",
-    "ukrainian_translation": "припущення",
-    "example_sentence": "Njegova pretpostavka o rezultatu bila je točna.",
-    "ukrainian_translation_sentence": "Його припущення щодо результату виявилося точним."
+    "ukrainianTranslation": "припущення",
+    "exampleSentence": "Njegova pretpostavka o rezultatu bila je točna.",
+    "ukrainianTranslationSentence": "Його припущення щодо результату виявилося точним."
   },
   {
     "singular": "pričanje",
     "plural": "pričanja",
-    "ukrainian_translation": "розповідання",
-    "example_sentence": "Djeca su uživala u pričanju priča prije spavanja.",
-    "ukrainian_translation_sentence": "Діти насолоджувалися розповіданням історій перед сном."
+    "ukrainianTranslation": "розповідання",
+    "exampleSentence": "Djeca su uživala u pričanju priča prije spavanja.",
+    "ukrainianTranslationSentence": "Діти насолоджувалися розповіданням історій перед сном."
   },
   {
     "singular": "prihod",
     "plural": "prihodi",
-    "ukrainian_translation": "дохід",
-    "example_sentence": "Prihod tvrtke se povećao zahvaljujući novim projektima.",
-    "ukrainian_translation_sentence": "Дохід компанії зріс завдяки новим проєктам."
+    "ukrainianTranslation": "дохід",
+    "exampleSentence": "Prihod tvrtke se povećao zahvaljujući novim projektima.",
+    "ukrainianTranslationSentence": "Дохід компанії зріс завдяки новим проєктам."
   },
   {
     "singular": "prijava",
     "plural": "prijave",
-    "ukrainian_translation": "заявка",
-    "example_sentence": "Prijava za natjecanje mora biti poslana do petka.",
-    "ukrainian_translation_sentence": "Заявку на конкурс потрібно подати до п'ятниці."
+    "ukrainianTranslation": "заявка",
+    "exampleSentence": "Prijava za natjecanje mora biti poslana do petka.",
+    "ukrainianTranslationSentence": "Заявку на конкурс потрібно подати до п'ятниці."
   },
   {
     "singular": "prijavljivanje",
     "plural": "prijavljivanja",
-    "ukrainian_translation": "реєстрація",
-    "example_sentence": "Prijavljivanje na seminar otvoreno je do kraja mjeseca.",
-    "ukrainian_translation_sentence": "Реєстрація на семінар відкрита до кінця місяця."
+    "ukrainianTranslation": "реєстрація",
+    "exampleSentence": "Prijavljivanje na seminar otvoreno je do kraja mjeseca.",
+    "ukrainianTranslationSentence": "Реєстрація на семінар відкрита до кінця місяця."
   },
   {
     "singular": "prijelaz",
     "plural": "prijelazi",
-    "ukrainian_translation": "перехід",
-    "example_sentence": "Prijelaz iz škole na fakultet može biti izazovan.",
-    "ukrainian_translation_sentence": "Перехід зі школи до університету може бути складним."
+    "ukrainianTranslation": "перехід",
+    "exampleSentence": "Prijelaz iz škole na fakultet može biti izazovan.",
+    "ukrainianTranslationSentence": "Перехід зі школи до університету може бути складним."
   },
   {
     "singular": "prijenos",
     "plural": "prijenosi",
-    "ukrainian_translation": "трансляція",
-    "example_sentence": "Prijenos utakmice pratili su milijuni gledatelja.",
-    "ukrainian_translation_sentence": "Трансляцію матчу дивилися мільйони глядачів."
+    "ukrainianTranslation": "трансляція",
+    "exampleSentence": "Prijenos utakmice pratili su milijuni gledatelja.",
+    "ukrainianTranslationSentence": "Трансляцію матчу дивилися мільйони глядачів."
   },
   {
     "singular": "prijetnja",
     "plural": "prijetnje",
-    "ukrainian_translation": "загроза",
-    "example_sentence": "Prijetnja nasiljem ozbiljno je shvaćena od strane vlasti.",
-    "ukrainian_translation_sentence": "Загрозу насильством серйозно сприйняли органи влади."
+    "ukrainianTranslation": "загроза",
+    "exampleSentence": "Prijetnja nasiljem ozbiljno je shvaćena od strane vlasti.",
+    "ukrainianTranslationSentence": "Загрозу насильством серйозно сприйняли органи влади."
   },
   {
     "singular": "prijevoz",
     "plural": "prijevozi",
-    "ukrainian_translation": "транспорт",
-    "example_sentence": "Prijevoz robe organiziran je preko međunarodne tvrtke.",
-    "ukrainian_translation_sentence": "Транспорт товарів організували через міжнародну компанію."
+    "ukrainianTranslation": "транспорт",
+    "exampleSentence": "Prijevoz robe organiziran je preko međunarodne tvrtke.",
+    "ukrainianTranslationSentence": "Транспорт товарів організували через міжнародну компанію."
   },
 	{
     "singular": "prikaz",
     "plural": "prikazi",
-    "ukrainian_translation": "відображення",
-    "example_sentence": "Prikaz bitke na platnu impresionirao je sve prisutne.",
-    "ukrainian_translation_sentence": "Відображення битви на полотні вразило всіх присутніх."
+    "ukrainianTranslation": "відображення",
+    "exampleSentence": "Prikaz bitke na platnu impresionirao je sve prisutne.",
+    "ukrainianTranslationSentence": "Відображення битви на полотні вразило всіх присутніх."
   },
   {
     "singular": "prikolica",
     "plural": "prikolice",
-    "ukrainian_translation": "причіп",
-    "example_sentence": "Prikolica je bila napunjena građevinskim materijalom.",
-    "ukrainian_translation_sentence": "Причіп був заповнений будівельними матеріалами."
+    "ukrainianTranslation": "причіп",
+    "exampleSentence": "Prikolica je bila napunjena građevinskim materijalom.",
+    "ukrainianTranslationSentence": "Причіп був заповнений будівельними матеріалами."
   },
   {
     "singular": "priljev",
     "plural": "priljevi",
-    "ukrainian_translation": "притік",
-    "example_sentence": "Priljev investicija značajno je poboljšao stanje na tržištu.",
-    "ukrainian_translation_sentence": "Притік інвестицій значно покращив ситуацію на ринку."
+    "ukrainianTranslation": "притік",
+    "exampleSentence": "Priljev investicija značajno je poboljšao stanje na tržištu.",
+    "ukrainianTranslationSentence": "Притік інвестицій значно покращив ситуацію на ринку."
   },
   {
     "singular": "primat",
     "plural": "primati",
-    "ukrainian_translation": "примат",
-    "example_sentence": "Primati su vrlo inteligentne životinje koje žive u skupinama.",
-    "ukrainian_translation_sentence": "Примати — це дуже розумні тварини, які живуть групами."
+    "ukrainianTranslation": "примат",
+    "exampleSentence": "Primati su vrlo inteligentne životinje koje žive u skupinama.",
+    "ukrainianTranslationSentence": "Примати — це дуже розумні тварини, які живуть групами."
   },
   {
     "singular": "primjer",
     "plural": "primjeri",
-    "ukrainian_translation": "приклад",
-    "example_sentence": "Ovaj primjer dobro ilustrira kako funkcionira sustav.",
-    "ukrainian_translation_sentence": "Цей приклад добре ілюструє, як працює система."
+    "ukrainianTranslation": "приклад",
+    "exampleSentence": "Ovaj primjer dobro ilustrira kako funkcionira sustav.",
+    "ukrainianTranslationSentence": "Цей приклад добре ілюструє, як працює система."
   },
   {
     "singular": "prinos",
     "plural": "prinosi",
-    "ukrainian_translation": "врожай",
-    "example_sentence": "Ovogodišnji prinos bio je bolji nego prošle godine.",
-    "ukrainian_translation_sentence": "Цьогорічний врожай був кращим, ніж минулого року."
+    "ukrainianTranslation": "врожай",
+    "exampleSentence": "Ovogodišnji prinos bio je bolji nego prošle godine.",
+    "ukrainianTranslationSentence": "Цьогорічний врожай був кращим, ніж минулого року."
   },
   {
     "singular": "pripadnik",
     "plural": "pripadnici",
-    "ukrainian_translation": "член",
-    "example_sentence": "On je dugogodišnji pripadnik lokalne zajednice.",
-    "ukrainian_translation_sentence": "Він є давнім членом місцевої громади."
+    "ukrainianTranslation": "член",
+    "exampleSentence": "On je dugogodišnji pripadnik lokalne zajednice.",
+    "ukrainianTranslationSentence": "Він є давнім членом місцевої громади."
   },
   {
     "singular": "pripajanje",
     "plural": "pripajanja",
-    "ukrainian_translation": "приєднання",
-    "example_sentence": "Pripajanje manjih tvrtki omogućilo je širenje tržišta.",
-    "ukrainian_translation_sentence": "Приєднання менших компаній дозволило розширити ринок."
+    "ukrainianTranslation": "приєднання",
+    "exampleSentence": "Pripajanje manjih tvrtki omogućilo je širenje tržišta.",
+    "ukrainianTranslationSentence": "Приєднання менших компаній дозволило розширити ринок."
   },
   {
     "singular": "pripovijest",
     "plural": "pripovijesti",
-    "ukrainian_translation": "розповідь",
-    "example_sentence": "Njegova pripovijest o putovanju bila je fascinantna.",
-    "ukrainian_translation_sentence": "Його розповідь про подорож була захоплюючою."
+    "ukrainianTranslation": "розповідь",
+    "exampleSentence": "Njegova pripovijest o putovanju bila je fascinantna.",
+    "ukrainianTranslationSentence": "Його розповідь про подорож була захоплюючою."
   },
   {
     "singular": "pripravak",
     "plural": "pripravci",
-    "ukrainian_translation": "препарат",
-    "example_sentence": "Ljekarnik je preporučio prirodni pripravak za bolove.",
-    "ukrainian_translation_sentence": "Аптекар порадив натуральний препарат від болю."
+    "ukrainianTranslation": "препарат",
+    "exampleSentence": "Ljekarnik je preporučio prirodni pripravak za bolove.",
+    "ukrainianTranslationSentence": "Аптекар порадив натуральний препарат від болю."
   },
   {
     "singular": "priprema",
     "plural": "pripreme",
-    "ukrainian_translation": "підготовка",
-    "example_sentence": "Priprema za ispit zahtijevala je mnogo vremena.",
-    "ukrainian_translation_sentence": "Підготовка до іспиту вимагала багато часу."
+    "ukrainianTranslation": "підготовка",
+    "exampleSentence": "Priprema za ispit zahtijevala je mnogo vremena.",
+    "ukrainianTranslationSentence": "Підготовка до іспиту вимагала багато часу."
   },
   {
     "singular": "pristanište",
     "plural": "pristaništa",
-    "ukrainian_translation": "пристань",
-    "example_sentence": "Brodovi su pristajali na malom pristaništu.",
-    "ukrainian_translation_sentence": "Кораблі причалювали до маленької пристані."
+    "ukrainianTranslation": "пристань",
+    "exampleSentence": "Brodovi su pristajali na malom pristaništu.",
+    "ukrainianTranslationSentence": "Кораблі причалювали до маленької пристані."
   },
   {
     "singular": "pristojba",
     "plural": "pristojbe",
-    "ukrainian_translation": "збір",
-    "example_sentence": "Plaćanje pristojbe je obavezno pri registraciji automobila.",
-    "ukrainian_translation_sentence": "Оплата збору є обов'язковою при реєстрації автомобіля."
+    "ukrainianTranslation": "збір",
+    "exampleSentence": "Plaćanje pristojbe je obavezno pri registraciji automobila.",
+    "ukrainianTranslationSentence": "Оплата збору є обов'язковою при реєстрації автомобіля."
   },
   {
     "singular": "pristup",
     "plural": "pristupi",
-    "ukrainian_translation": "доступ",
-    "example_sentence": "Pristup internetu omogućuje brzo pronalaženje informacija.",
-    "ukrainian_translation_sentence": "Доступ до інтернету дозволяє швидко знаходити інформацію."
+    "ukrainianTranslation": "доступ",
+    "exampleSentence": "Pristup internetu omogućuje brzo pronalaženje informacija.",
+    "ukrainianTranslationSentence": "Доступ до інтернету дозволяє швидко знаходити інформацію."
   },
   {
     "singular": "prisustvo",
     "plural": "prisustva",
-    "ukrainian_translation": "присутність",
-    "example_sentence": "Njegovo prisustvo na sastanku bilo je neophodno.",
-    "ukrainian_translation_sentence": "Його присутність на зустрічі була необхідною."
+    "ukrainianTranslation": "присутність",
+    "exampleSentence": "Njegovo prisustvo na sastanku bilo je neophodno.",
+    "ukrainianTranslationSentence": "Його присутність на зустрічі була необхідною."
   },
   {
     "singular": "pritisak",
     "plural": "pritisci",
-    "ukrainian_translation": "тиск",
-    "example_sentence": "Pritisak na poslu doveo je do stresa.",
-    "ukrainian_translation_sentence": "Тиск на роботі призвів до стресу."
+    "ukrainianTranslation": "тиск",
+    "exampleSentence": "Pritisak na poslu doveo je do stresa.",
+    "ukrainianTranslationSentence": "Тиск на роботі призвів до стресу."
   },
   {
     "singular": "prizvuk",
     "plural": "prizvuci",
-    "ukrainian_translation": "відтінок",
-    "example_sentence": "U njegovim riječima osjećao se prizvuk ironije.",
-    "ukrainian_translation_sentence": "У його словах відчувався відтінок іронії."
+    "ukrainianTranslation": "відтінок",
+    "exampleSentence": "U njegovim riječima osjećao se prizvuk ironije.",
+    "ukrainianTranslationSentence": "У його словах відчувався відтінок іронії."
   },
   {
     "singular": "pročelje",
     "plural": "pročelja",
-    "ukrainian_translation": "фасад",
-    "example_sentence": "Pročelje zgrade bilo je ukrašeno skulpturama.",
-    "ukrainian_translation_sentence": "Фасад будівлі був прикрашений скульптурами."
+    "ukrainianTranslation": "фасад",
+    "exampleSentence": "Pročelje zgrade bilo je ukrašeno skulpturama.",
+    "ukrainianTranslationSentence": "Фасад будівлі був прикрашений скульптурами."
   },
   {
     "singular": "prodavačica",
     "plural": "prodavačice",
-    "ukrainian_translation": "продавчиня",
-    "example_sentence": "Prodavačica je pomogla kupcu pronaći pravu veličinu.",
-    "ukrainian_translation_sentence": "Продавчиня допомогла покупцеві знайти правильний розмір."
+    "ukrainianTranslation": "продавчиня",
+    "exampleSentence": "Prodavačica je pomogla kupcu pronaći pravu veličinu.",
+    "ukrainianTranslationSentence": "Продавчиня допомогла покупцеві знайти правильний розмір."
   },
   {
     "singular": "produženje",
     "plural": "produženja",
-    "ukrainian_translation": "продовження",
-    "example_sentence": "Produženje ugovora potpisano je na još jednu godinu.",
-    "ukrainian_translation_sentence": "Продовження контракту було підписано ще на один рік."
+    "ukrainianTranslation": "продовження",
+    "exampleSentence": "Produženje ugovora potpisano je na još jednu godinu.",
+    "ukrainianTranslationSentence": "Продовження контракту було підписано ще на один рік."
   },
 	{
     "singular": "proizvod",
     "plural": "proizvodi",
-    "ukrainian_translation": "продукт",
-    "example_sentence": "Proizvod ove tvrtke je vrlo popularan na tržištu.",
-    "ukrainian_translation_sentence": "Продукт цієї компанії дуже популярний на ринку."
+    "ukrainianTranslation": "продукт",
+    "exampleSentence": "Proizvod ove tvrtke je vrlo popularan na tržištu.",
+    "ukrainianTranslationSentence": "Продукт цієї компанії дуже популярний на ринку."
   },
   {
     "singular": "proizvođač",
     "plural": "proizvođači",
-    "ukrainian_translation": "виробник",
-    "example_sentence": "Proizvođač automobila lansirao je novi model.",
-    "ukrainian_translation_sentence": "Виробник автомобілів випустив нову модель."
+    "ukrainianTranslation": "виробник",
+    "exampleSentence": "Proizvođač automobila lansirao je novi model.",
+    "ukrainianTranslationSentence": "Виробник автомобілів випустив нову модель."
   },
   {
     "singular": "projekcija",
     "plural": "projekcije",
-    "ukrainian_translation": "проекція",
-    "example_sentence": "Projekcija filma održana je u lokalnom kinu.",
-    "ukrainian_translation_sentence": "Проекція фільму відбулася в місцевому кінотеатрі."
+    "ukrainianTranslation": "проекція",
+    "exampleSentence": "Projekcija filma održana je u lokalnom kinu.",
+    "ukrainianTranslationSentence": "Проекція фільму відбулася в місцевому кінотеатрі."
   },
   {
     "singular": "projekt",
     "plural": "projekti",
-    "ukrainian_translation": "проєкт",
-    "example_sentence": "Novi projekt će donijeti poboljšanja u prometnoj infrastrukturi.",
-    "ukrainian_translation_sentence": "Новий проєкт принесе покращення в транспортну інфраструктуру."
+    "ukrainianTranslation": "проєкт",
+    "exampleSentence": "Novi projekt će donijeti poboljšanja u prometnoj infrastrukturi.",
+    "ukrainianTranslationSentence": "Новий проєкт принесе покращення в транспортну інфраструктуру."
   },
   {
     "singular": "prolaznost",
     "plural": "prolaznosti",
-    "ukrainian_translation": "минущість",
-    "example_sentence": "Tema prolaznosti života česta je u umjetnosti.",
-    "ukrainian_translation_sentence": "Тема минущості життя часто зустрічається в мистецтві."
+    "ukrainianTranslation": "минущість",
+    "exampleSentence": "Tema prolaznosti života česta je u umjetnosti.",
+    "ukrainianTranslationSentence": "Тема минущості життя часто зустрічається в мистецтві."
   }
 ]

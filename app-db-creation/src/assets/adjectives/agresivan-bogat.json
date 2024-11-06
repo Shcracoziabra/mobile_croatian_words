@@ -3,400 +3,400 @@
     "maskuline": "agresivan",
     "feminine": "agresivna",
     "neutrum": "agresivno",
-    "ukrainian_translation": "агресивний",
-    "example_sentence": "Njegov agresivan stav prema kolegama izazvao je konflikt.",
-    "ukrainian_translation_sentence": "Його агресивне ставлення до колег спричинило конфлікт."
+    "ukrainianTranslation": "агресивний",
+    "exampleSentence": "Njegov agresivan stav prema kolegama izazvao je konflikt.",
+    "ukrainianTranslationSentence": "Його агресивне ставлення до колег спричинило конфлікт."
   },
   {
     "maskuline": "akcijski",
     "feminine": "akcijska",
     "neutrum": "akcijsko",
-    "ukrainian_translation": "екшн",
-    "example_sentence": "Film je bio pun uzbudljivih akcijskih scena.",
-    "ukrainian_translation_sentence": "Фільм був наповнений захоплюючими екшн-сценами."
+    "ukrainianTranslation": "екшн",
+    "exampleSentence": "Film je bio pun uzbudljivih akcijskih scena.",
+    "ukrainianTranslationSentence": "Фільм був наповнений захоплюючими екшн-сценами."
   },
   {
     "maskuline": "akustičan",
     "feminine": "akustična",
     "neutrum": "akustično",
-    "ukrainian_translation": "акустичний",
-    "example_sentence": "Akustičan koncert u maloj sali bio je nevjerojatno iskustvo.",
-    "ukrainian_translation_sentence": "Акустичний концерт у маленькому залі був неймовірним досвідом."
+    "ukrainianTranslation": "акустичний",
+    "exampleSentence": "Akustičan koncert u maloj sali bio je nevjerojatno iskustvo.",
+    "ukrainianTranslationSentence": "Акустичний концерт у маленькому залі був неймовірним досвідом."
   },
   {
     "maskuline": "alergijski",
     "feminine": "alergijska",
     "neutrum": "alergijsko",
-    "ukrainian_translation": "алергійний",
-    "example_sentence": "Imala je alergijsku reakciju na cvjetni pelud.",
-    "ukrainian_translation_sentence": "У неї була алергійна реакція на пилок квітів."
+    "ukrainianTranslation": "алергійний",
+    "exampleSentence": "Imala je alergijsku reakciju na cvjetni pelud.",
+    "ukrainianTranslationSentence": "У неї була алергійна реакція на пилок квітів."
   },
   {
     "maskuline": "alkoholni",
     "feminine": "alkoholna",
     "neutrum": "alkoholno",
-    "ukrainian_translation": "алкогольний",
-    "example_sentence": "Ovaj koktel ima alkoholni sastojak.",
-    "ukrainian_translation_sentence": "Цей коктейль містить алкогольний інгредієнт."
+    "ukrainianTranslation": "алкогольний",
+    "exampleSentence": "Ovaj koktel ima alkoholni sastojak.",
+    "ukrainianTranslationSentence": "Цей коктейль містить алкогольний інгредієнт."
   },
   {
     "maskuline": "alternativan",
     "feminine": "alternativna",
     "neutrum": "alternativno",
-    "ukrainian_translation": "альтернативний",
-    "example_sentence": "Razmotrili su alternativan pristup rješavanju problema.",
-    "ukrainian_translation_sentence": "Вони розглянули альтернативний підхід до вирішення проблеми."
+    "ukrainianTranslation": "альтернативний",
+    "exampleSentence": "Razmotrili su alternativan pristup rješavanju problema.",
+    "ukrainianTranslationSentence": "Вони розглянули альтернативний підхід до вирішення проблеми."
   },
   {
     "maskuline": "amaterski",
     "feminine": "amaterska",
     "neutrum": "amatersko",
-    "ukrainian_translation": "аматорський",
-    "example_sentence": "Amaterski glumci su izveli odličnu predstavu.",
-    "ukrainian_translation_sentence": "Аматорські актори виконали чудову виставу."
+    "ukrainianTranslation": "аматорський",
+    "exampleSentence": "Amaterski glumci su izveli odličnu predstavu.",
+    "ukrainianTranslationSentence": "Аматорські актори виконали чудову виставу."
   },
   {
     "maskuline": "analitički",
     "feminine": "analitička",
     "neutrum": "analitičko",
-    "ukrainian_translation": "аналітичний",
-    "example_sentence": "Njegov analitički um pomogao je timu riješiti složeni problem.",
-    "ukrainian_translation_sentence": "Його аналітичний розум допоміг команді вирішити складну проблему."
+    "ukrainianTranslation": "аналітичний",
+    "exampleSentence": "Njegov analitički um pomogao je timu riješiti složeni problem.",
+    "ukrainianTranslationSentence": "Його аналітичний розум допоміг команді вирішити складну проблему."
   },
   {
     "maskuline": "analogan",
     "feminine": "analogna",
     "neutrum": "analogno",
-    "ukrainian_translation": "аналоговий",
-    "example_sentence": "Stari analogan sat imao je svoju posebnu čar.",
-    "ukrainian_translation_sentence": "Старий аналоговий годинник мав свій особливий шарм."
+    "ukrainianTranslation": "аналоговий",
+    "exampleSentence": "Stari analogan sat imao je svoju posebnu čar.",
+    "ukrainianTranslationSentence": "Старий аналоговий годинник мав свій особливий шарм."
   },
   {
     "maskuline": "anatomski",
     "feminine": "anatomska",
     "neutrum": "anatomsko",
-    "ukrainian_translation": "анатомічний",
-    "example_sentence": "Anatomski jastuk pruža bolju podršku za vrat.",
-    "ukrainian_translation_sentence": "Анатомічна подушка забезпечує кращу підтримку для шиї."
+    "ukrainianTranslation": "анатомічний",
+    "exampleSentence": "Anatomski jastuk pruža bolju podršku za vrat.",
+    "ukrainianTranslationSentence": "Анатомічна подушка забезпечує кращу підтримку для шиї."
   },
 	{
     "maskuline": "anđeoski",
     "feminine": "anđeoska",
     "neutrum": "anđeosko",
-    "ukrainian_translation": "ангельський",
-    "example_sentence": "Njezin anđeoski glas oduševio je publiku.",
-    "ukrainian_translation_sentence": "Її ангельський голос захопив публіку."
+    "ukrainianTranslation": "ангельський",
+    "exampleSentence": "Njezin anđeoski glas oduševio je publiku.",
+    "ukrainianTranslationSentence": "Її ангельський голос захопив публіку."
   },
   {
     "maskuline": "animiran",
     "feminine": "animirana",
     "neutrum": "animirano",
-    "ukrainian_translation": "анімаційний",
-    "example_sentence": "Djeca su uživala gledajući animirani film.",
-    "ukrainian_translation_sentence": "Діти насолоджувалися переглядом анімаційного фільму."
+    "ukrainianTranslation": "анімаційний",
+    "exampleSentence": "Djeca su uživala gledajući animirani film.",
+    "ukrainianTranslationSentence": "Діти насолоджувалися переглядом анімаційного фільму."
   },
   {
     "maskuline": "antivirusni",
     "feminine": "antivirusna",
     "neutrum": "antivirusno",
-    "ukrainian_translation": "антивірусний",
-    "example_sentence": "Instalirao je antivirusni program na svoje računalo.",
-    "ukrainian_translation_sentence": "Він встановив антивірусну програму на свій комп'ютер."
+    "ukrainianTranslation": "антивірусний",
+    "exampleSentence": "Instalirao je antivirusni program na svoje računalo.",
+    "ukrainianTranslationSentence": "Він встановив антивірусну програму на свій комп'ютер."
   },
   {
     "maskuline": "apsurdan",
     "feminine": "apsurdna",
     "neutrum": "apsurdno",
-    "ukrainian_translation": "абсурдний",
-    "example_sentence": "Njegov apsurdan prijedlog izazvao je smijeh.",
-    "ukrainian_translation_sentence": "Його абсурдна пропозиція викликала сміх."
+    "ukrainianTranslation": "абсурдний",
+    "exampleSentence": "Njegov apsurdan prijedlog izazvao je smijeh.",
+    "ukrainianTranslationSentence": "Його абсурдна пропозиція викликала сміх."
   },
   {
     "maskuline": "arogantan",
     "feminine": "arogantna",
     "neutrum": "arogantno",
-    "ukrainian_translation": "зарозумілий",
-    "example_sentence": "Arogantan stav često ga je dovodio u sukobe s drugima.",
-    "ukrainian_translation_sentence": "Його зарозуміла поведінка часто приводила до конфліктів з іншими."
+    "ukrainianTranslation": "зарозумілий",
+    "exampleSentence": "Arogantan stav često ga je dovodio u sukobe s drugima.",
+    "ukrainianTranslationSentence": "Його зарозуміла поведінка часто приводила до конфліктів з іншими."
   },
   {
     "maskuline": "asfaltni",
     "feminine": "asfaltna",
     "neutrum": "asfaltno",
-    "ukrainian_translation": "асфальтовий",
-    "example_sentence": "Asfaltni put vodi kroz selo do glavne ceste.",
-    "ukrainian_translation_sentence": "Асфальтована дорога веде через село до головної дороги."
+    "ukrainianTranslation": "асфальтовий",
+    "exampleSentence": "Asfaltni put vodi kroz selo do glavne ceste.",
+    "ukrainianTranslationSentence": "Асфальтована дорога веде через село до головної дороги."
   },
   {
     "maskuline": "atmosferski",
     "feminine": "atmosferska",
     "neutrum": "atmosfersko",
-    "ukrainian_translation": "атмосферний",
-    "example_sentence": "Atmosferski uvjeti su bili idealni za promatranje zvijezda.",
-    "ukrainian_translation_sentence": "Атмосферні умови були ідеальними для спостереження за зірками."
+    "ukrainianTranslation": "атмосферний",
+    "exampleSentence": "Atmosferski uvjeti su bili idealni za promatranje zvijezda.",
+    "ukrainianTranslationSentence": "Атмосферні умови були ідеальними для спостереження за зірками."
   },
   {
     "maskuline": "atomski",
     "feminine": "atomska",
     "neutrum": "atomsko",
-    "ukrainian_translation": "атомний",
-    "example_sentence": "Atomski reaktor koristi se za proizvodnju energije.",
-    "ukrainian_translation_sentence": "Атомний реактор використовується для виробництва енергії."
+    "ukrainianTranslation": "атомний",
+    "exampleSentence": "Atomski reaktor koristi se za proizvodnju energije.",
+    "ukrainianTranslationSentence": "Атомний реактор використовується для виробництва енергії."
   },
   {
     "maskuline": "autentičan",
     "feminine": "autentična",
     "neutrum": "autentično",
-    "ukrainian_translation": "автентичний",
-    "example_sentence": "Restoran nudi autentična jela lokalne kuhinje.",
-    "ukrainian_translation_sentence": "Ресторан пропонує автентичні страви місцевої кухні."
+    "ukrainianTranslation": "автентичний",
+    "exampleSentence": "Restoran nudi autentična jela lokalne kuhinje.",
+    "ukrainianTranslationSentence": "Ресторан пропонує автентичні страви місцевої кухні."
   },
   {
     "maskuline": "autohton",
     "feminine": "autohtona",
     "neutrum": "autohtono",
-    "ukrainian_translation": "автохтонний",
-    "example_sentence": "Autohtona flora ovog područja uključuje rijetke biljne vrste.",
-    "ukrainian_translation_sentence": "Автохтонна флора цього регіону включає рідкісні види рослин."
+    "ukrainianTranslation": "автохтонний",
+    "exampleSentence": "Autohtona flora ovog područja uključuje rijetke biljne vrste.",
+    "ukrainianTranslationSentence": "Автохтонна флора цього регіону включає рідкісні види рослин."
   },
 	{
     "maskuline": "automatski",
     "feminine": "automatska",
     "neutrum": "automatsko",
-    "ukrainian_translation": "автоматичний",
-    "example_sentence": "Vrata su se otvorila automatski čim je prišao.",
-    "ukrainian_translation_sentence": "Двері відкрилися автоматично, щойно він підійшов."
+    "ukrainianTranslation": "автоматичний",
+    "exampleSentence": "Vrata su se otvorila automatski čim je prišao.",
+    "ukrainianTranslationSentence": "Двері відкрилися автоматично, щойно він підійшов."
   },
   {
     "maskuline": "autorski",
     "feminine": "autorska",
     "neutrum": "autorsko",
-    "ukrainian_translation": "авторський",
-    "example_sentence": "Autorska prava za tu knjigu su zaštićena.",
-    "ukrainian_translation_sentence": "Авторські права на цю книгу захищені."
+    "ukrainianTranslation": "авторський",
+    "exampleSentence": "Autorska prava za tu knjigu su zaštićena.",
+    "ukrainianTranslationSentence": "Авторські права на цю книгу захищені."
   },
   {
     "maskuline": "avionski",
     "feminine": "avionska",
     "neutrum": "avionsko",
-    "ukrainian_translation": "авіаційний",
-    "example_sentence": "Avionski letovi su redovito kasnili zbog lošeg vremena.",
-    "ukrainian_translation_sentence": "Авіаційні рейси регулярно затримувалися через погану погоду."
+    "ukrainianTranslation": "авіаційний",
+    "exampleSentence": "Avionski letovi su redovito kasnili zbog lošeg vremena.",
+    "ukrainianTranslationSentence": "Авіаційні рейси регулярно затримувалися через погану погоду."
   },
   {
     "maskuline": "bajkovit",
     "feminine": "bajkovita",
     "neutrum": "bajkovito",
-    "ukrainian_translation": "казковий",
-    "example_sentence": "Njihovo vjenčanje bilo je bajkovito, kao iz snova.",
-    "ukrainian_translation_sentence": "Їхнє весілля було казковим, наче зі сну."
+    "ukrainianTranslation": "казковий",
+    "exampleSentence": "Njihovo vjenčanje bilo je bajkovito, kao iz snova.",
+    "ukrainianTranslationSentence": "Їхнє весілля було казковим, наче зі сну."
   },
   {
     "maskuline": "bakren",
     "feminine": "bakrena",
     "neutrum": "bakreno",
-    "ukrainian_translation": "мідний",
-    "example_sentence": "Stara bakrena posuda bila je dio obiteljskog nasljeđa.",
-    "ukrainian_translation_sentence": "Стара мідна посудина була частиною сімейної спадщини."
+    "ukrainianTranslation": "мідний",
+    "exampleSentence": "Stara bakrena posuda bila je dio obiteljskog nasljeđa.",
+    "ukrainianTranslationSentence": "Стара мідна посудина була частиною сімейної спадщини."
   },
   {
     "maskuline": "bakterijski",
     "feminine": "bakterijska",
     "neutrum": "bakterijsko",
-    "ukrainian_translation": "бактеріальний",
-    "example_sentence": "Liječnik je dijagnosticirao bakterijsku infekciju.",
-    "ukrainian_translation_sentence": "Лікар діагностував бактеріальну інфекцію."
+    "ukrainianTranslation": "бактеріальний",
+    "exampleSentence": "Liječnik je dijagnosticirao bakterijsku infekciju.",
+    "ukrainianTranslationSentence": "Лікар діагностував бактеріальну інфекцію."
   },
   {
     "maskuline": "bazni",
     "feminine": "bazna",
     "neutrum": "bazno",
-    "ukrainian_translation": "базовий",
-    "example_sentence": "Ova formula koristi se kao bazna za daljnje proračune.",
-    "ukrainian_translation_sentence": "Ця формула використовується як базова для подальших розрахунків."
+    "ukrainianTranslation": "базовий",
+    "exampleSentence": "Ova formula koristi se kao bazna za daljnje proračune.",
+    "ukrainianTranslationSentence": "Ця формула використовується як базова для подальших розрахунків."
   },
   {
     "maskuline": "beskrajan",
     "feminine": "beskrajna",
     "neutrum": "beskrajno",
-    "ukrainian_translation": "нескінченний",
-    "example_sentence": "Beskrajan ocean pružao se koliko je oko moglo vidjeti.",
-    "ukrainian_translation_sentence": "Нескінченний океан простягався, доки око могло бачити."
+    "ukrainianTranslation": "нескінченний",
+    "exampleSentence": "Beskrajan ocean pružao se koliko je oko moglo vidjeti.",
+    "ukrainianTranslationSentence": "Нескінченний океан простягався, доки око могло бачити."
   },
   {
     "maskuline": "bespotreban",
     "feminine": "bespotrebna",
     "neutrum": "bespotrebno",
-    "ukrainian_translation": "непотрібний",
-    "example_sentence": "Bespotreban sukob samo je pogoršao situaciju.",
-    "ukrainian_translation_sentence": "Непотрібний конфлікт тільки погіршив ситуацію."
+    "ukrainianTranslation": "непотрібний",
+    "exampleSentence": "Bespotreban sukob samo je pogoršao situaciju.",
+    "ukrainianTranslationSentence": "Непотрібний конфлікт тільки погіршив ситуацію."
   },
   {
     "maskuline": "besprijekoran",
     "feminine": "besprijekorna",
     "neutrum": "besprijekorno",
-    "ukrainian_translation": "бездоганний",
-    "example_sentence": "Njezin besprijekoran stil privukao je pažnju svih.",
-    "ukrainian_translation_sentence": "Її бездоганний стиль привернув увагу всіх."
+    "ukrainianTranslation": "бездоганний",
+    "exampleSentence": "Njezin besprijekoran stil privukao je pažnju svih.",
+    "ukrainianTranslationSentence": "Її бездоганний стиль привернув увагу всіх."
   },
 	{
     "maskuline": "bezalkoholan",
     "feminine": "bezalkoholna",
     "neutrum": "bezalkoholno",
-    "ukrainian_translation": "безалкогольний",
-    "example_sentence": "Ovaj bezalkoholan napitak osvježava bez dodatka alkohola.",
-    "ukrainian_translation_sentence": "Цей безалкогольний напій освіжає без додавання алкоголю."
+    "ukrainianTranslation": "безалкогольний",
+    "exampleSentence": "Ovaj bezalkoholan napitak osvježava bez dodatka alkohola.",
+    "ukrainianTranslationSentence": "Цей безалкогольний напій освіжає без додавання алкоголю."
   },
   {
     "maskuline": "bezbolan",
     "feminine": "bezbolna",
     "neutrum": "bezbolno",
-    "ukrainian_translation": "безболісний",
-    "example_sentence": "Zahvat je bio bezbolan i prošao je bez komplikacija.",
-    "ukrainian_translation_sentence": "Операція була безболісною і пройшла без ускладнень."
+    "ukrainianTranslation": "безболісний",
+    "exampleSentence": "Zahvat je bio bezbolan i prošao je bez komplikacija.",
+    "ukrainianTranslationSentence": "Операція була безболісною і пройшла без ускладнень."
   },
   {
     "maskuline": "bezličan",
     "feminine": "bezlična",
     "neutrum": "bezlično",
-    "ukrainian_translation": "безликий",
-    "example_sentence": "Ured je izgledao bezlično, bez ikakvih osobnih dodira.",
-    "ukrainian_translation_sentence": "Офіс виглядав безликим, без жодних особистих штрихів."
+    "ukrainianTranslation": "безликий",
+    "exampleSentence": "Ured je izgledao bezlično, bez ikakvih osobnih dodira.",
+    "ukrainianTranslationSentence": "Офіс виглядав безликим, без жодних особистих штрихів."
   },
   {
     "maskuline": "beznačajan",
     "feminine": "beznačajna",
     "neutrum": "beznačajno",
-    "ukrainian_translation": "незначний",
-    "example_sentence": "Iako je problem izgledao beznačajan, zahtijevao je pažnju.",
-    "ukrainian_translation_sentence": "Хоча проблема здавалася незначною, вона вимагала уваги."
+    "ukrainianTranslation": "незначний",
+    "exampleSentence": "Iako je problem izgledao beznačajan, zahtijevao je pažnju.",
+    "ukrainianTranslationSentence": "Хоча проблема здавалася незначною, вона вимагала уваги."
   },
   {
     "maskuline": "bezvrijedan",
     "feminine": "bezvrijedna",
     "neutrum": "bezvrijedno",
-    "ukrainian_translation": "безцінний",
-    "example_sentence": "Njezin trud nikad nije bio bezvrijedan.",
-    "ukrainian_translation_sentence": "Її зусилля ніколи не були марними."
+    "ukrainianTranslation": "безцінний",
+    "exampleSentence": "Njezin trud nikad nije bio bezvrijedan.",
+    "ukrainianTranslationSentence": "Її зусилля ніколи не були марними."
   },
   {
     "maskuline": "biciklistički",
     "feminine": "biciklistička",
     "neutrum": "biciklističko",
-    "ukrainian_translation": "велосипедний",
-    "example_sentence": "Biciklistička staza proteže se kroz cijeli park.",
-    "ukrainian_translation_sentence": "Велосипедна доріжка простягається через увесь парк."
+    "ukrainianTranslation": "велосипедний",
+    "exampleSentence": "Biciklistička staza proteže se kroz cijeli park.",
+    "ukrainianTranslationSentence": "Велосипедна доріжка простягається через увесь парк."
   },
   {
     "maskuline": "bijedan",
     "feminine": "bijedna",
     "neutrum": "bijedno",
-    "ukrainian_translation": "жалюгідний",
-    "example_sentence": "Njegov bijedan život bio je ispunjen teškoćama.",
-    "ukrainian_translation_sentence": "Його жалюгідне життя було сповнене труднощами."
+    "ukrainianTranslation": "жалюгідний",
+    "exampleSentence": "Njegov bijedan život bio je ispunjen teškoćama.",
+    "ukrainianTranslationSentence": "Його жалюгідне життя було сповнене труднощами."
   },
   {
     "maskuline": "bijesan",
     "feminine": "bijesna",
     "neutrum": "bijesno",
-    "ukrainian_translation": "лютий",
-    "example_sentence": "Postao je bijesan kada je čuo vijesti.",
-    "ukrainian_translation_sentence": "Він став лютим, коли почув новини."
+    "ukrainianTranslation": "лютий",
+    "exampleSentence": "Postao je bijesan kada je čuo vijesti.",
+    "ukrainianTranslationSentence": "Він став лютим, коли почув новини."
   },
   {
     "maskuline": "bilateralan",
     "feminine": "bilateralna",
     "neutrum": "bilateralno",
-    "ukrainian_translation": "двосторонній",
-    "example_sentence": "Bilateralan sporazum potpisan je između dviju zemalja.",
-    "ukrainian_translation_sentence": "Двостороння угода була підписана між двома країнами."
+    "ukrainianTranslation": "двосторонній",
+    "exampleSentence": "Bilateralan sporazum potpisan je između dviju zemalja.",
+    "ukrainianTranslationSentence": "Двостороння угода була підписана між двома країнами."
   },
   {
     "maskuline": "biografski",
     "feminine": "biografska",
     "neutrum": "biografsko",
-    "ukrainian_translation": "біографічний",
-    "example_sentence": "Gledali smo biografski film o poznatom znanstveniku.",
-    "ukrainian_translation_sentence": "Ми дивилися біографічний фільм про відомого вченого."
+    "ukrainianTranslation": "біографічний",
+    "exampleSentence": "Gledali smo biografski film o poznatom znanstveniku.",
+    "ukrainianTranslationSentence": "Ми дивилися біографічний фільм про відомого вченого."
   },
 	{
     "maskuline": "biokemijski",
     "feminine": "biokemijska",
     "neutrum": "biokemijsko",
-    "ukrainian_translation": "біохімічний",
-    "example_sentence": "Biokemijski procesi u tijelu su ključni za održavanje života.",
-    "ukrainian_translation_sentence": "Біохімічні процеси в організмі є ключовими для підтримки життя."
+    "ukrainianTranslation": "біохімічний",
+    "exampleSentence": "Biokemijski procesi u tijelu su ključni za održavanje života.",
+    "ukrainianTranslationSentence": "Біохімічні процеси в організмі є ключовими для підтримки життя."
   },
   {
     "maskuline": "biološki",
     "feminine": "biološka",
     "neutrum": "biološko",
-    "ukrainian_translation": "біологічний",
-    "example_sentence": "Biološki sat ljudskog tijela utječe na ritam spavanja.",
-    "ukrainian_translation_sentence": "Біологічний годинник людського тіла впливає на ритм сну."
+    "ukrainianTranslation": "біологічний",
+    "exampleSentence": "Biološki sat ljudskog tijela utječe na ritam spavanja.",
+    "ukrainianTranslationSentence": "Біологічний годинник людського тіла впливає на ритм сну."
   },
   {
     "maskuline": "birački",
     "feminine": "biračka",
     "neutrum": "biračko",
-    "ukrainian_translation": "виборчий",
-    "example_sentence": "Birački odbori pripremaju se za predstojeće izbore.",
-    "ukrainian_translation_sentence": "Виборчі комісії готуються до майбутніх виборів."
+    "ukrainianTranslation": "виборчий",
+    "exampleSentence": "Birački odbori pripremaju se za predstojeće izbore.",
+    "ukrainianTranslationSentence": "Виборчі комісії готуються до майбутніх виборів."
   },
   {
     "maskuline": "bistar",
     "feminine": "bistra",
     "neutrum": "bistro",
-    "ukrainian_translation": "чистий",
-    "example_sentence": "Bistra voda rijeke odražavala je plavo nebo.",
-    "ukrainian_translation_sentence": "Чиста вода річки відбивала блакитне небо."
+    "ukrainianTranslation": "чистий",
+    "exampleSentence": "Bistra voda rijeke odražavala je plavo nebo.",
+    "ukrainianTranslationSentence": "Чиста вода річки відбивала блакитне небо."
   },
   {
     "maskuline": "blagdanski",
     "feminine": "blagdanska",
     "neutrum": "blagdansko",
-    "ukrainian_translation": "святковий",
-    "example_sentence": "Blagdanska atmosfera ispunila je cijeli grad.",
-    "ukrainian_translation_sentence": "Святкова атмосфера наповнила все місто."
+    "ukrainianTranslation": "святковий",
+    "exampleSentence": "Blagdanska atmosfera ispunila je cijeli grad.",
+    "ukrainianTranslationSentence": "Святкова атмосфера наповнила все місто."
   },
   {
     "maskuline": "blagotvoran",
     "feminine": "blagotvorna",
     "neutrum": "blagotvorno",
-    "ukrainian_translation": "корисний",
-    "example_sentence": "Blagotvoran učinak biljaka na zdravlje već je dugo poznat.",
-    "ukrainian_translation_sentence": "Корисний вплив рослин на здоров'я давно відомий."
+    "ukrainianTranslation": "корисний",
+    "exampleSentence": "Blagotvoran učinak biljaka na zdravlje već je dugo poznat.",
+    "ukrainianTranslationSentence": "Корисний вплив рослин на здоров'я давно відомий."
   },
   {
     "maskuline": "blijed",
     "feminine": "blijeda",
     "neutrum": "blijedo",
-    "ukrainian_translation": "блідий",
-    "example_sentence": "Izgledao je blijed nakon bolesti.",
-    "ukrainian_translation_sentence": "Він виглядав блідим після хвороби."
+    "ukrainianTranslation": "блідий",
+    "exampleSentence": "Izgledao je blijed nakon bolesti.",
+    "ukrainianTranslationSentence": "Він виглядав блідим після хвороби."
   },
   {
     "maskuline": "blizak",
     "feminine": "bliska",
     "neutrum": "blisko",
-    "ukrainian_translation": "близький",
-    "example_sentence": "Njihov odnos bio je vrlo blizak i ispunjen povjerenjem.",
-    "ukrainian_translation_sentence": "Їхні стосунки були дуже близькими і наповненими довірою."
+    "ukrainianTranslation": "близький",
+    "exampleSentence": "Njihov odnos bio je vrlo blizak i ispunjen povjerenjem.",
+    "ukrainianTranslationSentence": "Їхні стосунки були дуже близькими і наповненими довірою."
   },
   {
     "maskuline": "bočni",
     "feminine": "bočna",
     "neutrum": "bočno",
-    "ukrainian_translation": "боковий",
-    "example_sentence": "Bočna vrata kuće bila su zaključana.",
-    "ukrainian_translation_sentence": "Бокові двері будинку були зачинені."
+    "ukrainianTranslation": "боковий",
+    "exampleSentence": "Bočna vrata kuće bila su zaključana.",
+    "ukrainianTranslationSentence": "Бокові двері будинку були зачинені."
   },
   {
     "maskuline": "bogat",
     "feminine": "bogata",
     "neutrum": "bogato",
-    "ukrainian_translation": "багатий",
-    "example_sentence": "Ovaj kraj bogat je prirodnim resursima.",
-    "ukrainian_translation_sentence": "Цей край багатий природними ресурсами."
+    "ukrainianTranslation": "багатий",
+    "exampleSentence": "Ovaj kraj bogat je prirodnim resursima.",
+    "ukrainianTranslationSentence": "Цей край багатий природними ресурсами."
   }
 ]

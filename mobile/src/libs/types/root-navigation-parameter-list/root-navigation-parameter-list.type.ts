@@ -8,7 +8,8 @@ type RootNavigationParameterList = {
 	[RootScreenName.TALES_LIST]: undefined;
 	[RootScreenName.TALE]: {
 		taleIndex: number;
-		title: string;
+		titleHr: string;
+		titleUk: string;
 		imageSource: ImageSourcePropType;
 	};
 	[RootScreenName.WORD_CARDS]: {

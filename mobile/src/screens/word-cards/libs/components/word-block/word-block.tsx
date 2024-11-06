@@ -29,13 +29,13 @@ const WordBlock: React.FC<Properties> = ({ translation, word }) => {
 						globalStyles.p8,
 					]}
 				>
-					<Text color={BaseColor.WHITE} preset="uppercase">
+					<Text color={BaseColor.WHITE} preset='uppercase'>
 						{translation}
 					</Text>
 				</LinearGradient>
 			</View>
 			<View style={[globalStyles.white, globalStyles.p16]}>
-				<Text color={BaseColor.DARK_BROWN} preset="uppercase">
+				<Text color={BaseColor.DARK_BROWN} preset='uppercase'>
 					{word}
 				</Text>
 			</View>

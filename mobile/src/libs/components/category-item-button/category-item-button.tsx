@@ -40,7 +40,7 @@ const CategoryItemButton: React.FC<Properties> = ({ label, onPress }) => {
 							globalStyles.p16,
 						]}
 					>
-						<Text color={labelColor} preset="uppercase">
+						<Text color={labelColor} preset='uppercase'>
 							{label}
 						</Text>
 					</LinearGradient>

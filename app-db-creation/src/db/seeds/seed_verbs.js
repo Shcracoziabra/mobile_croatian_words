@@ -3,11 +3,11 @@ const { createDataFromLocalJSON, formatDataItemPropsToColumnNames } = require('.
 
 const columnNamesToDataItemPropsMap = {
   'infinitive': 'infinitive',
-  'present_tense': 'present_tense',
-  'past_tense': 'past_tense',
-  'ukrainian_translation': 'ukrainian_translation',
-  'example_sentence': 'example_sentence',
-  'ukrainian_translation_sentence': 'ukrainian_translation_sentence',
+  'presentTense': 'presentTense',
+  'pastTense': 'pastTense',
+  'ukrainianTranslation': 'ukrainianTranslation',
+  'exampleSentence': 'exampleSentence',
+  'ukrainianTranslationSentence': 'ukrainianTranslationSentence',
 };
 
 const TABLE_NAME = 'verbs';

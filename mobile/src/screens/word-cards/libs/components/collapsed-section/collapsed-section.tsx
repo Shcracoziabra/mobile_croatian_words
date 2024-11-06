@@ -5,6 +5,8 @@ import { BaseColor, GradientColor } from '~/libs/enums/enums';
 import { directionToGradient } from '~/libs/maps/maps';
 import { globalStyles } from '~/libs/styles/styles';
 
+import { ARROW_SIZE } from '../../constants/constants';
+
 type Properties = {
 	label: string;
 	rounded?: boolean;
@@ -29,7 +31,7 @@ const CollapsedSection: React.FC<Properties> = ({ label, rounded }) => {
 			]}
 		>
 			<Text color={BaseColor.WHITE}>{label}</Text>
-			<Icon color={BaseColor.WHITE} name="arrow-drop-down" size={24} />
+			<Icon color={BaseColor.WHITE} name='arrow-drop-down' size={ARROW_SIZE} />
 		</LinearGradient>
 	);
 };

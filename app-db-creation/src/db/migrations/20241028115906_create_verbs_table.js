@@ -6,11 +6,11 @@ exports.up = function(knex) {
   return knex.schema.createTable('verbs', (table) => {
 		table.increments('id').primary();
 		table.string('infinitive');
-		table.string('present_tense');
-		table.string('past_tense');
-		table.string('ukrainian_translation');
-		table.string('example_sentence');
-		table.string('ukrainian_translation_sentence');
+		table.string('presentTense');
+		table.string('pastTense');
+		table.string('ukrainianTranslation');
+		table.string('exampleSentence');
+		table.string('ukrainianTranslationSentence');
 	});
 };
 

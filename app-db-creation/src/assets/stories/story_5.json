@@ -1,6 +1,6 @@
 {
-  "title_hr": "Predavanje iz anatomije",
-  "title_uk": "Лекція з анатомії",
+  "titleHr": "Predavanje iz anatomije",
+  "titleUk": "Лекція з анатомії",
   "illustration": "story_5.png",
   "text": [
     {
@@ -152,7 +152,6 @@
     {"hr": "glava", "uk": "голова"},
     {"hr": "bilježnica", "uk": "зошит"},
     {"hr": "olovka", "uk": "олівець"},
-    {"hr": "humor", "uk": "гумор"},
     {"hr": "praksa", "uk": "практика"},
     {"hr": "znanje", "uk": "знання"},
     {"hr": "sunce", "uk": "сонце"},

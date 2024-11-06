@@ -1,18 +1,20 @@
 import React from 'react';
 
 import { Text, View } from '~/libs/components/components';
-import { BaseColor } from '~/libs/enums/enums';
+import { BaseColor, NumericalValue } from '~/libs/enums/enums';
+import { useState } from '~/libs/hooks/hooks';
 import { globalStyles } from '~/libs/styles/styles';
 import { type NounDataItem } from '~/libs/types/types';
 
 import { ExampleBlock, WordBlock } from '../../components/components';
+import { LayoutChangeEvent } from 'react-native';
 
 type Properties = {
 	data: NounDataItem;
-	onCollapsedSectionPress: () => void;
+	onCardExpanded: (yCoordinateToScroll: number) => void;
 };
 
-const NounCard: React.FC<Properties> = ({ data, onCollapsedSectionPress }) => {
+const NounCard: React.FC<Properties> = ({ data, onCardExpanded }) => {
 	const {
 		exampleSentence,
 		plural,
@@ -21,8 +23,17 @@ const NounCard: React.FC<Properties> = ({ data, onCollapsedSectionPress }) => {
 		ukrainianTranslationSentence,
 	} = data;
 
+	const [currentCardHeight, setCurrentCardHeight] = useState<number|null>(null);
+
 	return (
 		<View
+			onLayout={(event: LayoutChangeEvent)=> {
+			const { height: nextHeight, y } = event.nativeEvent.layout;
+			if(currentCardHeight && nextHeight > currentCardHeight + NumericalValue.ONE) {
+				onCardExpanded(y);
+			}
+			setCurrentCardHeight(nextHeight);
+		}}
 			style={[globalStyles.fullWidth, globalStyles.r16, globalStyles.boxShadow]}
 		>
 			<WordBlock translation={ukrainianTranslation} word={singular} />
@@ -34,17 +45,17 @@ const NounCard: React.FC<Properties> = ({ data, onCollapsedSectionPress }) => {
 					globalStyles.p16,
 				]}
 			>
-				<Text color={BaseColor.ORANGE} weight="bold">
+				<Text color={BaseColor.ORANGE} weight='bold'>
 					Множина
 				</Text>
-				<Text color={BaseColor.DARK_BROWN} weight="bold">
+				<Text color={BaseColor.DARK_BROWN} weight='bold'>
 					{plural}
 				</Text>
 			</View>
 			<ExampleBlock
 				example={exampleSentence}
 				translation={ukrainianTranslationSentence}
-				onCollapsedSectionPress={onCollapsedSectionPress}
+				onCollapsedSectionPress={()=>{}}
 			/>
 		</View>
 	);

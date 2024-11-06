@@ -4,7 +4,7 @@ export {
 	type TextStyle,
 	type ViewStyle,
 } from 'react-native';
-export { type NativeStackNavigationProp } from '@react-navigation/native-stack';
+export { type NativeStackNavigationOptions, type NativeStackNavigationProp } from '@react-navigation/native-stack';
 export { type SharedValue } from 'react-native-reanimated';
 
 export { type AdjectiveDataItem } from './adjective-data-item/adjective-data-item.type';

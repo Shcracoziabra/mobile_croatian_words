@@ -1,6 +1,6 @@
 {
-  "title_hr": "Učenje o emocijama",
-  "title_uk": "Вивчення емоцій",
+  "titleHr": "Učenje o emocijama",
+  "titleUk": "Вивчення емоцій",
   "illustration": "story_9.png",
   "text": [
     {
@@ -201,7 +201,6 @@
     {"hr": "iznenađenje", "uk": "подив"},
     {"hr": "sram", "uk": "сором"},
     {"hr": "ponos", "uk": "гордість"},
-    {"hr": "smijeh", "uk": "сміх"},
     {"hr": "srce", "uk": "серце"},
     {"hr": "osjećati", "uk": "відчувати"},
     {"hr": "zagrljaj", "uk": "обійми"},
@@ -227,11 +226,9 @@
     {"hr": "radoznalost", "uk": "допитливість"},
     {"hr": "kćer", "uk": "донька"},
     {"hr": "medvjedić", "uk": "ведмедик"},
-    {"hr": "plišani", "uk": "плюшевий"},
     {"hr": "vruće", "uk": "гаряче"},
     {"hr": "plakati", "uk": "плакати"},
     {"hr": "napetost", "uk": "напруження"},
-    {"hr": "smijeh", "uk": "сміх"},
     {"hr": "zajedništvo", "uk": "спільність"},
     {"hr": "različit", "uk": "різний"},
     {"hr": "svijet", "uk": "світ"},

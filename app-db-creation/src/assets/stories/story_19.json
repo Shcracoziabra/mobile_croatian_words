@@ -1,237 +1,260 @@
 {
-  "title_hr": "Lukin umjetnički svijet",
-  "title_uk": "Художній світ Луки",
+  "titleHr": "Tajne antikvarnog dućana",
+  "titleUk": "Таємниці антикварного магазину",
   "illustration": "story_19.png",
   "text": [
     {
-      "hr": "Luka je bio poznati slikar u svom gradu, čovjek koji je svoj život posvetio stvaranju umjetnosti.",
-      "uk": "Лука був відомим художником у своєму місті, людиною, яка присвятила своє життя створенню мистецтва."
+      "hr": "U staroj ulici u centru grada, među malim dućanima, skriven od pogleda prolaznika, nalazio se mali antikvarni dućan po imenu 'Zlatni kovčeg'.",
+      "uk": "На старій вулиці в центрі міста, серед маленьких крамниць, прихований від поглядів перехожих, був маленький антикварний магазин під назвою 'Золотий скринька'."
     },
     {
-      "hr": "Svakoga dana provodio je sate u svom ateljeu, okružen bojama, platnima i raznim vrstama kancelarijskog i slikarskog pribora.",
-      "uk": "Щодня він проводив години у своїй майстерні, оточений фарбами, полотнами та різноманітними канцелярськими і художніми приладдями."
+      "hr": "Vlasnik dućana, gospodin Viktor, bio je pravi poznavatelj starina, ali njegova najveća strast bile su dragocjenosti – predmeti izrađeni od različitih vrsta metala, kamenja i minerala.",
+      "uk": "Власник магазину, пан Віктор, був справжнім знавцем старовини, але його найбільша пристрасть були коштовності – предмети, виготовлені з різних видів металів, каменів і мінералів."
     },
     {
-      "hr": "Njegov atelje bio je njegovo utočište, mjesto gdje je mogao pustiti mašti na volju i stvarati svoja najbolja djela.",
-      "uk": "Його майстерня була його притулком, місцем, де він міг віддатися уяві та створювати свої найкращі роботи."
+      "hr": "Jednog kišnog jutra, vrata dućana otvorila je mlada žena po imenu Marta.",
+      "uk": "Одного дощового ранку двері магазину відчинила молода жінка на ім'я Марта."
     },
     {
-      "hr": "Kad bi ušao u svoj atelje, prvi pogled uvijek bi mu pao na veliki drveni stol, prepun različitih boja, kistova, olovaka, gumica i papira.",
-      "uk": "Коли він заходив до своєї майстерні, його перший погляд завжди падав на великий дерев'яний стіл, заповнений фарбами, пензлями, олівцями, гумками та папером."
+      "hr": "Ušla je unutra tražeći nešto posebno, nešto što bi mogla darovati svojoj baki za 80. rođendan.",
+      "uk": "Вона зайшла, шукаючи щось особливе, що могла б подарувати своїй бабусі на 80-й день народження."
     },
     {
-      "hr": "Stol je bio prekriven mrljama od boje i tragovima grafita, znakovima svih projekata koje je započinjao i završavao.",
-      "uk": "Стіл був покритий плямами від фарби та слідами графіту, знаками всіх проєктів, які він розпочинав і завершував."
+      "hr": "Dok je razgledavala police prepune antikviteta, njezine oči privukle su srebrne narukvice, zlatne prstenove i ogrlice s raznim dragim kamenjem.",
+      "uk": "Оглядаючи полиці, заповнені антикваріатом, її увагу привернули срібні браслети, золоті кільця та намиста з різними дорогоцінними каменями."
     },
     {
-      "hr": "Na desnoj strani stola, nalazila se velika kutija s bojicama svih mogućih nijansi – od pastelnih tonova do svijetlih i intenzivnih boja.",
-      "uk": "На правій стороні столу стояла велика коробка з кольоровими олівцями всіх можливих відтінків – від пастельних тонів до яскравих і насичених кольорів."
+      "hr": "Svaki komad bio je jedinstven, izrađen s pažnjom i preciznošću koja se više ne viđa.",
+      "uk": "Кожен виріб був унікальним, виготовленим з такою увагою та точністю, яку рідко можна побачити."
     },
     {
-      "hr": "Luka je volio raditi s različitim vrstama papira.",
-      "uk": "Лука любив працювати з різними типами паперу."
+      "hr": "Gospodin Viktor, prepoznajući njezinu znatiželju, prišao joj je.",
+      "uk": "Пан Віктор, помітивши її цікавість, підійшов до неї."
     },
     {
-      "hr": "Imao je debele, grube papire za crtanje grafitnim olovkama, kao i tanke, glatke papire za akvarele.",
-      "uk": "Він мав товсті, грубі папери для малювання графітними олівцями, а також тонкі, гладкі папери для акварелей."
+      "hr": "'Dobar dan, gospođice! Vidim da vas zanima naš odjel s dragocjenostima,' rekao je s osmijehom.",
+      "uk": "'Добрий день, пані! Бачу, вас цікавить наш відділ з коштовностями,' сказав він з усмішкою."
     },
     {
-      "hr": "Svaki papir ima svoju dušu, znao je reći dok je prstima prelazio preko teksture papira, osjećajući njegovu gruboću ili glatkoću.",
-      "uk": "Кожен папір має свою душу, він казав, проводячи пальцями по текстурі паперу, відчуваючи його шорсткість або гладкість."
+      "hr": "'Imamo mnogo rijetkih komada, svaki s vlastitom poviješću.'",
+      "uk": "'У нас є багато рідкісних виробів, кожен з власною історією.'"
     },
     {
-      "hr": "Kada bi odlučivao koji će papir koristiti za sljedeći crtež, uvijek bi pažljivo pregledavao teksturu i procjenjivao kako će odgovarati bojama ili olovkama koje je planirao koristiti.",
-      "uk": "Коли він вирішував, який папір використовувати для наступного малюнка, завжди уважно перевіряв текстуру і оцінював, як він підходитиме фарбам або олівцям, які планував використовувати."
+      "hr": "Marta je uzela u ruke jedan prsten i pažljivo ga promatrala.",
+      "uk": "Марта взяла до рук одну каблучку і уважно її розглядала."
     },
     {
-      "hr": "Na stolu su se nalazile i razne vrste grafitnih olovaka – od najmekših, koje su stvarale tamne, bogate linije, do onih tvrdih, savršenih za precizne detalje.",
-      "uk": "На столі лежали різні типи графітних олівців – від найм'якших, які створювали темні, насичені лінії, до твердих, ідеальних для точних деталей."
+      "hr": "Bio je to stari prsten izrađen od platine, sjajnog i izdržljivog metala koji se često koristi za izradu luksuznog nakita.",
+      "uk": "Це була стара каблучка, виготовлена з платини, блискучого та міцного металу, який часто використовують для виготовлення розкішних прикрас."
     },
     {
-      "hr": "Pored olovaka, uvijek je imao pri ruci kvalitetne gumice za brisanje, koje su mu pomagale oblikovati crtež i dodavati svjetlost tamo gdje je bilo potrebno.",
-      "uk": "Поряд з олівцями він завжди мав якісні гумки для стирання, які допомагали йому формувати малюнок і додавати світло там, де це було потрібно."
+      "hr": "'Ovo je prekrasno,' rekla je.",
+      "uk": "'Це прекрасно,' сказала вона."
     },
     {
-      "hr": "Gumica nije samo za ispravljanje grešaka, govorio bi, već i za stvaranje svjetlosti.",
-      "uk": "Гумка не лише для виправлення помилок, казав він, а й для створення світла."
+      "hr": "'Nikad nisam vidjela ovako sjajnu platinu.'",
+      "uk": "'Ніколи не бачила такої блискучої платини.'"
     },
     {
-      "hr": "U kutu ateljea stajao je stalak s velikim platnom.",
-      "uk": "У кутку майстерні стояв мольберт з великим полотном."
+      "hr": "'Platina je jedan od najplemenitijih metala,' objasnio je Viktor.",
+      "uk": "'Платина є одним із найцінніших металів,' пояснив Віктор."
     },
     {
-      "hr": "Platno je bilo spremno za slikanje, zategnuto preko okvira, sa svojom savršeno bijelom površinom koja je čekala da bude ispunjena bojom.",
-      "uk": "Полотно було готове для малювання, натягнуте на рамку, зі своєю ідеальною білою поверхнею, яка чекала, щоб бути заповненою фарбами."
+      "hr": "'Vrlo je otporna na koroziju i oksidaciju, a zbog svoje gustoće i tvrdoće, često se koristi za izradu dragocjenog nakita.'",
+      "uk": "'Вона дуже стійка до корозії та окислення, і завдяки своїй щільності та твердості її часто використовують для виготовлення дорогоцінних прикрас.'"
     },
     {
-      "hr": "Luka je uvijek pazio na kvalitetu platna.",
-      "uk": "Лука завжди стежив за якістю полотна."
+      "hr": "'Ovaj prsten datira iz ranog 20. stoljeća.'",
+      "uk": "'Ця каблучка датована початком 20-го століття.'"
     },
     {
-      "hr": "Volio je platna s blago hrapavom površinom jer su omogućavala bojama da se bolje upiju i stvore bogatiji izgled.",
-      "uk": "Він любив полотна з трохи шорсткою поверхнею, тому що вони дозволяли фарбам краще всмоктуватися і створювати багатший вигляд."
+      "hr": "Dok je razgovarala s Viktorom, Martine oči privukla je ogrlica ukrašena raznobojnim dragim kamenjem.",
+      "uk": "Поки Марта розмовляла з Віктором, її погляд привернуло намисто, прикрашене різнокольоровими дорогоцінними каменями."
     },
     {
-      "hr": "Tekstura površine bila mu je iznimno važna jer je znala odrediti cjelokupni osjećaj slike.",
-      "uk": "Текстура поверхні була для нього надзвичайно важливою, оскільки вона визначала загальне відчуття картини."
+      "hr": "'Što je ovo?' upitala je, pomalo zapanjena ljepotom boja.",
+      "uk": "'Що це?' запитала вона, трохи вражена красою кольорів."
     },
     {
-      "hr": "S lijeve strane stola nalazila se velika paleta s uljnim bojama.",
-      "uk": "З лівого боку столу знаходилася велика палітра з олійними фарбами."
+      "hr": "'Ovo je posebna ogrlica.",
+      "uk": "'Це особливе намисто.'"
     },
     {
-      "hr": "Luka je obožavao raditi s uljanim bojama jer su omogućavale postizanje dubljih tonova i bogatstva boje.",
-      "uk": "Лука обожнював працювати з олійними фарбами, оскільки вони дозволяли досягти глибших тонів і багатства кольору."
+      "hr": "Napravljena je od rubina, safira i smaragda.",
+      "uk": "Вона зроблена з рубінів, сапфірів і смарагдів."
     },
     {
-      "hr": "Na paleti su se nalazile sve osnovne boje, ali Luka je bio majstor u miješanju boja kako bi stvorio nijanse koje su mu bile potrebne.",
-      "uk": "На палітрі були всі основні кольори, але Лука був майстром у змішуванні фарб, щоб створювати відтінки, які йому були потрібні."
+      "hr": "'Svaki kamen je pažljivo biran i ručno postavljen.'",
+      "uk": "'Кожен камінь був ретельно підібраний і вручну вставлений.'"
     },
     {
-      "hr": "Njegova omiljena boja bila je tamnoplava, koju je često koristio za stvaranje dubine i sjene na svojim slikama.",
-      "uk": "Його улюбленим кольором був темно-синій, який він часто використовував для створення глибини і тіні на своїх картинах."
+      "hr": "'Rubin daje crvenu boju, simbol ljubavi i strasti, dok safir, sa svojim plavim nijansama, predstavlja mudrost i plemenitost.'",
+      "uk": "'Рубін надає червоного кольору, символу кохання та пристрасті, тоді як сапфір із синіми відтінками представляє мудрість і благородство.'"
     },
     {
-      "hr": "Ispod stola stajale su kutije s akrilnim bojama i akvarelima.",
-      "uk": "Під столом стояли коробки з акриловими фарбами та акварелями."
+      "hr": "'A tu su i smaragdi, koji svojom zelenu bojom simboliziraju prirodu i sklad.'",
+      "uk": "'А тут є ще й смарагди, які своїм зеленим кольором символізують природу та гармонію.'"
     },
     {
-      "hr": "Akrilne boje su bile brze za sušenje i omogućavale su brze poteze kistom, što je bilo savršeno za apstraktne slike koje je Luka ponekad slikao.",
-      "uk": "Акрилові фарби швидко висихали і дозволяли швидкі мазки пензлем, що було ідеально для абстрактних картин, які Лука іноді малював."
+      "hr": "'Nisam znala da svaki kamen ima svoje značenje,' rekla je Marta fascinirana.",
+      "uk": "'Я не знала, що кожен камінь має своє значення,' захоплено сказала Марта."
     },
     {
-      "hr": "S druge strane, akvareli su mu pružali mogućnost stvaranja prozračnih, nježnih nijansi, osobito kad bi slikao pejzaže ili more.",
-      "uk": "З іншого боку, акварелі дозволяли йому створювати прозорі, ніжні відтінки, особливо коли він малював пейзажі чи море."
+      "hr": "'Da, svaka dragocjenost nosi svoju priču,' odgovorio je Viktor.",
+      "uk": "'Так, кожна коштовність має свою історію,' відповів Віктор."
     },
     {
-      "hr": "Uvijek je pazio da koristi odgovarajuće kistove za svaku vrstu boje – debele kistove za široke poteze, tanke za precizne linije, te posebne kistove za akvarel koji su mogli zadržati puno vode.",
-      "uk": "Він завжди стежив за тим, щоб використовувати відповідні пензлі для кожного типу фарби — товсті пензлі для широких мазків, тонкі для точних ліній і спеціальні пензлі для акварелі, які могли утримувати багато води."
+      "hr": "'Primjerice, ametist je poznat po svojoj ljubičastoj boji i često se povezuje s duhovnošću i smirenošću.'",
+      "uk": "'Наприклад, аметист відомий своїм фіолетовим кольором і часто асоціюється з духовністю та спокоєм.'"
     },
     {
-      "hr": "Na zidu ateljea visjele su njegove skice, često nacrtane tušem ili crnom kemijskom olovkom.",
-      "uk": "На стіні майстерні висіли його ескізи, часто намальовані тушшю або чорною ручкою."
+      "hr": "'U starim vremenima, vjerovalo se da ametist štiti od opijenosti.'",
+      "uk": "'У давні часи вважалося, що аметист захищає від сп'яніння.'"
     },
     {
-      "hr": "Luka je volio skicirati prije nego što bi započeo sliku.",
-      "uk": "Лука любив робити ескізи перед тим, як розпочати картину."
+      "hr": "'S druge strane, topaz se često koristi kao talisman protiv negativnih energija.'",
+      "uk": "'З іншого боку, топаз часто використовують як талісман проти негативних енергій.'"
     },
     {
-      "hr": "Skice su mu pomogle da vizualizira kompoziciju i raspored elemenata na platnu.",
-      "uk": "Ескізи допомагали йому візуалізувати композицію та розташування елементів на полотні."
+      "hr": "'Njegova žuta i plava boja variraju, a svaka nijansa ima svoje simbolično značenje.'",
+      "uk": "'Його жовтий і синій кольори варіюються, і кожен відтінок має своє символічне значення.'"
     },
     {
-      "hr": "Za skiciranje je koristio tanke olovke ili flomastere, a ponekad bi koristio i tuš kako bi stvorio jače kontraste.",
-      "uk": "Для ескізів він використовував тонкі олівці або маркери, а іноді користувався тушшю, щоб створити сильніші контрасти."
+      "hr": "Dok je Viktor pričao, Marta je primijetila malu kutiju na polici.",
+      "uk": "Поки Віктор розповідав, Марта помітила маленьку скриньку на полиці."
     },
     {
-      "hr": "Na polici iznad stola bile su složene kutije s pastelem bojama.",
-      "uk": "На полиці над столом були складені коробки з пастельними фарбами."
+      "hr": "Unutra su bile starinske naušnice izrađene od srebra s umetnutim opalom.",
+      "uk": "Усередині були старовинні сережки, зроблені зі срібла з інкрустованим опалом."
     },
     {
-      "hr": "Pasteli su bili posebni jer su mu omogućavali da stvara meke prijelaze boja.",
-      "uk": "Пастелі були особливими, оскільки дозволяли йому створювати м'які переходи кольорів."
+      "hr": "'Ovo izgleda nevjerojatno. Kakav je to kamen?' upitala je.",
+      "uk": "'Це виглядає неймовірно. Що це за камінь?' запитала вона."
     },
     {
-      "hr": "Njihova hrapava tekstura omogućavala je zanimljive efekte na papiru.",
-      "uk": "Їхня шорстка текстура дозволяла досягти цікавих ефектів на папері."
+      "hr": "'To su naušnice s opalom, jednim od najfascinantnijih dragih kamena.'",
+      "uk": "'Це сережки з опалом, одним з найфасцинуючих дорогоцінних каменів.'"
     },
     {
-      "hr": "Luka bi često koristio pastelse kad bi želio postići efekat mekanih sjena ili nježnih prijelaza između svijetla i sjene.",
-      "uk": "Лука часто використовував пастелі, коли хотів досягти ефекту м'яких тіней або ніжних переходів між світлом і тінню."
+      "hr": "'Opal je poznat po svojoj sposobnosti da reflektira razne boje, stvarajući predivan efekt.'",
+      "uk": "'Опал відомий своєю здатністю відбивати різні кольори, створюючи чудовий ефект.'"
     },
     {
-      "hr": "Jednoga dana, dok je Luka radio na novoj slici, odlučio je kombinirati sve tehnike koje je volio.",
-      "uk": "Одного дня, коли Лука працював над новою картиною, він вирішив поєднати всі техніки, які любив."
+      "hr": "'Ovaj fenomen zove se opalescencija, a boje u opalu mogu varirati od bijele, plave, pa sve do narančaste i crvene.'",
+      "uk": "'Цей феномен називається опалесценція, і кольори в опалі можуть варіюватися від білого, синього до оранжевого та червоного.'"
     },
     {
-      "hr": "Uzeo je grafitnu olovku i nacrtao osnovni oblik na platnu, a zatim je počeo nanositi uljne boje.",
-      "uk": "Він взяв графітний олівець і намалював основну форму на полотні, а потім почав наносити олійні фарби."
+      "hr": "Marta je bila zadivljena ljepotom i raznolikošću materijala.",
+      "uk": "Марта була вражена красою і різноманітністю матеріалів."
     },
     {
-      "hr": "Kombinirao je tamne tonove plave i ljubičaste kako bi stvorio dubinu na nebu, a akrilne boje koristio je za brze poteze po rubovima slike, stvarajući dojam pokreta.",
-      "uk": "Він поєднував темні тони синього та фіолетового, щоб створити глибину неба, а акрилові фарби використовував для швидких мазків по краях картини, створюючи відчуття руху."
+      "hr": "No, njezina pažnja privukla je još jedan predmet – stara kutija od bakarne legure, s prekrasnim gravurama.",
+      "uk": "Однак її увагу привернув ще один предмет – стара коробка з мідного сплаву з чудовими гравюрами."
     },
     {
-      "hr": "Svaka boja ima svoju energiju, razmišljao je dok je miješao boje na paleti.",
-      "uk": "Кожен колір має свою енергію, думав він, коли змішував фарби на палітрі."
+      "hr": "'Ova kutija izgleda vrlo staro,' rekla je.",
+      "uk": "'Ця коробка виглядає дуже старою,' сказала вона."
     },
     {
-      "hr": "Ako je pažljivo koristim, svaka će donijeti nešto posebno na platno.",
-      "uk": "Якщо я буду використовувати їх обережно, кожен колір привнесе щось особливе на полотно."
+      "hr": "'Bakar je jedan od najstarijih metala korištenih u ljudskoj povijesti,' odgovorio je Viktor.",
+      "uk": "'Мідь – один із найстаріших металів, що використовувалися в історії людства,' відповів Віктор."
     },
     {
-      "hr": "Njegov kist je klizio preko površine platna, stvarajući bogate, teksturirane slojeve boje.",
-      "uk": "Його пензель ковзав по поверхні полотна, створюючи насичені, текстуровані шари фарби."
+      "hr": "'Ova kutija datira iz 19. stoljeća.'",
+      "uk": "'Ця коробка датована XIX століттям.'"
     },
     {
-      "hr": "Ponekad bi kistom samo dotaknuo površinu, ostavljajući tanke linije, dok bi u drugim dijelovima nanosio debele slojeve boje, stvarajući reljef na slici.",
-      "uk": "Іноді пензлем він лише торкався поверхні, залишаючи тонкі лінії, тоді як на інших ділянках він наносив товсті шари фарби, створюючи рельєф на картині."
+      "hr": "'Bakar je mekan i lako savitljiv, pa su mnogi stari majstori koristili bakar za izradu ukrasnih predmeta.'",
+      "uk": "'Мідь м’яка і легко згинається, тому багато старовинних майстрів використовували її для виготовлення декоративних предметів.'"
     },
     {
-      "hr": "Kada je završio, stajao je korak unatrag i promatrao svoje djelo.",
-      "uk": "Коли він закінчив, відійшов на крок назад і спостерігав за своєю роботою."
+      "hr": "'Također, s vremenom, bakar razvija prepoznatljivu patinu – onu zelenkastu boju koju možete vidjeti na starim predmetima.'",
+      "uk": "'Також з часом мідь утворює характерну патину – зеленуватий колір, який можна побачити на старих предметах.'"
     },
     {
-      "hr": "Platno je bilo ispunjeno bojama, teksturama i svjetlošću.",
-      "uk": "Полотно було заповнене кольорами, текстурами та світлом."
+      "hr": "Nakon što je provela neko vrijeme u dućanu, Marta se odlučila za prsten od platine i narukvicu od srebra s malim dijamantima.",
+      "uk": "Після того, як вона провела деякий час у крамниці, Марта вирішила купити платинову каблучку та срібний браслет із маленькими діамантами."
     },
     {
-      "hr": "Osjećao je da je svaka linija, svaka nijansa, bila na pravom mjestu.",
-      "uk": "Він відчував, що кожна лінія, кожен відтінок були на своєму місці."
+      "hr": "'Ovaj prsten će biti savršen dar mojoj baki,' rekla je s osmijehom.",
+      "uk": "'Ця каблучка буде ідеальним подарунком для моєї бабусі,' сказала вона з усмішкою."
     },
     {
-      "hr": "Umjetnost je više od tehnike, rekao je tiho sam sebi, to je priča koju pričamo kroz boje, kistove i platno.",
-      "uk": "Мистецтво – це більше, ніж техніка, тихо сказав він собі, це історія, яку ми розповідаємо через кольори, пензлі та полотно."
+      "hr": "'I narukvica je tako elegantna.'",
+      "uk": "'І браслет такий елегантний.'"
+    },
+    {
+      "hr": "'Dijamanti su uvijek izvrstan izbor,' rekao je Viktor.",
+      "uk": "'Діаманти завжди чудовий вибір,' сказав Віктор."
+    },
+    {
+      "hr": "'Oni su najtvrđi mineral na Zemlji, poznati po svojoj transparentnosti i sjaju.'",
+      "uk": "'Вони є найтвердішим мінералом на Землі, відомі своєю прозорістю та блиском.'"
+    },
+    {
+      "hr": "'Svaki dijamant je jedinstven, a njegova čistoća i kvaliteta često se ocjenjuju pomoću četiri karakteristike: karata, boje, čistoće i brušenja.'",
+      "uk": "'Кожен діамант унікальний, а його чистоту та якість зазвичай оцінюють за чотирма характеристиками: карати, колір, чистота та огранювання.'"
+    },
+    {
+      "hr": "Marta je zahvalila Viktoru na njegovom vremenu i znanju.",
+      "uk": "Марта подякувала Віктору за його час і знання."
+    },
+    {
+      "hr": "Dok je izlazila iz dućana, shvatila je koliko svaki materijal, bilo da je riječ o metalu, dragom kamenu ili mineralu, nosi svoju priču.",
+      "uk": "Виходячи з крамниці, вона зрозуміла, що кожен матеріал, чи то метал, дорогоцінний камінь або мінерал, має свою історію."
+    },
+    {
+      "hr": "Svaki predmet koji je dotaknula imao je svoju povijest, svoj karakter, a svaki materijal bio je pažljivo odabran zbog svojih svojstava – od tvrdoće metala, preko refleksije boja, do teksture površine.",
+      "uk": "Кожен предмет, до якого вона торкнулася, мав свою історію, свій характер, і кожен матеріал був ретельно обраний за своїми властивостями – від твердості металу, відбиття кольору до текстури поверхні."
+    },
+    {
+      "hr": "Dok je hodala kući s novim dragocjenostima u torbi, Marta se nasmiješila, osjećajući se povezano s poviješću i umjetnošću koja je bila utkana u svaki komad koji je vidjela u Viktorovom dućanu.",
+      "uk": "Йдучи додому з новими коштовностями в сумці, Марта посміхалася, відчуваючи зв'язок з історією та мистецтвом, які були вплетені в кожен виріб, що вона побачила в магазині Віктора."
+    },
+    {
+      "hr": "Svijet metala, dragog kamenja i minerala sada joj je izgledao bogatiji nego ikada prije.",
+      "uk": "Світ металів, дорогоцінного каміння та мінералів тепер здавався їй багатшим, ніж будь-коли раніше."
     }
   ],
   "vocabulary": [
-    {"hr": "slikar", "uk": "художник"},
-    {"hr": "atelje", "uk": "майстерня"},
-    {"hr": "boje", "uk": "фарби"},
-    {"hr": "platno", "uk": "полотно"},
-    {"hr": "kist", "uk": "пензель"},
-    {"hr": "grafitna olovka", "uk": "графітний олівець"},
-    {"hr": "gumica", "uk": "гумка"},
-    {"hr": "tekstura", "uk": "текстура"},
-    {"hr": "reljef", "uk": "рельєф"},
-    {"hr": "kompozicija", "uk": "композиція"},
-    {"hr": "skica", "uk": "ескіз"},
-    {"hr": "boje", "uk": "кольори"},
-    {"hr": "kontrast", "uk": "контраст"},
-    {"hr": "pastel", "uk": "пастель"},
-    {"hr": "akvarel", "uk": "акварель"},
-    {"hr": "akrilne boje", "uk": "акрилові фарби"},
-    {"hr": "uljne boje", "uk": "олійні фарби"},
-    {"hr": "paleta", "uk": "палітра"},
-    {"hr": "dubina", "uk": "глибина"},
-    {"hr": "nijanse", "uk": "відтінки"},
-    {"hr": "sjena", "uk": "тінь"},
-    {"hr": "zid", "uk": "стіна"},
-    {"hr": "slika", "uk": "картина"},
-    {"hr": "potez", "uk": "мазок"},
-    {"hr": "reljef", "uk": "рельєф"},
-    {"hr": "prostor", "uk": "простір"},
-    {"hr": "izraziti", "uk": "виразити"},
-    {"hr": "umjetnost", "uk": "мистецтво"},
-    {"hr": "energija", "uk": "енергія"},
-    {"hr": "priča", "uk": "історія"},
-    {"hr": "svjetlo", "uk": "світло"},
-    {"hr": "oblikovati", "uk": "формувати"},
-    {"hr": "površina", "uk": "поверхня"},
-    {"hr": "slojevi", "uk": "шари"},
-    {"hr": "detalji", "uk": "деталі"},
-    {"hr": "projekti", "uk": "проєкти"},
-    {"hr": "boja", "uk": "колір"},
-    {"hr": "osjećaj", "uk": "відчуття"},
-    {"hr": "tehnika", "uk": "техніка"},
-    {"hr": "kreativnost", "uk": "креативність"},
-    {"hr": "preciznost", "uk": "точність"},
-    {"hr": "plan", "uk": "план"},
-    {"hr": "inspiracija", "uk": "натхнення"},
-    {"hr": "projekat", "uk": "проєкт"},
-    {"hr": "izazov", "uk": "виклик"},
-    {"hr": "potez", "uk": "штрих"},
-    {"hr": "umjetnički", "uk": "художній"},
-    {"hr": "kreativni proces", "uk": "творчий процес"}
+    { "hr": "antikvarni", "uk": "антикварний" },
+    { "hr": "dragocjenosti", "uk": "коштовності" },
+    { "hr": "platina", "uk": "платина" },
+    { "hr": "prsten", "uk": "кільце" },
+    { "hr": "ametist", "uk": "аметист" },
+    { "hr": "rubin", "uk": "рубін" },
+    { "hr": "safir", "uk": "сапфір" },
+    { "hr": "smaragd", "uk": "смарагд" },
+    { "hr": "opalescencija", "uk": "опалесценція" },
+    { "hr": "bakar", "uk": "мідь" },
+    { "hr": "oksidacija", "uk": "окислення" },
+    { "hr": "zlatni", "uk": "золотий" },
+    { "hr": "narukvica", "uk": "браслет" },
+    { "hr": "naušnice", "uk": "сережки" },
+    { "hr": "kamen", "uk": "камінь" },
+    { "hr": "svjetlucav", "uk": "блискучий" },
+    { "hr": "kovan", "uk": "кований" },
+    { "hr": "drevni", "uk": "давній" },
+    { "hr": "oksidirati", "uk": "окислювати" },
+    { "hr": "legura", "uk": "сплав" },
+    { "hr": "tvrdoća", "uk": "твердість" },
+    { "hr": "rezbarenje", "uk": "різьблення" },
+    { "hr": "gravura", "uk": "гравірування" },
+    { "hr": "simbol", "uk": "символ" },
+    { "hr": "zaštita", "uk": "захист" },
+    { "hr": "ljubav", "uk": "кохання" },
+    { "hr": "dar", "uk": "подарунок" },
+    { "hr": "umjetnost", "uk": "мистецтво" },
+    { "hr": "sjaj", "uk": "сяйво" },
+    { "hr": "čistoća", "uk": "чистота" },
+    { "hr": "karat", "uk": "карат" },
+    { "hr": "vrijednost", "uk": "вартість" },
+    { "hr": "nasljedstvo", "uk": "спадщина" },
+    { "hr": "izdržljiv", "uk": "міцний" },
+    { "hr": "povijest", "uk": "історія" },
+    { "hr": "preciznost", "uk": "точність" },
+    { "hr": "blistav", "uk": "блискучий" },
+    { "hr": "skulptura", "uk": "скульптура" },
+    { "hr": "kolekcija", "uk": "колекція" }
   ]
 }

@@ -1,402 +1,402 @@
 [
 	{
     "infinitive": "unositi",
-    "past_tense": ["unosio", "unosila", "unosilo"],
-    "present_tense": ["unosim", "unosiš", "unosi", "unosimo", "unosite", "unose"],
-    "ukrainian_translation": "вносити",
-    "example_sentence": "Unosili su sve podatke u sustav.",
-    "ukrainian_translation_sentence": "Вони вносили всі дані в систему."
+    "pastTense": ["unosio", "unosila", "unosilo"],
+    "presentTense": ["unosim", "unosiš", "unosi", "unosimo", "unosite", "unose"],
+    "ukrainianTranslation": "вносити",
+    "exampleSentence": "Unosili su sve podatke u sustav.",
+    "ukrainianTranslationSentence": "Вони вносили всі дані в систему."
   },
   {
     "infinitive": "upijati",
-    "past_tense": ["upijao", "upijala", "upijalo"],
-    "present_tense": ["upijam", "upijaš", "upija", "upijamo", "upijate", "upijaju"],
-    "ukrainian_translation": "вбирати",
-    "example_sentence": "Biljke upijaju vodu iz tla.",
-    "ukrainian_translation_sentence": "Рослини вбирають воду з ґрунту."
+    "pastTense": ["upijao", "upijala", "upijalo"],
+    "presentTense": ["upijam", "upijaš", "upija", "upijamo", "upijate", "upijaju"],
+    "ukrainianTranslation": "вбирати",
+    "exampleSentence": "Biljke upijaju vodu iz tla.",
+    "ukrainianTranslationSentence": "Рослини вбирають воду з ґрунту."
   },
   {
     "infinitive": "upisati",
-    "past_tense": ["upisao", "upisala", "upisalo"],
-    "present_tense": ["upisujem", "upisuješ", "upisuje", "upisujemo", "upisujete", "upisuju"],
-    "ukrainian_translation": "записати",
-    "example_sentence": "Upisao se na tečaj stranog jezika.",
-    "ukrainian_translation_sentence": "Він записався на курс іноземної мови."
+    "pastTense": ["upisao", "upisala", "upisalo"],
+    "presentTense": ["upisujem", "upisuješ", "upisuje", "upisujemo", "upisujete", "upisuju"],
+    "ukrainianTranslation": "записати",
+    "exampleSentence": "Upisao se na tečaj stranog jezika.",
+    "ukrainianTranslationSentence": "Він записався на курс іноземної мови."
   },
 	{
     "infinitive": "upitati",
-    "past_tense": ["upitao", "upitala", "upitalo"],
-    "present_tense": ["upitam", "upitaš", "upita", "upitamo", "upitate", "upitaju"],
-    "ukrainian_translation": "запитати",
-    "example_sentence": "Upitao je učitelja za pojašnjenje zadatka.",
-    "ukrainian_translation_sentence": "Він запитав учителя про пояснення завдання."
+    "pastTense": ["upitao", "upitala", "upitalo"],
+    "presentTense": ["upitam", "upitaš", "upita", "upitamo", "upitate", "upitaju"],
+    "ukrainianTranslation": "запитати",
+    "exampleSentence": "Upitao je učitelja za pojašnjenje zadatka.",
+    "ukrainianTranslationSentence": "Він запитав учителя про пояснення завдання."
   },
   {
     "infinitive": "upiti",
-    "past_tense": ["upio", "upila", "upilo"],
-    "present_tense": ["upijem", "upiješ", "upije", "upijemo", "upijete", "upiju"],
-    "ukrainian_translation": "випити",
-    "example_sentence": "Upio je čašu vode nakon dugog trčanja.",
-    "ukrainian_translation_sentence": "Він випив склянку води після довгого бігу."
+    "pastTense": ["upio", "upila", "upilo"],
+    "presentTense": ["upijem", "upiješ", "upije", "upijemo", "upijete", "upiju"],
+    "ukrainianTranslation": "випити",
+    "exampleSentence": "Upio je čašu vode nakon dugog trčanja.",
+    "ukrainianTranslationSentence": "Він випив склянку води після довгого бігу."
   },
   {
     "infinitive": "uplaćivati",
-    "past_tense": ["uplaćivao", "uplaćivala", "uplaćivalo"],
-    "present_tense": ["uplaćujem", "uplaćuješ", "uplaćuje", "uplaćujemo", "uplaćujete", "uplaćuju"],
-    "ukrainian_translation": "вносити оплату",
-    "example_sentence": "Redovito uplaćuje sredstva na štedni račun.",
-    "ukrainian_translation_sentence": "Він регулярно вносить кошти на ощадний рахунок."
+    "pastTense": ["uplaćivao", "uplaćivala", "uplaćivalo"],
+    "presentTense": ["uplaćujem", "uplaćuješ", "uplaćuje", "uplaćujemo", "uplaćujete", "uplaćuju"],
+    "ukrainianTranslation": "вносити оплату",
+    "exampleSentence": "Redovito uplaćuje sredstva na štedni račun.",
+    "ukrainianTranslationSentence": "Він регулярно вносить кошти на ощадний рахунок."
   },
   {
     "infinitive": "uploviti",
-    "past_tense": ["uplovio", "uplovila", "uplovilo"],
-    "present_tense": ["uplovim", "uploviš", "uplovi", "uplovimo", "uplovite", "uplove"],
-    "ukrainian_translation": "вплисти",
-    "example_sentence": "Brod je uplovio u luku rano ujutro.",
-    "ukrainian_translation_sentence": "Корабель вплив у порт рано вранці."
+    "pastTense": ["uplovio", "uplovila", "uplovilo"],
+    "presentTense": ["uplovim", "uploviš", "uplovi", "uplovimo", "uplovite", "uplove"],
+    "ukrainianTranslation": "вплисти",
+    "exampleSentence": "Brod je uplovio u luku rano ujutro.",
+    "ukrainianTranslationSentence": "Корабель вплив у порт рано вранці."
   },
   {
     "infinitive": "uposliti",
-    "past_tense": ["uposlio", "uposlila", "uposlilo"],
-    "present_tense": ["uposlim", "uposliš", "uposli", "uposlimo", "uposlite", "uposle"],
-    "ukrainian_translation": "найняти",
-    "example_sentence": "Tvrtka je uposlila nove radnike za projekt.",
-    "ukrainian_translation_sentence": "Компанія найняла нових робітників для проєкту."
+    "pastTense": ["uposlio", "uposlila", "uposlilo"],
+    "presentTense": ["uposlim", "uposliš", "uposli", "uposlimo", "uposlite", "uposle"],
+    "ukrainianTranslation": "найняти",
+    "exampleSentence": "Tvrtka je uposlila nove radnike za projekt.",
+    "ukrainianTranslationSentence": "Компанія найняла нових робітників для проєкту."
   },
   {
     "infinitive": "upotpunjivati",
-    "past_tense": ["upotpunjivao", "upotpunjivala", "upotpunjivalo"],
-    "present_tense": ["upotpunjujem", "upotpunjuješ", "upotpunjuje", "upotpunjujemo", "upotpunjujete", "upotpunjuju"],
-    "ukrainian_translation": "доповнювати",
-    "example_sentence": "Upotpunjivao je svoju kolekciju knjiga novim naslovima.",
-    "ukrainian_translation_sentence": "Він доповнював свою колекцію книг новими виданнями."
+    "pastTense": ["upotpunjivao", "upotpunjivala", "upotpunjivalo"],
+    "presentTense": ["upotpunjujem", "upotpunjuješ", "upotpunjuje", "upotpunjujemo", "upotpunjujete", "upotpunjuju"],
+    "ukrainianTranslation": "доповнювати",
+    "exampleSentence": "Upotpunjivao je svoju kolekciju knjiga novim naslovima.",
+    "ukrainianTranslationSentence": "Він доповнював свою колекцію книг новими виданнями."
   },
   {
     "infinitive": "upotrebljavati",
-    "past_tense": ["upotrebljavao", "upotrebljavala", "upotrebljavalo"],
-    "present_tense": ["upotrebljavam", "upotrebljavaš", "upotrebljava", "upotrebljavamo", "upotrebljavate", "upotrebljavaju"],
-    "ukrainian_translation": "використовувати",
-    "example_sentence": "Upotrebljava novu tehnologiju u svakodnevnom radu.",
-    "ukrainian_translation_sentence": "Він використовує нові технології у щоденній роботі."
+    "pastTense": ["upotrebljavao", "upotrebljavala", "upotrebljavalo"],
+    "presentTense": ["upotrebljavam", "upotrebljavaš", "upotrebljava", "upotrebljavamo", "upotrebljavate", "upotrebljavaju"],
+    "ukrainianTranslation": "використовувати",
+    "exampleSentence": "Upotrebljava novu tehnologiju u svakodnevnom radu.",
+    "ukrainianTranslationSentence": "Він використовує нові технології у щоденній роботі."
   },
   {
     "infinitive": "upozoriti",
-    "past_tense": ["upozorio", "upozorila", "upozorilo"],
-    "present_tense": ["upozorim", "upozoriš", "upozori", "upozorimo", "upozorite", "upozore"],
-    "ukrainian_translation": "попередити",
-    "example_sentence": "Upozorio je vozače na opasnu cestu.",
-    "ukrainian_translation_sentence": "Він попередив водіїв про небезпечну дорогу."
+    "pastTense": ["upozorio", "upozorila", "upozorilo"],
+    "presentTense": ["upozorim", "upozoriš", "upozori", "upozorimo", "upozorite", "upozore"],
+    "ukrainianTranslation": "попередити",
+    "exampleSentence": "Upozorio je vozače na opasnu cestu.",
+    "ukrainianTranslationSentence": "Він попередив водіїв про небезпечну дорогу."
   },
   {
     "infinitive": "upraviti",
-    "past_tense": ["upravio", "uprava", "upravo"],
-    "present_tense": ["upravim", "upraviš", "upravi", "upravimo", "upravite", "uprave"],
-    "ukrainian_translation": "керувати",
-    "example_sentence": "On upravlja cijelim odjelom u tvrtki.",
-    "ukrainian_translation_sentence": "Він керує цілим відділом у компанії."
+    "pastTense": ["upravio", "uprava", "upravo"],
+    "presentTense": ["upravim", "upraviš", "upravi", "upravimo", "upravite", "uprave"],
+    "ukrainianTranslation": "керувати",
+    "exampleSentence": "On upravlja cijelim odjelom u tvrtki.",
+    "ukrainianTranslationSentence": "Він керує цілим відділом у компанії."
   },
   {
     "infinitive": "upriličiti",
-    "past_tense": ["upriličio", "upriličila", "upriličilo"],
-    "present_tense": ["upriličim", "upriličiš", "upriliči", "upriličimo", "upriličite", "upriliče"],
-    "ukrainian_translation": "влаштувати",
-    "example_sentence": "Upriličili su svečanost povodom godišnjice tvrtke.",
-    "ukrainian_translation_sentence": "Вони влаштували урочистість з нагоди річниці компанії."
+    "pastTense": ["upriličio", "upriličila", "upriličilo"],
+    "presentTense": ["upriličim", "upriličiš", "upriliči", "upriličimo", "upriličite", "upriliče"],
+    "ukrainianTranslation": "влаштувати",
+    "exampleSentence": "Upriličili su svečanost povodom godišnjice tvrtke.",
+    "ukrainianTranslationSentence": "Вони влаштували урочистість з нагоди річниці компанії."
   },
 	{
     "infinitive": "upropastiti",
-    "past_tense": ["upropastio", "upropastila", "upropastilo"],
-    "present_tense": ["upropastim", "upropastiš", "upropasti", "upropastimo", "upropastite", "upropaste"],
-    "ukrainian_translation": "зіпсувати",
-    "example_sentence": "Loša organizacija je gotovo upropastila cijeli projekt.",
-    "ukrainian_translation_sentence": "Погана організація майже зіпсувала весь проєкт."
+    "pastTense": ["upropastio", "upropastila", "upropastilo"],
+    "presentTense": ["upropastim", "upropastiš", "upropasti", "upropastimo", "upropastite", "upropaste"],
+    "ukrainianTranslation": "зіпсувати",
+    "exampleSentence": "Loša organizacija je gotovo upropastila cijeli projekt.",
+    "ukrainianTranslationSentence": "Погана організація майже зіпсувала весь проєкт."
   },
   {
     "infinitive": "upucati",
-    "past_tense": ["upucao", "upucala", "upucalo"],
-    "present_tense": ["upucam", "upucaš", "upuca", "upucamo", "upucate", "upucaju"],
-    "ukrainian_translation": "вистрілити",
-    "example_sentence": "Policajac je upucao osumnjičenog u samoobrani.",
-    "ukrainian_translation_sentence": "Поліцейський вистрілив у підозрюваного під час самозахисту."
+    "pastTense": ["upucao", "upucala", "upucalo"],
+    "presentTense": ["upucam", "upucaš", "upuca", "upucamo", "upucate", "upucaju"],
+    "ukrainianTranslation": "вистрілити",
+    "exampleSentence": "Policajac je upucao osumnjičenog u samoobrani.",
+    "ukrainianTranslationSentence": "Поліцейський вистрілив у підозрюваного під час самозахисту."
   },
   {
     "infinitive": "upuštati",
-    "past_tense": ["upuštao", "upuštala", "upuštalo"],
-    "present_tense": ["upuštam", "upuštaš", "upušta", "upuštamo", "upuštate", "upuštaju"],
-    "ukrainian_translation": "втягуватися",
-    "example_sentence": "Ne voli se upuštati u nepotrebne rasprave.",
-    "ukrainian_translation_sentence": "Він не любить втягуватися в непотрібні суперечки."
+    "pastTense": ["upuštao", "upuštala", "upuštalo"],
+    "presentTense": ["upuštam", "upuštaš", "upušta", "upuštamo", "upuštate", "upuštaju"],
+    "ukrainianTranslation": "втягуватися",
+    "exampleSentence": "Ne voli se upuštati u nepotrebne rasprave.",
+    "ukrainianTranslationSentence": "Він не любить втягуватися в непотрібні суперечки."
   },
   {
     "infinitive": "uputiti",
-    "past_tense": ["uputio", "uputila", "uputilo"],
-    "present_tense": ["uputim", "uputiš", "uputi", "uputimo", "uputite", "upute"],
-    "ukrainian_translation": "спрямувати",
-    "example_sentence": "Uputio je pismo šefu kompanije.",
-    "ukrainian_translation_sentence": "Він направив листа керівнику компанії."
+    "pastTense": ["uputio", "uputila", "uputilo"],
+    "presentTense": ["uputim", "uputiš", "uputi", "uputimo", "uputite", "upute"],
+    "ukrainianTranslation": "спрямувати",
+    "exampleSentence": "Uputio je pismo šefu kompanije.",
+    "ukrainianTranslationSentence": "Він направив листа керівнику компанії."
   },
   {
     "infinitive": "uraditi",
-    "past_tense": ["uradio", "uradila", "uradilo"],
-    "present_tense": ["uradim", "uradiš", "uradi", "uradimo", "uradite", "urade"],
-    "ukrainian_translation": "зробити",
-    "example_sentence": "Uradio je sve potrebne pripreme prije putovanja.",
-    "ukrainian_translation_sentence": "Він зробив усі необхідні підготовки перед подорожжю."
+    "pastTense": ["uradio", "uradila", "uradilo"],
+    "presentTense": ["uradim", "uradiš", "uradi", "uradimo", "uradite", "urade"],
+    "ukrainianTranslation": "зробити",
+    "exampleSentence": "Uradio je sve potrebne pripreme prije putovanja.",
+    "ukrainianTranslationSentence": "Він зробив усі необхідні підготовки перед подорожжю."
   },
   {
     "infinitive": "uređivati",
-    "past_tense": ["uređivao", "uređivala", "uređivalo"],
-    "present_tense": ["uređujem", "uređuješ", "uređuje", "uređujemo", "uređujete", "uređuju"],
-    "ukrainian_translation": "редагувати",
-    "example_sentence": "Uređuje časopis već više od pet godina.",
-    "ukrainian_translation_sentence": "Він редагує журнал вже більше п'яти років."
+    "pastTense": ["uređivao", "uređivala", "uređivalo"],
+    "presentTense": ["uređujem", "uređuješ", "uređuje", "uređujemo", "uređujete", "uređuju"],
+    "ukrainianTranslation": "редагувати",
+    "exampleSentence": "Uređuje časopis već više od pet godina.",
+    "ukrainianTranslationSentence": "Він редагує журнал вже більше п'яти років."
   },
   {
     "infinitive": "urlati",
-    "past_tense": ["urlao", "urlala", "urlalo"],
-    "present_tense": ["urlam", "urlaš", "urla", "urlamo", "urlate", "urlaju"],
-    "ukrainian_translation": "ревіти",
-    "example_sentence": "Publika je urlala od oduševljenja na koncertu.",
-    "ukrainian_translation_sentence": "Публіка ревла від захвату на концерті."
+    "pastTense": ["urlao", "urlala", "urlalo"],
+    "presentTense": ["urlam", "urlaš", "urla", "urlamo", "urlate", "urlaju"],
+    "ukrainianTranslation": "ревіти",
+    "exampleSentence": "Publika je urlala od oduševljenja na koncertu.",
+    "ukrainianTranslationSentence": "Публіка ревла від захвату на концерті."
   },
   {
     "infinitive": "uručiti",
-    "past_tense": ["uručio", "uručila", "uručilo"],
-    "present_tense": ["uručim", "uručiš", "uruči", "uručimo", "uručite", "uruče"],
-    "ukrainian_translation": "вручити",
-    "example_sentence": "Uručili su mu nagradu za doprinos znanosti.",
-    "ukrainian_translation_sentence": "Йому вручили нагороду за внесок у науку."
+    "pastTense": ["uručio", "uručila", "uručilo"],
+    "presentTense": ["uručim", "uručiš", "uruči", "uručimo", "uručite", "uruče"],
+    "ukrainianTranslation": "вручити",
+    "exampleSentence": "Uručili su mu nagradu za doprinos znanosti.",
+    "ukrainianTranslationSentence": "Йому вручили нагороду за внесок у науку."
   },
   {
     "infinitive": "usavršiti",
-    "past_tense": ["usavršio", "usavršila", "usavršilo"],
-    "present_tense": ["usavršim", "usavršiš", "usavrši", "usavršimo", "usavršite", "usavrše"],
-    "ukrainian_translation": "вдосконалити",
-    "example_sentence": "Usavršio je svoje vještine tijekom godina.",
-    "ukrainian_translation_sentence": "Він вдосконалив свої навички протягом років."
+    "pastTense": ["usavršio", "usavršila", "usavršilo"],
+    "presentTense": ["usavršim", "usavršiš", "usavrši", "usavršimo", "usavršite", "usavrše"],
+    "ukrainianTranslation": "вдосконалити",
+    "exampleSentence": "Usavršio je svoje vještine tijekom godina.",
+    "ukrainianTranslationSentence": "Він вдосконалив свої навички протягом років."
   },
   {
     "infinitive": "uskladiti",
-    "past_tense": ["uskladio", "uskladila", "uskladilo"],
-    "present_tense": ["uskladim", "uskladiš", "uskladi", "uskladimo", "uskladite", "usklade"],
-    "ukrainian_translation": "узгодити",
-    "example_sentence": "Uspjeli su uskladiti rasporede svih sudionika.",
-    "ukrainian_translation_sentence": "Вони змогли узгодити розклади всіх учасників."
+    "pastTense": ["uskladio", "uskladila", "uskladilo"],
+    "presentTense": ["uskladim", "uskladiš", "uskladi", "uskladimo", "uskladite", "usklade"],
+    "ukrainianTranslation": "узгодити",
+    "exampleSentence": "Uspjeli su uskladiti rasporede svih sudionika.",
+    "ukrainianTranslationSentence": "Вони змогли узгодити розклади всіх учасників."
   },
 	{
     "infinitive": "uskočiti",
-    "past_tense": ["uskočio", "uskočila", "uskočilo"],
-    "present_tense": ["uskočim", "uskočiš", "uskoči", "uskočimo", "uskočite", "uskoče"],
-    "ukrainian_translation": "вскочити",
-    "example_sentence": "Uskočio je u vlak u zadnji trenutak.",
-    "ukrainian_translation_sentence": "Він вскочив у поїзд в останню мить."
+    "pastTense": ["uskočio", "uskočila", "uskočilo"],
+    "presentTense": ["uskočim", "uskočiš", "uskoči", "uskočimo", "uskočite", "uskoče"],
+    "ukrainianTranslation": "вскочити",
+    "exampleSentence": "Uskočio je u vlak u zadnji trenutak.",
+    "ukrainianTranslationSentence": "Він вскочив у поїзд в останню мить."
   },
   {
     "infinitive": "usmjeriti",
-    "past_tense": ["usmjerio", "usmjerila", "usmjerilo"],
-    "present_tense": ["usmjerim", "usmjeriš", "usmjeri", "usmjerimo", "usmjerite", "usmjere"],
-    "ukrainian_translation": "спрямувати",
-    "example_sentence": "Usmjerio je svoju energiju na rješavanje problema.",
-    "ukrainian_translation_sentence": "Він спрямовував свою енергію на вирішення проблеми."
+    "pastTense": ["usmjerio", "usmjerila", "usmjerilo"],
+    "presentTense": ["usmjerim", "usmjeriš", "usmjeri", "usmjerimo", "usmjerite", "usmjere"],
+    "ukrainianTranslation": "спрямувати",
+    "exampleSentence": "Usmjerio je svoju energiju na rješavanje problema.",
+    "ukrainianTranslationSentence": "Він спрямовував свою енергію на вирішення проблеми."
   },
   {
     "infinitive": "usmrtiti",
-    "past_tense": ["usmrtio", "usmrtila", "usmrtilo"],
-    "present_tense": ["usmrtim", "usmrtiš", "usmrti", "usmrtimo", "usmrtite", "usmrte"],
-    "ukrainian_translation": "убити",
-    "example_sentence": "Vozač je slučajno usmrtio životinju na cesti.",
-    "ukrainian_translation_sentence": "Водій випадково убив тварину на дорозі."
+    "pastTense": ["usmrtio", "usmrtila", "usmrtilo"],
+    "presentTense": ["usmrtim", "usmrtiš", "usmrti", "usmrtimo", "usmrtite", "usmrte"],
+    "ukrainianTranslation": "убити",
+    "exampleSentence": "Vozač je slučajno usmrtio životinju na cesti.",
+    "ukrainianTranslationSentence": "Водій випадково убив тварину на дорозі."
   },
   {
     "infinitive": "uspjeti",
-    "past_tense": ["uspio", "uspjela", "uspjelo"],
-    "present_tense": ["uspijem", "uspiješ", "uspije", "uspijemo", "uspijete", "uspiju"],
-    "ukrainian_translation": "досягти успіху",
-    "example_sentence": "Uspjeli su završiti projekt prije roka.",
-    "ukrainian_translation_sentence": "Вони змогли завершити проєкт до терміну."
+    "pastTense": ["uspio", "uspjela", "uspjelo"],
+    "presentTense": ["uspijem", "uspiješ", "uspije", "uspijemo", "uspijete", "uspiju"],
+    "ukrainianTranslation": "досягти успіху",
+    "exampleSentence": "Uspjeli su završiti projekt prije roka.",
+    "ukrainianTranslationSentence": "Вони змогли завершити проєкт до терміну."
   },
   {
     "infinitive": "usporavati",
-    "past_tense": ["usporavao", "usporavala", "usporavalo"],
-    "present_tense": ["usporavam", "usporavaš", "usporava", "usporavamo", "usporavate", "usporavaju"],
-    "ukrainian_translation": "уповільнювати",
-    "example_sentence": "Loši uvjeti na cestama usporavali su promet.",
-    "ukrainian_translation_sentence": "Погані умови на дорогах уповільнювали рух."
+    "pastTense": ["usporavao", "usporavala", "usporavalo"],
+    "presentTense": ["usporavam", "usporavaš", "usporava", "usporavamo", "usporavate", "usporavaju"],
+    "ukrainianTranslation": "уповільнювати",
+    "exampleSentence": "Loši uvjeti na cestama usporavali su promet.",
+    "ukrainianTranslationSentence": "Погані умови на дорогах уповільнювали рух."
   },
   {
     "infinitive": "usporediti",
-    "past_tense": ["usporedio", "usporedila", "usporedilo"],
-    "present_tense": ["usporedim", "usporediš", "usporedi", "usporedimo", "usporedite", "usporede"],
-    "ukrainian_translation": "порівняти",
-    "example_sentence": "Usporedili su različite proizvode prije kupnje.",
-    "ukrainian_translation_sentence": "Вони порівняли різні товари перед покупкою."
+    "pastTense": ["usporedio", "usporedila", "usporedilo"],
+    "presentTense": ["usporedim", "usporediš", "usporedi", "usporedimo", "usporedite", "usporede"],
+    "ukrainianTranslation": "порівняти",
+    "exampleSentence": "Usporedili su različite proizvode prije kupnje.",
+    "ukrainianTranslationSentence": "Вони порівняли різні товари перед покупкою."
   },
   {
     "infinitive": "usrati",
-    "past_tense": ["usrao", "usrala", "usralo"],
-    "present_tense": ["usrem", "usereš", "usere", "useremo", "userete", "usere"],
-    "ukrainian_translation": "зіпсувати",
-    "example_sentence": "Usrao je cijelu situaciju svojim lošim postupcima.",
-    "ukrainian_translation_sentence": "Він зіпсував усю ситуацію своїми поганими діями."
+    "pastTense": ["usrao", "usrala", "usralo"],
+    "presentTense": ["usrem", "usereš", "usere", "useremo", "userete", "usere"],
+    "ukrainianTranslation": "зіпсувати",
+    "exampleSentence": "Usrao je cijelu situaciju svojim lošim postupcima.",
+    "ukrainianTranslationSentence": "Він зіпсував усю ситуацію своїми поганими діями."
   },
   {
     "infinitive": "usrećiti",
-    "past_tense": ["usrećio", "usrećila", "usrećilo"],
-    "present_tense": ["usrećim", "usrećiš", "usreći", "usrećimo", "usrećite", "usreće"],
-    "ukrainian_translation": "ощасливити",
-    "example_sentence": "Njegova gesta usrećila je sve prisutne.",
-    "ukrainian_translation_sentence": "Його жест ощасливив усіх присутніх."
+    "pastTense": ["usrećio", "usrećila", "usrećilo"],
+    "presentTense": ["usrećim", "usrećiš", "usreći", "usrećimo", "usrećite", "usreće"],
+    "ukrainianTranslation": "ощасливити",
+    "exampleSentence": "Njegova gesta usrećila je sve prisutne.",
+    "ukrainianTranslationSentence": "Його жест ощасливив усіх присутніх."
   },
   {
     "infinitive": "ustrojiti",
-    "past_tense": ["ustrojio", "ustrojila", "ustrojilo"],
-    "present_tense": ["ustrojim", "ustrojiš", "ustroji", "ustrojimo", "ustrojite", "ustroje"],
-    "ukrainian_translation": "організувати",
-    "example_sentence": "Ustrojili su novu strukturu unutar tvrtke.",
-    "ukrainian_translation_sentence": "Вони організували нову структуру в компанії."
+    "pastTense": ["ustrojio", "ustrojila", "ustrojilo"],
+    "presentTense": ["ustrojim", "ustrojiš", "ustroji", "ustrojimo", "ustrojite", "ustroje"],
+    "ukrainianTranslation": "організувати",
+    "exampleSentence": "Ustrojili su novu strukturu unutar tvrtke.",
+    "ukrainianTranslationSentence": "Вони організували нову структуру в компанії."
   },
   {
     "infinitive": "ustručavati",
-    "past_tense": ["ustručavao", "ustručavala", "ustručavalo"],
-    "present_tense": ["ustručavam", "ustručavaš", "ustručava", "ustručavamo", "ustručavate", "ustručavaju"],
-    "ukrainian_translation": "вагатися",
-    "example_sentence": "Nije se ustručavao izraziti svoje mišljenje.",
-    "ukrainian_translation_sentence": "Він не вагався висловити свою думку."
+    "pastTense": ["ustručavao", "ustručavala", "ustručavalo"],
+    "presentTense": ["ustručavam", "ustručavaš", "ustručava", "ustručavamo", "ustručavate", "ustručavaju"],
+    "ukrainianTranslation": "вагатися",
+    "exampleSentence": "Nije se ustručavao izraziti svoje mišljenje.",
+    "ukrainianTranslationSentence": "Він не вагався висловити свою думку."
   },
 	{
     "infinitive": "usuditi",
-    "past_tense": ["usudio", "usudila", "usudilo"],
-    "present_tense": ["usudim", "usudiš", "usudi", "usudimo", "usudite", "usude"],
-    "ukrainian_translation": "наважитися",
-    "example_sentence": "Nije se usudio priznati svoju pogrešku.",
-    "ukrainian_translation_sentence": "Він не наважився визнати свою помилку."
+    "pastTense": ["usudio", "usudila", "usudilo"],
+    "presentTense": ["usudim", "usudiš", "usudi", "usudimo", "usudite", "usude"],
+    "ukrainianTranslation": "наважитися",
+    "exampleSentence": "Nije se usudio priznati svoju pogrešku.",
+    "ukrainianTranslationSentence": "Він не наважився визнати свою помилку."
   },
   {
     "infinitive": "uticati",
-    "past_tense": ["uticao", "uticala", "uticalo"],
-    "present_tense": ["utječem", "utječeš", "utječe", "utječemo", "utječete", "utječu"],
-    "ukrainian_translation": "впливати",
-    "example_sentence": "Vanjski faktori mogu značajno uticati na rezultate.",
-    "ukrainian_translation_sentence": "Зовнішні фактори можуть суттєво впливати на результати."
+    "pastTense": ["uticao", "uticala", "uticalo"],
+    "presentTense": ["utječem", "utječeš", "utječe", "utječemo", "utječete", "utječu"],
+    "ukrainianTranslation": "впливати",
+    "exampleSentence": "Vanjski faktori mogu značajno uticati na rezultate.",
+    "ukrainianTranslationSentence": "Зовнішні фактори можуть суттєво впливати на результати."
   },
   {
     "infinitive": "utješiti",
-    "past_tense": ["utješio", "utješila", "utješilo"],
-    "present_tense": ["utješim", "utješiš", "utješi", "utješimo", "utješite", "utješe"],
-    "ukrainian_translation": "втішити",
-    "example_sentence": "Pokušao je utješiti prijatelja nakon loših vijesti.",
-    "ukrainian_translation_sentence": "Він намагався втішити друга після поганих новин."
+    "pastTense": ["utješio", "utješila", "utješilo"],
+    "presentTense": ["utješim", "utješiš", "utješi", "utješimo", "utješite", "utješe"],
+    "ukrainianTranslation": "втішити",
+    "exampleSentence": "Pokušao je utješiti prijatelja nakon loših vijesti.",
+    "ukrainianTranslationSentence": "Він намагався втішити друга після поганих новин."
   },
   {
     "infinitive": "utrpati",
-    "past_tense": ["utrpao", "utrpala", "utrpalo"],
-    "present_tense": ["utrpam", "utrapaš", "utrapa", "utrpamo", "utrpate", "utrpaju"],
-    "ukrainian_translation": "втиснути",
-    "example_sentence": "Utrpali su sve kofere u auto, iako nije bilo dovoljno mjesta.",
-    "ukrainian_translation_sentence": "Вони втиснули всі валізи в машину, хоча місця не вистачало."
+    "pastTense": ["utrpao", "utrpala", "utrpalo"],
+    "presentTense": ["utrpam", "utrapaš", "utrapa", "utrpamo", "utrpate", "utrpaju"],
+    "ukrainianTranslation": "втиснути",
+    "exampleSentence": "Utrpali su sve kofere u auto, iako nije bilo dovoljno mjesta.",
+    "ukrainianTranslationSentence": "Вони втиснули всі валізи в машину, хоча місця не вистачало."
   },
   {
     "infinitive": "utvrditi",
-    "past_tense": ["utvrdio", "utvrdila", "utvrdilo"],
-    "present_tense": ["utvrdim", "utvrdiš", "utvrdi", "utvrdimo", "utvrdite", "utvrde"],
-    "ukrainian_translation": "встановити",
-    "example_sentence": "Utvrđeno je da su rezultati točni.",
-    "ukrainian_translation_sentence": "Було встановлено, що результати точні."
+    "pastTense": ["utvrdio", "utvrdila", "utvrdilo"],
+    "presentTense": ["utvrdim", "utvrdiš", "utvrdi", "utvrdimo", "utvrdite", "utvrde"],
+    "ukrainianTranslation": "встановити",
+    "exampleSentence": "Utvrđeno je da su rezultati točni.",
+    "ukrainianTranslationSentence": "Було встановлено, що результати точні."
   },
   {
     "infinitive": "utvrđivati",
-    "past_tense": ["utvrđivao", "utvrđivala", "utvrđivalo"],
-    "present_tense": ["utvrđujem", "utvrđuješ", "utvrđuje", "utvrđujemo", "utvrđujete", "utvrđuju"],
-    "ukrainian_translation": "перевіряти",
-    "example_sentence": "Redovito su utvrđivali stanje sigurnosnih mjera.",
-    "ukrainian_translation_sentence": "Вони регулярно перевіряли стан заходів безпеки."
+    "pastTense": ["utvrđivao", "utvrđivala", "utvrđivalo"],
+    "presentTense": ["utvrđujem", "utvrđuješ", "utvrđuje", "utvrđujemo", "utvrđujete", "utvrđuju"],
+    "ukrainianTranslation": "перевіряти",
+    "exampleSentence": "Redovito su utvrđivali stanje sigurnosnih mjera.",
+    "ukrainianTranslationSentence": "Вони регулярно перевіряли стан заходів безпеки."
   },
   {
     "infinitive": "uvaliti",
-    "past_tense": ["uvalio", "uvalila", "uvalilo"],
-    "present_tense": ["uvalim", "uvališ", "uvali", "uvalimo", "uvalite", "uvale"],
-    "ukrainian_translation": "втягнути",
-    "example_sentence": "Uvalio se u nevolju zbog loših odluka.",
-    "ukrainian_translation_sentence": "Він втягнув себе в неприємності через погані рішення."
+    "pastTense": ["uvalio", "uvalila", "uvalilo"],
+    "presentTense": ["uvalim", "uvališ", "uvali", "uvalimo", "uvalite", "uvale"],
+    "ukrainianTranslation": "втягнути",
+    "exampleSentence": "Uvalio se u nevolju zbog loših odluka.",
+    "ukrainianTranslationSentence": "Він втягнув себе в неприємності через погані рішення."
   },
   {
     "infinitive": "uveličati",
-    "past_tense": ["uveličao", "uveličala", "uveličalo"],
-    "present_tense": ["uveličam", "uveličaš", "uveliča", "uveličamo", "uveličate", "uveličaju"],
-    "ukrainian_translation": "збільшити",
-    "example_sentence": "Fotograf je uveličao sliku kako bi prikazao detalje.",
-    "ukrainian_translation_sentence": "Фотограф збільшив зображення, щоб показати деталі."
+    "pastTense": ["uveličao", "uveličala", "uveličalo"],
+    "presentTense": ["uveličam", "uveličaš", "uveliča", "uveličamo", "uveličate", "uveličaju"],
+    "ukrainianTranslation": "збільшити",
+    "exampleSentence": "Fotograf je uveličao sliku kako bi prikazao detalje.",
+    "ukrainianTranslationSentence": "Фотограф збільшив зображення, щоб показати деталі."
   },
   {
     "infinitive": "uvidjeti",
-    "past_tense": ["uvideo", "uvidjela", "uvidjelo"],
-    "present_tense": ["uvidim", "uvidiš", "uvidi", "uvidimo", "uvidite", "uvidje"],
-    "ukrainian_translation": "побачити",
-    "example_sentence": "Tek kasnije je uvidio svoju pogrešku.",
-    "ukrainian_translation_sentence": "Лише пізніше він побачив свою помилку."
+    "pastTense": ["uvideo", "uvidjela", "uvidjelo"],
+    "presentTense": ["uvidim", "uvidiš", "uvidi", "uvidimo", "uvidite", "uvidje"],
+    "ukrainianTranslation": "побачити",
+    "exampleSentence": "Tek kasnije je uvidio svoju pogrešku.",
+    "ukrainianTranslationSentence": "Лише пізніше він побачив свою помилку."
   },
   {
     "infinitive": "uvjeriti",
-    "past_tense": ["uvjerio", "uvjerila", "uvjerilo"],
-    "present_tense": ["uvjerim", "uvjeriš", "uvjeri", "uvjerimo", "uvjerite", "uvjere"],
-    "ukrainian_translation": "переконати",
-    "example_sentence": "Uvjerio je prijatelja da prihvati posao.",
-    "ukrainian_translation_sentence": "Він переконав друга прийняти роботу."
+    "pastTense": ["uvjerio", "uvjerila", "uvjerilo"],
+    "presentTense": ["uvjerim", "uvjeriš", "uvjeri", "uvjerimo", "uvjerite", "uvjere"],
+    "ukrainianTranslation": "переконати",
+    "exampleSentence": "Uvjerio je prijatelja da prihvati posao.",
+    "ukrainianTranslationSentence": "Він переконав друга прийняти роботу."
   },
 	{
     "infinitive": "uvoditi",
-    "past_tense": ["uvodio", "uvodila", "uvodilo"],
-    "present_tense": ["uvodim", "uvodiš", "uvodi", "uvodimo", "uvodite", "uvode"],
-    "ukrainian_translation": "вводити",
-    "example_sentence": "Uvodili su nove metode rada u tvornici.",
-    "ukrainian_translation_sentence": "Вони вводили нові методи роботи на заводі."
+    "pastTense": ["uvodio", "uvodila", "uvodilo"],
+    "presentTense": ["uvodim", "uvodiš", "uvodi", "uvodimo", "uvodite", "uvode"],
+    "ukrainianTranslation": "вводити",
+    "exampleSentence": "Uvodili su nove metode rada u tvornici.",
+    "ukrainianTranslationSentence": "Вони вводили нові методи роботи на заводі."
   },
   {
     "infinitive": "uvući",
-    "past_tense": ["uvukao", "uvukla", "uvuklo"],
-    "present_tense": ["uvučem", "uvučeš", "uvuče", "uvučemo", "uvučete", "uvuče"],
-    "ukrainian_translation": "втягнути",
-    "example_sentence": "Polako je uvukao konopac u brod.",
-    "ukrainian_translation_sentence": "Він повільно втягнув мотузку в човен."
+    "pastTense": ["uvukao", "uvukla", "uvuklo"],
+    "presentTense": ["uvučem", "uvučeš", "uvuče", "uvučemo", "uvučete", "uvuče"],
+    "ukrainianTranslation": "втягнути",
+    "exampleSentence": "Polako je uvukao konopac u brod.",
+    "ukrainianTranslationSentence": "Він повільно втягнув мотузку в човен."
   },
   {
     "infinitive": "uzbuđivati",
-    "past_tense": ["uzbuđivao", "uzbuđivala", "uzbuđivalo"],
-    "present_tense": ["uzbuđujem", "uzbuđuješ", "uzbuđuje", "uzbuđujemo", "uzbuđujete", "uzbuđuju"],
-    "ukrainian_translation": "хвилювати",
-    "example_sentence": "Svaka nova prilika ga jako uzbuđuje.",
-    "ukrainian_translation_sentence": "Кожна нова можливість його дуже хвилює."
+    "pastTense": ["uzbuđivao", "uzbuđivala", "uzbuđivalo"],
+    "presentTense": ["uzbuđujem", "uzbuđuješ", "uzbuđuje", "uzbuđujemo", "uzbuđujete", "uzbuđuju"],
+    "ukrainianTranslation": "хвилювати",
+    "exampleSentence": "Svaka nova prilika ga jako uzbuđuje.",
+    "ukrainianTranslationSentence": "Кожна нова можливість його дуже хвилює."
   },
   {
     "infinitive": "uzdrmati",
-    "past_tense": ["uzdrmao", "uzdrmala", "uzdrmalo"],
-    "present_tense": ["uzdrmam", "uzdrmaš", "uzdrma", "uzdrmamo", "uzdrmate", "uzdrmaju"],
-    "ukrainian_translation": "струсити",
-    "example_sentence": "Potres je uzdrmao cijeli grad.",
-    "ukrainian_translation_sentence": "Землетрус струсонув усе місто."
+    "pastTense": ["uzdrmao", "uzdrmala", "uzdrmalo"],
+    "presentTense": ["uzdrmam", "uzdrmaš", "uzdrma", "uzdrmamo", "uzdrmate", "uzdrmaju"],
+    "ukrainianTranslation": "струсити",
+    "exampleSentence": "Potres je uzdrmao cijeli grad.",
+    "ukrainianTranslationSentence": "Землетрус струсонув усе місто."
   },
   {
     "infinitive": "uzdržavati",
-    "past_tense": ["uzdržavao", "uzdržavala", "uzdržavalo"],
-    "present_tense": ["uzdržavam", "uzdržavaš", "uzdržava", "uzdržavamo", "uzdržavate", "uzdržavaju"],
-    "ukrainian_translation": "утримувати",
-    "example_sentence": "Obitelj je uzdržavao svojim radom.",
-    "ukrainian_translation_sentence": "Він утримував сім'ю своєю працею."
+    "pastTense": ["uzdržavao", "uzdržavala", "uzdržavalo"],
+    "presentTense": ["uzdržavam", "uzdržavaš", "uzdržava", "uzdržavamo", "uzdržavate", "uzdržavaju"],
+    "ukrainianTranslation": "утримувати",
+    "exampleSentence": "Obitelj je uzdržavao svojim radom.",
+    "ukrainianTranslationSentence": "Він утримував сім'ю своєю працею."
   },
   {
     "infinitive": "uzeti",
-    "past_tense": ["uzeo", "uzela", "uzelo"],
-    "present_tense": ["uzmem", "uzmeš", "uzme", "uzmemo", "uzmete", "uzmu"],
-    "ukrainian_translation": "взяти",
-    "example_sentence": "Uzeo je knjigu sa stola.",
-    "ukrainian_translation_sentence": "Він взяв книгу зі столу."
+    "pastTense": ["uzeo", "uzela", "uzelo"],
+    "presentTense": ["uzmem", "uzmeš", "uzme", "uzmemo", "uzmete", "uzmu"],
+    "ukrainianTranslation": "взяти",
+    "exampleSentence": "Uzeo je knjigu sa stola.",
+    "ukrainianTranslationSentence": "Він взяв книгу зі столу."
   },
   {
     "infinitive": "uživati",
-    "past_tense": ["uživao", "uživala", "uživalo"],
-    "present_tense": ["uživam", "uživaš", "uživa", "uživamo", "uživate", "uživaju"],
-    "ukrainian_translation": "насолоджуватися",
-    "example_sentence": "Uživao je u sunčanom danu na plaži.",
-    "ukrainian_translation_sentence": "Він насолоджувався сонячним днем на пляжі."
+    "pastTense": ["uživao", "uživala", "uživalo"],
+    "presentTense": ["uživam", "uživaš", "uživa", "uživamo", "uživate", "uživaju"],
+    "ukrainianTranslation": "насолоджуватися",
+    "exampleSentence": "Uživao je u sunčanom danu na plaži.",
+    "ukrainianTranslationSentence": "Він насолоджувався сонячним днем на пляжі."
   }
 ]

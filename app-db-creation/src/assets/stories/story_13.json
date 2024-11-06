@@ -1,6 +1,6 @@
 {
-  "title_hr": "Glazbeni studio i harmonija instrumenata",
-  "title_uk": "Музична студія та гармонія інструментів",
+  "titleHr": "Glazbeni studio i harmonija instrumenata",
+  "titleUk": "Музична студія та гармонія інструментів",
   "illustration": "story_13.png",
   "text": [
     {
@@ -151,7 +151,6 @@
     {"hr": "palica", "uk": "паличка"},
     {"hr": "tipka", "uk": "клавіша"},
     {"hr": "ton", "uk": "тон"},
-    {"hr": "akord", "uk": "акорд"},
     {"hr": "umjetnost", "uk": "мистецтво"},
     {"hr": "publika", "uk": "публіка"},
     {"hr": "uskladiti", "uk": "узгодити"}

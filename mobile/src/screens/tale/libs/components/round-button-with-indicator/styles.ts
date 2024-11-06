@@ -3,7 +3,7 @@ import { BaseColor } from '~/libs/enums/enums';
 
 const styles = StyleSheet.create({
 	active: {
-		backgroundColor: BaseColor.ORANGE,
+		backgroundColor: BaseColor.SALAD_GREEN,
 	},
 	button: {
 		height: 30,
@@ -14,9 +14,9 @@ const styles = StyleSheet.create({
 		backgroundColor: BaseColor.GRAY,
 	},
 	indicator: {
-		height: 14,
-		width: 14,
-		borderRadius: 7,
+		height: 20,
+		width: 20,
+		borderRadius: 10,
 	},
 });
 

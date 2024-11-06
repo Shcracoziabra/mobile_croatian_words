@@ -11,7 +11,7 @@ type Properties = {
 };
 
 const defaultImageSource =
-	require('~/assets/illustrations/story_4.jpg') as ImageSourcePropType;
+	require('~/assets/backgrounds/main-bg.png') as ImageSourcePropType;
 
 const Illustration: React.FC<Properties> = ({
 	imageSource = defaultImageSource,
@@ -27,7 +27,7 @@ const Illustration: React.FC<Properties> = ({
 			]}
 		>
 			<Image
-				resizeMode="cover"
+				resizeMode='cover'
 				source={imageSource}
 				style={[styles.image, globalStyles.r16]}
 			/>

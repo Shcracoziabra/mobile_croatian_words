@@ -1,5 +1,6 @@
 type NounDataItem = {
 	exampleSentence: string;
+	id: number;
 	plural: string;
 	singular: string;
 	ukrainianTranslation: string;

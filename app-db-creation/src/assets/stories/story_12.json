@@ -1,6 +1,6 @@
 {
-  "title_hr": "Hrvatsko vjenčanje – Proslava ljubavi i tradicije",
-  "title_uk": "Хорватське весілля – Святкування любові та традицій",
+  "titleHr": "Hrvatsko vjenčanje – Proslava ljubavi i tradicije",
+  "titleUk": "Хорватське весілля – Святкування любові та традицій",
   "illustration": "story_12.png",
   "text": [
     {
@@ -173,7 +173,7 @@
     {"hr": "proslava", "uk": "святкування"},
     {"hr": "ples", "uk": "танець"},
     {"hr": "gozba", "uk": "бенкет"},
-    {"hr": "buketić", "uk": "букет"},
+    {"hr": "buketić", "uk": "букетик"},
     {"hr": "zdravica", "uk": "тост"},
     {"hr": "večera", "uk": "вечеря"},
     {"hr": "muzika", "uk": "музика"},
